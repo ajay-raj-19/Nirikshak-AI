@@ -18,14 +18,16 @@ const PreFooter = ({ onExploreClick }) => {
   return (
     <section
       id="roadmap"
-      className="scroll-reveal"
       style={{
         background: 'var(--color-bg-light)',
         paddingTop: '6rem',
         paddingBottom: '0',
         overflow: 'hidden',
         position: 'relative',
-        borderTop: '1px solid var(--color-border-subtle)'
+        borderTop: '1px solid var(--color-border-subtle)',
+        opacity: 1,
+        visibility: 'visible',
+        transform: 'none'
       }}
     >
       <div className="container" style={{ textAlign: 'center', maxWidth: '960px', margin: '0 auto 3.5rem auto' }}>
@@ -73,7 +75,7 @@ const PreFooter = ({ onExploreClick }) => {
               gap: '0.65rem'
             }}
           >
-            {t('common.exploreDashboard')}
+            {t('prefooter.cta') || t('common.exploreDashboard') || 'Explore Dashboard'}
             <ArrowRight size={18} />
           </button>
         </div>

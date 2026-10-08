@@ -27,6 +27,7 @@ import HighRiskProjectsView from './HighRiskProjectsView';
 import EvidenceReviewView from './EvidenceReviewView';
 import FieldVerificationView from './FieldVerificationView';
 import ResolutionView from './ResolutionView';
+import AssistantView from './AssistantView';
 import { exportElementToPdf } from '../../services/pdfExportService';
 
 // MOCK DATA SOURCED DIRECTLY FROM README.MD SPECIFICATIONS
@@ -3006,18 +3007,43 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
           })
           : [item.project_summary || 'General risk flagged'];
 
+          const toTitleCase = (str) => {
+            if (!str) return '';
+            return str
+              .toLowerCase()
+              .split(' ')
+              .filter(Boolean)
+              .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+              .join(' ');
+          };
+
+          const extractDistrict = (d) => {
+            if (d.district) return toTitleCase(d.district);
+            if (d.district_name) return toTitleCase(d.district_name);
+            if (d.ida_name) {
+              const idaDist = d.ida_name.split('(')[0].trim();
+              if (idaDist) return toTitleCase(idaDist);
+            }
+            if (d.const_name && !d.const_name.includes('(Rajya Sabha')) {
+              return toTitleCase(d.const_name.replace(/_[A-Z]{2}$/, '').trim());
+            }
+            return d.const_name || 'N/A';
+          };
+
         return {
           id: `MPLADS-${item.work_id}`,
           workId: item.work_id, // PRESERVE WORK ID!
           title: item.activity_name || item.work_description || 'MPLADS Project',
           category: item.work_category || 'Normal/Others',
           state: item.state_name || 'N/A',
-          district: item.const_name || 'N/A',
+          district: extractDistrict(item),
           constituency: item.const_name || 'N/A',
           sanctionedCost: `₹${(item.sanction_amount || 0).toLocaleString('en-IN')}`,
           expenditure: `₹${(item.total_disbursed || 0).toLocaleString('en-IN')}`,
           expenditurePct: item.sanction_amount ? Math.round(((item.total_disbursed || 0) / item.sanction_amount) * 100) : 0,
-          physicalProgress: item.work_status === 'Completed' ? 100 : (item.work_status === 'Sanctioned' ? 0 : 50),
+          workStatus: item.work_status || 'Completed',
+          workStage: item.work_stage && item.work_stage !== 'NA' && item.work_stage !== 'null' ? item.work_stage : null,
+          completionDelayDays: item.completion_delay_days != null && item.completion_delay_days > 0 ? Math.round(item.completion_delay_days) : null,
           delayMonths: Math.round((item.completion_delay_days || 0) / 30),
           costDeviationPct: Math.round(item.cost_overrun_pct || 0),
           riskScore: Math.round(item.final_risk_score || 0),
@@ -3037,11 +3063,18 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
   const [verificationNotes, setVerificationNotes] = useState('');
   const [verificationStatus, setVerificationStatus] = useState('Pending');
 
-  // Filter projects
-  const filteredProjects = anomalyProjects.filter(p => {
-    const matchesSearch = p.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      p.id.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      p.district.toLowerCase().includes(searchQuery.toLowerCase());
+  // Filter projects across work_id, project_title, district, state, category, agency
+  const filteredProjects = anomalyProjects.filter((p) => {
+    const q = searchQuery.toLowerCase().trim();
+    const matchesSearch =
+      !q ||
+      String(p.workId || '').toLowerCase().includes(q) ||
+      String(p.id || '').toLowerCase().includes(q) ||
+      String(p.title || '').toLowerCase().includes(q) ||
+      String(p.district || '').toLowerCase().includes(q) ||
+      String(p.state || '').toLowerCase().includes(q) ||
+      String(p.category || '').toLowerCase().includes(q) ||
+      String(p.agency || '').toLowerCase().includes(q);
     const matchesFilter = selectedFilter === 'ALL' || p.riskBand.toUpperCase() === selectedFilter;
     return matchesSearch && matchesFilter;
   });
@@ -3085,13 +3118,24 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
             <div style={{ fontSize: '0.7rem', fontWeight: 700, color: 'var(--color-text-muted)' }}>SANCTIONED</div>
             <div style={{ fontSize: '1.05rem', fontWeight: 800 }}>{selectedProject.sanctionedCost}</div>
           </div>
-          <div style={{ background: '#FAF8F3', padding: '0.75rem', borderRadius: 'var(--radius-sm)', border: '1px solid #1D1E22' }}>
-            <div style={{ fontSize: '0.7rem', fontWeight: 700, color: '#D9534F' }}>EXPENDITURE</div>
-            <div style={{ fontSize: '1.05rem', fontWeight: 800, color: '#D9534F' }}>{selectedProject.expenditurePct}%</div>
+          <div style={{ background: selectedProject.expenditurePct > 100 ? '#FEF2F2' : '#FAF8F3', padding: '0.75rem', borderRadius: 'var(--radius-sm)', border: selectedProject.expenditurePct > 100 ? '1.5px solid #FCA5A5' : '1px solid #1D1E22' }}>
+            <div style={{ fontSize: '0.7rem', fontWeight: 700, color: selectedProject.expenditurePct > 100 ? '#B91C1C' : '#D9534F' }}>
+              EXPENDITURE {selectedProject.expenditurePct > 100 && '⚠️ OVER'}
+            </div>
+            <div style={{ fontSize: '1.05rem', fontWeight: 800, color: selectedProject.expenditurePct > 100 ? '#B91C1C' : '#D9534F' }}>
+              {selectedProject.expenditurePct}%
+            </div>
           </div>
           <div style={{ background: '#FAF8F3', padding: '0.75rem', borderRadius: 'var(--radius-sm)', border: '1px solid #1D1E22' }}>
-            <div style={{ fontSize: '0.7rem', fontWeight: 700, color: 'var(--color-accent-teal)' }}>PROGRESS</div>
-            <div style={{ fontSize: '1.05rem', fontWeight: 800, color: 'var(--color-accent-teal)' }}>{selectedProject.physicalProgress}%</div>
+            <div style={{ fontSize: '0.7rem', fontWeight: 700, color: '#0A2458' }}>WORK STATUS</div>
+            <div style={{ fontSize: '0.98rem', fontWeight: 800, color: selectedProject.workStatus === 'Completed' ? '#166534' : '#0A2458' }}>
+              {selectedProject.workStatus || 'Completed'}
+            </div>
+            {selectedProject.completionDelayDays && selectedProject.completionDelayDays > 0 && (
+              <div style={{ fontSize: '0.68rem', color: '#B45309', fontWeight: 700, marginTop: '0.15rem' }}>
+                +{selectedProject.completionDelayDays}d delay
+              </div>
+            )}
           </div>
         </div>
 
@@ -3712,16 +3756,16 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
             {/* High-Risk Projects Registry with Direct Toolbar & Data-Driven Pagination (10 per page) */}
             {(() => {
               const q = searchQuery.toLowerCase().trim();
-              const filteredAnomalyProjects = anomalyProjects.filter(p => {
-                const matchesSearch = !q || (
-                  p.id.toLowerCase().includes(q) ||
-                  p.title.toLowerCase().includes(q) ||
-                  p.district.toLowerCase().includes(q) ||
-                  p.state.toLowerCase().includes(q) ||
-                  p.category.toLowerCase().includes(q) ||
-                  (p.constituency && p.constituency.toLowerCase().includes(q)) ||
-                  (p.agency && p.agency.toLowerCase().includes(q))
-                );
+              const filteredAnomalyProjects = anomalyProjects.filter((p) => {
+                const matchesSearch =
+                  !q ||
+                  String(p.workId || '').toLowerCase().includes(q) ||
+                  String(p.id || '').toLowerCase().includes(q) ||
+                  String(p.title || '').toLowerCase().includes(q) ||
+                  String(p.district || '').toLowerCase().includes(q) ||
+                  String(p.state || '').toLowerCase().includes(q) ||
+                  String(p.category || '').toLowerCase().includes(q) ||
+                  String(p.agency || '').toLowerCase().includes(q);
                 const matchesFilter = selectedFilter === 'ALL' || p.riskBand.toUpperCase() === selectedFilter.toUpperCase();
                 return matchesSearch && matchesFilter;
               });
@@ -3925,10 +3969,10 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                         <thead>
                           <tr style={{ background: '#FAFAFA', borderBottom: '1.5px solid #1D1E22', textAlign: 'left' }}>
                             <th style={{ padding: '0.95rem 1.25rem', width: '14%', fontWeight: 800, color: '#1D1E22' }}>Work ID</th>
-                            <th style={{ padding: '0.95rem 1.25rem', width: '32%', fontWeight: 800, color: '#1D1E22' }}>Project Title & Category</th>
+                            <th style={{ padding: '0.95rem 1.25rem', width: '29%', fontWeight: 800, color: '#1D1E22' }}>Project Title & Category</th>
                             <th style={{ padding: '0.95rem 1.25rem', width: '16%', fontWeight: 800, color: '#1D1E22' }}>District & State</th>
                             <th style={{ padding: '0.95rem 1.25rem', width: '13%', fontWeight: 800, color: '#1D1E22' }}>Sanctioned Amount</th>
-                            <th style={{ padding: '0.95rem 1.25rem', width: '13%', fontWeight: 800, color: '#1D1E22' }}>Spent / Progress</th>
+                            <th style={{ padding: '0.95rem 1.25rem', width: '16%', fontWeight: 800, color: '#1D1E22' }}>{isHi ? 'व्यय / कार्य स्थिति' : 'Spent / Execution Status'}</th>
                             <th style={{ padding: '0.95rem 1.25rem', width: '12%', textAlign: 'right', fontWeight: 800, color: '#1D1E22' }}>Risk Assessment</th>
                           </tr>
                         </thead>
@@ -3974,12 +4018,56 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                                   {project.sanctionedCost}
                                 </td>
                                 <td style={{ padding: '1rem 1.25rem', verticalAlign: 'top' }}>
-                                  <div style={{ color: '#D9534F', fontWeight: 800, fontSize: '0.88rem' }}>
-                                    {project.expenditurePct}% spent
+                                  {/* Spent % with over-disbursement visual flag */}
+                                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.35rem', flexWrap: 'wrap' }}>
+                                    <span style={{
+                                      color: project.expenditurePct > 100 ? '#B91C1C' : '#D9534F',
+                                      fontWeight: 800,
+                                      fontSize: '0.88rem'
+                                    }}>
+                                      {project.expenditurePct}% {isHi ? 'व्यय' : 'spent'}
+                                    </span>
+                                    {project.expenditurePct > 100 && (
+                                      <span
+                                        style={{
+                                          fontSize: '0.66rem',
+                                          fontWeight: 800,
+                                          background: '#FEF2F2',
+                                          color: '#B91C1C',
+                                          border: '1px solid #FCA5A5',
+                                          padding: '0.08rem 0.35rem',
+                                          borderRadius: '3px',
+                                          textTransform: 'uppercase',
+                                          letterSpacing: '0.03em'
+                                        }}
+                                        title={isHi ? 'वित्तीय विसंगति: स्वीकृत राशि से अधिक संवितरण' : 'Financial anomaly: Expenditure exceeds sanction amount'}
+                                      >
+                                        {isHi ? 'अधिक संवितरण' : 'Over-Disbursed'}
+                                      </span>
+                                    )}
                                   </div>
-                                  <div style={{ color: 'var(--color-accent-teal-hover)', fontWeight: 700, fontSize: '0.8rem', marginTop: '0.15rem' }}>
-                                    {project.physicalProgress}% completed
+
+                                  {/* Real Source Field: Work Status */}
+                                  <div style={{ fontSize: '0.78rem', color: '#1D1E22', fontWeight: 700, marginTop: '0.25rem' }}>
+                                    <span style={{ color: 'var(--color-text-muted)', fontWeight: 600 }}>{isHi ? 'स्थिति:' : 'Status:'}</span>{' '}
+                                    <span style={{ color: project.workStatus === 'Completed' ? '#166534' : '#0A2458' }}>
+                                      {project.workStatus || (isHi ? 'पूर्ण' : 'Completed')}
+                                    </span>
                                   </div>
+
+                                  {/* Real Source Field: Work Stage (when available) */}
+                                  {project.workStage && (
+                                    <div style={{ fontSize: '0.74rem', color: '#374151', marginTop: '0.15rem' }}>
+                                      <span style={{ color: 'var(--color-text-muted)', fontWeight: 600 }}>{isHi ? 'चरण:' : 'Stage:'}</span> {project.workStage}
+                                    </div>
+                                  )}
+
+                                  {/* Real Source Field: Completion Delay */}
+                                  {project.completionDelayDays && project.completionDelayDays > 0 ? (
+                                    <div style={{ fontSize: '0.74rem', color: '#B45309', fontWeight: 700, marginTop: '0.18rem' }}>
+                                      {isHi ? `देरी: +${project.completionDelayDays} दिन` : `Delay: +${project.completionDelayDays} days`}
+                                    </div>
+                                  ) : null}
                                 </td>
                                 <td style={{ padding: '1rem 1.25rem', textAlign: 'right', verticalAlign: 'top' }}>
                                   <span style={{
@@ -4049,14 +4137,28 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                               <strong>{project.category}</strong> • {project.district}, {project.state}
                             </div>
 
-                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: '#FAF8F3', padding: '0.65rem 0.85rem', borderRadius: 'var(--radius-sm)', border: '1px solid rgba(29, 30, 34, 0.12)' }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', background: '#FAF8F3', padding: '0.65rem 0.85rem', borderRadius: 'var(--radius-sm)', border: '1px solid rgba(29, 30, 34, 0.12)' }}>
                               <div>
                                 <div style={{ fontSize: '0.7rem', color: 'var(--color-text-muted)', fontWeight: 600 }}>SANCTIONED</div>
                                 <div style={{ fontWeight: 800, fontSize: '0.88rem', color: '#1D1E22' }}>{project.sanctionedCost}</div>
+                                <div style={{ fontSize: '0.74rem', color: '#1D1E22', fontWeight: 600, marginTop: '0.25rem' }}>
+                                  Status: <span style={{ color: project.workStatus === 'Completed' ? '#166534' : '#0A2458' }}>{project.workStatus || 'Completed'}</span>
+                                </div>
                               </div>
                               <div style={{ textAlign: 'right' }}>
-                                <div style={{ fontSize: '0.72rem', color: '#D9534F', fontWeight: 800 }}>{project.expenditurePct}% SPENT</div>
-                                <div style={{ fontSize: '0.78rem', color: 'var(--color-accent-teal-hover)', fontWeight: 800 }}>{project.physicalProgress}% PROGRESS</div>
+                                <div style={{ fontSize: '0.76rem', color: project.expenditurePct > 100 ? '#B91C1C' : '#D9534F', fontWeight: 800 }}>
+                                  {project.expenditurePct}% SPENT {project.expenditurePct > 100 && '⚠️ OVER'}
+                                </div>
+                                {project.workStage && (
+                                  <div style={{ fontSize: '0.72rem', color: '#374151', marginTop: '0.12rem' }}>
+                                    Stage: {project.workStage}
+                                  </div>
+                                )}
+                                {project.completionDelayDays && project.completionDelayDays > 0 && (
+                                  <div style={{ fontSize: '0.72rem', color: '#B45309', fontWeight: 700, marginTop: '0.12rem' }}>
+                                    Delay: +{project.completionDelayDays}d
+                                  </div>
+                                )}
                               </div>
                             </div>
 
@@ -4229,20 +4331,17 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
       case 'budgetUtilisation':
       case 'fundRelease':
       case 'paymentPattern':
-      case 'geospatial':
-      case 'geospatialIntelligence':
-      case 'geoIntel':
       case 'duplicateProject':
       case 'duplicate':
       case 'duplicateDetection':
       case 'duplicateCheck':
       case 'delayRisk':
-      case 'evidenceVerification':
-      case 'evidence':
       case 'imageVerification':
       case 'documentVerification':
       case 'beforeAfterAnalysis':
-      case 'evidenceIntegrity':
+      case 'riskScoring':
+      case 'riskAnalysis':
+      case 'riskScore':
         return <UnifiedAiIntelligenceView />;
 
       // ─────────────────────────────────────────────
@@ -4264,6 +4363,10 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
       case 'evidenceReview':
       case 'evidence-review':
       case 'evidenceAudit':
+      case 'evidenceVerification':
+      case 'evidence-verification':
+      case 'evidence':
+      case 'evidenceIntegrity':
         return (
           <EvidenceReviewView
             onNavigateToField={(projId) => {
@@ -4300,6 +4403,9 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
       case 'riskFactors':
       case 'riskTrend':
       case 'geospatial':
+      case 'geospatialMap':
+      case 'geospatialIntelligence':
+      case 'geoIntel':
         return (
           <div>
             <div style={{ marginBottom: '1.5rem' }}>
@@ -4317,6 +4423,15 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
             </div>
           </div>
         );
+
+      // ─────────────────────────────────────────────
+      // 4b. NIRIKSHAK AI ASSISTANT (FULL SCREEN)
+      // ─────────────────────────────────────────────
+      case 'assistant':
+      case 'askNirikshakAi':
+      case 'aiAssistant':
+      case 'ask':
+        return <AssistantView />;
 
       // ─────────────────────────────────────────────
       // 5. REPORTS & AUDIT TRAIL
@@ -4588,11 +4703,21 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                             ? (isHi ? 'परियोजना समयरेखा' : 'PROJECT TIMELINE')
                             : featureId === 'team' || featureId === 'teamSage' || featureId === 'team-sage' || featureId === 'teamsage' || featureId === 'team_sage' || featureId === 'meetTheTeam' || featureId === 'meet-the-team' || featureId === 'meet_the_team' || featureId === 'meetTeamSage' || featureId === 'meet-team-sage' || featureId === 'meet_team_sage'
                               ? (isHi ? 'टीम (TEAM)' : 'TEAM')
-                              : featureId === 'resolution' || featureId === 'investigation' || featureId === 'highRiskProjects' || featureId === 'evidenceReview' || featureId === 'fieldVerification'
-                                ? (isHi ? 'समाधान एवं जांच' : 'RESOLUTION')
-                                : featureId === 'unifiedAnalysis' || featureId === 'aiIntelligence' || featureId === 'aiAnalysis' || featureId === 'anomalyDetection' || featureId === 'financialAnomaly' || featureId === 'costOverrun' || featureId === 'duplicateProject' || featureId === 'delayRisk' || featureId === 'evidenceVerification' || featureId === 'geospatialIntelligence' || featureId === 'geospatial'
-                                  ? (isHi ? 'एकीकृत विश्लेषण' : 'UNIFIED ANALYSIS')
-                                  : featureId.toUpperCase()}
+                              : featureId === 'assistant' || featureId === 'askNirikshakAi' || featureId === 'aiAssistant' || featureId === 'ask'
+                                ? (isHi ? 'निरीक्षक एआई सहायक' : 'NIRIKSHAK AI ASSISTANT')
+                                : featureId === 'riskScoring' || featureId === 'riskAnalysis' || featureId === 'riskScore'
+                                  ? (isHi ? 'जोखिम विश्लेषण एवं स्कोरिंग' : 'RISK SCORING')
+                                  : featureId === 'geospatial' || featureId === 'geospatialMap' || featureId === 'geospatialIntelligence' || featureId === 'riskMap'
+                                    ? (isHi ? 'भू-स्थानिक जोखिम मानचित्र' : 'GEOSPATIAL RISK MAP')
+                                    : featureId === 'evidenceReview' || featureId === 'evidenceVerification'
+                                      ? (isHi ? 'साक्ष्य सत्यापन एवं समीक्षा' : 'EVIDENCE VERIFICATION')
+                                      : featureId === 'highRiskProjects' || featureId === 'investigation'
+                                        ? (isHi ? 'उच्च जोखिम परियोजनाएं' : 'HIGH-RISK INVESTIGATION')
+                                        : featureId === 'resolution' || featureId === 'fieldVerification'
+                                          ? (isHi ? 'समाधान एवं जांच' : 'RESOLUTION')
+                                          : featureId === 'unifiedAnalysis' || featureId === 'aiIntelligence' || featureId === 'aiAnalysis' || featureId === 'anomalyDetection' || featureId === 'financialAnomaly' || featureId === 'costOverrun' || featureId === 'duplicateProject' || featureId === 'delayRisk'
+                                            ? (isHi ? 'एकीकृत विश्लेषण' : 'UNIFIED ANALYSIS')
+                                            : featureId.toUpperCase()}
             </div>
           </div>
         </div>

@@ -61,7 +61,8 @@ const PreviewTextLink = ({ text, image, onClick }) => {
 };
 
 const Hero = ({ onExploreClick, onVirtualOfficeClick }) => {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
+  const isHi = language === 'hi';
 
   const scrollToId = (id) => {
     const el = document.getElementById(id);
@@ -111,7 +112,7 @@ const Hero = ({ onExploreClick, onVirtualOfficeClick }) => {
               text={t('hero.previews.evidenceVerification')}
               image={evidenceVerificationImg}
               onClick={() => scrollToId('ai-detection')}
-            />, and{' '}
+            />{isHi ? ', और ' : ', and '}{' '}
             <PreviewTextLink
               text={t('hero.previews.geospatialIntelligence')}
               image={geospatialIntelligenceImg}

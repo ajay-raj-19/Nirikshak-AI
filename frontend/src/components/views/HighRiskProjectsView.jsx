@@ -2,12 +2,36 @@ import React, { useState, useEffect, useMemo } from 'react';
 import {
   ArrowLeft, Search, Filter, ShieldAlert, AlertTriangle, ChevronRight,
   Download, Eye, MapPin, Building, Calendar, DollarSign, Activity,
-  Layers, CheckCircle, RefreshCw, ChevronLeft, ArrowUpDown
+  Layers, CheckCircle, RefreshCw, ChevronLeft, ArrowUpDown, X
 } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { useLanguage } from '../../context/LanguageContext';
 import Footer from '../Footer';
 import { exportElementToPdf } from '../../services/pdfExportService';
+
+const toTitleCase = (str) => {
+  if (!str) return '';
+  return str
+    .toLowerCase()
+    .split(' ')
+    .filter(Boolean)
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(' ');
+};
+
+const extractProjectDistrict = (p) => {
+  if (!p) return '';
+  if (p.district) return toTitleCase(p.district);
+  if (p.district_name) return toTitleCase(p.district_name);
+  if (p.ida_name) {
+    const idaDist = p.ida_name.split('(')[0].trim();
+    if (idaDist) return toTitleCase(idaDist);
+  }
+  if (p.const_name && !p.const_name.includes('(Rajya Sabha')) {
+    return toTitleCase(p.const_name.replace(/_[A-Z]{2}$/, '').trim());
+  }
+  return p.const_name || '';
+};
 
 export default function HighRiskProjectsView({ onNavigateToEvidence }) {
   const navigate = useNavigate();
@@ -81,24 +105,24 @@ export default function HighRiskProjectsView({ onNavigateToEvidence }) {
         return false;
       }
 
-      // Text search
+      // Text search across 6 fields: work_id, project_title, district, state, category, agency
       if (q) {
         const idStr = String(p.work_id || '').toLowerCase();
         const fullId = `mplads-${idStr}`;
         const title = (p.activity_name || p.work_description || '').toLowerCase();
+        const dist = extractProjectDistrict(p).toLowerCase();
         const state = (p.state_name || '').toLowerCase();
-        const dist = (p.const_name || '').toLowerCase();
-        const agency = (p.ida_name || p.primary_vendor_name || '').toLowerCase();
-        const mp = (p.mp_name || '').toLowerCase();
+        const category = (p.work_category || '').toLowerCase();
+        const agency = (p.primary_vendor_name || p.ida_name || '').toLowerCase();
 
         const match =
           idStr.includes(q) ||
           fullId.includes(q) ||
           title.includes(q) ||
-          state.includes(q) ||
           dist.includes(q) ||
-          agency.includes(q) ||
-          mp.includes(q);
+          state.includes(q) ||
+          category.includes(q) ||
+          agency.includes(q);
 
         if (!match) return false;
       }
@@ -341,7 +365,7 @@ export default function HighRiskProjectsView({ onNavigateToEvidence }) {
                 }
                 style={{
                   width: '100%',
-                  padding: '0.65rem 1rem 0.65rem 2.6rem',
+                  padding: '0.65rem 2.4rem 0.65rem 2.6rem',
                   border: '1.5px solid #1D1E22',
                   borderRadius: 'var(--radius-md)',
                   fontSize: '0.88rem',
@@ -352,6 +376,28 @@ export default function HighRiskProjectsView({ onNavigateToEvidence }) {
                   outline: 'none'
                 }}
               />
+              {searchQuery && (
+                <button
+                  type="button"
+                  onClick={() => setSearchQuery('')}
+                  style={{
+                    position: 'absolute',
+                    right: '0.75rem',
+                    top: '50%',
+                    transform: 'translateY(-50%)',
+                    background: 'none',
+                    border: 'none',
+                    cursor: 'pointer',
+                    padding: '0.2rem',
+                    display: 'flex',
+                    alignItems: 'center',
+                    color: 'var(--color-text-muted)'
+                  }}
+                  title="Clear search"
+                >
+                  <X size={16} />
+                </button>
+              )}
             </div>
 
             {/* State Dropdown */}
@@ -487,7 +533,7 @@ export default function HighRiskProjectsView({ onNavigateToEvidence }) {
 
                     const sanction = proj.sanction_amount || 0;
                     const disbursed = proj.total_disbursed || 0;
-                    const ratioPct = sanction > 0 ? Math.min(100, Math.round((disbursed / sanction) * 100)) : 0;
+                    const ratioPct = sanction > 0 ? Math.round((disbursed / sanction) * 100) : 0;
 
                     return (
                       <tr
@@ -536,7 +582,7 @@ export default function HighRiskProjectsView({ onNavigateToEvidence }) {
                           </div>
                           <div style={{ fontSize: '0.78rem', color: 'var(--color-text-secondary)', display: 'flex', alignItems: 'center', gap: '0.25rem', marginTop: '0.15rem' }}>
                             <MapPin size={12} />
-                            <span>{proj.const_name || 'General District'}</span>
+                            <span>{extractProjectDistrict(proj) || proj.const_name || 'General District'}</span>
                           </div>
                         </td>
 
@@ -600,12 +646,12 @@ export default function HighRiskProjectsView({ onNavigateToEvidence }) {
                           <div style={{ fontWeight: 800, color: '#1D1E22' }}>
                             ₹{(sanction).toLocaleString('en-IN')}
                           </div>
-                          <div style={{ fontSize: '0.74rem', color: 'var(--color-text-secondary)', marginTop: '0.2rem' }}>
-                            Disbursed: ₹{(disbursed).toLocaleString('en-IN')} ({ratioPct}%)
+                          <div style={{ fontSize: '0.74rem', color: ratioPct > 100 ? '#B91C1C' : 'var(--color-text-secondary)', marginTop: '0.2rem', fontWeight: ratioPct > 100 ? 700 : 'normal' }}>
+                            Disbursed: ₹{(disbursed).toLocaleString('en-IN')} ({ratioPct}% spent){ratioPct > 100 && ' ⚠️ Over-Disbursed'}
                           </div>
                           {/* Mini Progress Bar */}
                           <div style={{ height: '5px', background: '#EAEAEA', borderRadius: '3px', marginTop: '0.35rem', overflow: 'hidden' }}>
-                            <div style={{ width: `${ratioPct}%`, height: '100%', background: ratioPct > 90 ? '#D9534F' : '#0A2458' }} />
+                            <div style={{ width: `${Math.min(100, ratioPct)}%`, height: '100%', background: ratioPct > 100 ? '#B91C1C' : ratioPct > 90 ? '#D9534F' : '#0A2458' }} />
                           </div>
                         </td>
 
@@ -625,6 +671,11 @@ export default function HighRiskProjectsView({ onNavigateToEvidence }) {
                           >
                             {proj.work_status || 'Under Review'}
                           </span>
+                          {proj.work_stage && proj.work_stage !== 'NA' && proj.work_stage !== 'null' && (
+                            <div style={{ fontSize: '0.72rem', color: '#555', marginTop: '0.25rem' }}>
+                              Stage: {proj.work_stage}
+                            </div>
+                          )}
                         </td>
 
                         {/* Action: View Investigation Button */}

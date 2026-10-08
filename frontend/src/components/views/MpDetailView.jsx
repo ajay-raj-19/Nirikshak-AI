@@ -1,27 +1,118 @@
-import React, { useState, useMemo, useEffect } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import {
   ArrowLeft, User, MapPin, Copy, GitCompare, Download, Info,
-  CheckCircle2, Clock, Award, Layers, DollarSign, TrendingUp,
-  CreditCard, X, ExternalLink, Calendar, Building, Check, Search,
-  AlertTriangle, Filter, Sparkles, ShieldCheck
+  CheckCircle2, Clock, Award, Layers, FileText, ShieldAlert, TrendingUp,
+  CreditCard, X, Check, Search, Sparkles, ShieldCheck
 } from 'lucide-react';
 import { useLanguage } from '../../context/LanguageContext';
 import LanguageSwitcher from '../LanguageSwitcher';
 import { useData } from '../../context/DataContext';
-import { getMpBySlug, ALL_MPS_DATA } from '../../data/mpPerformanceData';
+import { getMpBySlug } from '../../data/mpPerformanceData';
 import { exportElementToPdf } from '../../services/pdfExportService';
 import Footer from '../Footer';
 
 // ─── PREMIUM FINANCIAL ANALYTICS GAUGE COMPONENT ───
-const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
+const FinancialUtilizationGauge = ({ mpData, utilizationPct, mpName, term }) => {
+  const { language } = useLanguage();
+  const isHi = language === 'hi';
+
+  const sanctioned = Number(mpData?.sanctionedCr || 0);
+  const rawDisbursed = Number(mpData?.disbursedCr || 0);
+  const reconciledDisbursed = Number(mpData?.reconciledDisbursedCr || rawDisbursed);
+  const actual = Number(mpData?.actualCr || 0);
+  const goiReleased = mpData?.goiReleasedCr != null ? Number(mpData.goiReleasedCr) : null;
+
+  // Operational deployment metrics:
+  const disbursementRate = sanctioned > 0
+    ? Math.min(100, Math.round((reconciledDisbursed / sanctioned) * 1000) / 10)
+    : 0;
+
+  const expenditureRate = sanctioned > 0
+    ? Math.min(100, Math.round((actual / sanctioned) * 1000) / 10)
+    : 0;
+
+  const officialUtil = (goiReleased && goiReleased > 0)
+    ? Math.min(100, Math.round((actual / goiReleased) * 1000) / 10)
+    : (utilizationPct != null && utilizationPct !== 'N/A' ? Number(utilizationPct) : null);
+
+  // Default to active operational deployment so the meter works dynamically
+  const [metricMode, setMetricMode] = useState('disbursement'); // 'disbursement' | 'expenditure' | 'official'
+
+  let activeValue = null;
+  let isNa = false;
+  let modeLabel = '';
+  let modeSubtitle = '';
+  let statusText = '';
+  let statusColor = '#2F7F7A';
+  let statusBg = '#DCEDEA';
+
+  if (metricMode === 'disbursement') {
+    activeValue = disbursementRate;
+    isNa = false;
+    modeLabel = isHi ? 'संवितरण दर' : 'Disbursement Deployment Rate';
+    modeSubtitle = isHi
+      ? `स्वीकृत ₹${sanctioned.toFixed(2)} Cr में से ₹${reconciledDisbursed.toFixed(2)} Cr संवितरित`
+      : `₹${reconciledDisbursed.toFixed(2)} Cr disbursed of ₹${sanctioned.toFixed(2)} Cr sanctioned`;
+
+    if (activeValue >= 70) {
+      statusText = isHi ? 'उच्च संवितरण (लक्ष्य प्राप्त)' : 'High Deployment (Target Achieved)';
+      statusColor = '#1E7E34';
+      statusBg = '#E8F5E9';
+    } else if (activeValue >= 40) {
+      statusText = isHi ? 'मध्यम संवितरण (प्रगति पर)' : 'Moderate Deployment (In Progress)';
+      statusColor = '#B8860B';
+      statusBg = '#FFF8E1';
+    } else {
+      statusText = isHi ? 'प्रारंभिक चरण संवितरण (<40%)' : 'Early Stage Deployment (<40%)';
+      statusColor = '#D9534F';
+      statusBg = '#FFEBEE';
+    }
+  } else if (metricMode === 'expenditure') {
+    activeValue = expenditureRate;
+    isNa = false;
+    modeLabel = isHi ? 'प्रमाणित व्यय प्राप्ति दर' : 'Certified Expenditure Rate';
+    modeSubtitle = isHi
+      ? `स्वीकृत ₹${sanctioned.toFixed(2)} Cr में से ₹${actual.toFixed(2)} Cr प्रमाणित व्यय`
+      : `₹${actual.toFixed(2)} Cr certified payments of ₹${sanctioned.toFixed(2)} Cr sanctioned`;
+
+    if (activeValue >= 70) {
+      statusText = isHi ? 'उच्च व्यय प्रमाणन' : 'High Certified Expenditure';
+      statusColor = '#1E7E34';
+      statusBg = '#E8F5E9';
+    } else if (activeValue >= 40) {
+      statusText = isHi ? 'मध्यम व्यय प्रमाणन' : 'Steady Certified Payments';
+      statusColor = '#B8860B';
+      statusBg = '#FFF8E1';
+    } else {
+      statusText = isHi ? 'प्रारंभिक कार्य चरण (<40%)' : 'Early Certified Phase (<40%)';
+      statusColor = '#D9534F';
+      statusBg = '#FFEBEE';
+    }
+  } else {
+    // Official GoI Statutory Mode
+    activeValue = officialUtil;
+    isNa = officialUtil == null;
+    modeLabel = isHi ? 'आधिकारिक सांख्यिकी मंत्रालय विमुक्ति' : 'Official MoSPI Utilization';
+    modeSubtitle = isHi
+      ? 'सांविधिक सूत्र: प्रमाणित व्यय ÷ केंद्र सरकार द्वारा विमुक्त निधि'
+      : 'Statutory Formula: Actual Expenditure ÷ GoI Released Funds';
+    statusText = isHi
+      ? 'केंद्रीय विमुक्ति किश्तों की प्रतीक्षा (सांख्यिकी मंत्रालय)'
+      : 'Awaiting Central Release Tranches (MoSPI)';
+    statusColor = '#64748B';
+    statusBg = '#F1F5F9';
+  }
+
+  const numUtil = isNa ? 0 : Number(activeValue);
   const [animatedUtil, setAnimatedUtil] = useState(0);
+  const animatedUtilRef = useRef(0);
 
   useEffect(() => {
     let startTimestamp = null;
-    const duration = 850; // Smooth 850ms transition
-    const startVal = animatedUtil;
-    const targetVal = Math.min(100, Math.max(0, utilizationPct));
+    const duration = 750; // Smooth 750ms transition
+    const startVal = animatedUtilRef.current;
+    const targetVal = isNa ? 0 : Math.min(100, Math.max(0, numUtil));
     let frameId;
 
     const step = (timestamp) => {
@@ -31,6 +122,7 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
       // Cubic ease-out: 1 - (1 - t)^3
       const ease = 1 - Math.pow(1 - progress, 3);
       const current = startVal + (targetVal - startVal) * ease;
+      animatedUtilRef.current = current;
       setAnimatedUtil(current);
 
       if (progress < 1) {
@@ -40,7 +132,7 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
 
     frameId = requestAnimationFrame(step);
     return () => cancelAnimationFrame(frameId);
-  }, [utilizationPct]);
+  }, [metricMode, activeValue, isNa, numUtil]);
 
   // Semicircle dimensions & Geometry
   const cx = 175;
@@ -67,17 +159,6 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
   const tailX = cx - tailLen * Math.cos(alpha);
   const tailY = cy + tailLen * Math.sin(alpha);
 
-  // Active color tier
-  const isHigh = utilizationPct >= 70;
-  const isAvg = utilizationPct >= 40 && utilizationPct < 70;
-  const statusColor = isHigh ? '#1E7E34' : isAvg ? '#B8860B' : '#D9534F';
-  const statusBg = isHigh ? '#E8F5E9' : isAvg ? '#FFF8E1' : '#FFEBEE';
-  const statusText = isHigh
-    ? 'High Performance (Target Achieved)'
-    : isAvg
-    ? 'Moderate Utilization (In Progress)'
-    : 'Needs Acceleration (<40%)';
-
   return (
     <div
       style={{
@@ -85,34 +166,87 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
         border: '1.5px solid #1D1E22',
         borderRadius: 'var(--radius-lg)',
         boxShadow: '3px 4px 0px #1D1E22',
-        padding: '1.75rem 2rem',
+        padding: '1.5rem 1.75rem',
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'space-between',
         position: 'relative'
       }}
     >
-      {/* Header */}
+      {/* Header & Interactive Metric Mode Switcher */}
       <div>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '0.25rem' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', fontSize: '0.75rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.08em' }}>
-            <span>FUND UTILIZATION METER</span>
-            <div title="Measures cumulative expenditure against total central grant allocation" style={{ cursor: 'pointer' }}>
-              <Info size={13} color="#1A73E8" />
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem', marginBottom: '0.65rem' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem', fontSize: '0.74rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.08em' }}>
+            <span>{isHi ? 'निधि उपयोग / परिनियोजन मीटर' : 'FUND UTILIZATION METER'}</span>
+            <div title="Measures cumulative financial progress against approved allocations" style={{ cursor: 'pointer' }}>
+              <Info size={13} color="#2F7F7A" />
             </div>
           </div>
-          <span style={{ fontSize: '0.72rem', fontWeight: 700, padding: '0.15rem 0.55rem', background: '#FAF8F3', border: '1px solid #1D1E22', borderRadius: 'var(--radius-sm)', color: '#0A2458' }}>
-            FY 2024–25
+
+          {/* Metric Selector Pills */}
+          <div
+            style={{
+              display: 'inline-flex',
+              background: '#FAF8F3',
+              border: '1.5px solid #1D1E22',
+              borderRadius: 'var(--radius-full)',
+              padding: '2px',
+              gap: '2px'
+            }}
+          >
+            <button
+              type="button"
+              onClick={() => setMetricMode('disbursement')}
+              style={{
+                background: metricMode === 'disbursement' ? '#2F7F7A' : 'transparent',
+                color: metricMode === 'disbursement' ? '#FFFFFF' : '#1D1E22',
+                border: 'none',
+                borderRadius: 'var(--radius-full)',
+                padding: '0.2rem 0.55rem',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                cursor: 'pointer',
+                transition: 'all 0.15s ease'
+              }}
+            >
+              {isHi ? 'संवितरण' : 'Disbursement'} ({disbursementRate}%)
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setMetricMode('expenditure')}
+              style={{
+                background: metricMode === 'expenditure' ? '#2F7F7A' : 'transparent',
+                color: metricMode === 'expenditure' ? '#FFFFFF' : '#1D1E22',
+                border: 'none',
+                borderRadius: 'var(--radius-full)',
+                padding: '0.2rem 0.55rem',
+                fontSize: '0.68rem',
+                fontWeight: 700,
+                cursor: 'pointer',
+                transition: 'all 0.15s ease'
+              }}
+            >
+              {isHi ? 'प्रमाणित व्यय' : 'Certified'} ({expenditureRate}%)
+            </button>
+
+            {/* End Metric Selector Pills */}
+          </div>
+        </div>
+
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', flexWrap: 'wrap', gap: '0.4rem' }}>
+          <h3 style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '1.2rem', fontWeight: 800, color: '#1D1E22', margin: 0, lineHeight: 1.25 }}>
+            {mpName} ({term})
+          </h3>
+          <span style={{ fontSize: '0.72rem', fontWeight: 700, color: '#256B68' }}>
+            {modeLabel}
           </span>
         </div>
-        <h3 style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '1.25rem', fontWeight: 800, color: '#1D1E22', margin: '0.2rem 0 0 0', lineHeight: 1.25 }}>
-          {mpName} ({term})
-        </h3>
       </div>
 
       {/* SVG Speedometer Gauge */}
-      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', margin: '1.25rem 0 0.5rem 0' }}>
-        <svg viewBox="0 0 350 185" style={{ width: '100%', maxWidth: '360px', overflow: 'visible' }}>
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', margin: '1rem 0 0.35rem 0' }}>
+        <svg viewBox="0 0 350 185" style={{ width: '100%', maxWidth: '350px', overflow: 'visible' }}>
           <defs>
             {/* Multi-tone Gradients for Arc Zones */}
             <linearGradient id="gaugeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -199,7 +333,7 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
 
           {/* ─── MATHEMATICALLY ACCURATE NEEDLE POINTER ─── */}
           <g>
-            {/* Needle Diamond Polygon: Tail -> BaseLeft -> Tip -> BaseRight */}
+            {/* Needle Diamond Polygon */}
             <polygon
               points={`${tailX},${tailY} ${baseLeftX},${baseLeftY} ${tipX},${tipY} ${baseRightX},${baseRightY}`}
               fill="#1D1E22"
@@ -221,7 +355,7 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
             <circle cx={cx} cy={cy} r="9" fill="#FAF8F3" stroke="#1D1E22" strokeWidth="2.5" />
 
             {/* Inner Center Hub Accent */}
-            <circle cx={cx} cy={cy} r="4.5" fill="#0A2458" />
+            <circle cx={cx} cy={cy} r="4.5" fill="#2F7F7A" />
 
             {/* Center Pin Dot */}
             <circle cx={cx} cy={cy} r="1.5" fill="#FFFFFF" />
@@ -231,20 +365,20 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
         {/* Center Percentage Display */}
         <div style={{ textAlign: 'center', marginTop: '-0.75rem' }}>
           <div style={{ fontSize: '2.5rem', fontWeight: 900, color: statusColor, lineHeight: 1 }}>
-            {utilizationPct}%
+            {isNa ? 'N/A' : `${animatedUtil.toFixed(1)}%`}
           </div>
-          <div style={{ marginTop: '0.45rem' }}>
+          <div style={{ marginTop: '0.35rem' }}>
             <span
               style={{
                 display: 'inline-flex',
                 alignItems: 'center',
                 gap: '0.35rem',
-                padding: '0.25rem 0.75rem',
+                padding: '0.22rem 0.75rem',
                 background: statusBg,
                 color: statusColor,
                 border: `1.2px solid ${statusColor}`,
                 borderRadius: 'var(--radius-full)',
-                fontSize: '0.76rem',
+                fontSize: '0.74rem',
                 fontWeight: 800
               }}
             >
@@ -252,28 +386,41 @@ const FinancialUtilizationGauge = ({ utilizationPct, mpName, term }) => {
               <span>{statusText}</span>
             </span>
           </div>
+          <div style={{ fontSize: '0.73rem', color: 'var(--color-text-secondary)', marginTop: '0.3rem', fontWeight: 600 }}>
+            {modeSubtitle}
+          </div>
         </div>
       </div>
 
       {/* Target Threshold Note Card */}
       <div
         style={{
-          fontSize: '0.78rem',
+          fontSize: '0.76rem',
           color: '#1D1E22',
           background: '#FAF8F3',
-          padding: '0.65rem 0.9rem',
+          padding: '0.6rem 0.85rem',
           borderRadius: 'var(--radius-sm)',
           border: '1px solid rgba(29,30,34,0.12)',
           display: 'flex',
           justifyContent: 'space-between',
           alignItems: 'center',
-          marginTop: '0.75rem'
+          marginTop: '0.75rem',
+          flexWrap: 'wrap',
+          gap: '0.5rem'
         }}
       >
         <span style={{ color: 'var(--color-text-secondary)' }}>
-          Benchmark deployment target:
+          {metricMode === 'official'
+            ? 'MoSPI statutory requirement:'
+            : metricMode === 'expenditure'
+            ? 'Certified expenditure target:'
+            : 'Benchmark deployment target:'}
         </span>
-        <strong style={{ color: '#1E7E34' }}>≥ 70.0% Utilization</strong>
+        <strong style={{ color: metricMode === 'official' ? '#64748B' : '#1E7E34' }}>
+          {metricMode === 'official'
+            ? 'Awaiting Central Release Tranches'
+            : `≥ 70.0% of Sanctioned (₹${(sanctioned * 0.7).toFixed(2)} Cr)`}
+        </strong>
       </div>
     </div>
   );
@@ -284,7 +431,7 @@ const MpDetailView = () => {
   const { mpSlug } = useParams();
   const navigate = useNavigate();
   const { language } = useLanguage();
-  const isHi = language === 'hi';
+  const _isHi = language === 'hi';
 
   const [activeTab, setActiveTab] = useState('overview'); // 'overview' | 'projects' | 'financial'
   const [projectSearch, setProjectSearch] = useState('');
@@ -292,52 +439,76 @@ const MpDetailView = () => {
   const [projectStatus, setProjectStatus] = useState('all'); // 'all' | 'completed' | 'ongoing'
   const [selectedPaymentProject, setSelectedPaymentProject] = useState(null);
   const [copiedLink, setCopiedLink] = useState(false);
+  const [isExportingPdf, setIsExportingPdf] = useState(false);
 
-  const { mpView } = useData ? useData() : {};
+  const { mpView } = useData();
 
-  // Retrieve MP data by slug with real DataContext data or robust fallback
+  // Retrieve MP data by slug with verified 18th Lok Sabha forensic accounting data
   const mpData = useMemo(() => {
+    const raw = getMpBySlug(mpSlug);
+    let found = null;
     if (mpView && mpView.length > 0) {
       const cleanSlug = mpSlug?.toLowerCase()?.replace(/^mp-/, '');
-      const found = mpView.find(m => {
+      found = mpView.find(m => {
         const s = (m.mp_name || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
         return s === mpSlug || s === cleanSlug || s.replace(/^mp-/, '') === cleanSlug;
       });
-      if (found) {
-        const allocated = found.total_allocated || 0;
-        const spent = found.total_disbursed || 0;
-        return {
-          id: found.mp_id,
-          name: found.mp_name,
-          constituency: found.constituency_name,
-          state: found.state_name,
-          house: 'Member of Parliament',
-          term: 'Tenure Data',
-          allocatedCr: (allocated / 10000000).toFixed(2),
-          exactAllocated: allocated,
-          exactSpent: spent,
-          exactBalance: Math.max(0, allocated - spent),
-          utilizationPct: (found.utilization_rate * 100).toFixed(1),
-          worksRecommended: Math.max(5, Math.floor(allocated / 4000000)),
-          worksCompleted: Math.floor(spent / 4000000),
-          worksInProgress: Math.max(1, Math.floor((allocated - spent) / 4000000)),
-          totalProjects: Math.max(5, Math.floor(allocated / 4000000)),
-          completionRate: Math.round(found.utilization_rate * 100),
-          delayDays: Math.round(found.avg_project_delay_days || 0),
-          stalled: found.stalled_projects_count || 0,
-        };
-      }
     }
 
-    const raw = getMpBySlug(mpSlug);
-    if (!raw) return null;
-    const allocated = raw.allocatedCr || 0;
-    const spent = raw.spentCr || 0;
+    if (!raw && !found) return null;
+    const base = raw || {};
+
+    const sanctioned = base.sanctionedCr != null
+      ? base.sanctionedCr
+      : (found?.total_sanctioned ? (found.total_sanctioned / 1e7).toFixed(2) : (found?.total_allocated ? (found.total_allocated / 1e7).toFixed(2) : '0.00'));
+
+    const disbursed = base.disbursedCr != null
+      ? base.disbursedCr
+      : (found?.total_disbursed ? (found.total_disbursed / 1e7).toFixed(2) : '0.00');
+
+    const actual = base.actualCr != null
+      ? base.actualCr
+      : (found?.total_actual_spent ? (found.total_actual_spent / 1e7).toFixed(2) : '0.00');
+
+    const reconciledDisbursed = base.reconciledDisbursedCr != null
+      ? base.reconciledDisbursedCr
+      : (found?.reconciled_disbursed ? (found.reconciled_disbursed / 1e7).toFixed(2) : disbursed);
+
+    const isReconciliationReq = Boolean(base.reconciliationRequired ?? (found?.reconciliation_required ?? (Number(disbursed) > Number(sanctioned))));
+
     return {
-      ...raw,
-      exactAllocated: raw.exactAllocated || Math.round(allocated * 10000000),
-      exactSpent: raw.exactSpent || Math.round(spent * 10000000),
-      exactBalance: raw.exactBalance || Math.max(0, Math.round((allocated - spent) * 10000000))
+      ...base,
+      id: base.id || found?.mp_id,
+      name: base.name || found?.mp_name,
+      constituency: base.constituency || found?.constituency_name,
+      state: base.state || found?.state_name,
+      house: base.house || '18th Lok Sabha',
+      term: base.term || '18th Lok Sabha (2024–Present)',
+      sanctionedCr: sanctioned,
+      disbursedCr: disbursed,
+      actualCr: actual,
+      reconciledDisbursedCr: reconciledDisbursed,
+      duplicateVoucherCount: base.duplicateVoucherCount ?? (found?.duplicate_vouchers_count || 0),
+      duplicateDisbursedCr: base.duplicateDisbursedCr ?? '0.00',
+      reconciliationRequired: isReconciliationReq,
+      reconciliationStatus: base.reconciliationStatus || (isReconciliationReq ? 'RECONCILIATION REQUIRED' : 'VERIFIED NORMAL'),
+      reconciliationNote: base.reconciliationNote || '',
+      goiReleasedCr: null,
+      utilizationPct: null,
+      allocatedCr: sanctioned,
+      spentCr: disbursed,
+      exactAllocated: Math.round(Number(sanctioned) * 1e7),
+      exactSpent: Math.round(Number(disbursed) * 1e7),
+      exactActual: Math.round(Number(actual) * 1e7),
+      exactReconciledDisbursed: Math.round(Number(reconciledDisbursed) * 1e7),
+      exactBalance: Math.max(0, Math.round((Number(sanctioned) - Number(reconciledDisbursed)) * 1e7)),
+      worksRecommended: base.worksRecommended || Math.max(5, Math.floor(Number(sanctioned) * 1e7 / 4000000)),
+      worksCompleted: base.worksCompleted || Math.floor(Number(disbursed) * 1e7 / 4000000),
+      worksInProgress: base.worksInProgress || Math.max(1, Math.floor((Number(sanctioned) - Number(disbursed)) * 1e7 / 4000000)),
+      totalProjects: base.totalProjects || Math.max(5, Math.floor(Number(sanctioned) * 1e7 / 4000000)),
+      completionRate: base.completionRate || 45,
+      delayDays: base.delayDays || Math.round(found?.avg_project_delay_days || 0),
+      stalled: base.stalled || found?.stalled_projects_count || 0,
     };
   }, [mpSlug, mpView]);
 
@@ -350,15 +521,6 @@ const MpDetailView = () => {
   // Generate complete, dedicated projects for this specific MP
   const mpProjectsList = useMemo(() => {
     if (!mpData) return [];
-
-    const categories = [
-      'Roads & Pathways',
-      'Drinking Water',
-      'Renewable Energy',
-      'Education & Schools',
-      'Healthcare & Sanitation',
-      'Community Infrastructure'
-    ];
 
     const projectTemplates = [
       { prefix: 'Paving of CC Interlocking Road & Drainage Channel at', cat: 'Roads & Pathways', costLakhs: 24.5 },
@@ -441,16 +603,28 @@ const MpDetailView = () => {
         <button
           type="button"
           onClick={() => navigate('/features/browseMpMla')}
-          className="btn-teal"
-          style={{ padding: '0.6rem 1.4rem' }}
+          className="btn-primary-teal-tactile"
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '0.5rem',
+            height: '38px',
+            padding: '0 1.4rem',
+            fontSize: '0.86rem',
+            fontWeight: 700,
+            background: '#2F7F7A',
+            color: '#FFFFFF',
+            border: '1.5px solid #1D1E22',
+            borderRadius: 'var(--radius-sm)',
+            boxShadow: '2px 2.5px 0px #1D1E22',
+            cursor: 'pointer'
+          }}
         >
           Return to Browse MPs
         </button>
       </div>
     );
   }
-
-  const [isExportingPdf, setIsExportingPdf] = useState(false);
 
   const handleDownloadReport = async () => {
     if (!mpData) return;
@@ -479,10 +653,26 @@ const MpDetailView = () => {
           <span>/</span>
           <span>MPLADS</span>
           <span>/</span>
-          <span style={{ color: '#0A2458', fontWeight: 700 }}>Member</span>
+          <span style={{ color: '#2F7F7A', fontWeight: 700 }}>Member</span>
         </div>
 
-        <LanguageSwitcher />
+        <LanguageSwitcher
+          className="btn-language-tactile"
+          style={{
+            height: '38px',
+            width: '122px',
+            minWidth: '122px',
+            maxWidth: '122px',
+            padding: '0 0.85rem',
+            fontSize: '0.84rem',
+            fontWeight: 700,
+            background: 'var(--color-accent-teal)',
+            color: '#1D1E22',
+            border: '1.5px solid #1D1E22',
+            borderRadius: 'var(--radius-full)',
+            boxShadow: '2px 2.5px 0px #1D1E22'
+          }}
+        />
       </div>
 
       {/* ─── 2. BACK BUTTON ─── */}
@@ -490,19 +680,22 @@ const MpDetailView = () => {
         <button
           type="button"
           onClick={() => navigate('/features/browseMpMla')}
-          className="btn-outline-dark"
+          className="btn-secondary-tactile"
           style={{
             display: 'inline-flex',
             alignItems: 'center',
             gap: '0.45rem',
-            padding: '0.55rem 1.15rem',
+            height: '38px',
+            padding: '0 1.15rem',
             fontSize: '0.84rem',
             fontWeight: 700,
             background: '#FFFFFF',
+            color: '#1D1E22',
             border: '1.5px solid #1D1E22',
-            borderRadius: 'var(--radius-sm)',
-            boxShadow: '2px 2px 0px #1D1E22',
-            cursor: 'pointer'
+            borderRadius: 'var(--radius-full)',
+            boxShadow: '1.5px 2px 0px #1D1E22',
+            cursor: 'pointer',
+            boxSizing: 'border-box'
           }}
         >
           <ArrowLeft size={16} strokeWidth={2.4} />
@@ -528,19 +721,20 @@ const MpDetailView = () => {
           {/* Profile Info & Right Actions Row */}
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '1.25rem' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '1.25rem' }}>
-              {/* Big Blue Avatar Circle */}
+              {/* MP Profile Avatar Circle */}
               <div
                 style={{
                   width: '64px',
                   height: '64px',
                   borderRadius: '50%',
-                  background: '#1A73E8',
+                  background: '#2F7F7A',
                   color: '#FFFFFF',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
                   flexShrink: 0,
-                  boxShadow: '0 4px 10px rgba(26,115,232,0.3)'
+                  border: '1.5px solid #1D1E22',
+                  boxShadow: '2px 3px 0px #1D1E22'
                 }}
               >
                 <User size={34} />
@@ -565,7 +759,7 @@ const MpDetailView = () => {
                     <MapPin size={14} />
                     <span>{mpData.constituency}</span>
                   </span>
-                  <span style={{ padding: '0.2rem 0.65rem', background: '#FAF8F3', border: '1px solid #1D1E22', borderRadius: 'var(--radius-sm)', fontSize: '0.75rem', fontWeight: 700, color: '#0A2458' }}>
+                  <span style={{ padding: '0.2rem 0.65rem', background: '#DCEDEA', border: '1px solid #2F7F7A', borderRadius: 'var(--radius-sm)', fontSize: '0.75rem', fontWeight: 700, color: '#256B68' }}>
                     {mpData.house}
                   </span>
                 </div>
@@ -577,42 +771,50 @@ const MpDetailView = () => {
               <button
                 type="button"
                 onClick={handleCopyLink}
-                className="btn-outline-dark no-print"
+                className="btn-secondary-tactile no-print"
                 style={{
-                  padding: '0.5rem 0.95rem',
-                  fontSize: '0.8rem',
+                  height: '38px',
+                  padding: '0 1.1rem',
+                  fontSize: '0.84rem',
                   fontWeight: 700,
                   display: 'inline-flex',
                   alignItems: 'center',
-                  gap: '0.4rem',
+                  gap: '0.45rem',
                   background: '#FFFFFF',
+                  color: '#1D1E22',
                   border: '1.5px solid #1D1E22',
-                  borderRadius: 'var(--radius-sm)',
-                  cursor: 'pointer'
+                  borderRadius: 'var(--radius-full)',
+                  boxShadow: '1.5px 2px 0px #1D1E22',
+                  cursor: 'pointer',
+                  boxSizing: 'border-box'
                 }}
               >
-                {copiedLink ? <Check size={14} color="#1E7E34" /> : <Copy size={14} />}
+                {copiedLink ? <Check size={15} color="#1D1E22" strokeWidth={2.5} /> : <Copy size={15} />}
                 <span>{copiedLink ? 'Copied!' : 'Copy Link'}</span>
               </button>
 
               <button
                 type="button"
                 onClick={() => navigate('/features/compare')}
-                className="btn-outline-dark no-print"
+                className="btn-secondary-tactile no-print"
                 style={{
-                  padding: '0.5rem 0.95rem',
-                  fontSize: '0.8rem',
+                  height: '38px',
+                  padding: '0 1.1rem',
+                  fontSize: '0.84rem',
                   fontWeight: 700,
                   display: 'inline-flex',
                   alignItems: 'center',
-                  gap: '0.4rem',
+                  gap: '0.45rem',
                   background: '#FFFFFF',
+                  color: '#1D1E22',
                   border: '1.5px solid #1D1E22',
-                  borderRadius: 'var(--radius-sm)',
-                  cursor: 'pointer'
+                  borderRadius: 'var(--radius-full)',
+                  boxShadow: '1.5px 2px 0px #1D1E22',
+                  cursor: 'pointer',
+                  boxSizing: 'border-box'
                 }}
               >
-                <GitCompare size={14} />
+                <GitCompare size={15} />
                 <span>Compare</span>
               </button>
 
@@ -620,73 +822,106 @@ const MpDetailView = () => {
                 type="button"
                 onClick={handleDownloadReport}
                 disabled={isExportingPdf}
-                className="btn-teal no-print"
+                className="btn-primary-teal-tactile no-print"
                 style={{
-                  padding: '0.5rem 1.15rem',
-                  fontSize: '0.8rem',
+                  height: '38px',
+                  padding: '0 1.25rem',
+                  fontSize: '0.84rem',
+                  fontWeight: 700,
                   display: 'inline-flex',
                   alignItems: 'center',
                   gap: '0.45rem',
+                  background: 'var(--color-accent-teal)',
+                  color: '#1D1E22',
+                  border: '1.5px solid #1D1E22',
+                  borderRadius: 'var(--radius-full)',
+                  boxShadow: '1.5px 2px 0px #1D1E22',
                   cursor: isExportingPdf ? 'wait' : 'pointer',
-                  opacity: isExportingPdf ? 0.7 : 1
+                  opacity: isExportingPdf ? 0.75 : 1,
+                  boxSizing: 'border-box'
                 }}
               >
-                <Download size={14} />
+                <Download size={15} strokeWidth={2.2} />
                 <span>{isExportingPdf ? 'Generating PDF...' : 'Download PDF Report'}</span>
               </button>
             </div>
           </div>
 
-        {/* 4 Financial & Delivery Metric Cards */}
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '1.15rem', borderTop: '1px solid rgba(29,30,34,0.1)', paddingTop: '1.25rem' }}>
-          {/* Total Allocated */}
+        {/* Forensic Reconciliation Alert Banner */}
+        {mpData.reconciliationRequired && (
+          <div
+            style={{
+              background: '#FFF8E1',
+              border: '1.5px solid #D97706',
+              borderRadius: 'var(--radius-md)',
+              boxShadow: '2.5px 3px 0px #D97706',
+              padding: '1rem 1.25rem',
+              display: 'flex',
+              alignItems: 'flex-start',
+              gap: '0.85rem'
+            }}
+          >
+            <ShieldAlert size={22} color="#D97706" style={{ flexShrink: 0, marginTop: '2px' }} />
+            <div>
+              <div style={{ fontSize: '0.86rem', fontWeight: 800, color: '#92400E', letterSpacing: '0.04em' }}>
+                {mpData.duplicateVoucherCount > 0 ? 'RECONCILED — REVIEW PENDING' : 'RECONCILIATION REQUIRED'}
+              </div>
+              <div style={{ fontSize: '0.8rem', color: '#78350F', marginTop: '0.25rem', lineHeight: 1.45 }}>
+                {mpData.duplicateVoucherCount > 0 ? (
+                  <span>
+                    Our forensic data pipeline identified <strong>{mpData.duplicateVoucherCount} suspected duplicate records</strong> totaling ₹{mpData.duplicateDisbursedCr} Cr in the official portal snapshot. Reconciled legitimate disbursements are estimated at <strong>₹{mpData.reconciledDisbursedCr} Cr</strong> ({mpData.reconciledDisbursementRatio || Math.round((Number(mpData.reconciledDisbursedCr) / Number(mpData.sanctionedCr)) * 100)}% of sanction).
+                    <em> Review is pending independent audit confirmation; this is an ingestion discrepancy, not confirmed fraud.</em>
+                  </span>
+                ) : (
+                  <span>
+                    Raw portal disbursements (₹{mpData.disbursedCr} Cr) exceed sanctioned works value (₹{mpData.sanctionedCr} Cr).
+                    <em> Unresolved financial variance under review; awaiting updated sanction orders.</em>
+                  </span>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* 3 Separated Financial Metric Cards (INR Only, No Dollar Signs) */}
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: '1.15rem', borderTop: '1px solid rgba(29,30,34,0.1)', paddingTop: '1.25rem' }}>
+          {/* Sanctioned Works Value */}
           <div style={{ background: '#FAF8F3', border: '1.5px solid #1D1E22', borderLeft: '4px solid #00B4D8', borderRadius: 'var(--radius-md)', padding: '1.25rem', display: 'flex', alignItems: 'center', gap: '1rem' }}>
             <div style={{ width: '42px', height: '42px', borderRadius: 'var(--radius-sm)', background: '#E0F7FA', color: '#0077B6', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <DollarSign size={20} />
+              <FileText size={20} />
             </div>
             <div>
-              <div style={{ fontSize: '1.5rem', fontWeight: 800, color: '#1D1E22' }}>₹{mpData.allocatedCr} CR</div>
-              <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase' }}>TOTAL ALLOCATED</div>
-              <div style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', marginTop: '0.15rem' }}>Budget assigned to MP</div>
+              <div style={{ fontSize: '1.45rem', fontWeight: 800, color: '#1D1E22' }}>₹{mpData.sanctionedCr} Cr</div>
+              <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase' }}>SANCTIONED WORKS</div>
+              <div style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', marginTop: '0.15rem' }}>Total approved value</div>
             </div>
           </div>
 
-          {/* Fund Utilization */}
-          <div style={{ background: '#FAF8F3', border: '1.5px solid #1D1E22', borderLeft: '4px solid #52B79A', borderRadius: 'var(--radius-md)', padding: '1.25rem', display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <div style={{ width: '42px', height: '42px', borderRadius: 'var(--radius-sm)', background: '#E8F5E9', color: '#1E7E34', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <TrendingUp size={20} />
+          {/* Recorded Disbursements */}
+          <div style={{ background: '#FAF8F3', border: '1.5px solid #1D1E22', borderLeft: mpData.reconciliationRequired ? '4px solid #D97706' : '4px solid #2F7F7A', borderRadius: 'var(--radius-md)', padding: '1.25rem', display: 'flex', alignItems: 'center', gap: '1rem' }}>
+            <div style={{ width: '42px', height: '42px', borderRadius: 'var(--radius-sm)', background: mpData.reconciliationRequired ? '#FFF8E1' : '#DCEDEA', color: mpData.reconciliationRequired ? '#D97706' : '#2F7F7A', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+              <CreditCard size={20} />
             </div>
             <div>
-              <div style={{ fontSize: '1.5rem', fontWeight: 800, color: '#1E7E34' }}>{mpData.utilizationPct}%</div>
-              <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
-                <span>FUND UTILIZATION</span>
-                <Info size={11} />
+              <div style={{ fontSize: '1.45rem', fontWeight: 800, color: mpData.reconciliationRequired ? '#D97706' : '#1D1E22' }}>₹{mpData.disbursedCr} Cr</div>
+              <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase' }}>
+                RECORDED DISBURSED {mpData.reconciliationRequired ? '⚠️' : ''}
               </div>
-              <div style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', marginTop: '0.15rem' }}>₹{Number(mpData.exactSpent || 0).toLocaleString('en-IN')} utilized</div>
+              <div style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', marginTop: '0.15rem' }}>
+                Reconciled: ₹{mpData.reconciledDisbursedCr} Cr
+              </div>
             </div>
           </div>
 
-          {/* Works Completed */}
-          <div style={{ background: '#FAF8F3', border: '1.5px solid #1D1E22', borderLeft: '4px solid #E5B842', borderRadius: 'var(--radius-md)', padding: '1.25rem', display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <div style={{ width: '42px', height: '42px', borderRadius: 'var(--radius-sm)', background: '#FFF8E1', color: '#B8860B', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+          {/* Actual Certified Expenditure */}
+          <div style={{ background: '#FAF8F3', border: '1.5px solid #1D1E22', borderLeft: '4px solid #1E7E34', borderRadius: 'var(--radius-md)', padding: '1.25rem', display: 'flex', alignItems: 'center', gap: '1rem' }}>
+            <div style={{ width: '42px', height: '42px', borderRadius: 'var(--radius-sm)', background: '#E8F5E9', color: '#1E7E34', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
               <CheckCircle2 size={20} />
             </div>
             <div>
-              <div style={{ fontSize: '1.5rem', fontWeight: 800, color: '#1D1E22' }}>{mpData.worksCompleted}</div>
-              <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase' }}>WORKS COMPLETED</div>
-              <div style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', marginTop: '0.15rem' }}>out of {mpData.worksRecommended} recommended</div>
-            </div>
-          </div>
-
-          {/* Completion Rate */}
-          <div style={{ background: '#FAF8F3', border: '1.5px solid #1D1E22', borderLeft: '4px solid #7B2CBF', borderRadius: 'var(--radius-md)', padding: '1.25rem', display: 'flex', alignItems: 'center', gap: '1rem' }}>
-            <div style={{ width: '42px', height: '42px', borderRadius: 'var(--radius-sm)', background: '#F3E8FF', color: '#7B2CBF', display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
-              <Award size={20} />
-            </div>
-            <div>
-              <div style={{ fontSize: '1.5rem', fontWeight: 800, color: '#1D1E22' }}>{mpData.completionRate}%</div>
-              <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase' }}>COMPLETION RATE</div>
-              <div style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', marginTop: '0.15rem' }}>Project completion ratio</div>
+              <div style={{ fontSize: '1.45rem', fontWeight: 800, color: '#1E7E34' }}>₹{mpData.actualCr} Cr</div>
+              <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase' }}>ACTUAL EXPENDITURE</div>
+              <div style={{ fontSize: '0.72rem', color: 'var(--color-text-secondary)', marginTop: '0.15rem' }}>Certified vendor payments</div>
             </div>
           </div>
         </div>
@@ -713,7 +948,7 @@ const MpDetailView = () => {
             border: '1.5px solid #1D1E22',
             borderBottom: activeTab === 'overview' ? '2px solid #FAF8F3' : '1.5px solid #1D1E22',
             background: activeTab === 'overview' ? '#FAF8F3' : '#FFFFFF',
-            color: activeTab === 'overview' ? '#0A2458' : '#6C757D',
+            color: activeTab === 'overview' ? '#2F7F7A' : '#6C757D',
             marginBottom: '-2px',
             cursor: 'pointer',
             transition: 'all 0.15s ease'
@@ -734,7 +969,7 @@ const MpDetailView = () => {
             border: '1.5px solid #1D1E22',
             borderBottom: activeTab === 'projects' ? '2px solid #FAF8F3' : '1.5px solid #1D1E22',
             background: activeTab === 'projects' ? '#FAF8F3' : '#FFFFFF',
-            color: activeTab === 'projects' ? '#0A2458' : '#6C757D',
+            color: activeTab === 'projects' ? '#2F7F7A' : '#6C757D',
             marginBottom: '-2px',
             cursor: 'pointer',
             display: 'flex',
@@ -744,7 +979,7 @@ const MpDetailView = () => {
           }}
         >
           <span>Projects</span>
-          <span style={{ fontSize: '0.72rem', background: '#FAF8F3', border: '1px solid #1D1E22', padding: '0.1rem 0.45rem', borderRadius: 'var(--radius-full)' }}>
+          <span style={{ fontSize: '0.72rem', background: activeTab === 'projects' ? '#DCEDEA' : '#FAF8F3', border: activeTab === 'projects' ? '1px solid #2F7F7A' : '1px solid #1D1E22', color: activeTab === 'projects' ? '#256B68' : '#1D1E22', padding: '0.1rem 0.45rem', borderRadius: 'var(--radius-full)' }}>
             {mpProjectsList.length}
           </span>
         </button>
@@ -761,7 +996,7 @@ const MpDetailView = () => {
             border: '1.5px solid #1D1E22',
             borderBottom: activeTab === 'financial' ? '2px solid #FAF8F3' : '1.5px solid #1D1E22',
             background: activeTab === 'financial' ? '#FAF8F3' : '#FFFFFF',
-            color: activeTab === 'financial' ? '#0A2458' : '#6C757D',
+            color: activeTab === 'financial' ? '#2F7F7A' : '#6C757D',
             marginBottom: '-2px',
             cursor: 'pointer',
             transition: 'all 0.15s ease'
@@ -778,6 +1013,7 @@ const MpDetailView = () => {
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 300px), 1fr))', gap: '1.5rem' }}>
             {/* Redesigned Premium Utilization Gauge */}
             <FinancialUtilizationGauge
+              mpData={mpData}
               utilizationPct={mpData.utilizationPct}
               mpName={mpData.name}
               term={mpData.term}
@@ -826,12 +1062,12 @@ const MpDetailView = () => {
                 </div>
 
                 {/* Recommended Projects */}
-                <div style={{ background: '#E3F2FD', border: '1.5px solid #1A73E8', borderRadius: 'var(--radius-md)', padding: '1.25rem' }}>
+                <div style={{ background: '#DCEDEA', border: '1.5px solid #2F7F7A', borderRadius: 'var(--radius-md)', padding: '1.25rem', boxShadow: '2px 2px 0px #2F7F7A' }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.35rem' }}>
-                    <Award size={18} color="#1A73E8" />
-                    <span style={{ fontSize: '1.65rem', fontWeight: 800, color: '#1A73E8' }}>{mpData.worksRecommended}</span>
+                    <Award size={18} color="#2F7F7A" />
+                    <span style={{ fontSize: '1.65rem', fontWeight: 800, color: '#256B68' }}>{mpData.worksRecommended}</span>
                   </div>
-                  <div style={{ fontSize: '0.78rem', fontWeight: 700, color: '#1A73E8' }}>Recommended Projects</div>
+                  <div style={{ fontSize: '0.78rem', fontWeight: 700, color: '#256B68' }}>Recommended Projects</div>
                 </div>
 
                 {/* Total Projects */}
@@ -873,23 +1109,29 @@ const MpDetailView = () => {
 
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', fontSize: '0.85rem' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', borderBottom: '1px solid rgba(29,30,34,0.08)', paddingBottom: '0.4rem' }}>
-                    <span style={{ color: 'var(--color-text-secondary)' }}>Allocated Amount:</span>
+                    <span style={{ color: 'var(--color-text-secondary)' }}>Sanctioned Works:</span>
                     <strong style={{ color: '#1D1E22' }}>₹{Number(mpData.exactAllocated || 0).toLocaleString('en-IN')}</strong>
                   </div>
                   <div style={{ display: 'flex', justifyContent: 'space-between', borderBottom: '1px solid rgba(29,30,34,0.08)', paddingBottom: '0.4rem' }}>
-                    <span style={{ color: 'var(--color-text-secondary)' }}>Utilized Amount:</span>
-                    <strong style={{ color: '#1D1E22' }}>₹{Number(mpData.exactSpent || 0).toLocaleString('en-IN')}</strong>
+                    <span style={{ color: 'var(--color-text-secondary)' }}>Recorded Disbursements:</span>
+                    <strong style={{ color: mpData.reconciliationRequired ? '#D97706' : '#1D1E22' }}>₹{Number(mpData.exactSpent || 0).toLocaleString('en-IN')}</strong>
                   </div>
+                  {mpData.reconciliationRequired && (
+                    <div style={{ display: 'flex', justifyContent: 'space-between', borderBottom: '1px solid rgba(29,30,34,0.08)', paddingBottom: '0.4rem', color: '#92400E', fontSize: '0.78rem' }}>
+                      <span>Reconciled Disbursements:</span>
+                      <strong>₹{Number(mpData.exactReconciledDisbursed || 0).toLocaleString('en-IN')}</strong>
+                    </div>
+                  )}
                   <div style={{ display: 'flex', justifyContent: 'space-between', borderBottom: '1px solid rgba(29,30,34,0.08)', paddingBottom: '0.4rem' }}>
-                    <span style={{ color: 'var(--color-text-secondary)' }}>Remaining Balance:</span>
-                    <strong style={{ color: '#0A2458' }}>₹{Number(mpData.exactBalance || 0).toLocaleString('en-IN')}</strong>
+                    <span style={{ color: 'var(--color-text-secondary)' }}>Actual Certified Expenditure:</span>
+                    <strong style={{ color: '#1E7E34' }}>₹{Number(mpData.exactActual || 0).toLocaleString('en-IN')}</strong>
                   </div>
                   <div style={{ display: 'flex', justifyContent: 'space-between', borderBottom: '1px solid rgba(29,30,34,0.08)', paddingBottom: '0.4rem' }}>
                     <span style={{ color: 'var(--color-text-secondary)', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
-                      <span>Fund Utilization</span>
+                      <span>GoI Released / Utilization</span>
                       <Info size={13} />
                     </span>
-                    <strong style={{ color: '#1E7E34' }}>{mpData.utilizationPct}%</strong>
+                    <strong style={{ color: '#6C757D' }}>N/A (Awaiting release tranches)</strong>
                   </div>
                   <div style={{ display: 'flex', justifyContent: 'space-between' }}>
                     <span style={{ color: 'var(--color-text-secondary)' }}>Works Completed:</span>
@@ -984,9 +1226,10 @@ const MpDetailView = () => {
                     fontSize: '0.8rem',
                     fontWeight: 700,
                     borderRadius: 'var(--radius-sm)',
-                    border: '1.2px solid #1D1E22',
-                    background: projectStatus === 'all' ? '#1D1E22' : '#FAF8F3',
+                    border: '1.5px solid #1D1E22',
+                    background: projectStatus === 'all' ? '#2F7F7A' : '#FAF8F3',
                     color: projectStatus === 'all' ? '#FFFFFF' : '#1D1E22',
+                    boxShadow: projectStatus === 'all' ? '1.5px 2px 0px #1D1E22' : 'none',
                     cursor: 'pointer'
                   }}
                 >
@@ -1049,9 +1292,11 @@ const MpDetailView = () => {
                     fontWeight: 700,
                     borderRadius: 'var(--radius-full)',
                     border: '1px solid #1D1E22',
-                    background: projectCategory === cat ? '#0A2458' : '#FAF8F3',
+                    background: projectCategory === cat ? '#2F7F7A' : '#FAF8F3',
                     color: projectCategory === cat ? '#FFFFFF' : '#1D1E22',
-                    cursor: 'pointer'
+                    boxShadow: projectCategory === cat ? '1.5px 1.5px 0px #1D1E22' : 'none',
+                    cursor: 'pointer',
+                    transition: 'all 0.15s ease'
                   }}
                 >
                   {cat === 'all' ? 'All Sectors' : cat}
@@ -1069,7 +1314,7 @@ const MpDetailView = () => {
               <button
                 type="button"
                 onClick={() => { setProjectSearch(''); setProjectCategory('all'); setProjectStatus('all'); }}
-                style={{ background: 'none', border: 'none', fontSize: '0.8rem', fontWeight: 700, color: 'var(--color-accent-teal-hover)', cursor: 'pointer', textDecoration: 'underline' }}
+                style={{ background: 'none', border: 'none', fontSize: '0.8rem', fontWeight: 700, color: '#2F7F7A', cursor: 'pointer', textDecoration: 'underline' }}
               >
                 Reset Filters
               </button>
@@ -1098,8 +1343,19 @@ const MpDetailView = () => {
               <button
                 type="button"
                 onClick={() => { setProjectSearch(''); setProjectCategory('all'); setProjectStatus('all'); }}
-                className="btn-teal"
-                style={{ padding: '0.5rem 1.25rem' }}
+                className="btn-primary-teal-tactile"
+                style={{
+                  height: '38px',
+                  padding: '0 1.35rem',
+                  fontSize: '0.84rem',
+                  fontWeight: 700,
+                  background: '#2F7F7A',
+                  color: '#FFFFFF',
+                  border: '1.5px solid #1D1E22',
+                  borderRadius: 'var(--radius-sm)',
+                  boxShadow: '2px 2.5px 0px #1D1E22',
+                  cursor: 'pointer'
+                }}
               >
                 Clear Filters
               </button>
@@ -1237,18 +1493,22 @@ const MpDetailView = () => {
                               }
                             }
                           })}
+                          className="btn-ai-scan-tactile"
                           style={{
-                            padding: '0.4rem 0.65rem',
-                            fontSize: '0.74rem',
-                            fontWeight: 800,
+                            height: '32px',
+                            padding: '0 0.75rem',
+                            fontSize: '0.75rem',
+                            fontWeight: 700,
                             display: 'inline-flex',
                             alignItems: 'center',
-                            gap: '0.3rem',
-                            background: '#E8F0FE',
-                            color: '#1A73E8',
-                            border: '1px solid #1A73E8',
+                            gap: '0.35rem',
+                            background: '#DCEDEA',
+                            color: '#256B68',
+                            border: '1.5px solid #1D1E22',
                             borderRadius: 'var(--radius-sm)',
-                            cursor: 'pointer'
+                            boxShadow: '1.5px 2px 0px #1D1E22',
+                            cursor: 'pointer',
+                            boxSizing: 'border-box'
                           }}
                         >
                           <Sparkles size={12} />
@@ -1258,18 +1518,22 @@ const MpDetailView = () => {
                         <button
                           type="button"
                           onClick={() => setSelectedPaymentProject(p)}
-                          className="btn-outline-dark"
+                          className="btn-secondary-tactile"
                           style={{
-                            padding: '0.4rem 0.75rem',
-                            fontSize: '0.76rem',
+                            height: '32px',
+                            padding: '0 0.75rem',
+                            fontSize: '0.75rem',
                             fontWeight: 700,
                             display: 'inline-flex',
                             alignItems: 'center',
                             gap: '0.35rem',
-                            background: '#FAF8F3',
-                            border: '1px solid #1D1E22',
-                            borderRadius: 'var(--radius-sm)',
-                            cursor: 'pointer'
+                            background: '#FFFFFF',
+                            color: '#1D1E22',
+                            border: '1.5px solid #1D1E22',
+                            borderRadius: '10px',
+                            boxShadow: '1.5px 2px 0px #1D1E22',
+                            cursor: 'pointer',
+                            boxSizing: 'border-box'
                           }}
                         >
                           <CreditCard size={13} />
@@ -1290,29 +1554,37 @@ const MpDetailView = () => {
         <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
           <div style={{ background: '#FFFFFF', border: '1.5px solid #1D1E22', borderRadius: 'var(--radius-lg)', boxShadow: '3px 4px 0px #1D1E22', padding: '1.75rem 2rem' }}>
             <h3 style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '1.35rem', fontWeight: 800, color: '#1D1E22', margin: '0 0 1rem 0' }}>
-              Installment Release & Bank Account Auditing
+              Forensic Financial Accounting & Audit Trail (18th Lok Sabha)
             </h3>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '1.25rem', marginBottom: '1.5rem' }}>
               <div style={{ background: '#FAF8F3', border: '1px solid #1D1E22', padding: '1.25rem', borderRadius: 'var(--radius-md)' }}>
-                <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>INSTALLMENT 1</div>
-                <div style={{ fontSize: '1.35rem', fontWeight: 800, color: '#1E7E34', margin: '0.25rem 0' }}>₹2.50 Cr</div>
-                <div style={{ fontSize: '0.75rem', color: 'var(--color-text-secondary)' }}>Released & 100% Utilized</div>
+                <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>SANCTIONED WORKS VALUE</div>
+                <div style={{ fontSize: '1.35rem', fontWeight: 800, color: '#1D1E22', margin: '0.25rem 0' }}>₹{mpData.sanctionedCr} Cr</div>
+                <div style={{ fontSize: '0.75rem', color: 'var(--color-text-secondary)' }}>Approved 18th LS Projects</div>
               </div>
               <div style={{ background: '#FAF8F3', border: '1px solid #1D1E22', padding: '1.25rem', borderRadius: 'var(--radius-md)' }}>
-                <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>INSTALLMENT 2</div>
-                <div style={{ fontSize: '1.35rem', fontWeight: 800, color: '#1E7E34', margin: '0.25rem 0' }}>₹2.50 Cr</div>
-                <div style={{ fontSize: '0.75rem', color: 'var(--color-text-secondary)' }}>Released & 100% Utilized</div>
+                <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>RECORDED DISBURSEMENTS</div>
+                <div style={{ fontSize: '1.35rem', fontWeight: 800, color: mpData.reconciliationRequired ? '#D97706' : '#2F7F7A', margin: '0.25rem 0' }}>₹{mpData.disbursedCr} Cr</div>
+                <div style={{ fontSize: '0.75rem', color: 'var(--color-text-secondary)' }}>
+                  Reconciled: ₹{mpData.reconciledDisbursedCr} Cr {mpData.duplicateVoucherCount > 0 ? `(${mpData.duplicateVoucherCount} suspected duplicates)` : ''}
+                </div>
               </div>
               <div style={{ background: '#FAF8F3', border: '1px solid #1D1E22', padding: '1.25rem', borderRadius: 'var(--radius-md)' }}>
-                <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>ACCRUED INTEREST</div>
-                <div style={{ fontSize: '1.35rem', fontWeight: 800, color: '#0A2458', margin: '0.25rem 0' }}>₹14.52 Lakhs</div>
-                <div style={{ fontSize: '0.75rem', color: 'var(--color-text-secondary)' }}>Added to Member Account</div>
+                <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>ACTUAL EXPENDITURE</div>
+                <div style={{ fontSize: '1.35rem', fontWeight: 800, color: '#1E7E34', margin: '0.25rem 0' }}>₹{mpData.actualCr} Cr</div>
+                <div style={{ fontSize: '0.75rem', color: 'var(--color-text-secondary)' }}>Certified Vendor Payments</div>
               </div>
             </div>
 
+            {mpData.reconciliationRequired && (
+              <div style={{ fontSize: '0.85rem', lineHeight: 1.6, color: '#78350F', background: '#FFF8E1', padding: '1.25rem', border: '1.5px solid #D97706', borderRadius: 'var(--radius-md)', marginBottom: '1rem' }}>
+                <strong>Reconciliation Trail Note:</strong> {mpData.reconciliationNote || `In the official portal snapshot, ${mpData.duplicateVoucherCount} suspected duplicate records were identified. Raw recorded disbursement was ₹${mpData.disbursedCr} Cr. Isolating suspected duplicate entries yields an estimated ₹${mpData.reconciledDisbursedCr} Cr pending independent audit confirmation.`}
+              </div>
+            )}
+
             <div style={{ fontSize: '0.85rem', lineHeight: 1.6, color: '#444', background: '#FAF8F3', padding: '1.25rem', border: '1px solid #1D1E22', borderRadius: 'var(--radius-md)' }}>
-              <strong>MoSPI Compliance Note:</strong> Funds are disbursed in ₹2.5 Crore installments to the designated Nodal District Authority upon receipt of valid Utilization Certificates (e-UCs) and physical milestone verification through the e-Saksham portal.
+              <strong>MoSPI Compliance & Accounting Protocol:</strong> Under MPLADS guidelines, Central Government funds are released in ₹2.5 Crore installments directly to the District Authority Nodal Account upon submission of physical progress milestones and Utilization Certificates (e-UCs). Official Fund Utilization is strictly computed as <code>(Actual Expenditure / GoI Funds Released) × 100</code>. Sanctioned project value must never be substituted as the denominator.
             </div>
           </div>
         </div>
@@ -1326,7 +1598,7 @@ const MpDetailView = () => {
               <X size={20} color="#1D1E22" />
             </button>
             <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.75rem' }}>
-              <CreditCard size={20} color="#0A2458" />
+              <CreditCard size={20} color="#2F7F7A" />
               <h3 style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '1.2rem', fontWeight: 800, margin: 0, color: '#1D1E22' }}>
                 Project Disbursement Details
               </h3>
@@ -1349,7 +1621,23 @@ const MpDetailView = () => {
               </div>
             </div>
             <div style={{ textAlign: 'right' }}>
-              <button type="button" onClick={() => setSelectedPaymentProject(null)} className="btn-teal" style={{ padding: '0.45rem 1.2rem' }}>
+              <button
+                type="button"
+                onClick={() => setSelectedPaymentProject(null)}
+                className="btn-secondary-tactile"
+                style={{
+                  height: '36px',
+                  padding: '0 1.35rem',
+                  fontSize: '0.84rem',
+                  fontWeight: 700,
+                  background: '#FFFFFF',
+                  color: '#1D1E22',
+                  border: '1.5px solid #1D1E22',
+                  borderRadius: 'var(--radius-sm)',
+                  boxShadow: '2px 2px 0px #1D1E22',
+                  cursor: 'pointer'
+                }}
+              >
                 Close
               </button>
             </div>
@@ -1366,6 +1654,84 @@ const MpDetailView = () => {
         .mp-project-card:hover {
           transform: translateY(-3px);
           box-shadow: 4px 6px 0px #1D1E22 !important;
+        }
+        .btn-secondary-tactile {
+          border-radius: var(--radius-full) !important;
+          background-color: #FFFFFF !important;
+          color: #1D1E22 !important;
+          transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+        }
+        .btn-secondary-tactile:hover {
+          transform: translate(-1.5px, -2px);
+          box-shadow: 3px 4px 0px #1D1E22 !important;
+          background-color: var(--color-accent-teal) !important;
+          color: #1D1E22 !important;
+          border-color: #1D1E22 !important;
+        }
+        .btn-secondary-tactile:hover svg,
+        .btn-secondary-tactile:hover span,
+        .btn-secondary-tactile:hover path {
+          color: #1D1E22 !important;
+          stroke: #1D1E22 !important;
+        }
+        .btn-secondary-tactile:active {
+          transform: translate(1.5px, 2px) !important;
+          box-shadow: 0px 0px 0px #1D1E22 !important;
+        }
+
+        .btn-language-tactile {
+          border-radius: var(--radius-full) !important;
+          background-color: var(--color-accent-teal) !important;
+          color: #1D1E22 !important;
+          transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+        }
+        .btn-language-tactile:hover {
+          transform: translate(-1.5px, -2px);
+          box-shadow: 3.5px 5px 0px #1D1E22 !important;
+          background-color: var(--color-accent-teal-hover) !important;
+          color: #1D1E22 !important;
+          border-color: #1D1E22 !important;
+        }
+        .btn-language-tactile:hover svg,
+        .btn-language-tactile:hover span,
+        .btn-language-tactile:hover path {
+          color: #1D1E22 !important;
+          stroke: #1D1E22 !important;
+        }
+        .btn-language-tactile:active {
+          transform: translate(1.5px, 2px) !important;
+          box-shadow: 0px 0px 0px #1D1E22 !important;
+        }
+
+        .btn-primary-teal-tactile {
+          border-radius: var(--radius-full) !important;
+          background-color: var(--color-accent-teal) !important;
+          color: #1D1E22 !important;
+          transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+        }
+        .btn-primary-teal-tactile:hover {
+          transform: translate(-1.5px, -2px);
+          background-color: var(--color-accent-teal-hover) !important;
+          color: #1D1E22 !important;
+          box-shadow: 3px 4px 0px #1D1E22 !important;
+        }
+        .btn-primary-teal-tactile:active {
+          transform: translate(1.5px, 2px) !important;
+          box-shadow: 0px 0px 0px #1D1E22 !important;
+        }
+
+        .btn-ai-scan-tactile {
+          transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.15s ease, color 0.15s ease;
+        }
+        .btn-ai-scan-tactile:hover {
+          transform: translate(-1px, -1.5px);
+          background-color: #2F7F7A !important;
+          color: #FFFFFF !important;
+          box-shadow: 2.5px 3px 0px #1D1E22 !important;
+        }
+        .btn-ai-scan-tactile:active {
+          transform: translate(1px, 1.5px) !important;
+          box-shadow: 0px 0px 0px #1D1E22 !important;
         }
       `}</style>
     </div>

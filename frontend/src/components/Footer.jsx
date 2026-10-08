@@ -1,37 +1,65 @@
 import React from 'react';
 import { ArrowRight, ShieldCheck } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 import { useLanguage } from '../context/LanguageContext';
 
 const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
   const { t } = useLanguage();
   const navigate = useNavigate();
+  const location = useLocation();
 
-  const scrollToSection = (id) => {
-    const el = document.getElementById(id);
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth' });
+  const handleLandingScroll = (sectionId) => {
+    if (location.pathname !== '/') {
+      navigate('/', { state: { scrollTo: sectionId } });
+    } else {
+      const el = document.getElementById(sectionId);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth' });
+      } else {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
     }
   };
 
   const handleActionClick = (actionName) => {
     if (actionName === 'explore') {
-      scrollToSection('risk-scoring');
+      handleLandingScroll('risk-scoring');
     } else if (actionName === 'login') {
       if (onLoginClick) onLoginClick();
-      else alert(t('footer.alerts.login'));
+      else navigate('/login');
     } else if (actionName === 'report') {
-      alert(t('footer.alerts.report'));
+      navigate('/features/feedback');
+    } else if (actionName === 'unifiedAnalysis') {
+      navigate('/features/unifiedAnalysis');
+    } else if (actionName === 'riskScoring') {
+      navigate('/features/riskScoring');
+    } else if (actionName === 'geospatial') {
+      navigate('/features/geospatial');
+    } else if (actionName === 'evidence') {
+      navigate('/features/evidenceReview');
+    } else if (actionName === 'investigation') {
+      navigate('/features/highRiskProjects');
+    } else if (actionName === 'about') {
+      navigate('/about-us');
+    } else if (actionName === 'problem') {
+      handleLandingScroll('problem');
+    } else if (actionName === 'process') {
+      handleLandingScroll('process');
     } else if (actionName === 'team') {
       navigate('/features/team');
     } else if (actionName === 'faq') {
-      alert(t('footer.alerts.faq'));
+      navigate('/faq');
+    } else if (actionName === 'privacy') {
+      navigate('/privacy-policy');
+    } else if (actionName === 'terms') {
+      navigate('/terms-of-service');
     } else if (actionName === 'support') {
-      alert(t('footer.alerts.support'));
+      navigate('/faq');
     } else if (actionName === 'ask') {
-      const widgetBtn = document.querySelector('[title="Ask Nirikshak AI"]') || document.querySelector('.floating-chat-btn');
-      if (widgetBtn) widgetBtn.click();
-      else alert(t('floatingWidgets.greeting'));
+      navigate('/features/assistant');
+      window.dispatchEvent(new CustomEvent('open-nirikshak-assistant'));
+    } else if (actionName === 'contact') {
+      navigate('/features/feedback');
     }
   };
 
@@ -184,7 +212,7 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
             <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0.85rem', padding: 0, margin: 0 }}>
               <li>
                 <span
-                  onClick={() => scrollToSection('ai-detection')}
+                  onClick={() => handleActionClick('unifiedAnalysis')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -193,7 +221,7 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
               </li>
               <li>
                 <span
-                  onClick={() => scrollToSection('risk-scoring')}
+                  onClick={() => handleActionClick('riskScoring')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -202,7 +230,7 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
               </li>
               <li>
                 <span
-                  onClick={() => scrollToSection('geospatial')}
+                  onClick={() => handleActionClick('geospatial')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -211,7 +239,7 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
               </li>
               <li>
                 <span
-                  onClick={() => scrollToSection('ai-detection')}
+                  onClick={() => handleActionClick('evidence')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -220,7 +248,7 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
               </li>
               <li>
                 <span
-                  onClick={() => scrollToSection('investigation')}
+                  onClick={() => handleActionClick('investigation')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -250,7 +278,16 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
             <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0.85rem', padding: 0, margin: 0 }}>
               <li>
                 <span
-                  onClick={() => scrollToSection('problem')}
+                  onClick={() => handleActionClick('about')}
+                  className="footer-nav-link"
+                  style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
+                >
+                  {t('footer.links.aboutUs')}
+                </span>
+              </li>
+              <li>
+                <span
+                  onClick={() => handleActionClick('problem')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -259,7 +296,7 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
               </li>
               <li>
                 <span
-                  onClick={() => scrollToSection('process')}
+                  onClick={() => handleActionClick('process')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -325,7 +362,7 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
               </li>
               <li>
                 <span
-                  onClick={() => handleActionClick('support')}
+                  onClick={() => handleActionClick('contact')}
                   className="footer-nav-link"
                   style={{ cursor: 'pointer', fontSize: '0.95rem', color: '#2A2C32', fontWeight: 500 }}
                 >
@@ -385,22 +422,20 @@ const Footer = ({ onLoginClick, hideCTAButtons = false }) => {
 
           {/* Right Legal Links */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '2rem' }}>
-            <a
-              href="#privacy"
-              onClick={(e) => { e.preventDefault(); alert(t('footer.alerts.privacy')); }}
+            <span
+              onClick={() => handleActionClick('privacy')}
               className="link-underline"
-              style={{ fontSize: '0.85rem', color: '#1D1E22' }}
+              style={{ fontSize: '0.85rem', color: '#1D1E22', cursor: 'pointer' }}
             >
               {t('footer.privacyPolicy')}
-            </a>
-            <a
-              href="#terms"
-              onClick={(e) => { e.preventDefault(); alert(t('footer.alerts.terms')); }}
+            </span>
+            <span
+              onClick={() => handleActionClick('terms')}
               className="link-underline"
-              style={{ fontSize: '0.85rem', color: '#1D1E22' }}
+              style={{ fontSize: '0.85rem', color: '#1D1E22', cursor: 'pointer' }}
             >
               {t('footer.termsOfUse')}
-            </a>
+            </span>
           </div>
         </div>
       </div>

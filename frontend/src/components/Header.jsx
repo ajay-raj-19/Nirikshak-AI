@@ -152,8 +152,8 @@ const Header = ({ activeSection, setActiveSection, onFeatureSelect }) => {
   const location = useLocation();
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [mobileExpandedGroup, setMobileExpandedGroup] = useState(null);
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
+  const isHi = language === 'hi';
 
   // Desktop continuous sliding drawer states
   const [activeDrawer, setActiveDrawer] = useState(null); // 'home' | 'problem' | ... | 'more'
@@ -224,10 +224,10 @@ const Header = ({ activeSection, setActiveSection, onFeatureSelect }) => {
     },
     {
       id: 'aiIntelligence',
-      label: 'Unified Analysis',
+      label: t('header.nav.unifiedAnalysis') || (isHi ? 'एकीकृत विश्लेषण' : 'Unified Analysis'),
       target: 'ai-detection',
       items: [
-        { id: 'unifiedAnalysis', label: 'Unified Analysis', target: 'ai-detection' },
+        { id: 'unifiedAnalysis', label: t('header.nav.unifiedAnalysis') || (isHi ? 'एकीकृत विश्लेषण' : 'Unified Analysis'), target: 'ai-detection' },
       ]
     },
     {

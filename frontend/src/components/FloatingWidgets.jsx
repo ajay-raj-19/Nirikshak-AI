@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 import {
   MessageSquare, X, Send, ShieldAlert, ArrowRight, RotateCcw,
   ChevronDown, ChevronUp, Database, Sparkles, AlertCircle, CheckCircle2, User, Bot
@@ -83,6 +83,7 @@ const FormattedMessage = ({ text }) => {
 
 const FloatingWidgets = ({ onLoginClick, selectedWorkId, selectedMpId, selectedConstituency, selectedState }) => {
   const navigate = useNavigate();
+  const location = useLocation();
   const { t, language } = useLanguage();
   const isHi = language === 'hi';
   const { token, isAuthenticated, user } = useAuth();
@@ -101,6 +102,16 @@ const FloatingWidgets = ({ onLoginClick, selectedWorkId, selectedMpId, selectedC
   useEffect(() => {
     setConversationId(`conv-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`);
   }, []);
+
+  // Listen for open assistant events
+  useEffect(() => {
+    const handleOpen = () => setChatOpen(true);
+    window.addEventListener('open-nirikshak-assistant', handleOpen);
+    if (location.state?.openAssistant) {
+      setChatOpen(true);
+    }
+    return () => window.removeEventListener('open-nirikshak-assistant', handleOpen);
+  }, [location.state]);
 
   // Update initial greeting when language changes or on first load
   useEffect(() => {

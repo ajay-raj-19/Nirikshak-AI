@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { ShieldAlert, AlertCircle, CheckCircle2, ChevronDown, ArrowRight } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 import { useData } from '../context/DataContext';
 
 const VirtualOffice = () => {
+  const navigate = useNavigate();
   const { t } = useLanguage();
   const { unifiedProjects } = useData();
   const [openAccordion, setOpenAccordion] = useState('docket');
@@ -439,7 +441,7 @@ const VirtualOffice = () => {
 
           <div style={{ textAlign: 'center', marginTop: '3rem' }}>
             <button
-              onClick={() => alert(t('investigation.alerts.fullPortal'))}
+              onClick={() => navigate('/features/highRiskProjects')}
               className="btn-teal"
               style={{ padding: '0.85rem 2.2rem', fontSize: '1rem' }}
             >

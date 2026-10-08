@@ -17,6 +17,10 @@ import FeatureView from './components/views/FeatureView';
 import StateDetailView from './components/views/StateDetailView';
 import MpDetailView from './components/views/MpDetailView';
 import QrDemoView from './components/views/QrDemoView';
+import AboutUsView from './components/views/AboutUsView';
+import FaqView from './components/views/FaqView';
+import PrivacyPolicyView from './components/views/PrivacyPolicyView';
+import TermsOfServiceView from './components/views/TermsOfServiceView';
 import ErrorBoundary from './components/common/ErrorBoundary';
 import { useAuth } from './context/AuthContext';
 
@@ -68,7 +72,7 @@ function LandingPage() {
       threshold: 0.12
     });
 
-    const targets = document.querySelectorAll('section, .scroll-reveal');
+    const targets = document.querySelectorAll('section:not(#roadmap), .scroll-reveal:not(#roadmap)');
     targets.forEach((el) => {
       el.classList.add('scroll-reveal');
       observer.observe(el);
@@ -237,6 +241,22 @@ function App() {
 
         {/* Feature Detail Views */}
         <Route path="/features/:featureId" element={<FeaturePage />} />
+
+        {/* Public Informational Pages */}
+        <Route path="/about-us" element={<AboutUsView />} />
+        <Route path="/about" element={<Navigate to="/about-us" replace />} />
+        <Route path="/faq" element={<FaqView />} />
+        <Route path="/faqs" element={<Navigate to="/faq" replace />} />
+        <Route path="/support" element={<Navigate to="/faq" replace />} />
+        <Route path="/help" element={<Navigate to="/faq" replace />} />
+        <Route path="/contact" element={<Navigate to="/features/feedback" replace />} />
+        <Route path="/assistant" element={<FeaturePage />} />
+        <Route path="/ask" element={<Navigate to="/assistant" replace />} />
+        <Route path="/team" element={<FeaturePage />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicyView />} />
+        <Route path="/privacy" element={<Navigate to="/privacy-policy" replace />} />
+        <Route path="/terms-of-service" element={<TermsOfServiceView />} />
+        <Route path="/terms" element={<Navigate to="/terms-of-service" replace />} />
 
         {/* Direct Feature Aliases (e.g., /overview, /keyMetrics, /financialAnomaly, /states, /mps) */}
         <Route path="/:featureId" element={<FeaturePage />} />

@@ -240,6 +240,13 @@ button:active,
   transform: translateY(0);
 }
 
+#roadmap,
+#roadmap.scroll-reveal {
+  opacity: 1 !important;
+  transform: none !important;
+  visibility: visible !important;
+}
+
 /* Authentic Underline Links */
 .link-underline {
   color: var(--color-text-primary);

@@ -15,13 +15,13 @@ export const TEAM_SAGE_MEMBERS = [
   {
     id: 'ajay-raj',
     name: 'Ajay Raj',
-    role: 'Frontend & Product Interface Lead',
-    roleHi: 'फ्रंटएंड एवं प्रोडक्ट इंटरफेस लीड',
+    role: 'Frontend & Data Engineering Lead',
+    roleHi: 'फ्रंटएंड एवं डेटा इंजीनियरिंग लीड',
     image: ajayPhoto,
     avatarInitials: 'AR',
     avatarBg: '#E8F0FE',
     avatarTextColor: '#0A2458',
-    description: 'Designed and developed the frontend experience, dashboards and interactive interfaces of Nirikshak AI.',
+    description: 'Led frontend development, interactive dashboards, dataset integration, data processing, and financial data validation.',
     descriptionHi: 'निरीक्षक एआई के फ्रंटएंड अनुभव, डैशबोर्ड और इंटरैक्टिव इंटरफेस का डिज़ाइन एवं विकास किया।'
   },
   {
@@ -86,7 +86,7 @@ export const TEAM_SAGE_MEMBERS = [
   }
 ];
 
-const MeetTheTeamView = () => {
+const MeetTheTeamView = ({ hideFooter = false }) => {
   const { language } = useLanguage();
   const isHi = language === 'hi';
 
@@ -278,7 +278,7 @@ const MeetTheTeamView = () => {
       </div>
 
       {/* Global Footer */}
-      <Footer hideCTAButtons={true} />
+      {!hideFooter && <Footer hideCTAButtons={true} />}
     </div>
   );
 };
