@@ -1,19 +1,327 @@
 // Generated constituencies list mapping
 export const INDIA_STATES_AND_UT = [
   {
+    "slug": "nagaland",
+    "state": "Nagaland",
+    "stateHi": "\u0928\u093e\u0917\u093e\u0932\u0948\u0902\u0921",
+    "type": "State",
+    "rank": 1,
+    "performanceCategory": "High",
+    "mpCount": 3,
+    "totalAllocatedCr": 40.2,
+    "totalUtilizedCr": 39.2,
+    "utilizationPct": 97.6,
+    "worksRecommended": 151,
+    "worksCompleted": 127,
+    "completionPct": 84.1,
+    "constituencies": [
+      {
+        "id": "nagaland",
+        "name": "NAGALAND",
+        "nameHi": "NAGALAND"
+      },
+      {
+        "id": "nagaland-rajya-sabha-nodal-district",
+        "name": "Nagaland (Rajya Sabha Nodal District)",
+        "nameHi": "Nagaland (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
+    "slug": "bihar",
+    "state": "Bihar",
+    "stateHi": "\u092c\u093f\u0939\u093e\u0930",
+    "type": "State",
+    "rank": 2,
+    "performanceCategory": "High",
+    "mpCount": 91,
+    "totalAllocatedCr": 980.5,
+    "totalUtilizedCr": 1012.3,
+    "utilizationPct": 95.2,
+    "worksRecommended": 13651,
+    "worksCompleted": 9522,
+    "completionPct": 69.8,
+    "constituencies": [
+      {
+        "id": "araria",
+        "name": "ARARIA",
+        "nameHi": "ARARIA"
+      },
+      {
+        "id": "arrah",
+        "name": "ARRAH",
+        "nameHi": "ARRAH"
+      },
+      {
+        "id": "aurangabad-br",
+        "name": "AURANGABAD_BR",
+        "nameHi": "AURANGABAD_BR"
+      },
+      {
+        "id": "banka",
+        "name": "BANKA",
+        "nameHi": "BANKA"
+      },
+      {
+        "id": "begusarai",
+        "name": "BEGUSARAI",
+        "nameHi": "BEGUSARAI"
+      },
+      {
+        "id": "bhagalpur",
+        "name": "BHAGALPUR",
+        "nameHi": "BHAGALPUR"
+      },
+      {
+        "id": "buxar",
+        "name": "BUXAR",
+        "nameHi": "BUXAR"
+      },
+      {
+        "id": "bihar-rajya-sabha-nodal-district",
+        "name": "Bihar (Rajya Sabha Nodal District)",
+        "nameHi": "Bihar (Rajya Sabha Nodal District)"
+      },
+      {
+        "id": "darbhanga",
+        "name": "DARBHANGA",
+        "nameHi": "DARBHANGA"
+      },
+      {
+        "id": "gaya-sc",
+        "name": "GAYA (SC)",
+        "nameHi": "GAYA (SC)"
+      },
+      {
+        "id": "gopalganj-sc",
+        "name": "GOPALGANJ (SC)",
+        "nameHi": "GOPALGANJ (SC)"
+      },
+      {
+        "id": "hajipur-sc",
+        "name": "HAJIPUR(SC)",
+        "nameHi": "HAJIPUR(SC)"
+      },
+      {
+        "id": "jahanabad",
+        "name": "JAHANABAD",
+        "nameHi": "JAHANABAD"
+      },
+      {
+        "id": "jamui-sc",
+        "name": "JAMUI(SC)",
+        "nameHi": "JAMUI(SC)"
+      },
+      {
+        "id": "jhanjharpur",
+        "name": "JHANJHARPUR",
+        "nameHi": "JHANJHARPUR"
+      },
+      {
+        "id": "karakat",
+        "name": "KARAKAT",
+        "nameHi": "KARAKAT"
+      },
+      {
+        "id": "katihar",
+        "name": "KATIHAR",
+        "nameHi": "KATIHAR"
+      },
+      {
+        "id": "khagaria",
+        "name": "KHAGARIA",
+        "nameHi": "KHAGARIA"
+      },
+      {
+        "id": "kishanganj",
+        "name": "KISHANGANJ",
+        "nameHi": "KISHANGANJ"
+      },
+      {
+        "id": "madhepura",
+        "name": "MADHEPURA",
+        "nameHi": "MADHEPURA"
+      },
+      {
+        "id": "madhubani",
+        "name": "MADHUBANI",
+        "nameHi": "MADHUBANI"
+      },
+      {
+        "id": "maharajganj-br",
+        "name": "MAHARAJGANJ_BR",
+        "nameHi": "MAHARAJGANJ_BR"
+      },
+      {
+        "id": "munger",
+        "name": "MUNGER",
+        "nameHi": "MUNGER"
+      },
+      {
+        "id": "muzaffarpur",
+        "name": "MUZAFFARPUR",
+        "nameHi": "MUZAFFARPUR"
+      },
+      {
+        "id": "nalanda",
+        "name": "NALANDA",
+        "nameHi": "NALANDA"
+      },
+      {
+        "id": "nawada",
+        "name": "NAWADA",
+        "nameHi": "NAWADA"
+      },
+      {
+        "id": "paschim-champaran",
+        "name": "PASCHIM CHAMPARAN",
+        "nameHi": "PASCHIM CHAMPARAN"
+      },
+      {
+        "id": "pataliputra",
+        "name": "PATALIPUTRA",
+        "nameHi": "PATALIPUTRA"
+      },
+      {
+        "id": "patna-sahib",
+        "name": "PATNA SAHIB",
+        "nameHi": "PATNA SAHIB"
+      },
+      {
+        "id": "purnea",
+        "name": "PURNEA",
+        "nameHi": "PURNEA"
+      },
+      {
+        "id": "purvi-champaran",
+        "name": "PURVI CHAMPARAN",
+        "nameHi": "PURVI CHAMPARAN"
+      },
+      {
+        "id": "samastipur-sc",
+        "name": "SAMASTIPUR(SC)",
+        "nameHi": "SAMASTIPUR(SC)"
+      },
+      {
+        "id": "saran",
+        "name": "SARAN",
+        "nameHi": "SARAN"
+      },
+      {
+        "id": "sasaram-sc",
+        "name": "SASARAM(SC)",
+        "nameHi": "SASARAM(SC)"
+      },
+      {
+        "id": "sheohar",
+        "name": "SHEOHAR",
+        "nameHi": "SHEOHAR"
+      },
+      {
+        "id": "sitamarhi",
+        "name": "SITAMARHI",
+        "nameHi": "SITAMARHI"
+      },
+      {
+        "id": "siwan",
+        "name": "SIWAN",
+        "nameHi": "SIWAN"
+      },
+      {
+        "id": "supaul",
+        "name": "SUPAUL",
+        "nameHi": "SUPAUL"
+      },
+      {
+        "id": "ujjarpur",
+        "name": "UJJARPUR",
+        "nameHi": "UJJARPUR"
+      },
+      {
+        "id": "vaishali",
+        "name": "VAISHALI",
+        "nameHi": "VAISHALI"
+      },
+      {
+        "id": "valmiki-nagar",
+        "name": "VALMIKI NAGAR",
+        "nameHi": "VALMIKI NAGAR"
+      }
+    ]
+  },
+  {
+    "slug": "arunachal-pradesh",
+    "state": "Arunachal Pradesh",
+    "stateHi": "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936",
+    "type": "State",
+    "rank": 3,
+    "performanceCategory": "High",
+    "mpCount": 4,
+    "totalAllocatedCr": 44.0,
+    "totalUtilizedCr": 38.6,
+    "utilizationPct": 87.7,
+    "worksRecommended": 663,
+    "worksCompleted": 560,
+    "completionPct": 84.5,
+    "constituencies": [
+      {
+        "id": "arunachal-east",
+        "name": "ARUNACHAL EAST",
+        "nameHi": "ARUNACHAL EAST"
+      },
+      {
+        "id": "arunachal-west",
+        "name": "ARUNACHAL WEST",
+        "nameHi": "ARUNACHAL WEST"
+      },
+      {
+        "id": "arunachal-pradesh-rajya-sabha-nodal-district",
+        "name": "Arunachal Pradesh (Rajya Sabha Nodal District)",
+        "nameHi": "Arunachal Pradesh (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
+    "slug": "sikkim",
+    "state": "Sikkim",
+    "stateHi": "\u0938\u093f\u0915\u094d\u0915\u093f\u092e",
+    "type": "State",
+    "rank": 4,
+    "performanceCategory": "High",
+    "mpCount": 3,
+    "totalAllocatedCr": 39.4,
+    "totalUtilizedCr": 33.7,
+    "utilizationPct": 85.7,
+    "worksRecommended": 305,
+    "worksCompleted": 173,
+    "completionPct": 56.7,
+    "constituencies": [
+      {
+        "id": "sikkim",
+        "name": "SIKKIM",
+        "nameHi": "SIKKIM"
+      },
+      {
+        "id": "sikkim-rajya-sabha-nodal-district",
+        "name": "Sikkim (Rajya Sabha Nodal District)",
+        "nameHi": "Sikkim (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
     "slug": "manipur",
     "state": "Manipur",
     "stateHi": "\u092e\u0923\u093f\u092a\u0941\u0930",
     "type": "State",
-    "rank": 1,
+    "rank": 5,
     "performanceCategory": "High",
     "mpCount": 5,
-    "totalAllocatedCr": 32.8,
-    "totalUtilizedCr": 35.0,
-    "utilizationPct": 95.2,
-    "worksRecommended": 208,
+    "totalAllocatedCr": 45.6,
+    "totalUtilizedCr": 38.0,
+    "utilizationPct": 83.4,
+    "worksRecommended": 236,
     "worksCompleted": 137,
-    "completionPct": 65.9,
+    "completionPct": 58.1,
     "constituencies": [
       {
         "id": "inner-manipur",
@@ -37,15 +345,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Meghalaya",
     "stateHi": "\u092e\u0947\u0918\u093e\u0932\u092f",
     "type": "State",
-    "rank": 2,
+    "rank": 6,
     "performanceCategory": "High",
-    "mpCount": 4,
-    "totalAllocatedCr": 30.4,
-    "totalUtilizedCr": 31.9,
-    "utilizationPct": 95.2,
-    "worksRecommended": 1118,
-    "worksCompleted": 702,
-    "completionPct": 62.8,
+    "mpCount": 5,
+    "totalAllocatedCr": 41.0,
+    "totalUtilizedCr": 33.0,
+    "utilizationPct": 80.5,
+    "worksRecommended": 1143,
+    "worksCompleted": 717,
+    "completionPct": 62.7,
     "constituencies": [
       {
         "id": "meghalaya-rajya-sabha-nodal-district",
@@ -69,15 +377,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Mizoram",
     "stateHi": "\u092e\u093f\u091c\u094b\u0930\u092e",
     "type": "State",
-    "rank": 3,
-    "performanceCategory": "High",
-    "mpCount": 2,
-    "totalAllocatedCr": 12.6,
-    "totalUtilizedCr": 16.9,
-    "utilizationPct": 95.2,
-    "worksRecommended": 337,
+    "rank": 7,
+    "performanceCategory": "Average",
+    "mpCount": 3,
+    "totalAllocatedCr": 21.6,
+    "totalUtilizedCr": 17.2,
+    "utilizationPct": 79.8,
+    "worksRecommended": 357,
     "worksCompleted": 202,
-    "completionPct": 59.9,
+    "completionPct": 56.6,
     "constituencies": [
       {
         "id": "mizoram-st",
@@ -92,273 +400,56 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "nagaland",
-    "state": "Nagaland",
-    "stateHi": "\u0928\u093e\u0917\u093e\u0932\u0948\u0902\u0921",
-    "type": "State",
-    "rank": 4,
-    "performanceCategory": "High",
-    "mpCount": 3,
-    "totalAllocatedCr": 16.7,
-    "totalUtilizedCr": 38.4,
-    "utilizationPct": 95.2,
-    "worksRecommended": 148,
-    "worksCompleted": 110,
-    "completionPct": 74.3,
+    "slug": "lakshadweep",
+    "state": "Lakshadweep",
+    "stateHi": "\u0932\u0915\u094d\u0937\u0926\u094d\u0935\u0940\u092a",
+    "type": "Union Territory",
+    "rank": 8,
+    "performanceCategory": "Average",
+    "mpCount": 2,
+    "totalAllocatedCr": 29.7,
+    "totalUtilizedCr": 23.3,
+    "utilizationPct": 78.3,
+    "worksRecommended": 77,
+    "worksCompleted": 42,
+    "completionPct": 54.5,
     "constituencies": [
       {
-        "id": "nagaland",
-        "name": "NAGALAND",
-        "nameHi": "NAGALAND"
+        "id": "lakshadweep-st",
+        "name": "LAKSHADWEEP(ST)",
+        "nameHi": "LAKSHADWEEP(ST)"
       },
       {
-        "id": "nagaland-rajya-sabha-nodal-district",
-        "name": "Nagaland (Rajya Sabha Nodal District)",
-        "nameHi": "Nagaland (Rajya Sabha Nodal District)"
+        "id": "lakshadweep-rajya-sabha-nodal-district",
+        "name": "Lakshadweep (Rajya Sabha Nodal District)",
+        "nameHi": "Lakshadweep (Rajya Sabha Nodal District)"
       }
     ]
   },
   {
-    "slug": "sikkim",
-    "state": "Sikkim",
-    "stateHi": "\u0938\u093f\u0915\u094d\u0915\u093f\u092e",
-    "type": "State",
-    "rank": 5,
-    "performanceCategory": "High",
-    "mpCount": 3,
-    "totalAllocatedCr": 22.1,
-    "totalUtilizedCr": 27.8,
-    "utilizationPct": 95.2,
-    "worksRecommended": 300,
-    "worksCompleted": 173,
-    "completionPct": 57.7,
+    "slug": "andaman-nicobar-islands",
+    "state": "Andaman & Nicobar Islands",
+    "stateHi": "\u0905\u0902\u0921\u092e\u093e\u0928 \u0914\u0930 \u0928\u093f\u0915\u094b\u092c\u093e\u0930 \u0926\u094d\u0935\u0940\u092a \u0938\u092e\u0942\u0939",
+    "type": "Union Territory",
+    "rank": 9,
+    "performanceCategory": "Average",
+    "mpCount": 2,
+    "totalAllocatedCr": 16.9,
+    "totalUtilizedCr": 12.6,
+    "utilizationPct": 74.9,
+    "worksRecommended": 71,
+    "worksCompleted": 20,
+    "completionPct": 28.2,
     "constituencies": [
       {
-        "id": "sikkim",
-        "name": "SIKKIM",
-        "nameHi": "SIKKIM"
+        "id": "andaman-and-nicobar-islands",
+        "name": "ANDAMAN AND NICOBAR ISLANDS",
+        "nameHi": "ANDAMAN AND NICOBAR ISLANDS"
       },
       {
-        "id": "sikkim-rajya-sabha-nodal-district",
-        "name": "Sikkim (Rajya Sabha Nodal District)",
-        "nameHi": "Sikkim (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
-    "slug": "tamil-nadu",
-    "state": "Tamil Nadu",
-    "stateHi": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941",
-    "type": "State",
-    "rank": 6,
-    "performanceCategory": "High",
-    "mpCount": 91,
-    "totalAllocatedCr": 678.0,
-    "totalUtilizedCr": 699.0,
-    "utilizationPct": 95.2,
-    "worksRecommended": 11168,
-    "worksCompleted": 7545,
-    "completionPct": 67.6,
-    "constituencies": [
-      {
-        "id": "arakkonam",
-        "name": "ARAKKONAM",
-        "nameHi": "ARAKKONAM"
-      },
-      {
-        "id": "arani",
-        "name": "ARANI",
-        "nameHi": "ARANI"
-      },
-      {
-        "id": "chennai-central",
-        "name": "CHENNAI CENTRAL",
-        "nameHi": "CHENNAI CENTRAL"
-      },
-      {
-        "id": "chennai-north",
-        "name": "CHENNAI NORTH",
-        "nameHi": "CHENNAI NORTH"
-      },
-      {
-        "id": "chennai-south",
-        "name": "CHENNAI SOUTH",
-        "nameHi": "CHENNAI SOUTH"
-      },
-      {
-        "id": "chidambaram-sc",
-        "name": "CHIDAMBARAM(SC)",
-        "nameHi": "CHIDAMBARAM(SC)"
-      },
-      {
-        "id": "coimbatore",
-        "name": "COIMBATORE",
-        "nameHi": "COIMBATORE"
-      },
-      {
-        "id": "cuddalore",
-        "name": "CUDDALORE",
-        "nameHi": "CUDDALORE"
-      },
-      {
-        "id": "dharamapuri",
-        "name": "DHARAMAPURI",
-        "nameHi": "DHARAMAPURI"
-      },
-      {
-        "id": "dindigul",
-        "name": "DINDIGUL",
-        "nameHi": "DINDIGUL"
-      },
-      {
-        "id": "erode",
-        "name": "ERODE",
-        "nameHi": "ERODE"
-      },
-      {
-        "id": "kallakurichi",
-        "name": "KALLAKURICHI",
-        "nameHi": "KALLAKURICHI"
-      },
-      {
-        "id": "kancheepuram-sc",
-        "name": "KANCHEEPURAM(SC)",
-        "nameHi": "KANCHEEPURAM(SC)"
-      },
-      {
-        "id": "kanniyakumari",
-        "name": "KANNIYAKUMARI",
-        "nameHi": "KANNIYAKUMARI"
-      },
-      {
-        "id": "karur",
-        "name": "KARUR",
-        "nameHi": "KARUR"
-      },
-      {
-        "id": "krishnagiri",
-        "name": "KRISHNAGIRI",
-        "nameHi": "KRISHNAGIRI"
-      },
-      {
-        "id": "madurai",
-        "name": "MADURAI",
-        "nameHi": "MADURAI"
-      },
-      {
-        "id": "mayiladuthurai",
-        "name": "MAYILADUTHURAI",
-        "nameHi": "MAYILADUTHURAI"
-      },
-      {
-        "id": "nagapattinam-sc",
-        "name": "NAGAPATTINAM(SC)",
-        "nameHi": "NAGAPATTINAM(SC)"
-      },
-      {
-        "id": "namakkal",
-        "name": "NAMAKKAL",
-        "nameHi": "NAMAKKAL"
-      },
-      {
-        "id": "nilgiris-sc",
-        "name": "NILGIRIS(SC)",
-        "nameHi": "NILGIRIS(SC)"
-      },
-      {
-        "id": "perambalur",
-        "name": "PERAMBALUR",
-        "nameHi": "PERAMBALUR"
-      },
-      {
-        "id": "pollachi",
-        "name": "POLLACHI",
-        "nameHi": "POLLACHI"
-      },
-      {
-        "id": "ramanathapuram",
-        "name": "RAMANATHAPURAM",
-        "nameHi": "RAMANATHAPURAM"
-      },
-      {
-        "id": "salem",
-        "name": "SALEM",
-        "nameHi": "SALEM"
-      },
-      {
-        "id": "sivaganga",
-        "name": "SIVAGANGA",
-        "nameHi": "SIVAGANGA"
-      },
-      {
-        "id": "sriperumbudur",
-        "name": "SRIPERUMBUDUR",
-        "nameHi": "SRIPERUMBUDUR"
-      },
-      {
-        "id": "tenkasi-sc",
-        "name": "TENKASI(SC)",
-        "nameHi": "TENKASI(SC)"
-      },
-      {
-        "id": "thanjavur",
-        "name": "THANJAVUR",
-        "nameHi": "THANJAVUR"
-      },
-      {
-        "id": "theni",
-        "name": "THENI",
-        "nameHi": "THENI"
-      },
-      {
-        "id": "thoothukkudi",
-        "name": "THOOTHUKKUDI",
-        "nameHi": "THOOTHUKKUDI"
-      },
-      {
-        "id": "tiruchirappalli",
-        "name": "TIRUCHIRAPPALLI",
-        "nameHi": "TIRUCHIRAPPALLI"
-      },
-      {
-        "id": "tirunelveli",
-        "name": "TIRUNELVELI",
-        "nameHi": "TIRUNELVELI"
-      },
-      {
-        "id": "tiruppur",
-        "name": "TIRUPPUR",
-        "nameHi": "TIRUPPUR"
-      },
-      {
-        "id": "tiruvallur-sc",
-        "name": "TIRUVALLUR(SC)",
-        "nameHi": "TIRUVALLUR(SC)"
-      },
-      {
-        "id": "tiruvannamalai",
-        "name": "TIRUVANNAMALAI",
-        "nameHi": "TIRUVANNAMALAI"
-      },
-      {
-        "id": "tamil-nadu-rajya-sabha-nodal-district",
-        "name": "Tamil Nadu (Rajya Sabha Nodal District)",
-        "nameHi": "Tamil Nadu (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "vellore",
-        "name": "VELLORE",
-        "nameHi": "VELLORE"
-      },
-      {
-        "id": "viluppuram-sc",
-        "name": "VILUPPURAM(SC)",
-        "nameHi": "VILUPPURAM(SC)"
-      },
-      {
-        "id": "virudhunagar",
-        "name": "VIRUDHUNAGAR",
-        "nameHi": "VIRUDHUNAGAR"
+        "id": "andaman-and-nicobar-islands-rajya-sabha-nodal-district",
+        "name": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)",
+        "nameHi": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)"
       }
     ]
   },
@@ -367,15 +458,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Uttar Pradesh",
     "stateHi": "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
     "type": "State",
-    "rank": 7,
-    "performanceCategory": "High",
+    "rank": 10,
+    "performanceCategory": "Average",
     "mpCount": 192,
-    "totalAllocatedCr": 1387.4,
-    "totalUtilizedCr": 1449.1,
-    "utilizationPct": 95.2,
-    "worksRecommended": 38523,
-    "worksCompleted": 21760,
-    "completionPct": 56.5,
+    "totalAllocatedCr": 2048.9,
+    "totalUtilizedCr": 1526.1,
+    "utilizationPct": 74.5,
+    "worksRecommended": 42448,
+    "worksCompleted": 23104,
+    "completionPct": 54.4,
     "constituencies": [
       {
         "id": "agra-sc",
@@ -785,256 +876,219 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "arunachal-pradesh",
-    "state": "Arunachal Pradesh",
-    "stateHi": "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936",
+    "slug": "tamil-nadu",
+    "state": "Tamil Nadu",
+    "stateHi": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941",
     "type": "State",
-    "rank": 8,
-    "performanceCategory": "High",
-    "mpCount": 4,
-    "totalAllocatedCr": 24.9,
-    "totalUtilizedCr": 37.8,
-    "utilizationPct": 95.2,
-    "worksRecommended": 640,
-    "worksCompleted": 547,
-    "completionPct": 85.5,
+    "rank": 11,
+    "performanceCategory": "Average",
+    "mpCount": 95,
+    "totalAllocatedCr": 1003.4,
+    "totalUtilizedCr": 730.7,
+    "utilizationPct": 72.8,
+    "worksRecommended": 11746,
+    "worksCompleted": 7787,
+    "completionPct": 66.3,
     "constituencies": [
       {
-        "id": "arunachal-east",
-        "name": "ARUNACHAL EAST",
-        "nameHi": "ARUNACHAL EAST"
+        "id": "arakkonam",
+        "name": "ARAKKONAM",
+        "nameHi": "ARAKKONAM"
       },
       {
-        "id": "arunachal-west",
-        "name": "ARUNACHAL WEST",
-        "nameHi": "ARUNACHAL WEST"
+        "id": "arani",
+        "name": "ARANI",
+        "nameHi": "ARANI"
       },
       {
-        "id": "arunachal-pradesh-rajya-sabha-nodal-district",
-        "name": "Arunachal Pradesh (Rajya Sabha Nodal District)",
-        "nameHi": "Arunachal Pradesh (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
-    "slug": "bihar",
-    "state": "Bihar",
-    "stateHi": "\u092c\u093f\u0939\u093e\u0930",
-    "type": "State",
-    "rank": 9,
-    "performanceCategory": "High",
-    "mpCount": 91,
-    "totalAllocatedCr": 643.0,
-    "totalUtilizedCr": 978.2,
-    "utilizationPct": 95.2,
-    "worksRecommended": 13203,
-    "worksCompleted": 9197,
-    "completionPct": 69.7,
-    "constituencies": [
-      {
-        "id": "araria",
-        "name": "ARARIA",
-        "nameHi": "ARARIA"
+        "id": "chennai-central",
+        "name": "CHENNAI CENTRAL",
+        "nameHi": "CHENNAI CENTRAL"
       },
       {
-        "id": "arrah",
-        "name": "ARRAH",
-        "nameHi": "ARRAH"
+        "id": "chennai-north",
+        "name": "CHENNAI NORTH",
+        "nameHi": "CHENNAI NORTH"
       },
       {
-        "id": "aurangabad-br",
-        "name": "AURANGABAD_BR",
-        "nameHi": "AURANGABAD_BR"
+        "id": "chennai-south",
+        "name": "CHENNAI SOUTH",
+        "nameHi": "CHENNAI SOUTH"
       },
       {
-        "id": "banka",
-        "name": "BANKA",
-        "nameHi": "BANKA"
+        "id": "chidambaram-sc",
+        "name": "CHIDAMBARAM(SC)",
+        "nameHi": "CHIDAMBARAM(SC)"
       },
       {
-        "id": "begusarai",
-        "name": "BEGUSARAI",
-        "nameHi": "BEGUSARAI"
+        "id": "coimbatore",
+        "name": "COIMBATORE",
+        "nameHi": "COIMBATORE"
       },
       {
-        "id": "bhagalpur",
-        "name": "BHAGALPUR",
-        "nameHi": "BHAGALPUR"
+        "id": "cuddalore",
+        "name": "CUDDALORE",
+        "nameHi": "CUDDALORE"
       },
       {
-        "id": "buxar",
-        "name": "BUXAR",
-        "nameHi": "BUXAR"
+        "id": "dharamapuri",
+        "name": "DHARAMAPURI",
+        "nameHi": "DHARAMAPURI"
       },
       {
-        "id": "bihar-rajya-sabha-nodal-district",
-        "name": "Bihar (Rajya Sabha Nodal District)",
-        "nameHi": "Bihar (Rajya Sabha Nodal District)"
+        "id": "dindigul",
+        "name": "DINDIGUL",
+        "nameHi": "DINDIGUL"
       },
       {
-        "id": "darbhanga",
-        "name": "DARBHANGA",
-        "nameHi": "DARBHANGA"
+        "id": "erode",
+        "name": "ERODE",
+        "nameHi": "ERODE"
       },
       {
-        "id": "gaya-sc",
-        "name": "GAYA (SC)",
-        "nameHi": "GAYA (SC)"
+        "id": "kallakurichi",
+        "name": "KALLAKURICHI",
+        "nameHi": "KALLAKURICHI"
       },
       {
-        "id": "gopalganj-sc",
-        "name": "GOPALGANJ (SC)",
-        "nameHi": "GOPALGANJ (SC)"
+        "id": "kancheepuram-sc",
+        "name": "KANCHEEPURAM(SC)",
+        "nameHi": "KANCHEEPURAM(SC)"
       },
       {
-        "id": "hajipur-sc",
-        "name": "HAJIPUR(SC)",
-        "nameHi": "HAJIPUR(SC)"
+        "id": "kanniyakumari",
+        "name": "KANNIYAKUMARI",
+        "nameHi": "KANNIYAKUMARI"
       },
       {
-        "id": "jahanabad",
-        "name": "JAHANABAD",
-        "nameHi": "JAHANABAD"
+        "id": "karur",
+        "name": "KARUR",
+        "nameHi": "KARUR"
       },
       {
-        "id": "jamui-sc",
-        "name": "JAMUI(SC)",
-        "nameHi": "JAMUI(SC)"
+        "id": "krishnagiri",
+        "name": "KRISHNAGIRI",
+        "nameHi": "KRISHNAGIRI"
       },
       {
-        "id": "jhanjharpur",
-        "name": "JHANJHARPUR",
-        "nameHi": "JHANJHARPUR"
+        "id": "madurai",
+        "name": "MADURAI",
+        "nameHi": "MADURAI"
       },
       {
-        "id": "karakat",
-        "name": "KARAKAT",
-        "nameHi": "KARAKAT"
+        "id": "mayiladuthurai",
+        "name": "MAYILADUTHURAI",
+        "nameHi": "MAYILADUTHURAI"
       },
       {
-        "id": "katihar",
-        "name": "KATIHAR",
-        "nameHi": "KATIHAR"
+        "id": "nagapattinam-sc",
+        "name": "NAGAPATTINAM(SC)",
+        "nameHi": "NAGAPATTINAM(SC)"
       },
       {
-        "id": "khagaria",
-        "name": "KHAGARIA",
-        "nameHi": "KHAGARIA"
+        "id": "namakkal",
+        "name": "NAMAKKAL",
+        "nameHi": "NAMAKKAL"
       },
       {
-        "id": "kishanganj",
-        "name": "KISHANGANJ",
-        "nameHi": "KISHANGANJ"
+        "id": "nilgiris-sc",
+        "name": "NILGIRIS(SC)",
+        "nameHi": "NILGIRIS(SC)"
       },
       {
-        "id": "madhepura",
-        "name": "MADHEPURA",
-        "nameHi": "MADHEPURA"
+        "id": "perambalur",
+        "name": "PERAMBALUR",
+        "nameHi": "PERAMBALUR"
       },
       {
-        "id": "madhubani",
-        "name": "MADHUBANI",
-        "nameHi": "MADHUBANI"
+        "id": "pollachi",
+        "name": "POLLACHI",
+        "nameHi": "POLLACHI"
       },
       {
-        "id": "maharajganj-br",
-        "name": "MAHARAJGANJ_BR",
-        "nameHi": "MAHARAJGANJ_BR"
+        "id": "ramanathapuram",
+        "name": "RAMANATHAPURAM",
+        "nameHi": "RAMANATHAPURAM"
       },
       {
-        "id": "munger",
-        "name": "MUNGER",
-        "nameHi": "MUNGER"
+        "id": "salem",
+        "name": "SALEM",
+        "nameHi": "SALEM"
       },
       {
-        "id": "muzaffarpur",
-        "name": "MUZAFFARPUR",
-        "nameHi": "MUZAFFARPUR"
+        "id": "sivaganga",
+        "name": "SIVAGANGA",
+        "nameHi": "SIVAGANGA"
       },
       {
-        "id": "nalanda",
-        "name": "NALANDA",
-        "nameHi": "NALANDA"
+        "id": "sriperumbudur",
+        "name": "SRIPERUMBUDUR",
+        "nameHi": "SRIPERUMBUDUR"
       },
       {
-        "id": "nawada",
-        "name": "NAWADA",
-        "nameHi": "NAWADA"
+        "id": "tenkasi-sc",
+        "name": "TENKASI(SC)",
+        "nameHi": "TENKASI(SC)"
       },
       {
-        "id": "paschim-champaran",
-        "name": "PASCHIM CHAMPARAN",
-        "nameHi": "PASCHIM CHAMPARAN"
+        "id": "thanjavur",
+        "name": "THANJAVUR",
+        "nameHi": "THANJAVUR"
       },
       {
-        "id": "pataliputra",
-        "name": "PATALIPUTRA",
-        "nameHi": "PATALIPUTRA"
+        "id": "theni",
+        "name": "THENI",
+        "nameHi": "THENI"
       },
       {
-        "id": "patna-sahib",
-        "name": "PATNA SAHIB",
-        "nameHi": "PATNA SAHIB"
+        "id": "thoothukkudi",
+        "name": "THOOTHUKKUDI",
+        "nameHi": "THOOTHUKKUDI"
       },
       {
-        "id": "purnea",
-        "name": "PURNEA",
-        "nameHi": "PURNEA"
+        "id": "tiruchirappalli",
+        "name": "TIRUCHIRAPPALLI",
+        "nameHi": "TIRUCHIRAPPALLI"
       },
       {
-        "id": "purvi-champaran",
-        "name": "PURVI CHAMPARAN",
-        "nameHi": "PURVI CHAMPARAN"
+        "id": "tirunelveli",
+        "name": "TIRUNELVELI",
+        "nameHi": "TIRUNELVELI"
       },
       {
-        "id": "samastipur-sc",
-        "name": "SAMASTIPUR(SC)",
-        "nameHi": "SAMASTIPUR(SC)"
+        "id": "tiruppur",
+        "name": "TIRUPPUR",
+        "nameHi": "TIRUPPUR"
       },
       {
-        "id": "saran",
-        "name": "SARAN",
-        "nameHi": "SARAN"
+        "id": "tiruvallur-sc",
+        "name": "TIRUVALLUR(SC)",
+        "nameHi": "TIRUVALLUR(SC)"
       },
       {
-        "id": "sasaram-sc",
-        "name": "SASARAM(SC)",
-        "nameHi": "SASARAM(SC)"
+        "id": "tiruvannamalai",
+        "name": "TIRUVANNAMALAI",
+        "nameHi": "TIRUVANNAMALAI"
       },
       {
-        "id": "sheohar",
-        "name": "SHEOHAR",
-        "nameHi": "SHEOHAR"
+        "id": "tamil-nadu-rajya-sabha-nodal-district",
+        "name": "Tamil Nadu (Rajya Sabha Nodal District)",
+        "nameHi": "Tamil Nadu (Rajya Sabha Nodal District)"
       },
       {
-        "id": "sitamarhi",
-        "name": "SITAMARHI",
-        "nameHi": "SITAMARHI"
+        "id": "vellore",
+        "name": "VELLORE",
+        "nameHi": "VELLORE"
       },
       {
-        "id": "siwan",
-        "name": "SIWAN",
-        "nameHi": "SIWAN"
+        "id": "viluppuram-sc",
+        "name": "VILUPPURAM(SC)",
+        "nameHi": "VILUPPURAM(SC)"
       },
       {
-        "id": "supaul",
-        "name": "SUPAUL",
-        "nameHi": "SUPAUL"
-      },
-      {
-        "id": "ujjarpur",
-        "name": "UJJARPUR",
-        "nameHi": "UJJARPUR"
-      },
-      {
-        "id": "vaishali",
-        "name": "VAISHALI",
-        "nameHi": "VAISHALI"
-      },
-      {
-        "id": "valmiki-nagar",
-        "name": "VALMIKI NAGAR",
-        "nameHi": "VALMIKI NAGAR"
+        "id": "virudhunagar",
+        "name": "VIRUDHUNAGAR",
+        "nameHi": "VIRUDHUNAGAR"
       }
     ]
   },
@@ -1043,15 +1097,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Chhattisgarh",
     "stateHi": "\u091b\u0924\u094d\u0924\u0940\u0938\u0917\u0922\u093c",
     "type": "State",
-    "rank": 10,
-    "performanceCategory": "High",
+    "rank": 12,
+    "performanceCategory": "Average",
     "mpCount": 27,
-    "totalAllocatedCr": 163.5,
-    "totalUtilizedCr": 164.1,
-    "utilizationPct": 95.2,
-    "worksRecommended": 4250,
-    "worksCompleted": 2372,
-    "completionPct": 55.8,
+    "totalAllocatedCr": 238.2,
+    "totalUtilizedCr": 170.9,
+    "utilizationPct": 71.8,
+    "worksRecommended": 4552,
+    "worksCompleted": 2456,
+    "completionPct": 54.0,
     "constituencies": [
       {
         "id": "bastar-st",
@@ -1116,148 +1170,19 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "punjab",
-    "state": "Punjab",
-    "stateHi": "\u092a\u0902\u091c\u093e\u092c",
-    "type": "State",
-    "rank": 11,
-    "performanceCategory": "High",
-    "mpCount": 18,
-    "totalAllocatedCr": 141.4,
-    "totalUtilizedCr": 134.5,
-    "utilizationPct": 95.1,
-    "worksRecommended": 5244,
-    "worksCompleted": 1989,
-    "completionPct": 37.9,
-    "constituencies": [
-      {
-        "id": "amritsar",
-        "name": "AMRITSAR",
-        "nameHi": "AMRITSAR"
-      },
-      {
-        "id": "anandpur-sahib",
-        "name": "ANANDPUR SAHIB",
-        "nameHi": "ANANDPUR SAHIB"
-      },
-      {
-        "id": "bhatinda",
-        "name": "BHATINDA",
-        "nameHi": "BHATINDA"
-      },
-      {
-        "id": "faridkot-sc",
-        "name": "FARIDKOT(SC)",
-        "nameHi": "FARIDKOT(SC)"
-      },
-      {
-        "id": "fatehgarh-sahib-sc",
-        "name": "FATEHGARH SAHIB(SC)",
-        "nameHi": "FATEHGARH SAHIB(SC)"
-      },
-      {
-        "id": "firozpur",
-        "name": "FIROZPUR",
-        "nameHi": "FIROZPUR"
-      },
-      {
-        "id": "gurdaspur",
-        "name": "GURDASPUR",
-        "nameHi": "GURDASPUR"
-      },
-      {
-        "id": "hoshiarpur-sc",
-        "name": "HOSHIARPUR(SC)",
-        "nameHi": "HOSHIARPUR(SC)"
-      },
-      {
-        "id": "jalandhar-sc",
-        "name": "JALANDHAR(SC)",
-        "nameHi": "JALANDHAR(SC)"
-      },
-      {
-        "id": "khadoor-sahib",
-        "name": "KHADOOR SAHIB",
-        "nameHi": "KHADOOR SAHIB"
-      },
-      {
-        "id": "ludhiana",
-        "name": "LUDHIANA",
-        "nameHi": "LUDHIANA"
-      },
-      {
-        "id": "patiala",
-        "name": "PATIALA",
-        "nameHi": "PATIALA"
-      },
-      {
-        "id": "punjab-rajya-sabha-nodal-district",
-        "name": "Punjab (Rajya Sabha Nodal District)",
-        "nameHi": "Punjab (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "sangrur",
-        "name": "SANGRUR",
-        "nameHi": "SANGRUR"
-      }
-    ]
-  },
-  {
-    "slug": "himachal-pradesh",
-    "state": "Himachal Pradesh",
-    "stateHi": "\u0939\u093f\u092e\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936",
-    "type": "State",
-    "rank": 12,
-    "performanceCategory": "High",
-    "mpCount": 10,
-    "totalAllocatedCr": 79.3,
-    "totalUtilizedCr": 70.6,
-    "utilizationPct": 89.1,
-    "worksRecommended": 4300,
-    "worksCompleted": 1482,
-    "completionPct": 34.5,
-    "constituencies": [
-      {
-        "id": "hamirpur-hp",
-        "name": "HAMIRPUR_HP",
-        "nameHi": "HAMIRPUR_HP"
-      },
-      {
-        "id": "himachal-pradesh-rajya-sabha-nodal-district",
-        "name": "Himachal Pradesh (Rajya Sabha Nodal District)",
-        "nameHi": "Himachal Pradesh (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "kangra",
-        "name": "KANGRA",
-        "nameHi": "KANGRA"
-      },
-      {
-        "id": "mandi",
-        "name": "MANDI",
-        "nameHi": "MANDI"
-      },
-      {
-        "id": "shimla-sc",
-        "name": "SHIMLA (SC)",
-        "nameHi": "SHIMLA (SC)"
-      }
-    ]
-  },
-  {
     "slug": "madhya-pradesh",
     "state": "Madhya Pradesh",
     "stateHi": "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936",
     "type": "State",
     "rank": 13,
-    "performanceCategory": "High",
-    "mpCount": 66,
-    "totalAllocatedCr": 502.7,
-    "totalUtilizedCr": 433.0,
-    "utilizationPct": 86.1,
-    "worksRecommended": 16343,
-    "worksCompleted": 7304,
-    "completionPct": 44.7,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 67,
+    "totalAllocatedCr": 650.1,
+    "totalUtilizedCr": 447.8,
+    "utilizationPct": 68.9,
+    "worksRecommended": 17326,
+    "worksCompleted": 7431,
+    "completionPct": 42.9,
     "constituencies": [
       {
         "id": "balaghat",
@@ -1412,19 +1337,61 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "himachal-pradesh",
+    "state": "Himachal Pradesh",
+    "stateHi": "\u0939\u093f\u092e\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936",
+    "type": "State",
+    "rank": 14,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 11,
+    "totalAllocatedCr": 109.2,
+    "totalUtilizedCr": 74.9,
+    "utilizationPct": 68.6,
+    "worksRecommended": 4558,
+    "worksCompleted": 1605,
+    "completionPct": 35.2,
+    "constituencies": [
+      {
+        "id": "hamirpur-hp",
+        "name": "HAMIRPUR_HP",
+        "nameHi": "HAMIRPUR_HP"
+      },
+      {
+        "id": "himachal-pradesh-rajya-sabha-nodal-district",
+        "name": "Himachal Pradesh (Rajya Sabha Nodal District)",
+        "nameHi": "Himachal Pradesh (Rajya Sabha Nodal District)"
+      },
+      {
+        "id": "kangra",
+        "name": "KANGRA",
+        "nameHi": "KANGRA"
+      },
+      {
+        "id": "mandi",
+        "name": "MANDI",
+        "nameHi": "MANDI"
+      },
+      {
+        "id": "shimla-sc",
+        "name": "SHIMLA (SC)",
+        "nameHi": "SHIMLA (SC)"
+      }
+    ]
+  },
+  {
     "slug": "jharkhand",
     "state": "Jharkhand",
     "stateHi": "\u091d\u093e\u0930\u0916\u0902\u0921",
     "type": "State",
-    "rank": 14,
-    "performanceCategory": "High",
-    "mpCount": 31,
-    "totalAllocatedCr": 265.9,
-    "totalUtilizedCr": 215.3,
-    "utilizationPct": 81.0,
-    "worksRecommended": 8359,
-    "worksCompleted": 2435,
-    "completionPct": 29.1,
+    "rank": 15,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 32,
+    "totalAllocatedCr": 332.3,
+    "totalUtilizedCr": 227.2,
+    "utilizationPct": 68.4,
+    "worksRecommended": 8780,
+    "worksCompleted": 2599,
+    "completionPct": 29.6,
     "constituencies": [
       {
         "id": "chatra",
@@ -1504,29 +1471,34 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "lakshadweep",
-    "state": "Lakshadweep",
-    "stateHi": "\u0932\u0915\u094d\u0937\u0926\u094d\u0935\u0940\u092a",
-    "type": "Union Territory",
-    "rank": 15,
-    "performanceCategory": "High",
-    "mpCount": 2,
-    "totalAllocatedCr": 29.0,
-    "totalUtilizedCr": 23.3,
-    "utilizationPct": 80.3,
-    "worksRecommended": 73,
-    "worksCompleted": 42,
-    "completionPct": 57.5,
+    "slug": "tripura",
+    "state": "Tripura",
+    "stateHi": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e",
+    "type": "State",
+    "rank": 16,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 5,
+    "totalAllocatedCr": 52.8,
+    "totalUtilizedCr": 34.2,
+    "utilizationPct": 64.8,
+    "worksRecommended": 363,
+    "worksCompleted": 227,
+    "completionPct": 62.5,
     "constituencies": [
       {
-        "id": "lakshadweep-st",
-        "name": "LAKSHADWEEP(ST)",
-        "nameHi": "LAKSHADWEEP(ST)"
+        "id": "tripura-east-st",
+        "name": "TRIPURA EAST(ST)",
+        "nameHi": "TRIPURA EAST(ST)"
       },
       {
-        "id": "lakshadweep-rajya-sabha-nodal-district",
-        "name": "Lakshadweep (Rajya Sabha Nodal District)",
-        "nameHi": "Lakshadweep (Rajya Sabha Nodal District)"
+        "id": "tripura-west",
+        "name": "TRIPURA WEST",
+        "nameHi": "TRIPURA WEST"
+      },
+      {
+        "id": "tripura-rajya-sabha-nodal-district",
+        "name": "Tripura (Rajya Sabha Nodal District)",
+        "nameHi": "Tripura (Rajya Sabha Nodal District)"
       }
     ]
   },
@@ -1535,15 +1507,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Rajasthan",
     "stateHi": "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928",
     "type": "State",
-    "rank": 16,
-    "performanceCategory": "Average",
+    "rank": 17,
+    "performanceCategory": "Needs Improvement",
     "mpCount": 57,
-    "totalAllocatedCr": 420.4,
-    "totalUtilizedCr": 316.9,
-    "utilizationPct": 75.4,
-    "worksRecommended": 8573,
-    "worksCompleted": 4368,
-    "completionPct": 51.0,
+    "totalAllocatedCr": 521.2,
+    "totalUtilizedCr": 335.5,
+    "utilizationPct": 64.4,
+    "worksRecommended": 8699,
+    "worksCompleted": 4506,
+    "completionPct": 51.8,
     "constituencies": [
       {
         "id": "ajmer",
@@ -1682,15 +1654,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "West Bengal",
     "stateHi": "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932",
     "type": "State",
-    "rank": 17,
-    "performanceCategory": "Average",
-    "mpCount": 93,
-    "totalAllocatedCr": 721.7,
-    "totalUtilizedCr": 541.4,
-    "utilizationPct": 75.0,
-    "worksRecommended": 11907,
-    "worksCompleted": 7028,
-    "completionPct": 59.0,
+    "rank": 18,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 95,
+    "totalAllocatedCr": 893.1,
+    "totalUtilizedCr": 566.7,
+    "utilizationPct": 63.5,
+    "worksRecommended": 12294,
+    "worksCompleted": 7376,
+    "completionPct": 60.0,
     "constituencies": [
       {
         "id": "alipurduars-st",
@@ -1910,45 +1882,18 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "andaman-nicobar-islands",
-    "state": "Andaman & Nicobar Islands",
-    "stateHi": "\u0905\u0902\u0921\u092e\u093e\u0928 \u0914\u0930 \u0928\u093f\u0915\u094b\u092c\u093e\u0930 \u0926\u094d\u0935\u0940\u092a \u0938\u092e\u0942\u0939",
-    "type": "Union Territory",
-    "rank": 18,
-    "performanceCategory": "Average",
-    "mpCount": 2,
-    "totalAllocatedCr": 16.9,
-    "totalUtilizedCr": 12.6,
-    "utilizationPct": 74.8,
-    "worksRecommended": 71,
-    "worksCompleted": 20,
-    "completionPct": 28.2,
-    "constituencies": [
-      {
-        "id": "andaman-and-nicobar-islands",
-        "name": "ANDAMAN AND NICOBAR ISLANDS",
-        "nameHi": "ANDAMAN AND NICOBAR ISLANDS"
-      },
-      {
-        "id": "andaman-and-nicobar-islands-rajya-sabha-nodal-district",
-        "name": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)",
-        "nameHi": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
     "slug": "uttarakhand",
     "state": "Uttarakhand",
     "stateHi": "\u0909\u0924\u094d\u0924\u0930\u093e\u0916\u0902\u0921",
     "type": "State",
     "rank": 19,
-    "performanceCategory": "Average",
+    "performanceCategory": "Needs Improvement",
     "mpCount": 13,
-    "totalAllocatedCr": 107.6,
-    "totalUtilizedCr": 78.8,
-    "utilizationPct": 73.2,
-    "worksRecommended": 4072,
-    "worksCompleted": 2221,
+    "totalAllocatedCr": 135.4,
+    "totalUtilizedCr": 83.8,
+    "utilizationPct": 61.9,
+    "worksRecommended": 4183,
+    "worksCompleted": 2278,
     "completionPct": 54.5,
     "constituencies": [
       {
@@ -1984,228 +1929,208 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "tripura",
-    "state": "Tripura",
-    "stateHi": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e",
+    "slug": "assam",
+    "state": "Assam",
+    "stateHi": "\u0905\u0938\u092e",
     "type": "State",
     "rank": 20,
-    "performanceCategory": "Average",
-    "mpCount": 5,
-    "totalAllocatedCr": 44.8,
-    "totalUtilizedCr": 32.2,
-    "utilizationPct": 71.7,
-    "worksRecommended": 349,
-    "worksCompleted": 221,
-    "completionPct": 63.3,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 34,
+    "totalAllocatedCr": 310.0,
+    "totalUtilizedCr": 191.9,
+    "utilizationPct": 61.9,
+    "worksRecommended": 4664,
+    "worksCompleted": 1007,
+    "completionPct": 21.6,
     "constituencies": [
       {
-        "id": "tripura-east-st",
-        "name": "TRIPURA EAST(ST)",
-        "nameHi": "TRIPURA EAST(ST)"
+        "id": "assam-rajya-sabha-nodal-district",
+        "name": "Assam (Rajya Sabha Nodal District)",
+        "nameHi": "Assam (Rajya Sabha Nodal District)"
       },
       {
-        "id": "tripura-west",
-        "name": "TRIPURA WEST",
-        "nameHi": "TRIPURA WEST"
+        "id": "barpeta",
+        "name": "BARPETA",
+        "nameHi": "BARPETA"
       },
       {
-        "id": "tripura-rajya-sabha-nodal-district",
-        "name": "Tripura (Rajya Sabha Nodal District)",
-        "nameHi": "Tripura (Rajya Sabha Nodal District)"
+        "id": "dhubri",
+        "name": "DHUBRI",
+        "nameHi": "DHUBRI"
+      },
+      {
+        "id": "dibrugarh",
+        "name": "DIBRUGARH",
+        "nameHi": "DIBRUGARH"
+      },
+      {
+        "id": "darrang-udalguri",
+        "name": "Darrang-Udalguri",
+        "nameHi": "Darrang-Udalguri"
+      },
+      {
+        "id": "diphu-st",
+        "name": "Diphu (ST)",
+        "nameHi": "Diphu (ST)"
+      },
+      {
+        "id": "guwahati",
+        "name": "GUWAHATI",
+        "nameHi": "GUWAHATI"
+      },
+      {
+        "id": "jorhat",
+        "name": "JORHAT",
+        "nameHi": "JORHAT"
+      },
+      {
+        "id": "karimganj-sc",
+        "name": "KARIMGANJ (SC)",
+        "nameHi": "KARIMGANJ (SC)"
+      },
+      {
+        "id": "kokrajhar-st",
+        "name": "KOKRAJHAR (ST)",
+        "nameHi": "KOKRAJHAR (ST)"
+      },
+      {
+        "id": "kaziranga",
+        "name": "Kaziranga",
+        "nameHi": "Kaziranga"
+      },
+      {
+        "id": "lakhimpur",
+        "name": "LAKHIMPUR",
+        "nameHi": "LAKHIMPUR"
+      },
+      {
+        "id": "nowgong",
+        "name": "NOWGONG",
+        "nameHi": "NOWGONG"
+      },
+      {
+        "id": "silchar",
+        "name": "SILCHAR",
+        "nameHi": "SILCHAR"
+      },
+      {
+        "id": "sonitpur",
+        "name": "Sonitpur",
+        "nameHi": "Sonitpur"
       }
     ]
   },
   {
-    "slug": "andhra-pradesh",
-    "state": "Andhra Pradesh",
-    "stateHi": "\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+    "slug": "punjab",
+    "state": "Punjab",
+    "stateHi": "\u092a\u0902\u091c\u093e\u092c",
     "type": "State",
     "rank": 21,
-    "performanceCategory": "Average",
-    "mpCount": 60,
-    "totalAllocatedCr": 454.0,
-    "totalUtilizedCr": 321.3,
-    "utilizationPct": 70.8,
-    "worksRecommended": 8045,
-    "worksCompleted": 4447,
-    "completionPct": 55.3,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 18,
+    "totalAllocatedCr": 241.8,
+    "totalUtilizedCr": 147.8,
+    "utilizationPct": 61.1,
+    "worksRecommended": 5882,
+    "worksCompleted": 2179,
+    "completionPct": 37.0,
     "constituencies": [
       {
-        "id": "amalapuram-sc",
-        "name": "AMALAPURAM(SC)",
-        "nameHi": "AMALAPURAM(SC)"
+        "id": "amritsar",
+        "name": "AMRITSAR",
+        "nameHi": "AMRITSAR"
       },
       {
-        "id": "anakapalle",
-        "name": "ANAKAPALLE",
-        "nameHi": "ANAKAPALLE"
+        "id": "anandpur-sahib",
+        "name": "ANANDPUR SAHIB",
+        "nameHi": "ANANDPUR SAHIB"
       },
       {
-        "id": "anantapur",
-        "name": "ANANTAPUR",
-        "nameHi": "ANANTAPUR"
+        "id": "bhatinda",
+        "name": "BHATINDA",
+        "nameHi": "BHATINDA"
       },
       {
-        "id": "araku-st",
-        "name": "ARAKU(ST)",
-        "nameHi": "ARAKU(ST)"
+        "id": "faridkot-sc",
+        "name": "FARIDKOT(SC)",
+        "nameHi": "FARIDKOT(SC)"
       },
       {
-        "id": "andhra-pradesh-rajya-sabha-nodal-district",
-        "name": "Andhra Pradesh (Rajya Sabha Nodal District)",
-        "nameHi": "Andhra Pradesh (Rajya Sabha Nodal District)"
+        "id": "fatehgarh-sahib-sc",
+        "name": "FATEHGARH SAHIB(SC)",
+        "nameHi": "FATEHGARH SAHIB(SC)"
       },
       {
-        "id": "bapatla",
-        "name": "BAPATLA",
-        "nameHi": "BAPATLA"
+        "id": "firozpur",
+        "name": "FIROZPUR",
+        "nameHi": "FIROZPUR"
       },
       {
-        "id": "chittoor",
-        "name": "CHITTOOR",
-        "nameHi": "CHITTOOR"
+        "id": "gurdaspur",
+        "name": "GURDASPUR",
+        "nameHi": "GURDASPUR"
       },
       {
-        "id": "eluru",
-        "name": "ELURU",
-        "nameHi": "ELURU"
+        "id": "hoshiarpur-sc",
+        "name": "HOSHIARPUR(SC)",
+        "nameHi": "HOSHIARPUR(SC)"
       },
       {
-        "id": "guntur",
-        "name": "GUNTUR",
-        "nameHi": "GUNTUR"
+        "id": "jalandhar-sc",
+        "name": "JALANDHAR(SC)",
+        "nameHi": "JALANDHAR(SC)"
       },
       {
-        "id": "hindupur",
-        "name": "HINDUPUR",
-        "nameHi": "HINDUPUR"
+        "id": "khadoor-sahib",
+        "name": "KHADOOR SAHIB",
+        "nameHi": "KHADOOR SAHIB"
       },
       {
-        "id": "kadapa",
-        "name": "KADAPA",
-        "nameHi": "KADAPA"
+        "id": "ludhiana",
+        "name": "LUDHIANA",
+        "nameHi": "LUDHIANA"
       },
       {
-        "id": "kakinada",
-        "name": "KAKINADA",
-        "nameHi": "KAKINADA"
+        "id": "patiala",
+        "name": "PATIALA",
+        "nameHi": "PATIALA"
       },
       {
-        "id": "kurnool",
-        "name": "KURNOOL",
-        "nameHi": "KURNOOL"
+        "id": "punjab-rajya-sabha-nodal-district",
+        "name": "Punjab (Rajya Sabha Nodal District)",
+        "nameHi": "Punjab (Rajya Sabha Nodal District)"
       },
       {
-        "id": "machilipatnam",
-        "name": "MACHILIPATNAM",
-        "nameHi": "MACHILIPATNAM"
-      },
-      {
-        "id": "nandyal",
-        "name": "NANDYAL",
-        "nameHi": "NANDYAL"
-      },
-      {
-        "id": "narasapuram",
-        "name": "NARASAPURAM",
-        "nameHi": "NARASAPURAM"
-      },
-      {
-        "id": "narasaraopet",
-        "name": "NARASARAOPET",
-        "nameHi": "NARASARAOPET"
-      },
-      {
-        "id": "nellore-sc",
-        "name": "NELLORE(SC)",
-        "nameHi": "NELLORE(SC)"
-      },
-      {
-        "id": "ongole",
-        "name": "ONGOLE",
-        "nameHi": "ONGOLE"
-      },
-      {
-        "id": "rajahmundry",
-        "name": "RAJAHMUNDRY",
-        "nameHi": "RAJAHMUNDRY"
-      },
-      {
-        "id": "rajampet",
-        "name": "RAJAMPET",
-        "nameHi": "RAJAMPET"
-      },
-      {
-        "id": "srikakulam",
-        "name": "SRIKAKULAM",
-        "nameHi": "SRIKAKULAM"
-      },
-      {
-        "id": "tirupati-sc",
-        "name": "TIRUPATI(SC)",
-        "nameHi": "TIRUPATI(SC)"
-      },
-      {
-        "id": "vijayawada",
-        "name": "VIJAYAWADA",
-        "nameHi": "VIJAYAWADA"
-      },
-      {
-        "id": "visakhapatnam",
-        "name": "VISAKHAPATNAM",
-        "nameHi": "VISAKHAPATNAM"
-      },
-      {
-        "id": "vizianagaram",
-        "name": "VIZIANAGARAM",
-        "nameHi": "VIZIANAGARAM"
+        "id": "sangrur",
+        "name": "SANGRUR",
+        "nameHi": "SANGRUR"
       }
     ]
   },
   {
-    "slug": "jammu-kashmir",
-    "state": "Jammu & Kashmir",
-    "stateHi": "\u091c\u092e\u094d\u092e\u0942 \u0914\u0930 \u0915\u0936\u094d\u092e\u0940\u0930",
+    "slug": "chandigarh",
+    "state": "Chandigarh",
+    "stateHi": "\u091a\u0902\u0921\u0940\u0917\u0922\u093c",
     "type": "Union Territory",
     "rank": 22,
     "performanceCategory": "Needs Improvement",
-    "mpCount": 12,
-    "totalAllocatedCr": 70.8,
-    "totalUtilizedCr": 49.0,
-    "utilizationPct": 69.2,
-    "worksRecommended": 2076,
-    "worksCompleted": 1242,
-    "completionPct": 59.8,
+    "mpCount": 3,
+    "totalAllocatedCr": 15.9,
+    "totalUtilizedCr": 9.6,
+    "utilizationPct": 60.5,
+    "worksRecommended": 175,
+    "worksCompleted": 78,
+    "completionPct": 44.6,
     "constituencies": [
       {
-        "id": "anantnag",
-        "name": "ANANTNAG",
-        "nameHi": "ANANTNAG"
+        "id": "chandigarh",
+        "name": "CHANDIGARH",
+        "nameHi": "CHANDIGARH"
       },
       {
-        "id": "baramullah",
-        "name": "BARAMULLAH",
-        "nameHi": "BARAMULLAH"
-      },
-      {
-        "id": "jammu",
-        "name": "JAMMU",
-        "nameHi": "JAMMU"
-      },
-      {
-        "id": "jammu-and-kashmir-rajya-sabha-nodal-district",
-        "name": "Jammu And Kashmir (Rajya Sabha Nodal District)",
-        "nameHi": "Jammu And Kashmir (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "srinagar",
-        "name": "SRINAGAR",
-        "nameHi": "SRINAGAR"
-      },
-      {
-        "id": "udhampur",
-        "name": "UDHAMPUR",
-        "nameHi": "UDHAMPUR"
+        "id": "chandigarh-rajya-sabha-nodal-district",
+        "name": "Chandigarh (Rajya Sabha Nodal District)",
+        "nameHi": "Chandigarh (Rajya Sabha Nodal District)"
       }
     ]
   },
@@ -2216,13 +2141,13 @@ export const INDIA_STATES_AND_UT = [
     "type": "State",
     "rank": 23,
     "performanceCategory": "Needs Improvement",
-    "mpCount": 67,
-    "totalAllocatedCr": 568.2,
-    "totalUtilizedCr": 380.7,
-    "utilizationPct": 67.0,
-    "worksRecommended": 10769,
-    "worksCompleted": 4120,
-    "completionPct": 38.3,
+    "mpCount": 68,
+    "totalAllocatedCr": 677.4,
+    "totalUtilizedCr": 402.3,
+    "utilizationPct": 59.4,
+    "worksRecommended": 11243,
+    "worksCompleted": 4253,
+    "completionPct": 37.8,
     "constituencies": [
       {
         "id": "bagalkot",
@@ -2372,380 +2297,149 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "gujarat",
-    "state": "Gujarat",
-    "stateHi": "\u0917\u0941\u091c\u0930\u093e\u0924",
+    "slug": "andhra-pradesh",
+    "state": "Andhra Pradesh",
+    "stateHi": "\u0906\u0902\u0927\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
     "type": "State",
     "rank": 24,
     "performanceCategory": "Needs Improvement",
-    "mpCount": 59,
-    "totalAllocatedCr": 459.0,
-    "totalUtilizedCr": 305.7,
-    "utilizationPct": 66.6,
-    "worksRecommended": 16188,
-    "worksCompleted": 8655,
-    "completionPct": 53.5,
+    "mpCount": 62,
+    "totalAllocatedCr": 601.8,
+    "totalUtilizedCr": 338.1,
+    "utilizationPct": 56.2,
+    "worksRecommended": 8749,
+    "worksCompleted": 4589,
+    "completionPct": 52.5,
     "constituencies": [
       {
-        "id": "ahmedabad-east",
-        "name": "AHMEDABAD EAST",
-        "nameHi": "AHMEDABAD EAST"
+        "id": "amalapuram-sc",
+        "name": "AMALAPURAM(SC)",
+        "nameHi": "AMALAPURAM(SC)"
       },
       {
-        "id": "ahmedabad-west-sc",
-        "name": "AHMEDABAD WEST(SC)",
-        "nameHi": "AHMEDABAD WEST(SC)"
+        "id": "anakapalle",
+        "name": "ANAKAPALLE",
+        "nameHi": "ANAKAPALLE"
       },
       {
-        "id": "amreli",
-        "name": "AMRELI",
-        "nameHi": "AMRELI"
+        "id": "anantapur",
+        "name": "ANANTAPUR",
+        "nameHi": "ANANTAPUR"
       },
       {
-        "id": "anand",
-        "name": "ANAND",
-        "nameHi": "ANAND"
+        "id": "araku-st",
+        "name": "ARAKU(ST)",
+        "nameHi": "ARAKU(ST)"
       },
       {
-        "id": "banaskantha",
-        "name": "BANASKANTHA",
-        "nameHi": "BANASKANTHA"
+        "id": "andhra-pradesh-rajya-sabha-nodal-district",
+        "name": "Andhra Pradesh (Rajya Sabha Nodal District)",
+        "nameHi": "Andhra Pradesh (Rajya Sabha Nodal District)"
       },
       {
-        "id": "bardoli-st",
-        "name": "BARDOLI(ST)",
-        "nameHi": "BARDOLI(ST)"
+        "id": "bapatla",
+        "name": "BAPATLA",
+        "nameHi": "BAPATLA"
       },
       {
-        "id": "bharuch",
-        "name": "BHARUCH",
-        "nameHi": "BHARUCH"
+        "id": "chittoor",
+        "name": "CHITTOOR",
+        "nameHi": "CHITTOOR"
       },
       {
-        "id": "bhavnagar",
-        "name": "BHAVNAGAR",
-        "nameHi": "BHAVNAGAR"
+        "id": "eluru",
+        "name": "ELURU",
+        "nameHi": "ELURU"
       },
       {
-        "id": "chhota-udaipur-st",
-        "name": "CHHOTA UDAIPUR(ST)",
-        "nameHi": "CHHOTA UDAIPUR(ST)"
+        "id": "guntur",
+        "name": "GUNTUR",
+        "nameHi": "GUNTUR"
       },
       {
-        "id": "dahod-st",
-        "name": "DAHOD(ST)",
-        "nameHi": "DAHOD(ST)"
+        "id": "hindupur",
+        "name": "HINDUPUR",
+        "nameHi": "HINDUPUR"
       },
       {
-        "id": "gandhinagar",
-        "name": "GANDHINAGAR",
-        "nameHi": "GANDHINAGAR"
+        "id": "kadapa",
+        "name": "KADAPA",
+        "nameHi": "KADAPA"
       },
       {
-        "id": "gujarat-rajya-sabha-nodal-district",
-        "name": "Gujarat (Rajya Sabha Nodal District)",
-        "nameHi": "Gujarat (Rajya Sabha Nodal District)"
+        "id": "kakinada",
+        "name": "KAKINADA",
+        "nameHi": "KAKINADA"
       },
       {
-        "id": "jamnagar",
-        "name": "JAMNAGAR",
-        "nameHi": "JAMNAGAR"
+        "id": "kurnool",
+        "name": "KURNOOL",
+        "nameHi": "KURNOOL"
       },
       {
-        "id": "junagadh",
-        "name": "JUNAGADH",
-        "nameHi": "JUNAGADH"
+        "id": "machilipatnam",
+        "name": "MACHILIPATNAM",
+        "nameHi": "MACHILIPATNAM"
       },
       {
-        "id": "kachchh-sc",
-        "name": "KACHCHH(SC)",
-        "nameHi": "KACHCHH(SC)"
+        "id": "nandyal",
+        "name": "NANDYAL",
+        "nameHi": "NANDYAL"
       },
       {
-        "id": "kheda",
-        "name": "KHEDA",
-        "nameHi": "KHEDA"
+        "id": "narasapuram",
+        "name": "NARASAPURAM",
+        "nameHi": "NARASAPURAM"
       },
       {
-        "id": "mahesana",
-        "name": "MAHESANA",
-        "nameHi": "MAHESANA"
+        "id": "narasaraopet",
+        "name": "NARASARAOPET",
+        "nameHi": "NARASARAOPET"
       },
       {
-        "id": "navsari",
-        "name": "NAVSARI",
-        "nameHi": "NAVSARI"
+        "id": "nellore-sc",
+        "name": "NELLORE(SC)",
+        "nameHi": "NELLORE(SC)"
       },
       {
-        "id": "panchmahal",
-        "name": "PANCHMAHAL",
-        "nameHi": "PANCHMAHAL"
+        "id": "ongole",
+        "name": "ONGOLE",
+        "nameHi": "ONGOLE"
       },
       {
-        "id": "patan",
-        "name": "PATAN",
-        "nameHi": "PATAN"
+        "id": "rajahmundry",
+        "name": "RAJAHMUNDRY",
+        "nameHi": "RAJAHMUNDRY"
       },
       {
-        "id": "porbandar",
-        "name": "PORBANDAR",
-        "nameHi": "PORBANDAR"
+        "id": "rajampet",
+        "name": "RAJAMPET",
+        "nameHi": "RAJAMPET"
       },
       {
-        "id": "rajkot",
-        "name": "RAJKOT",
-        "nameHi": "RAJKOT"
+        "id": "srikakulam",
+        "name": "SRIKAKULAM",
+        "nameHi": "SRIKAKULAM"
       },
       {
-        "id": "sabarkantha",
-        "name": "SABARKANTHA",
-        "nameHi": "SABARKANTHA"
+        "id": "tirupati-sc",
+        "name": "TIRUPATI(SC)",
+        "nameHi": "TIRUPATI(SC)"
       },
       {
-        "id": "surat",
-        "name": "SURAT",
-        "nameHi": "SURAT"
+        "id": "vijayawada",
+        "name": "VIJAYAWADA",
+        "nameHi": "VIJAYAWADA"
       },
       {
-        "id": "surendranagar",
-        "name": "SURENDRANAGAR",
-        "nameHi": "SURENDRANAGAR"
+        "id": "visakhapatnam",
+        "name": "VISAKHAPATNAM",
+        "nameHi": "VISAKHAPATNAM"
       },
       {
-        "id": "vadodara",
-        "name": "VADODARA",
-        "nameHi": "VADODARA"
-      },
-      {
-        "id": "valsad-st",
-        "name": "VALSAD(ST)",
-        "nameHi": "VALSAD(ST)"
-      }
-    ]
-  },
-  {
-    "slug": "telangana",
-    "state": "Telangana",
-    "stateHi": "\u0924\u0947\u0932\u0902\u0917\u093e\u0928\u093e",
-    "type": "State",
-    "rank": 25,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 39,
-    "totalAllocatedCr": 338.9,
-    "totalUtilizedCr": 223.8,
-    "utilizationPct": 66.0,
-    "worksRecommended": 10409,
-    "worksCompleted": 5282,
-    "completionPct": 50.7,
-    "constituencies": [
-      {
-        "id": "adilabad-st",
-        "name": "ADILABAD(ST)",
-        "nameHi": "ADILABAD(ST)"
-      },
-      {
-        "id": "bhongir",
-        "name": "BHONGIR",
-        "nameHi": "BHONGIR"
-      },
-      {
-        "id": "chelvella",
-        "name": "CHELVELLA",
-        "nameHi": "CHELVELLA"
-      },
-      {
-        "id": "hyderabad",
-        "name": "HYDERABAD",
-        "nameHi": "HYDERABAD"
-      },
-      {
-        "id": "karimnagar",
-        "name": "KARIMNAGAR",
-        "nameHi": "KARIMNAGAR"
-      },
-      {
-        "id": "khammam",
-        "name": "KHAMMAM",
-        "nameHi": "KHAMMAM"
-      },
-      {
-        "id": "mahabubabad",
-        "name": "MAHABUBABAD",
-        "nameHi": "MAHABUBABAD"
-      },
-      {
-        "id": "mahabubnagar",
-        "name": "MAHABUBNAGAR",
-        "nameHi": "MAHABUBNAGAR"
-      },
-      {
-        "id": "malkajgiri",
-        "name": "MALKAJGIRI",
-        "nameHi": "MALKAJGIRI"
-      },
-      {
-        "id": "medak",
-        "name": "MEDAK",
-        "nameHi": "MEDAK"
-      },
-      {
-        "id": "nagarkurnool-sc",
-        "name": "NAGARKURNOOL(SC)",
-        "nameHi": "NAGARKURNOOL(SC)"
-      },
-      {
-        "id": "nalgonda",
-        "name": "NALGONDA",
-        "nameHi": "NALGONDA"
-      },
-      {
-        "id": "nizamabad",
-        "name": "NIZAMABAD",
-        "nameHi": "NIZAMABAD"
-      },
-      {
-        "id": "peddapalle",
-        "name": "PEDDAPALLE",
-        "nameHi": "PEDDAPALLE"
-      },
-      {
-        "id": "secunderabad",
-        "name": "SECUNDERABAD",
-        "nameHi": "SECUNDERABAD"
-      },
-      {
-        "id": "telangana-rajya-sabha-nodal-district",
-        "name": "Telangana (Rajya Sabha Nodal District)",
-        "nameHi": "Telangana (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "warangel-sc",
-        "name": "WARANGEL(SC)",
-        "nameHi": "WARANGEL(SC)"
-      },
-      {
-        "id": "zahirabad",
-        "name": "ZAHIRABAD",
-        "nameHi": "ZAHIRABAD"
-      }
-    ]
-  },
-  {
-    "slug": "chandigarh",
-    "state": "Chandigarh",
-    "stateHi": "\u091a\u0902\u0921\u0940\u0917\u0922\u093c",
-    "type": "Union Territory",
-    "rank": 26,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 3,
-    "totalAllocatedCr": 13.3,
-    "totalUtilizedCr": 8.7,
-    "utilizationPct": 65.4,
-    "worksRecommended": 166,
-    "worksCompleted": 60,
-    "completionPct": 36.1,
-    "constituencies": [
-      {
-        "id": "chandigarh",
-        "name": "CHANDIGARH",
-        "nameHi": "CHANDIGARH"
-      },
-      {
-        "id": "chandigarh-rajya-sabha-nodal-district",
-        "name": "Chandigarh (Rajya Sabha Nodal District)",
-        "nameHi": "Chandigarh (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
-    "slug": "assam",
-    "state": "Assam",
-    "stateHi": "\u0905\u0938\u092e",
-    "type": "State",
-    "rank": 27,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 33,
-    "totalAllocatedCr": 285.3,
-    "totalUtilizedCr": 178.4,
-    "utilizationPct": 62.5,
-    "worksRecommended": 4585,
-    "worksCompleted": 955,
-    "completionPct": 20.8,
-    "constituencies": [
-      {
-        "id": "assam-rajya-sabha-nodal-district",
-        "name": "Assam (Rajya Sabha Nodal District)",
-        "nameHi": "Assam (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "barpeta",
-        "name": "BARPETA",
-        "nameHi": "BARPETA"
-      },
-      {
-        "id": "dhubri",
-        "name": "DHUBRI",
-        "nameHi": "DHUBRI"
-      },
-      {
-        "id": "dibrugarh",
-        "name": "DIBRUGARH",
-        "nameHi": "DIBRUGARH"
-      },
-      {
-        "id": "darrang-udalguri",
-        "name": "Darrang-Udalguri",
-        "nameHi": "Darrang-Udalguri"
-      },
-      {
-        "id": "diphu-st",
-        "name": "Diphu (ST)",
-        "nameHi": "Diphu (ST)"
-      },
-      {
-        "id": "guwahati",
-        "name": "GUWAHATI",
-        "nameHi": "GUWAHATI"
-      },
-      {
-        "id": "jorhat",
-        "name": "JORHAT",
-        "nameHi": "JORHAT"
-      },
-      {
-        "id": "karimganj-sc",
-        "name": "KARIMGANJ (SC)",
-        "nameHi": "KARIMGANJ (SC)"
-      },
-      {
-        "id": "kokrajhar-st",
-        "name": "KOKRAJHAR (ST)",
-        "nameHi": "KOKRAJHAR (ST)"
-      },
-      {
-        "id": "kaziranga",
-        "name": "Kaziranga",
-        "nameHi": "Kaziranga"
-      },
-      {
-        "id": "lakhimpur",
-        "name": "LAKHIMPUR",
-        "nameHi": "LAKHIMPUR"
-      },
-      {
-        "id": "nowgong",
-        "name": "NOWGONG",
-        "nameHi": "NOWGONG"
-      },
-      {
-        "id": "silchar",
-        "name": "SILCHAR",
-        "nameHi": "SILCHAR"
-      },
-      {
-        "id": "sonitpur",
-        "name": "Sonitpur",
-        "nameHi": "Sonitpur"
+        "id": "vizianagaram",
+        "name": "VIZIANAGARAM",
+        "nameHi": "VIZIANAGARAM"
       }
     ]
   },
@@ -2754,15 +2448,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Maharashtra",
     "stateHi": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930",
     "type": "State",
-    "rank": 28,
+    "rank": 25,
     "performanceCategory": "Needs Improvement",
-    "mpCount": 107,
-    "totalAllocatedCr": 884.1,
-    "totalUtilizedCr": 543.6,
-    "utilizationPct": 61.5,
-    "worksRecommended": 11443,
-    "worksCompleted": 5729,
-    "completionPct": 50.1,
+    "mpCount": 108,
+    "totalAllocatedCr": 1035.8,
+    "totalUtilizedCr": 574.8,
+    "utilizationPct": 55.5,
+    "worksRecommended": 11811,
+    "worksCompleted": 5805,
+    "completionPct": 49.1,
     "constituencies": [
       {
         "id": "ahmednagar",
@@ -3012,19 +2706,278 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "gujarat",
+    "state": "Gujarat",
+    "stateHi": "\u0917\u0941\u091c\u0930\u093e\u0924",
+    "type": "State",
+    "rank": 26,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 59,
+    "totalAllocatedCr": 595.7,
+    "totalUtilizedCr": 323.7,
+    "utilizationPct": 54.3,
+    "worksRecommended": 17007,
+    "worksCompleted": 8948,
+    "completionPct": 52.6,
+    "constituencies": [
+      {
+        "id": "ahmedabad-east",
+        "name": "AHMEDABAD EAST",
+        "nameHi": "AHMEDABAD EAST"
+      },
+      {
+        "id": "ahmedabad-west-sc",
+        "name": "AHMEDABAD WEST(SC)",
+        "nameHi": "AHMEDABAD WEST(SC)"
+      },
+      {
+        "id": "amreli",
+        "name": "AMRELI",
+        "nameHi": "AMRELI"
+      },
+      {
+        "id": "anand",
+        "name": "ANAND",
+        "nameHi": "ANAND"
+      },
+      {
+        "id": "banaskantha",
+        "name": "BANASKANTHA",
+        "nameHi": "BANASKANTHA"
+      },
+      {
+        "id": "bardoli-st",
+        "name": "BARDOLI(ST)",
+        "nameHi": "BARDOLI(ST)"
+      },
+      {
+        "id": "bharuch",
+        "name": "BHARUCH",
+        "nameHi": "BHARUCH"
+      },
+      {
+        "id": "bhavnagar",
+        "name": "BHAVNAGAR",
+        "nameHi": "BHAVNAGAR"
+      },
+      {
+        "id": "chhota-udaipur-st",
+        "name": "CHHOTA UDAIPUR(ST)",
+        "nameHi": "CHHOTA UDAIPUR(ST)"
+      },
+      {
+        "id": "dahod-st",
+        "name": "DAHOD(ST)",
+        "nameHi": "DAHOD(ST)"
+      },
+      {
+        "id": "gandhinagar",
+        "name": "GANDHINAGAR",
+        "nameHi": "GANDHINAGAR"
+      },
+      {
+        "id": "gujarat-rajya-sabha-nodal-district",
+        "name": "Gujarat (Rajya Sabha Nodal District)",
+        "nameHi": "Gujarat (Rajya Sabha Nodal District)"
+      },
+      {
+        "id": "jamnagar",
+        "name": "JAMNAGAR",
+        "nameHi": "JAMNAGAR"
+      },
+      {
+        "id": "junagadh",
+        "name": "JUNAGADH",
+        "nameHi": "JUNAGADH"
+      },
+      {
+        "id": "kachchh-sc",
+        "name": "KACHCHH(SC)",
+        "nameHi": "KACHCHH(SC)"
+      },
+      {
+        "id": "kheda",
+        "name": "KHEDA",
+        "nameHi": "KHEDA"
+      },
+      {
+        "id": "mahesana",
+        "name": "MAHESANA",
+        "nameHi": "MAHESANA"
+      },
+      {
+        "id": "navsari",
+        "name": "NAVSARI",
+        "nameHi": "NAVSARI"
+      },
+      {
+        "id": "panchmahal",
+        "name": "PANCHMAHAL",
+        "nameHi": "PANCHMAHAL"
+      },
+      {
+        "id": "patan",
+        "name": "PATAN",
+        "nameHi": "PATAN"
+      },
+      {
+        "id": "porbandar",
+        "name": "PORBANDAR",
+        "nameHi": "PORBANDAR"
+      },
+      {
+        "id": "rajkot",
+        "name": "RAJKOT",
+        "nameHi": "RAJKOT"
+      },
+      {
+        "id": "sabarkantha",
+        "name": "SABARKANTHA",
+        "nameHi": "SABARKANTHA"
+      },
+      {
+        "id": "surat",
+        "name": "SURAT",
+        "nameHi": "SURAT"
+      },
+      {
+        "id": "surendranagar",
+        "name": "SURENDRANAGAR",
+        "nameHi": "SURENDRANAGAR"
+      },
+      {
+        "id": "vadodara",
+        "name": "VADODARA",
+        "nameHi": "VADODARA"
+      },
+      {
+        "id": "valsad-st",
+        "name": "VALSAD(ST)",
+        "nameHi": "VALSAD(ST)"
+      }
+    ]
+  },
+  {
+    "slug": "telangana",
+    "state": "Telangana",
+    "stateHi": "\u0924\u0947\u0932\u0902\u0917\u093e\u0928\u093e",
+    "type": "State",
+    "rank": 27,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 40,
+    "totalAllocatedCr": 444.5,
+    "totalUtilizedCr": 233.1,
+    "utilizationPct": 52.4,
+    "worksRecommended": 10961,
+    "worksCompleted": 5362,
+    "completionPct": 48.9,
+    "constituencies": [
+      {
+        "id": "adilabad-st",
+        "name": "ADILABAD(ST)",
+        "nameHi": "ADILABAD(ST)"
+      },
+      {
+        "id": "bhongir",
+        "name": "BHONGIR",
+        "nameHi": "BHONGIR"
+      },
+      {
+        "id": "chelvella",
+        "name": "CHELVELLA",
+        "nameHi": "CHELVELLA"
+      },
+      {
+        "id": "hyderabad",
+        "name": "HYDERABAD",
+        "nameHi": "HYDERABAD"
+      },
+      {
+        "id": "karimnagar",
+        "name": "KARIMNAGAR",
+        "nameHi": "KARIMNAGAR"
+      },
+      {
+        "id": "khammam",
+        "name": "KHAMMAM",
+        "nameHi": "KHAMMAM"
+      },
+      {
+        "id": "mahabubabad",
+        "name": "MAHABUBABAD",
+        "nameHi": "MAHABUBABAD"
+      },
+      {
+        "id": "mahabubnagar",
+        "name": "MAHABUBNAGAR",
+        "nameHi": "MAHABUBNAGAR"
+      },
+      {
+        "id": "malkajgiri",
+        "name": "MALKAJGIRI",
+        "nameHi": "MALKAJGIRI"
+      },
+      {
+        "id": "medak",
+        "name": "MEDAK",
+        "nameHi": "MEDAK"
+      },
+      {
+        "id": "nagarkurnool-sc",
+        "name": "NAGARKURNOOL(SC)",
+        "nameHi": "NAGARKURNOOL(SC)"
+      },
+      {
+        "id": "nalgonda",
+        "name": "NALGONDA",
+        "nameHi": "NALGONDA"
+      },
+      {
+        "id": "nizamabad",
+        "name": "NIZAMABAD",
+        "nameHi": "NIZAMABAD"
+      },
+      {
+        "id": "peddapalle",
+        "name": "PEDDAPALLE",
+        "nameHi": "PEDDAPALLE"
+      },
+      {
+        "id": "secunderabad",
+        "name": "SECUNDERABAD",
+        "nameHi": "SECUNDERABAD"
+      },
+      {
+        "id": "telangana-rajya-sabha-nodal-district",
+        "name": "Telangana (Rajya Sabha Nodal District)",
+        "nameHi": "Telangana (Rajya Sabha Nodal District)"
+      },
+      {
+        "id": "warangel-sc",
+        "name": "WARANGEL(SC)",
+        "nameHi": "WARANGEL(SC)"
+      },
+      {
+        "id": "zahirabad",
+        "name": "ZAHIRABAD",
+        "nameHi": "ZAHIRABAD"
+      }
+    ]
+  },
+  {
     "slug": "haryana",
     "state": "Haryana",
     "stateHi": "\u0939\u0930\u093f\u092f\u093e\u0923\u093e",
     "type": "State",
-    "rank": 29,
+    "rank": 28,
     "performanceCategory": "Needs Improvement",
-    "mpCount": 23,
-    "totalAllocatedCr": 174.4,
-    "totalUtilizedCr": 105.2,
-    "utilizationPct": 60.3,
-    "worksRecommended": 3667,
-    "worksCompleted": 1365,
-    "completionPct": 37.2,
+    "mpCount": 24,
+    "totalAllocatedCr": 211.6,
+    "totalUtilizedCr": 110.8,
+    "utilizationPct": 52.4,
+    "worksRecommended": 3981,
+    "worksCompleted": 1410,
+    "completionPct": 35.4,
     "constituencies": [
       {
         "id": "ambala-sc",
@@ -3088,15 +3041,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Delhi",
     "stateHi": "\u0926\u093f\u0932\u094d\u0932\u0940",
     "type": "Union Territory",
-    "rank": 30,
+    "rank": 29,
     "performanceCategory": "Needs Improvement",
     "mpCount": 18,
-    "totalAllocatedCr": 131.7,
-    "totalUtilizedCr": 72.3,
-    "utilizationPct": 54.9,
-    "worksRecommended": 1279,
-    "worksCompleted": 679,
-    "completionPct": 53.1,
+    "totalAllocatedCr": 158.3,
+    "totalUtilizedCr": 76.0,
+    "utilizationPct": 48.0,
+    "worksRecommended": 1370,
+    "worksCompleted": 710,
+    "completionPct": 51.8,
     "constituencies": [
       {
         "id": "chandini-chowk",
@@ -3141,46 +3094,19 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "puducherry",
-    "state": "Puducherry",
-    "stateHi": "\u092a\u0941\u0921\u0941\u091a\u0947\u0930\u0940",
-    "type": "Union Territory",
-    "rank": 31,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 3,
-    "totalAllocatedCr": 38.1,
-    "totalUtilizedCr": 20.1,
-    "utilizationPct": 52.9,
-    "worksRecommended": 242,
-    "worksCompleted": 92,
-    "completionPct": 38.0,
-    "constituencies": [
-      {
-        "id": "puducherry",
-        "name": "Puducherry",
-        "nameHi": "Puducherry"
-      },
-      {
-        "id": "puducherry-rajya-sabha-nodal-district",
-        "name": "Puducherry (Rajya Sabha Nodal District)",
-        "nameHi": "Puducherry (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
     "slug": "kerala",
     "state": "Kerala",
     "stateHi": "\u0915\u0947\u0930\u0932",
     "type": "State",
-    "rank": 32,
+    "rank": 30,
     "performanceCategory": "Needs Improvement",
     "mpCount": 51,
-    "totalAllocatedCr": 485.6,
-    "totalUtilizedCr": 256.3,
-    "utilizationPct": 52.8,
-    "worksRecommended": 8876,
-    "worksCompleted": 4031,
-    "completionPct": 45.4,
+    "totalAllocatedCr": 598.2,
+    "totalUtilizedCr": 273.1,
+    "utilizationPct": 45.6,
+    "worksRecommended": 9469,
+    "worksCompleted": 4415,
+    "completionPct": 46.6,
     "constituencies": [
       {
         "id": "alappuzha",
@@ -3290,19 +3216,93 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "jammu-kashmir",
+    "state": "Jammu & Kashmir",
+    "stateHi": "\u091c\u092e\u094d\u092e\u0942 \u0914\u0930 \u0915\u0936\u094d\u092e\u0940\u0930",
+    "type": "Union Territory",
+    "rank": 31,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 13,
+    "totalAllocatedCr": 113.9,
+    "totalUtilizedCr": 51.0,
+    "utilizationPct": 44.8,
+    "worksRecommended": 2450,
+    "worksCompleted": 1269,
+    "completionPct": 51.8,
+    "constituencies": [
+      {
+        "id": "anantnag",
+        "name": "ANANTNAG",
+        "nameHi": "ANANTNAG"
+      },
+      {
+        "id": "baramullah",
+        "name": "BARAMULLAH",
+        "nameHi": "BARAMULLAH"
+      },
+      {
+        "id": "jammu",
+        "name": "JAMMU",
+        "nameHi": "JAMMU"
+      },
+      {
+        "id": "jammu-and-kashmir-rajya-sabha-nodal-district",
+        "name": "Jammu And Kashmir (Rajya Sabha Nodal District)",
+        "nameHi": "Jammu And Kashmir (Rajya Sabha Nodal District)"
+      },
+      {
+        "id": "srinagar",
+        "name": "SRINAGAR",
+        "nameHi": "SRINAGAR"
+      },
+      {
+        "id": "udhampur",
+        "name": "UDHAMPUR",
+        "nameHi": "UDHAMPUR"
+      }
+    ]
+  },
+  {
+    "slug": "puducherry",
+    "state": "Puducherry",
+    "stateHi": "\u092a\u0941\u0921\u0941\u091a\u0947\u0930\u0940",
+    "type": "Union Territory",
+    "rank": 32,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 3,
+    "totalAllocatedCr": 51.8,
+    "totalUtilizedCr": 22.1,
+    "utilizationPct": 42.7,
+    "worksRecommended": 258,
+    "worksCompleted": 92,
+    "completionPct": 35.7,
+    "constituencies": [
+      {
+        "id": "puducherry",
+        "name": "Puducherry",
+        "nameHi": "Puducherry"
+      },
+      {
+        "id": "puducherry-rajya-sabha-nodal-district",
+        "name": "Puducherry (Rajya Sabha Nodal District)",
+        "nameHi": "Puducherry (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
     "slug": "odisha",
     "state": "Odisha",
     "stateHi": "\u0913\u0921\u093f\u0936\u093e",
     "type": "State",
     "rank": 33,
     "performanceCategory": "Needs Improvement",
-    "mpCount": 50,
-    "totalAllocatedCr": 406.2,
-    "totalUtilizedCr": 188.7,
-    "utilizationPct": 46.5,
-    "worksRecommended": 12247,
-    "worksCompleted": 4703,
-    "completionPct": 38.4,
+    "mpCount": 51,
+    "totalAllocatedCr": 475.0,
+    "totalUtilizedCr": 202.0,
+    "utilizationPct": 42.5,
+    "worksRecommended": 13379,
+    "worksCompleted": 4801,
+    "completionPct": 35.9,
     "constituencies": [
       {
         "id": "aska",
@@ -3424,12 +3424,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 34,
     "performanceCategory": "Needs Improvement",
     "mpCount": 5,
-    "totalAllocatedCr": 49.8,
-    "totalUtilizedCr": 22.9,
-    "utilizationPct": 46.0,
-    "worksRecommended": 409,
+    "totalAllocatedCr": 59.9,
+    "totalUtilizedCr": 24.8,
+    "utilizationPct": 41.4,
+    "worksRecommended": 427,
     "worksCompleted": 122,
-    "completionPct": 29.8,
+    "completionPct": 28.6,
     "constituencies": [
       {
         "id": "goa-rajya-sabha-nodal-district",
@@ -3457,11 +3457,11 @@ export const INDIA_STATES_AND_UT = [
     "performanceCategory": "Needs Improvement",
     "mpCount": 2,
     "totalAllocatedCr": 14.6,
-    "totalUtilizedCr": 1.3,
-    "utilizationPct": 9.1,
+    "totalUtilizedCr": 1.6,
+    "utilizationPct": 11.1,
     "worksRecommended": 225,
-    "worksCompleted": 4,
-    "completionPct": 1.8,
+    "worksCompleted": 6,
+    "completionPct": 2.7,
     "constituencies": [
       {
         "id": "ladakh",
@@ -3483,12 +3483,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 36,
     "performanceCategory": "Needs Improvement",
     "mpCount": 2,
-    "totalAllocatedCr": 25.3,
-    "totalUtilizedCr": 0.0,
-    "utilizationPct": 0.2,
+    "totalAllocatedCr": 25.4,
+    "totalUtilizedCr": 0.3,
+    "utilizationPct": 1.0,
     "worksRecommended": 64,
-    "worksCompleted": 0,
-    "completionPct": 0.0,
+    "worksCompleted": 1,
+    "completionPct": 1.6,
     "constituencies": [
       {
         "id": "dadra-nagar-haveli-st",

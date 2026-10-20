@@ -204,6 +204,9 @@ for mp_id, mp_name, const_id, house_type, tenure, allocated_limit in mps_db:
         "house": "Lok Sabha" if house_type == 2 else "Rajya Sabha",
         "state": state_name,
         "constituency": cname,
+        "sanctionedCr": round(allocated_cr, 2),
+        "disbursedCr": round(spent_cr, 2),
+        "reconciledDisbursedCr": round(spent_cr, 2),
         "allocatedCr": round(allocated_cr, 2),
         "spentCr": round(spent_cr, 2),
         "utilizationPct": util_pct,
@@ -221,6 +224,11 @@ for mp_id, mp_name, const_id, house_type, tenure, allocated_limit in mps_db:
 mps_js_content = f"""// Generated MP performance data
 export const ALL_MPS_DATA = {json.dumps(mps_list, indent=2)};
 
+export const CURRENT_18TH_MPS_DATA = ALL_MPS_DATA.filter(m => m.house === 'Lok Sabha' && (!m.term || !m.term.includes('17')));
+export const RAJYA_SABHA_MPS_DATA = ALL_MPS_DATA.filter(m => m.house === 'Rajya Sabha');
+export const HISTORICAL_17TH_MPS_DATA = ALL_MPS_DATA.filter(m => m.term && m.term.includes('17'));
+export const ALL_AVAILABLE_MPS = ALL_MPS_DATA;
+
 export const mpToSlug = (name) => {{
   return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 }};
@@ -230,31 +238,46 @@ export const getMpBySlug = (slug) => ALL_MPS_DATA.find(m => m.slug === slug);
 export const getMpsSummaryStats = (mps) => {{
   const list = mps || ALL_MPS_DATA;
   if (list.length === 0) return {{
+    totalMps: 0,
+    totalSanctionedCr: 0,
     totalAllocatedCr: 0,
+    totalDisbursedCr: 0,
+    totalReconciledDisbursedCr: 0,
+    totalActualCr: 0,
     totalUtilizedCr: 0,
     avgUtilizationPct: 0,
     totalWorksCompleted: 0,
+    totalWorksRecommended: 0,
     highCount: 0,
     avgCount: 0,
-    lowCount: 0
+    lowCount: 0,
+    needsImpCount: 0
   }};
   
-  const totalAllocated = list.reduce((sum, m) => sum + m.allocatedCr, 0);
-  const totalUtilized = list.reduce((sum, m) => sum + m.spentCr, 0);
-  const totalCompleted = list.reduce((sum, m) => sum + m.worksCompleted, 0);
+  const totalAllocated = list.reduce((sum, m) => sum + (m.allocatedCr || m.sanctionedCr || 0), 0);
+  const totalUtilized = list.reduce((sum, m) => sum + (m.spentCr || m.disbursedCr || 0), 0);
+  const totalCompleted = list.reduce((sum, m) => sum + (m.worksCompleted || 0), 0);
+  const totalRecommended = list.reduce((sum, m) => sum + (m.worksRecommended || 0), 0);
   
-  const high = list.filter(m => m.utilizationPct >= 70).length;
-  const avg = list.filter(m => m.utilizationPct >= 40 && m.utilizationPct < 70).length;
-  const low = list.filter(m => m.utilizationPct < 40).length;
+  const high = list.filter(m => (m.utilizationPct || 0) >= 70).length;
+  const avg = list.filter(m => (m.utilizationPct || 0) >= 40 && (m.utilizationPct || 0) < 70).length;
+  const low = list.filter(m => (m.utilizationPct || 0) < 40).length;
   
   return {{
+    totalMps: list.length,
+    totalSanctionedCr: roundVal(totalAllocated),
     totalAllocatedCr: roundVal(totalAllocated),
+    totalDisbursedCr: roundVal(totalUtilized),
+    totalReconciledDisbursedCr: roundVal(totalUtilized),
+    totalActualCr: roundVal(totalUtilized),
     totalUtilizedCr: roundVal(totalUtilized),
     avgUtilizationPct: roundVal((totalUtilized / (totalAllocated || 1)) * 100),
     totalWorksCompleted: totalCompleted,
+    totalWorksRecommended: totalRecommended,
     highCount: high,
     avgCount: avg,
-    lowCount: low
+    lowCount: low,
+    needsImpCount: low
   }};
 }};
 

@@ -35,7 +35,19 @@ def export_to_parquet():
     
     for table in TABLES:
         print(f"  -> Exporting {table}.parquet")
-        query = f"SELECT * FROM {table};"
+        if table == "works":
+            query = """
+                SELECT 
+                    work_id, activity_name, work_description, work_category,
+                    mp_id, house_type, tenure, constituency_id, state_id,
+                    ida_name, letter_no, recommended_amount,
+                    COALESCE(sanction_amount, actual_amount, recommended_amount) as sanction_amount,
+                    actual_amount, recommendation_date, sanction_date, actual_end_date,
+                    work_stage, work_status, average_rating, flag, record_hash, updated_at
+                FROM works;
+            """
+        else:
+            query = f"SELECT * FROM {table};"
         df = pd.read_sql_query(query, conn)
         parquet_path = os.path.join(EXPORT_DIR, f"{table}.parquet")
         df.to_parquet(parquet_path, engine="pyarrow", compression="snappy")

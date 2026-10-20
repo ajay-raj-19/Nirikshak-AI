@@ -45,9 +45,9 @@ export default function MospiNationalDashboard({ activeTab = 'overview' }) {
 
   // Real national stats from ministryView
   const nationalStats = ministryView?.national_stats;
-  const nationalWorksCount = nationalStats?.total_projects ? Number(nationalStats.total_projects).toLocaleString() : '2,18,913';
-  const totalSanctionedCr = nationalStats?.total_sanctioned ? `₹${(nationalStats.total_sanctioned / 10000000).toFixed(0)} Cr` : '₹12,129 Cr';
-  const totalDisbursedCr = nationalStats?.total_disbursed ? `₹${(nationalStats.total_disbursed / 10000000).toFixed(0)} Cr` : '₹8,008 Cr';
+  const nationalWorksCount = nationalStats?.total_projects ? Number(nationalStats.total_projects).toLocaleString() : '2,33,718';
+  const totalSanctionedCr = nationalStats?.total_sanctioned ? `₹${(nationalStats.total_sanctioned / 10000000).toFixed(0)} Cr` : '₹12,875 Cr';
+  const totalDisbursedCr = nationalStats?.total_disbursed ? `₹${(nationalStats.total_disbursed / 10000000).toFixed(0)} Cr` : '₹8,429 Cr';
 
   const stateBenchmarksList = React.useMemo(() => {
     if (ministryView?.state_wise_benchmarks && ministryView.state_wise_benchmarks.length > 0) {

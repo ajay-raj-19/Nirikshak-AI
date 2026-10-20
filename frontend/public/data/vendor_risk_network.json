@@ -1,63 +1,26 @@
 [
   {
     "vendor_name": "SML ISUZU LTD",
-    "constituencies_operated": 7,
+    "constituencies_operated": 8,
     "monopolies_controlled": 2,
-    "total_funds_captured": 128797556.0,
-    "risk_score": 28.57,
+    "total_funds_captured": 167258174.0,
+    "risk_score": 25.0,
     "regions": [
       "CHANDIGARH",
       "LADAKH",
       "KANNUR",
       "Kerala (Rajya Sabha Nodal District)",
+      "Puducherry (Rajya Sabha Nodal District)",
       "Goa (Rajya Sabha Nodal District)",
       "SONEPAT",
       "SOUTH GOA"
     ]
   },
   {
-    "vendor_name": "HIDAYA QIRAT ENTERPRISES",
-    "constituencies_operated": 29,
-    "monopolies_controlled": 1,
-    "total_funds_captured": 218623819.0,
-    "risk_score": 3.45,
-    "regions": [
-      "ARUNACHAL WEST",
-      "NAINITAL UDHAM SINGH NAG.",
-      "Punjab (Rajya Sabha Nodal District)",
-      "BARPETA",
-      "TIRUNELVELI",
-      "RAVER",
-      "ANAKAPALLE",
-      "Uttar Pradesh (Rajya Sabha Nodal District)",
-      "BANASKANTHA",
-      "Madhya Pradesh (Rajya Sabha Nodal District)",
-      "Andhra Pradesh (Rajya Sabha Nodal District)",
-      "Delhi (Rajya Sabha Nodal District)",
-      "BANGALORE RURAL",
-      "Bihar (Rajya Sabha Nodal District)",
-      "ALIGARH",
-      "Jharkhand (Rajya Sabha Nodal District)",
-      "RAIGARH(ST)",
-      "Karnataka (Rajya Sabha Nodal District)",
-      "DAMAN and DIU",
-      "HAMIRPUR_HP",
-      "BETUL(ST)",
-      "BHATINDA",
-      "Rajasthan (Rajya Sabha Nodal District)",
-      "SONEPAT",
-      "ADILABAD(ST)",
-      "AJMER",
-      "ARARIA",
-      "Himachal Pradesh (Rajya Sabha Nodal District)",
-      "Jammu And Kashmir (Rajya Sabha Nodal District)"
-    ]
-  },
-  {
     "vendor_name": "SHRI GURU KRIPA NARSINGH ASSOCIATES",
     "constituencies_operated": 4,
     "monopolies_controlled": 1,
-    "total_funds_captured": 192213752.0,
+    "total_funds_captured": 198405752.0,
     "risk_score": 25.0,
     "regions": [
       "ALIGARH",
@@ -70,7 +33,7 @@
     "vendor_name": "TATA MOTORS",
     "constituencies_operated": 11,
     "monopolies_controlled": 1,
-    "total_funds_captured": 157405653.51,
+    "total_funds_captured": 181168177.51,
     "risk_score": 9.09,
     "regions": [
       "ANDAMAN AND NICOBAR ISLANDS",
@@ -90,12 +53,22 @@
     "vendor_name": "COMPUTER SOLUTIONS",
     "constituencies_operated": 3,
     "monopolies_controlled": 1,
-    "total_funds_captured": 73386000.0,
+    "total_funds_captured": 69984000.0,
     "risk_score": 33.33,
     "regions": [
       "Jammu And Kashmir (Rajya Sabha Nodal District)",
       "Uttar Pradesh (Rajya Sabha Nodal District)",
       "Goa (Rajya Sabha Nodal District)"
+    ]
+  },
+  {
+    "vendor_name": "Vendor 96932",
+    "constituencies_operated": 1,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 14717500.0,
+    "risk_score": 100.0,
+    "regions": [
+      "Manipur (Rajya Sabha Nodal District)"
     ]
   },
   {
@@ -111,6 +84,48 @@
     ]
   },
   {
+    "vendor_name": "WEHEAR INNOVATIONS PRIVATE LIMITED",
+    "constituencies_operated": 3,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 9546000.0,
+    "risk_score": 33.33,
+    "regions": [
+      "DAMAN and DIU",
+      "BANASKANTHA",
+      "Gujarat (Rajya Sabha Nodal District)"
+    ]
+  },
+  {
+    "vendor_name": "Vendor 97670",
+    "constituencies_operated": 1,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 6750000.0,
+    "risk_score": 100.0,
+    "regions": [
+      "Manipur (Rajya Sabha Nodal District)"
+    ]
+  },
+  {
+    "vendor_name": "Vendor 98608",
+    "constituencies_operated": 1,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 2250000.0,
+    "risk_score": 100.0,
+    "regions": [
+      "Manipur (Rajya Sabha Nodal District)"
+    ]
+  },
+  {
+    "vendor_name": "Vendor 96190",
+    "constituencies_operated": 1,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 1800000.0,
+    "risk_score": 100.0,
+    "regions": [
+      "Manipur (Rajya Sabha Nodal District)"
+    ]
+  },
+  {
     "vendor_name": "ARJUN SINGH",
     "constituencies_operated": 4,
     "monopolies_controlled": 1,
@@ -121,6 +136,16 @@
       "AJMER",
       "NAINITAL UDHAM SINGH NAG.",
       "DAMAN and DIU"
+    ]
+  },
+  {
+    "vendor_name": "Vendor 98385",
+    "constituencies_operated": 1,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 1110500.0,
+    "risk_score": 100.0,
+    "regions": [
+      "LADAKH"
     ]
   },
   {
@@ -141,6 +166,16 @@
     "risk_score": 100.0,
     "regions": [
       "Goa (Rajya Sabha Nodal District)"
+    ]
+  },
+  {
+    "vendor_name": "Vendor 98382",
+    "constituencies_operated": 1,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 941175.0,
+    "risk_score": 100.0,
+    "regions": [
+      "LADAKH"
     ]
   },
   {
@@ -184,6 +219,16 @@
     ]
   },
   {
+    "vendor_name": "Vendor 98294",
+    "constituencies_operated": 1,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 565000.0,
+    "risk_score": 100.0,
+    "regions": [
+      "LADAKH"
+    ]
+  },
+  {
     "vendor_name": "THUKJAY DOLMA",
     "constituencies_operated": 1,
     "monopolies_controlled": 1,
@@ -191,6 +236,17 @@
     "risk_score": 100.0,
     "regions": [
       "LADAKH"
+    ]
+  },
+  {
+    "vendor_name": "PEACOCL FEATHERS",
+    "constituencies_operated": 2,
+    "monopolies_controlled": 1,
+    "total_funds_captured": 445470.0,
+    "risk_score": 50.0,
+    "regions": [
+      "Goa (Rajya Sabha Nodal District)",
+      "SOUTH GOA"
     ]
   },
   {
@@ -204,14 +260,13 @@
     ]
   },
   {
-    "vendor_name": "PEACOCL FEATHERS",
-    "constituencies_operated": 2,
+    "vendor_name": "Vendor 89831",
+    "constituencies_operated": 1,
     "monopolies_controlled": 1,
-    "total_funds_captured": 317529.0,
-    "risk_score": 50.0,
+    "total_funds_captured": 220000.0,
+    "risk_score": 100.0,
     "regions": [
-      "Goa (Rajya Sabha Nodal District)",
-      "SOUTH GOA"
+      "LADAKH"
     ]
   },
   {

@@ -588,11 +588,11 @@ const KeyMetricsDashboard = ({ isHi }) => {
 
   const [statesData, setStatesData] = useState([]);
   const [kpis, setKpis] = useState({
-    totalProjects: '2,18,913',
-    totalAllocated: '₹42,721 Cr',
-    totalSpent: '₹38,290 Cr',
-    utilizationRate: '89.6%',
-    completedVsPending: '194K / 24K'
+    totalProjects: '2,33,718',
+    totalAllocated: '₹12,875 Cr',
+    totalSpent: '₹8,429 Cr',
+    utilizationRate: '65.5%',
+    completedVsPending: '116K / 118K'
   });
 
   const { ministryView } = useData();
@@ -1102,12 +1102,12 @@ const FinancialAnomalyDashboard = ({ isHi }) => {
   const anomalyProjects = mapAnomalyData(costAndDelayAnomalies);
 
   const [isAnalyzing, setIsAnalyzing] = useState(false);
-  const [analysisStatus, setAnalysisStatus] = useState('Last Run: Today, 10:45 AM • 218K Records Scanned');
+  const [analysisStatus, setAnalysisStatus] = useState('Last Run: Today, 10:45 AM • 233K Records Scanned');
   const [selectedAnomaly, setSelectedAnomaly] = useState(null);
 
   // ── Live KPI state from /api/analytics/summary ─────────────────────────────────
   const [finGuardKpis, setFinGuardKpis] = useState({
-    projectsAnalyzed: '2,18,913',
+    projectsAnalyzed: '2,33,718',
     anomaliesDetected: '7,100',
     highRisk: '1',
     exposureCr: '184.5',
@@ -2137,10 +2137,10 @@ const GeoIntelDashboard = ({ isHi }) => {
 
 const DuplicateDetectionDashboard = ({ isHi }) => {
   const [isScanning, setIsScanning] = useState(false);
-  const [scanStatus, setScanStatus] = useState('Last Scan: Today, 11:30 AM • 218K Works Scanned');
+  const [scanStatus, setScanStatus] = useState('Last Scan: Today, 11:30 AM • 233K Works Scanned');
   const [selectedPair, setSelectedPair] = useState(null);
   const [duplicatePairs, setDuplicatePairs] = useState([]);
-  const [dupKpiProjects, setDupKpiProjects] = useState('2,18,913');
+  const [dupKpiProjects, setDupKpiProjects] = useState('2,33,718');
 
   useEffect(() => {
     // Fetch live total_projects for the KPI card
@@ -2926,18 +2926,18 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
   }, [selectedProject?.id, token]);
 
   const [nationalStats, setNationalStats] = useState({
-    totalProjects: '2,18,913',
-    totalAllocated: '₹42,721 Cr',
-    totalSpent: '₹38,290 Cr',
-    utilizationRate: '89.6%',
-    totalMps: '788',
-    completedWorks: '1,94,210',
-    pendingWorks: '24,190',
-    incompleteWorks: '667',
+    totalProjects: '2,33,718',
+    totalAllocated: '₹12,875 Cr',
+    totalSpent: '₹8,429 Cr',
+    utilizationRate: '65.5%',
+    totalMps: '782',
+    completedWorks: '1,15,916',
+    pendingWorks: '1,17,802',
+    incompleteWorks: '537',
     riskCritical: '0',
-    riskHigh: '667',
-    riskMedium: '90,435',
-    riskLow: '127,811'
+    riskHigh: '9',
+    riskMedium: '53,678',
+    riskLow: '1,80,031'
   });
 
   const { ministryView, unifiedProjects } = useData();
@@ -3441,82 +3441,84 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
       // ─────────────────────────────────────────────
       case 'overview':
       case 'home': {
-        const HOUSE_DATA = {
+        const DEFAULT_HOUSE_DATA = {
           both: {
             subtitleEn: 'Monitoring MPLADS works, fund utilization, and anomaly verification across 543 Lok Sabha and 245 Rajya Sabha constituencies.',
             subtitleHi: '543 लोकसभा और 245 राज्यसभा निर्वाचन क्षेत्रों में एमपीलैड्स विकास कार्यों, निधि उपयोग और विसंगति सत्यापन की निगरानी।',
-            allocated: '₹12,129 Cr',
+            allocated: '₹12,875 Cr',
             allocatedSub: 'National (Lok Sabha + Rajya Sabha)',
             allocatedSubHi: 'राष्ट्रीय (लोकसभा + राज्यसभा)',
-            spent: '₹8,008 Cr',
+            spent: '₹8,429 Cr',
             spentSub: 'Disbursed Vouchers',
             spentSubHi: 'संवितरित वाउचर',
-            utilization: '66.0%',
+            utilization: '65.5%',
             utilizationSub: 'National Average',
             utilizationSubHi: 'राष्ट्रीय औसत',
-            completed: '1,94,210',
-            completedSub: 'Verified Finish (88.7%)',
-            completedSubHi: 'सत्यापित पूर्ण (88.7%)',
-            riskCritical: '18',
-            riskCriticalPct: '0.01%',
-            riskHigh: '667',
-            riskHighPct: '0.30%',
-            riskMedium: '90,435',
-            riskMediumPct: '41.3%',
-            riskLow: '1,27,793',
-            riskLowPct: '58.4%',
+            completed: '1,15,916',
+            completedSub: 'Verified Finish (49.6%)',
+            completedSubHi: 'सत्यापित पूर्ण (49.6%)',
+            riskCritical: '0',
+            riskCriticalPct: '0.00%',
+            riskHigh: '9',
+            riskHighPct: '0.00%',
+            riskMedium: '53,678',
+            riskMediumPct: '23.0%',
+            riskLow: '1,80,031',
+            riskLowPct: '77.0%',
           },
           'lok-sabha': {
             subtitleEn: 'Monitoring MPLADS works, fund utilization, and anomaly verification across 543 Lok Sabha constituencies.',
             subtitleHi: '543 लोकसभा निर्वाचन क्षेत्रों में एमपीलैड्स विकास कार्यों, निधि उपयोग और विसंगति सत्यापन की निगरानी।',
-            allocated: '₹8,491 Cr',
-            allocatedSub: '16th & 17th Lok Sabha (543 MPs)',
-            allocatedSubHi: '16वीं और 17वीं लोकसभा (543 सांसद)',
-            spent: '₹5,686 Cr',
+            allocated: '₹10,485 Cr',
+            allocatedSub: '18th & 17th Lok Sabha (543 MPs)',
+            allocatedSubHi: '18वीं और 17वीं लोकसभा (543 सांसद)',
+            spent: '₹7,095 Cr',
             spentSub: 'Disbursed Vouchers',
             spentSubHi: 'संवितरित वाउचर',
-            utilization: '67.0%',
+            utilization: '67.7%',
             utilizationSub: 'Lok Sabha Average',
             utilizationSubHi: 'लोकसभा औसत',
-            completed: '1,36,810',
-            completedSub: 'Verified Finish (89.3%)',
-            completedSubHi: 'सत्यापित पूर्ण (89.3%)',
-            riskCritical: '13',
-            riskCriticalPct: '0.01%',
-            riskHigh: '473',
-            riskHighPct: '0.31%',
-            riskMedium: '63,304',
-            riskMediumPct: '41.3%',
-            riskLow: '89,449',
-            riskLowPct: '58.4%',
+            completed: '1,05,367',
+            completedSub: 'Verified Finish (51.0%)',
+            completedSubHi: 'सत्यापित पूर्ण (51.0%)',
+            riskCritical: '0',
+            riskCriticalPct: '0.00%',
+            riskHigh: '6',
+            riskHighPct: '0.00%',
+            riskMedium: '50,941',
+            riskMediumPct: '24.7%',
+            riskLow: '1,55,618',
+            riskLowPct: '75.3%',
           },
           'rajya-sabha': {
             subtitleEn: 'Monitoring MPLADS works, fund utilization, and anomaly verification across 245 Rajya Sabha nodal districts.',
             subtitleHi: '245 राज्यसभा नोडल जिलों में एमपीलैड्स विकास कार्यों, निधि उपयोग और विसंगति सत्यापन की निगरानी।',
-            allocated: '₹3,639 Cr',
+            allocated: '₹2,390 Cr',
             allocatedSub: 'Rajya Sabha Nodal Districts (245 MPs)',
             allocatedSubHi: 'राज्यसभा नोडल जिले (245 सांसद)',
-            spent: '₹2,322 Cr',
+            spent: '₹1,334 Cr',
             spentSub: 'Disbursed Vouchers',
             spentSubHi: 'संवितरित वाउचर',
-            utilization: '63.8%',
+            utilization: '55.8%',
             utilizationSub: 'Rajya Sabha Average',
             utilizationSubHi: 'राज्यसभा औसत',
-            completed: '57,400',
-            completedSub: 'Verified Finish (87.4%)',
-            completedSubHi: 'सत्यापित पूर्ण (87.4%)',
-            riskCritical: '5',
-            riskCriticalPct: '0.01%',
-            riskHigh: '194',
-            riskHighPct: '0.30%',
-            riskMedium: '27,131',
-            riskMediumPct: '41.3%',
-            riskLow: '38,344',
-            riskLowPct: '58.4%',
+            completed: '10,549',
+            completedSub: 'Verified Finish (38.9%)',
+            completedSubHi: 'सत्यापित पूर्ण (38.9%)',
+            riskCritical: '0',
+            riskCriticalPct: '0.00%',
+            riskHigh: '3',
+            riskHighPct: '0.01%',
+            riskMedium: '2,814',
+            riskMediumPct: '10.4%',
+            riskLow: '24,336',
+            riskLowPct: '89.6%',
           }
         };
 
-        const currentHouseData = HOUSE_DATA[selectedHouse] || HOUSE_DATA.both;
+        const currentHouseData = (ministryView?.house_stats && ministryView.house_stats[selectedHouse])
+          ? ministryView.house_stats[selectedHouse]
+          : (DEFAULT_HOUSE_DATA[selectedHouse] || DEFAULT_HOUSE_DATA.both);
 
         return (
           <div id="mplads-overview-dashboard" style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
@@ -3638,7 +3640,7 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                       <span>{currentHouseData.riskCritical} works ({currentHouseData.riskCriticalPct})</span>
                     </div>
                     <div style={{ height: '8px', background: '#FAF8F3', borderRadius: '4px', border: '1px solid #1D1E22', overflow: 'hidden' }}>
-                      <div style={{ width: '0.5%', height: '100%', background: '#D9534F' }}></div>
+                      <div style={{ width: currentHouseData.riskCriticalPct || '0%', height: '100%', background: '#D9534F' }}></div>
                     </div>
                   </div>
 
@@ -3648,7 +3650,7 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                       <span>{currentHouseData.riskHigh} works ({currentHouseData.riskHighPct})</span>
                     </div>
                     <div style={{ height: '8px', background: '#FAF8F3', borderRadius: '4px', border: '1px solid #1D1E22', overflow: 'hidden' }}>
-                      <div style={{ width: '1.2%', height: '100%', background: '#E07A5F' }}></div>
+                      <div style={{ width: currentHouseData.riskHighPct || '0%', height: '100%', background: '#E07A5F' }}></div>
                     </div>
                   </div>
 
@@ -3658,7 +3660,7 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                       <span>{currentHouseData.riskMedium} works ({currentHouseData.riskMediumPct})</span>
                     </div>
                     <div style={{ height: '8px', background: '#FAF8F3', borderRadius: '4px', border: '1px solid #1D1E22', overflow: 'hidden' }}>
-                      <div style={{ width: '41.3%', height: '100%', background: '#E5B842' }}></div>
+                      <div style={{ width: currentHouseData.riskMediumPct || '0%', height: '100%', background: '#E5B842' }}></div>
                     </div>
                   </div>
 
@@ -3668,7 +3670,7 @@ const FeatureView = ({ featureId: propFeatureId, onBack }) => {
                       <span>{currentHouseData.riskLow} works ({currentHouseData.riskLowPct})</span>
                     </div>
                     <div style={{ height: '8px', background: '#FAF8F3', borderRadius: '4px', border: '1px solid #1D1E22', overflow: 'hidden' }}>
-                      <div style={{ width: '58.4%', height: '100%', background: '#52B79A' }}></div>
+                      <div style={{ width: currentHouseData.riskLowPct || '0%', height: '100%', background: '#52B79A' }}></div>
                     </div>
                   </div>
                 </div>

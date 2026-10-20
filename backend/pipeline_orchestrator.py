@@ -25,6 +25,10 @@ STAGES = {
         "name": "Stage 1: Incremental Ingestion",
         "command": ["-m", "backend.sync_incremental"]
     },
+    "export_parquet": {
+        "name": "Stage 1.5: Refresh ML Dataset Parquets from DB",
+        "command": ["-c", "from backend.export_dataset_bundle import export_to_parquet; export_to_parquet()"]
+    },
     "features": {
         "name": "Stage 2: Feature Engineering",
         "command": ["-m", "ai_models.feature_builder"]
@@ -169,9 +173,9 @@ def run_pipeline():
     # Define active stages based on CLI choice
     active_keys = []
     if args.all:
-        active_keys = ["sync", "features", "stall", "finguard", "duplicate", "vendor", "unified_risk", "export_live", "export_perf", "export_projects"]
+        active_keys = ["sync", "export_parquet", "features", "stall", "finguard", "duplicate", "vendor", "unified_risk", "export_live", "export_perf", "export_projects"]
     elif args.skip_scrape:
-        active_keys = ["features", "stall", "finguard", "duplicate", "vendor", "unified_risk", "export_live", "export_perf", "export_projects"]
+        active_keys = ["export_parquet", "features", "stall", "finguard", "duplicate", "vendor", "unified_risk", "export_live", "export_perf", "export_projects"]
     elif args.export_only:
         active_keys = ["export_live", "export_perf", "export_projects"]
         

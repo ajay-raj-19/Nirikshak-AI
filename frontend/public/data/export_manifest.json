@@ -1,6 +1,6 @@
 {
-  "sync_timestamp": "2026-08-31T01:44:17.554882",
-  "total_records_analyzed": 218913,
+  "sync_timestamp": "2026-10-20T20:20:31.718341",
+  "total_records_analyzed": 233718,
   "total_anomalies_flagged": 1000,
   "duplicate_pairs_flagged": 1000,
   "active_feature_list": [
@@ -68,5 +68,5 @@
     "unified_risk",
     "rbac_tiered_views"
   ],
-  "dataset_version_hash": "deda45d84faf"
+  "dataset_version_hash": "472e3c681fed"
 }
