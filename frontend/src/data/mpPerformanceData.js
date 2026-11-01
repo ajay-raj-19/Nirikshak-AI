@@ -17,14 +17,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 54,
     "worksRecommended": 114,
     "completionRate": 47.4,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.gm-harish-balayogi@sansad.nic.in",
     "phone": "+91 98765 10001",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.24
   },
   {
     "id": "MP-3017378-2",
@@ -43,14 +44,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 107,
     "worksRecommended": 195,
     "completionRate": 54.9,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-tapir-gao@sansad.nic.in",
     "phone": "+91 98765 10002",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.41
   },
   {
     "id": "MP-3018950-2",
@@ -69,14 +71,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 126,
     "worksRecommended": 131,
     "completionRate": 96.2,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kiren-rijiju@sansad.nic.in",
     "phone": "+91 98765 10003",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.0
   },
   {
     "id": "MP-3042295-2",
@@ -95,14 +98,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 4,
     "worksRecommended": 87,
     "completionRate": 4.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "AGP",
+    "partyHi": "\u0905\u0917\u092a",
     "email": "mp.phani-bhusan-choudhury@sansad.nic.in",
     "phone": "+91 98765 10004",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.44
   },
   {
     "id": "MP-3042296-2",
@@ -121,14 +125,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 25,
     "worksRecommended": 185,
     "completionRate": 13.5,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rakibul-hussain@sansad.nic.in",
     "phone": "+91 98765 10005",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.17
   },
   {
     "id": "MP-3042297-2",
@@ -147,14 +152,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 87,
     "completionRate": 3.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-sarbananda-sonowal-18ls@sansad.nic.in",
     "phone": "+91 98765 10006",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.28
   },
   {
     "id": "MP-3042299-2",
@@ -173,14 +179,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 5,
     "worksRecommended": 150,
     "completionRate": 3.3,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bijuli-kalita-medhi@sansad.nic.in",
     "phone": "+91 98765 10007",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.67
   },
   {
     "id": "MP-3042301-2",
@@ -199,14 +206,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 96,
     "completionRate": 0.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kamakhya-prasad-tasa@sansad.nic.in",
     "phone": "+91 98765 10008",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042298-2",
@@ -232,7 +240,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.82
   },
   {
     "id": "MP-3042302-2",
@@ -251,14 +260,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 20,
     "worksRecommended": 129,
     "completionRate": 15.5,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "UPPL",
+    "partyHi": "\u092f\u0942\u092a\u0940\u092a\u0940\u090f\u0932",
     "email": "mp.joyanta-basumatary@sansad.nic.in",
     "phone": "+91 98765 10010",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.09
   },
   {
     "id": "MP-3042304-2",
@@ -277,14 +287,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 153,
     "completionRate": 0.0,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.parimal-suklabaidya@sansad.nic.in",
     "phone": "+91 98765 10011",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042305-2",
@@ -303,14 +314,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 162,
     "completionRate": 14.8,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ranjit-dutta@sansad.nic.in",
     "phone": "+91 98765 10012",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.82
   },
   {
     "id": "MP-3018955-2",
@@ -329,14 +341,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 9,
     "worksRecommended": 230,
     "completionRate": 3.9,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dilip-saikia@sansad.nic.in",
     "phone": "+91 98765 10013",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.17
   },
   {
     "id": "MP-3018957-2",
@@ -355,14 +368,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 33,
     "worksRecommended": 94,
     "completionRate": 35.1,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kripanath-mallah@sansad.nic.in",
     "phone": "+91 98765 10014",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.5
   },
   {
     "id": "MP-3018347-2",
@@ -381,14 +395,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 33,
     "worksRecommended": 157,
     "completionRate": 21.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pradan-baruah@sansad.nic.in",
     "phone": "+91 98765 10015",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.67
   },
   {
     "id": "MP-3042300-2",
@@ -407,14 +422,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 47,
     "worksRecommended": 480,
     "completionRate": 9.8,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gaurav-gogoi@sansad.nic.in",
     "phone": "+91 98765 10016",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.8
   },
   {
     "id": "MP-3018958-2",
@@ -433,14 +449,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 13,
     "worksRecommended": 215,
     "completionRate": 6.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pradyut-bordoloi@sansad.nic.in",
     "phone": "+91 98765 10017",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.66
   },
   {
     "id": "MP-3042306-2",
@@ -459,14 +476,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 66,
     "worksRecommended": 221,
     "completionRate": 29.9,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "CPI(ML)L",
+    "partyHi": "\u092d\u093e\u0915\u092a\u093e(\u092e\u093e\u0932\u0947)",
     "email": "mp.sudama-prasad@sansad.nic.in",
     "phone": "+91 98765 10018",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.43
   },
   {
     "id": "MP-3042307-2",
@@ -485,14 +503,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 144,
     "worksRecommended": 286,
     "completionRate": 50.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "RJD",
+    "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.abhay-kumar-sinha@sansad.nic.in",
     "phone": "+91 98765 10019",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.64
   },
   {
     "id": "MP-3042308-2",
@@ -511,14 +530,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 98,
     "worksRecommended": 205,
     "completionRate": 47.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "RJD",
+    "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sudhakar-singh@sansad.nic.in",
     "phone": "+91 98765 10020",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.72
   },
   {
     "id": "MP-3042309-2",
@@ -537,14 +557,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 187,
     "worksRecommended": 278,
     "completionRate": 67.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "HAM(S)",
+    "partyHi": "\u0939\u092e",
     "email": "mp.jitan-ram-manjhi@sansad.nic.in",
     "phone": "+91 98765 10021",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.26
   },
   {
     "id": "MP-3042311-2",
@@ -563,14 +584,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 270,
     "worksRecommended": 369,
     "completionRate": 73.2,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "LJP(RV)",
+    "partyHi": "\u0932\u094b\u091c\u092a\u093e(\u0930\u093e)",
     "email": "mp.arun-bharti@sansad.nic.in",
     "phone": "+91 98765 10022",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.28
   },
   {
     "id": "MP-3042312-2",
@@ -589,14 +611,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 114,
     "worksRecommended": 335,
     "completionRate": 34.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "CPI(ML)L",
+    "partyHi": "\u092d\u093e\u0915\u092a\u093e(\u092e\u093e\u0932\u0947)",
     "email": "mp.raja-ram-singh@sansad.nic.in",
     "phone": "+91 98765 10023",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.96
   },
   {
     "id": "MP-3042313-2",
@@ -615,14 +638,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 60,
     "worksRecommended": 86,
     "completionRate": 69.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.tariq-anwar@sansad.nic.in",
     "phone": "+91 98765 10024",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.85
   },
   {
     "id": "MP-3042314-2",
@@ -641,14 +665,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 67,
     "worksRecommended": 76,
     "completionRate": 88.2,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "LJP(RV)",
+    "partyHi": "\u0932\u094b\u091c\u092a\u093e(\u0930\u093e)",
     "email": "mp.rajesh-verma@sansad.nic.in",
     "phone": "+91 98765 10025",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.29
   },
   {
     "id": "MP-3042315-2",
@@ -667,14 +692,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 80,
     "worksRecommended": 134,
     "completionRate": 59.7,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.raj-bhushan-choudhary@sansad.nic.in",
     "phone": "+91 98765 10026",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.68
   },
   {
     "id": "MP-3042317-2",
@@ -693,14 +719,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 46,
     "worksRecommended": 171,
     "completionRate": 26.9,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "IND",
+    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.rajesh-ranjan-alias-pappu-yadav@sansad.nic.in",
     "phone": "+91 98765 10027",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.78
   },
   {
     "id": "MP-3042318-2",
@@ -719,14 +746,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 34,
     "worksRecommended": 129,
     "completionRate": 26.4,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "LJP(RV)",
+    "partyHi": "\u0932\u094b\u091c\u092a\u093e(\u0930\u093e)",
     "email": "mp.shambhavi@sansad.nic.in",
     "phone": "+91 98765 10028",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.29
   },
   {
     "id": "MP-3042319-2",
@@ -745,14 +773,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 82,
     "worksRecommended": 195,
     "completionRate": 42.1,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.manoj-kumar@sansad.nic.in",
     "phone": "+91 98765 10029",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.83
   },
   {
     "id": "MP-3042320-2",
@@ -771,14 +800,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 126,
     "worksRecommended": 216,
     "completionRate": 58.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.devesh-chandra-thakur@sansad.nic.in",
     "phone": "+91 98765 10030",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.81
   },
   {
     "id": "MP-3042321-2",
@@ -797,14 +827,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 95,
     "worksRecommended": 183,
     "completionRate": 51.9,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vijaylakshmi-devi@sansad.nic.in",
     "phone": "+91 98765 10031",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.05
   },
   {
     "id": "MP-3042316-2",
@@ -823,14 +854,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 0,
     "completionRate": 0.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "RJD",
+    "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.misha-bharti@sansad.nic.in",
     "phone": "+91 98765 10032",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3018355-2",
@@ -849,14 +881,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 39,
     "worksRecommended": 101,
     "completionRate": 38.6,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pradeep-kumar-singh@sansad.nic.in",
     "phone": "+91 98765 10033",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.45
   },
   {
     "id": "MP-3018966-2",
@@ -875,14 +908,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 94,
     "worksRecommended": 125,
     "completionRate": 75.2,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.giridhari-yadav@sansad.nic.in",
     "phone": "+91 98765 10034",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.72
   },
   {
     "id": "MP-3018967-2",
@@ -908,7 +942,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.19
   },
   {
     "id": "MP-3018351-2",
@@ -927,14 +962,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 59,
     "worksRecommended": 76,
     "completionRate": 77.6,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ajay-kumar-mandal@sansad.nic.in",
     "phone": "+91 98765 10036",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.88
   },
   {
     "id": "MP-3018360-2",
@@ -953,14 +989,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 92,
     "worksRecommended": 180,
     "completionRate": 51.1,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ramprit-mandal@sansad.nic.in",
     "phone": "+91 98765 10037",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.22
   },
   {
     "id": "MP-3017384-2",
@@ -979,14 +1016,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 130,
     "worksRecommended": 229,
     "completionRate": 56.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-mohammad-jawed@sansad.nic.in",
     "phone": "+91 98765 10038",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.39
   },
   {
     "id": "MP-3018975-2",
@@ -1005,14 +1043,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 108,
     "worksRecommended": 161,
     "completionRate": 67.1,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dinesh-chandra-yadav@sansad.nic.in",
     "phone": "+91 98765 10039",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.72
   },
   {
     "id": "MP-3042568-1",
@@ -1038,7 +1077,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.6
   },
   {
     "id": "MP-3066167-1",
@@ -1064,7 +1104,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066186-1",
@@ -1090,7 +1131,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066187-1",
@@ -1116,7 +1158,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017305-1",
@@ -1142,7 +1185,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 12.43
   },
   {
     "id": "MP-3017307-1",
@@ -1168,7 +1212,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.14
   },
   {
     "id": "MP-3017308-1",
@@ -1194,7 +1239,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 13.15
   },
   {
     "id": "MP-3056872-1",
@@ -1220,7 +1266,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.0
   },
   {
     "id": "MP-3058540-1",
@@ -1246,7 +1293,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3059270-1",
@@ -1272,7 +1320,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.62
   },
   {
     "id": "MP-3059272-1",
@@ -1298,7 +1347,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.68
   },
   {
     "id": "MP-3059498-1",
@@ -1324,7 +1374,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.03
   },
   {
     "id": "MP-3061320-1",
@@ -1350,7 +1401,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.5
   },
   {
     "id": "MP-3017301-1",
@@ -1376,7 +1428,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017300-1",
@@ -1402,7 +1455,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.05
   },
   {
     "id": "MP-3065276-1",
@@ -1428,7 +1482,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065298-1",
@@ -1454,7 +1509,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065417-1",
@@ -1480,7 +1536,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066269-1",
@@ -1506,7 +1563,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066551-1",
@@ -1532,7 +1590,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3067975-1",
@@ -1558,7 +1617,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017332-1",
@@ -1584,7 +1644,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 14.33
   },
   {
     "id": "MP-3017334-1",
@@ -1610,7 +1671,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.56
   },
   {
     "id": "MP-3017337-1",
@@ -1636,7 +1698,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.67
   },
   {
     "id": "MP-3017338-1",
@@ -1662,7 +1725,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.06
   },
   {
     "id": "MP-3042323-2",
@@ -1681,14 +1745,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 49,
     "worksRecommended": 116,
     "completionRate": 42.2,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.manish-tewari@sansad.nic.in",
     "phone": "+91 98765 10065",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.54
   },
   {
     "id": "MP-3017339-1",
@@ -1714,7 +1779,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.78
   },
   {
     "id": "MP-3017340-1",
@@ -1740,7 +1806,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 13.4
   },
   {
     "id": "MP-3017343-1",
@@ -1766,7 +1833,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.72
   },
   {
     "id": "MP-3017344-1",
@@ -1792,7 +1860,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.4
   },
   {
     "id": "MP-3017345-1",
@@ -1818,7 +1887,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 13.99
   },
   {
     "id": "MP-3019262-1",
@@ -1844,7 +1914,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.33
   },
   {
     "id": "MP-3042324-2",
@@ -1870,7 +1941,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.72
   },
   {
     "id": "MP-3042325-2",
@@ -1889,14 +1961,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 46,
     "worksRecommended": 134,
     "completionRate": 34.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.tokhan-sahu@sansad.nic.in",
     "phone": "+91 98765 10073",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.45
   },
   {
     "id": "MP-3042327-2",
@@ -1915,14 +1988,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 30,
     "worksRecommended": 103,
     "completionRate": 29.1,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bhojraj-nag@sansad.nic.in",
     "phone": "+91 98765 10074",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.0
   },
   {
     "id": "MP-3042328-2",
@@ -1941,14 +2015,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 82,
     "worksRecommended": 179,
     "completionRate": 45.8,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.roop-kumari-choudhary@sansad.nic.in",
     "phone": "+91 98765 10075",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.22
   },
   {
     "id": "MP-3042326-2",
@@ -1967,14 +2042,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 261,
     "worksRecommended": 434,
     "completionRate": 60.1,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kamlesh-jangde@sansad.nic.in",
     "phone": "+91 98765 10076",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.87
   },
   {
     "id": "MP-3018986-2",
@@ -1993,14 +2069,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 71,
     "worksRecommended": 248,
     "completionRate": 28.6,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vijay-baghel@sansad.nic.in",
     "phone": "+91 98765 10077",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.2
   },
   {
     "id": "MP-3018366-2",
@@ -2019,14 +2096,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 148,
     "worksRecommended": 349,
     "completionRate": 42.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jyotsna-charandas-mahant@sansad.nic.in",
     "phone": "+91 98765 10078",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.7
   },
   {
     "id": "MP-3018365-2",
@@ -2045,14 +2123,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 74,
     "worksRecommended": 187,
     "completionRate": 39.6,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.santosh-pandey@sansad.nic.in",
     "phone": "+91 98765 10079",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.58
   },
   {
     "id": "MP-3043391-2",
@@ -2071,14 +2150,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 77,
     "worksRecommended": 175,
     "completionRate": 44.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.radhe-shyam-rathiya@sansad.nic.in",
     "phone": "+91 98765 10080",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.69
   },
   {
     "id": "MP-3043392-2",
@@ -2104,7 +2184,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.83
   },
   {
     "id": "MP-3043715-2",
@@ -2123,14 +2204,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 94,
     "worksRecommended": 333,
     "completionRate": 28.2,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.chintamani-maharaj@sansad.nic.in",
     "phone": "+91 98765 10082",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.51
   },
   {
     "id": "MP-3020007-2",
@@ -2156,7 +2238,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.58
   },
   {
     "id": "MP-3045894-2",
@@ -2175,14 +2258,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 11,
     "worksRecommended": 119,
     "completionRate": 9.2,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.yogendra-chandoliya@sansad.nic.in",
     "phone": "+91 98765 10084",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.02
   },
   {
     "id": "MP-3045891-2",
@@ -2201,14 +2285,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 38,
     "worksRecommended": 69,
     "completionRate": 55.1,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.praveen-khandelwal@sansad.nic.in",
     "phone": "+91 98765 10085",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.87
   },
   {
     "id": "MP-3045896-2",
@@ -2227,14 +2312,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 68,
     "completionRate": 47.1,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kamaljeet-sehrawat@sansad.nic.in",
     "phone": "+91 98765 10086",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.21
   },
   {
     "id": "MP-3045893-2",
@@ -2260,7 +2346,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.99
   },
   {
     "id": "MP-3045895-2",
@@ -2279,14 +2366,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 43,
     "worksRecommended": 139,
     "completionRate": 30.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ramvir-singh-bidhuri@sansad.nic.in",
     "phone": "+91 98765 10088",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.11
   },
   {
     "id": "MP-3045892-2",
@@ -2305,14 +2393,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 65,
     "worksRecommended": 115,
     "completionRate": 56.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.harsh-malhotra@sansad.nic.in",
     "phone": "+91 98765 10089",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.19
   },
   {
     "id": "MP-3018989-2",
@@ -2338,7 +2427,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.31
   },
   {
     "id": "MP-3019264-1",
@@ -2364,7 +2454,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 16.16
   },
   {
     "id": "MP-3042551-1",
@@ -2390,7 +2481,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.84
   },
   {
     "id": "MP-3042920-1",
@@ -2416,7 +2508,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.63
   },
   {
     "id": "MP-3042921-1",
@@ -2442,7 +2535,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.43
   },
   {
     "id": "MP-3017341-1",
@@ -2468,7 +2562,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.69
   },
   {
     "id": "MP-3043036-1",
@@ -2494,7 +2589,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.1
   },
   {
     "id": "MP-3043325-1",
@@ -2520,7 +2616,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.15
   },
   {
     "id": "MP-3017342-1",
@@ -2546,7 +2643,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.96
   },
   {
     "id": "MP-3043534-1",
@@ -2572,7 +2670,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.79
   },
   {
     "id": "MP-3044168-1",
@@ -2598,7 +2697,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.28
   },
   {
     "id": "MP-3045224-1",
@@ -2624,7 +2724,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.68
   },
   {
     "id": "MP-3066935-1",
@@ -2650,7 +2751,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017389-2",
@@ -2676,7 +2778,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.41
   },
   {
     "id": "MP-3042338-2",
@@ -2695,14 +2798,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 9,
     "worksRecommended": 160,
     "completionRate": 5.6,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.varun-chaudhry@sansad.nic.in",
     "phone": "+91 98765 10104",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.07
   },
   {
     "id": "MP-3042340-2",
@@ -2721,14 +2825,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 69,
     "worksRecommended": 451,
     "completionRate": 15.3,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jai-parkash@sansad.nic.in",
     "phone": "+91 98765 10105",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.72
   },
   {
     "id": "MP-3042341-2",
@@ -2747,14 +2852,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 19,
     "completionRate": 5.3,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.manohar-lal@sansad.nic.in",
     "phone": "+91 98765 10106",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.05
   },
   {
     "id": "MP-3042342-2",
@@ -2773,14 +2879,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 142,
     "worksRecommended": 300,
     "completionRate": 47.3,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.naveen-jindal@sansad.nic.in",
     "phone": "+91 98765 10107",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.34
   },
   {
     "id": "MP-3042343-2",
@@ -2799,14 +2906,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 71,
     "worksRecommended": 203,
     "completionRate": 35.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.deepender-singh-hooda@sansad.nic.in",
     "phone": "+91 98765 10108",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.15
   },
   {
     "id": "MP-3042344-2",
@@ -2832,7 +2940,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.22
   },
   {
     "id": "MP-3042345-2",
@@ -2851,14 +2960,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 19,
     "worksRecommended": 251,
     "completionRate": 7.6,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.satpal-brahamchari@sansad.nic.in",
     "phone": "+91 98765 10110",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.12
   },
   {
     "id": "MP-3018368-2",
@@ -2877,14 +2987,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 70,
     "completionRate": 21.4,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rao-inderjit-singh@sansad.nic.in",
     "phone": "+91 98765 10111",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.52
   },
   {
     "id": "MP-3017394-2",
@@ -2903,14 +3014,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 109,
     "worksRecommended": 251,
     "completionRate": 43.4,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-dharambir-singh@sansad.nic.in",
     "phone": "+91 98765 10112",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.25
   },
   {
     "id": "MP-3019007-2",
@@ -2929,14 +3041,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 6,
     "worksRecommended": 83,
     "completionRate": 7.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.krishan-pal-gurjar@sansad.nic.in",
     "phone": "+91 98765 10113",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.45
   },
   {
     "id": "MP-3042347-2",
@@ -2955,14 +3068,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 223,
     "worksRecommended": 649,
     "completionRate": 34.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajeev-bhardwaj@sansad.nic.in",
     "phone": "+91 98765 10114",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.29
   },
   {
     "id": "MP-3019014-2",
@@ -2981,14 +3095,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 102,
     "worksRecommended": 614,
     "completionRate": 16.6,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.suresh-kumar-kashyap@sansad.nic.in",
     "phone": "+91 98765 10115",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.12
   },
   {
     "id": "MP-3043229-2",
@@ -3014,7 +3129,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.52
   },
   {
     "id": "MP-3018369-2",
@@ -3040,7 +3156,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.65
   },
   {
     "id": "MP-3042348-2",
@@ -3059,14 +3176,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 22,
     "worksRecommended": 134,
     "completionRate": 16.4,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "JKNC",
+    "partyHi": "\u0928\u0947\u0915\u093e\u0902",
     "email": "mp.mian-altaf-ahmad@sansad.nic.in",
     "phone": "+91 98765 10118",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.69
   },
   {
     "id": "MP-3042349-2",
@@ -3085,14 +3203,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 66,
     "worksRecommended": 352,
     "completionRate": 18.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "JKNC",
+    "partyHi": "\u0928\u0947\u0915\u093e\u0902",
     "email": "mp.aga-syed-ruhullah-mehdi@sansad.nic.in",
     "phone": "+91 98765 10119",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.94
   },
   {
     "id": "MP-3017396-2",
@@ -3111,14 +3230,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 51,
     "worksRecommended": 220,
     "completionRate": 23.2,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-jugal-kishore-sharma@sansad.nic.in",
     "phone": "+91 98765 10120",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.38
   },
   {
     "id": "MP-3019016-2",
@@ -3137,14 +3257,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 195,
     "worksRecommended": 354,
     "completionRate": 55.1,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jitendra-singh@sansad.nic.in",
     "phone": "+91 98765 10121",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.28
   },
   {
     "id": "MP-3044682-2",
@@ -3163,14 +3284,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 50,
     "worksRecommended": 261,
     "completionRate": 19.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "IND",
+    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.abdul-rashid-sheikh@sansad.nic.in",
     "phone": "+91 98765 10122",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.08
   },
   {
     "id": "MP-3042350-2",
@@ -3189,14 +3311,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 77,
     "worksRecommended": 517,
     "completionRate": 14.9,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kali-charan-singh@sansad.nic.in",
     "phone": "+91 98765 10123",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.92
   },
   {
     "id": "MP-3042351-2",
@@ -3215,14 +3338,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 57,
     "worksRecommended": 419,
     "completionRate": 13.6,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dulu-mahato@sansad.nic.in",
     "phone": "+91 98765 10124",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.15
   },
   {
     "id": "MP-3042352-2",
@@ -3241,14 +3365,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 267,
     "completionRate": 0.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.manish-jaiswal@sansad.nic.in",
     "phone": "+91 98765 10125",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042353-2",
@@ -3267,14 +3392,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 31,
     "worksRecommended": 323,
     "completionRate": 9.6,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kali-charan-munda@sansad.nic.in",
     "phone": "+91 98765 10126",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.95
   },
   {
     "id": "MP-3042354-2",
@@ -3300,7 +3426,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.59
   },
   {
     "id": "MP-3042356-2",
@@ -3319,14 +3446,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 118,
     "completionRate": 0.0,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "JMM",
+    "partyHi": "\u091d\u093e\u092e\u0941\u092e\u094b",
     "email": "mp.joba-majhi@sansad.nic.in",
     "phone": "+91 98765 10128",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019020-2",
@@ -3345,14 +3473,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 3,
     "completionRate": 0.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.nishikant-dubey@sansad.nic.in",
     "phone": "+91 98765 10129",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019022-2",
@@ -3371,14 +3500,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 5,
     "worksRecommended": 191,
     "completionRate": 2.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bidyut-baran-mahato@sansad.nic.in",
     "phone": "+91 98765 10130",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.11
   },
   {
     "id": "MP-3018370-2",
@@ -3404,7 +3534,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.47
   },
   {
     "id": "MP-3019023-2",
@@ -3423,14 +3554,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 468,
     "completionRate": 0.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "JMM",
+    "partyHi": "\u091d\u093e\u092e\u0941\u092e\u094b",
     "email": "mp.vijay-kumar-hansdak@sansad.nic.in",
     "phone": "+91 98765 10132",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.11
   },
   {
     "id": "MP-3018372-2",
@@ -3449,14 +3581,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 49,
     "worksRecommended": 180,
     "completionRate": 27.2,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sanjay-seth@sansad.nic.in",
     "phone": "+91 98765 10133",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.96
   },
   {
     "id": "MP-3043223-2",
@@ -3475,14 +3608,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 106,
     "worksRecommended": 425,
     "completionRate": 24.9,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "JMM",
+    "partyHi": "\u091d\u093e\u092e\u0941\u092e\u094b",
     "email": "mp.nalin-soren@sansad.nic.in",
     "phone": "+91 98765 10134",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.03
   },
   {
     "id": "MP-3018374-2",
@@ -3508,7 +3642,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.02
   },
   {
     "id": "MP-3017399-2",
@@ -3527,14 +3662,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 61,
     "worksRecommended": 737,
     "completionRate": 8.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "AJSU",
+    "partyHi": "\u0906\u091c\u0938\u0942",
     "email": "mp.shri-chandra-prakash-choudhary@sansad.nic.in",
     "phone": "+91 98765 10136",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.45
   },
   {
     "id": "MP-3042357-2",
@@ -3553,14 +3689,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 75,
     "worksRecommended": 285,
     "completionRate": 26.3,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-c-n-manjunath@sansad.nic.in",
     "phone": "+91 98765 10137",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.02
   },
   {
     "id": "MP-3042358-2",
@@ -3579,14 +3716,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 241,
     "completionRate": 0.4,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jagadish-shettar@sansad.nic.in",
     "phone": "+91 98765 10138",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.05
   },
   {
     "id": "MP-3042359-2",
@@ -3605,14 +3743,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 5,
     "worksRecommended": 91,
     "completionRate": 5.5,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.e-tukaram@sansad.nic.in",
     "phone": "+91 98765 10139",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.1
   },
   {
     "id": "MP-3042360-2",
@@ -3631,14 +3770,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 5,
     "worksRecommended": 179,
     "completionRate": 2.8,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sagar-eshwar-khandre@sansad.nic.in",
     "phone": "+91 98765 10140",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.19
   },
   {
     "id": "MP-3042361-2",
@@ -3657,14 +3797,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 28,
     "worksRecommended": 110,
     "completionRate": 25.5,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sunil-bose@sansad.nic.in",
     "phone": "+91 98765 10141",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.87
   },
   {
     "id": "MP-3042362-2",
@@ -3683,14 +3824,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 19,
     "worksRecommended": 165,
     "completionRate": 11.5,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-k-sudhakar@sansad.nic.in",
     "phone": "+91 98765 10142",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.8
   },
   {
     "id": "MP-3042363-2",
@@ -3709,14 +3851,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 229,
     "completionRate": 10.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.govind-makthappa-karjol@sansad.nic.in",
     "phone": "+91 98765 10143",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.87
   },
   {
     "id": "MP-3042364-2",
@@ -3742,7 +3885,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.57
   },
   {
     "id": "MP-3042365-2",
@@ -3768,7 +3912,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.53
   },
   {
     "id": "MP-3042366-2",
@@ -3787,14 +3932,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 29,
     "completionRate": 0.0,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.radhakrishna@sansad.nic.in",
     "phone": "+91 98765 10146",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042367-2",
@@ -3813,14 +3959,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 58,
     "worksRecommended": 220,
     "completionRate": 26.4,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shreyas-m-patel@sansad.nic.in",
     "phone": "+91 98765 10147",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.04
   },
   {
     "id": "MP-3042368-2",
@@ -3839,14 +3986,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 20,
     "worksRecommended": 162,
     "completionRate": 12.3,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.basavaraj-bommai@sansad.nic.in",
     "phone": "+91 98765 10148",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.31
   },
   {
     "id": "MP-3042369-2",
@@ -3865,14 +4013,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 89,
     "completionRate": 3.4,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "JD(S)",
+    "partyHi": "\u091c\u0926(\u090f\u0938)",
     "email": "mp.m-mallesh-babu@sansad.nic.in",
     "phone": "+91 98765 10149",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.35
   },
   {
     "id": "MP-3042370-2",
@@ -3891,14 +4040,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 68,
     "worksRecommended": 226,
     "completionRate": 30.1,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.k-rajashekar-basavaraj-hitnal@sansad.nic.in",
     "phone": "+91 98765 10150",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.82
   },
   {
     "id": "MP-3042371-2",
@@ -3917,14 +4067,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 7,
     "worksRecommended": 150,
     "completionRate": 4.7,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "JD(S)",
+    "partyHi": "\u091c\u0926(\u090f\u0938)",
     "email": "mp.h-d-kumaraswamy@sansad.nic.in",
     "phone": "+91 98765 10151",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.35
   },
   {
     "id": "MP-3042372-2",
@@ -3943,14 +4094,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 45,
     "worksRecommended": 182,
     "completionRate": 24.7,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.yaduveer-krishnadatta-chamaraja-wadiyar@sansad.nic.in",
     "phone": "+91 98765 10152",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.7
   },
   {
     "id": "MP-3042373-2",
@@ -3969,14 +4121,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 9,
     "worksRecommended": 128,
     "completionRate": 7.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.g-kumar-naik@sansad.nic.in",
     "phone": "+91 98765 10153",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.65
   },
   {
     "id": "MP-3042374-2",
@@ -3995,14 +4148,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 4,
     "worksRecommended": 61,
     "completionRate": 6.6,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.v-somanna@sansad.nic.in",
     "phone": "+91 98765 10154",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.72
   },
   {
     "id": "MP-3042376-2",
@@ -4021,14 +4175,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 30,
     "worksRecommended": 164,
     "completionRate": 18.3,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vishweshwar-hegde-kageri@sansad.nic.in",
     "phone": "+91 98765 10155",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.09
   },
   {
     "id": "MP-3042375-2",
@@ -4047,14 +4202,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 53,
     "worksRecommended": 375,
     "completionRate": 14.1,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kota-srinivas-poojary@sansad.nic.in",
     "phone": "+91 98765 10156",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.16
   },
   {
     "id": "MP-3042380-2",
@@ -4073,14 +4229,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 34,
     "worksRecommended": 251,
     "completionRate": 13.5,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shafi-parambil@sansad.nic.in",
     "phone": "+91 98765 10157",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.15
   },
   {
     "id": "MP-3042377-2",
@@ -4099,14 +4256,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 44,
     "worksRecommended": 94,
     "completionRate": 46.8,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.k-c-venugopal@sansad.nic.in",
     "phone": "+91 98765 10158",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.68
   },
   {
     "id": "MP-3042379-2",
@@ -4125,14 +4283,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 95,
     "completionRate": 15.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.suresh-gopi@sansad.nic.in",
     "phone": "+91 98765 10159",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.32
   },
   {
     "id": "MP-3042378-2",
@@ -4151,14 +4310,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 78,
     "worksRecommended": 380,
     "completionRate": 20.5,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "KEC(M)",
+    "partyHi": "\u0915\u0947\u0930\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 (\u090f\u092e)",
     "email": "mp.adv-k-francis-george@sansad.nic.in",
     "phone": "+91 98765 10160",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.8
   },
   {
     "id": "MP-3017417-2",
@@ -4177,14 +4337,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 29,
     "worksRecommended": 141,
     "completionRate": 20.6,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-hibi-eden@sansad.nic.in",
     "phone": "+91 98765 10161",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.01
   },
   {
     "id": "MP-3017408-2",
@@ -4210,7 +4371,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.38
   },
   {
     "id": "MP-3017409-2",
@@ -4236,7 +4398,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.51
   },
   {
     "id": "MP-3017410-2",
@@ -4255,14 +4418,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 78,
     "worksRecommended": 196,
     "completionRate": 39.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "RSP",
+    "partyHi": "\u0906\u0930\u090f\u0938\u092a\u0940",
     "email": "mp.shri-nk-premachandran@sansad.nic.in",
     "phone": "+91 98765 10164",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.21
   },
   {
     "id": "MP-3017411-2",
@@ -4281,14 +4445,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 127,
     "worksRecommended": 511,
     "completionRate": 24.9,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.adv-adoor-prakash@sansad.nic.in",
     "phone": "+91 98765 10165",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.65
   },
   {
     "id": "MP-3017413-2",
@@ -4307,14 +4472,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 172,
     "completionRate": 18.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-benny-behanan@sansad.nic.in",
     "phone": "+91 98765 10166",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.28
   },
   {
     "id": "MP-3017418-2",
@@ -4333,14 +4499,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 102,
     "worksRecommended": 208,
     "completionRate": 49.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.adv-dean-kuriakose@sansad.nic.in",
     "phone": "+91 98765 10167",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.02
   },
   {
     "id": "MP-3018377-2",
@@ -4359,14 +4526,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 121,
     "worksRecommended": 266,
     "completionRate": 45.5,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vellalath-kochukrishnan-nair-sreekandan@sansad.nic.in",
     "phone": "+91 98765 10168",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.99
   },
   {
     "id": "MP-3017416-2",
@@ -4385,14 +4553,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 79,
     "worksRecommended": 293,
     "completionRate": 27.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-kumbakudi-sudhakaran@sansad.nic.in",
     "phone": "+91 98765 10169",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.82
   },
   {
     "id": "MP-3043914-2",
@@ -4418,7 +4587,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.03
   },
   {
     "id": "MP-3042791-2",
@@ -4437,14 +4607,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 32,
     "completionRate": 6.2,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.muhammed-hamdullah-sayeed@sansad.nic.in",
     "phone": "+91 98765 10171",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.16
   },
   {
     "id": "MP-3042381-2",
@@ -4463,14 +4634,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 80,
     "worksRecommended": 172,
     "completionRate": 46.5,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bharti-pardhi@sansad.nic.in",
     "phone": "+91 98765 10172",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.48
   },
   {
     "id": "MP-3042382-2",
@@ -4489,14 +4661,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 95,
     "completionRate": 25.3,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.alok-sharma@sansad.nic.in",
     "phone": "+91 98765 10173",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.41
   },
   {
     "id": "MP-3042383-2",
@@ -4515,14 +4688,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 105,
     "worksRecommended": 658,
     "completionRate": 16.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bunty-vivek-sahu@sansad.nic.in",
     "phone": "+91 98765 10174",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.84
   },
   {
     "id": "MP-3042384-2",
@@ -4541,14 +4715,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 188,
     "worksRecommended": 299,
     "completionRate": 62.9,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rahul-singh-lodhi@sansad.nic.in",
     "phone": "+91 98765 10175",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.68
   },
   {
     "id": "MP-3042385-2",
@@ -4567,14 +4742,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 179,
     "worksRecommended": 397,
     "completionRate": 45.1,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.savitri-thakur@sansad.nic.in",
     "phone": "+91 98765 10176",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.88
   },
   {
     "id": "MP-3042386-2",
@@ -4593,14 +4769,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 8,
     "worksRecommended": 169,
     "completionRate": 4.7,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bharat-singh-kushwah@sansad.nic.in",
     "phone": "+91 98765 10177",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.3
   },
   {
     "id": "MP-3042393-2",
@@ -4619,14 +4796,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 12,
     "worksRecommended": 101,
     "completionRate": 11.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.nilesh-dnyandev-lanke@sansad.nic.in",
     "phone": "+91 98765 10178",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.64
   },
   {
     "id": "MP-3042394-2",
@@ -4645,14 +4823,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 41,
     "worksRecommended": 100,
     "completionRate": 41.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anup-sanjay-dhotre@sansad.nic.in",
     "phone": "+91 98765 10179",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.83
   },
   {
     "id": "MP-3042395-2",
@@ -4671,14 +4850,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 51,
     "worksRecommended": 187,
     "completionRate": 27.3,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.balwant-baswant-wankhade@sansad.nic.in",
     "phone": "+91 98765 10180",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.52
   },
   {
     "id": "MP-3042396-2",
@@ -4697,14 +4877,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 29,
     "worksRecommended": 100,
     "completionRate": 29.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SHS",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e",
     "email": "mp.bhumare-sandipanrao-asaram@sansad.nic.in",
     "phone": "+91 98765 10181",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.03
   },
   {
     "id": "MP-3042397-2",
@@ -4723,14 +4904,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 34,
     "worksRecommended": 100,
     "completionRate": 34.0,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.bajrang-manohar-sonwane@sansad.nic.in",
     "phone": "+91 98765 10182",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.93
   },
   {
     "id": "MP-3042398-2",
@@ -4749,14 +4931,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 8,
     "worksRecommended": 153,
     "completionRate": 5.2,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-prashant-yadaorao-padole@sansad.nic.in",
     "phone": "+91 98765 10183",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.53
   },
   {
     "id": "MP-3042399-2",
@@ -4775,14 +4958,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 11,
     "worksRecommended": 167,
     "completionRate": 6.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.balya-mama-suresh-gopinath-mhatre@sansad.nic.in",
     "phone": "+91 98765 10184",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.11
   },
   {
     "id": "MP-3042401-2",
@@ -4801,14 +4985,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 19,
     "worksRecommended": 93,
     "completionRate": 20.4,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bachhav-shobha-dinesh@sansad.nic.in",
     "phone": "+91 98765 10185",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.22
   },
   {
     "id": "MP-3042402-2",
@@ -4827,14 +5012,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 20,
     "worksRecommended": 128,
     "completionRate": 15.6,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.bhaskar-murlidhar-bhagare@sansad.nic.in",
     "phone": "+91 98765 10186",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.91
   },
   {
     "id": "MP-3042403-2",
@@ -4853,14 +5039,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 21,
     "worksRecommended": 166,
     "completionRate": 12.7,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-kirsan-namdeo@sansad.nic.in",
     "phone": "+91 98765 10187",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.61
   },
   {
     "id": "MP-3042404-2",
@@ -4879,14 +5066,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 38,
     "worksRecommended": 117,
     "completionRate": 32.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.aashtikar-patil-nagesh-bapurao@sansad.nic.in",
     "phone": "+91 98765 10188",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.02
   },
   {
     "id": "MP-3042405-2",
@@ -4912,7 +5100,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.4
   },
   {
     "id": "MP-3042406-2",
@@ -4938,7 +5127,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.84
   },
   {
     "id": "MP-3042407-2",
@@ -4957,14 +5147,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 35,
     "worksRecommended": 151,
     "completionRate": 23.2,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.chhatrapati-shahu-shahaji@sansad.nic.in",
     "phone": "+91 98765 10191",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.15
   },
   {
     "id": "MP-3042409-2",
@@ -4983,14 +5174,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 57,
     "completionRate": 0.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gaikwad-varsha-eknath@sansad.nic.in",
     "phone": "+91 98765 10192",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042410-2",
@@ -5009,14 +5201,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 0,
     "completionRate": 0.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.chavan-vasantrao-balwantrao@sansad.nic.in",
     "phone": "+91 98765 10193",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042411-2",
@@ -5035,14 +5228,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 191,
     "worksRecommended": 279,
     "completionRate": 68.5,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.adv-gowaal-kagada-padavi@sansad.nic.in",
     "phone": "+91 98765 10194",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.2
   },
   {
     "id": "MP-3042412-2",
@@ -5061,14 +5255,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 22,
     "worksRecommended": 132,
     "completionRate": 16.7,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.rajabhau@sansad.nic.in",
     "phone": "+91 98765 10195",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.13
   },
   {
     "id": "MP-3042413-2",
@@ -5087,14 +5282,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 89,
     "completionRate": 1.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-hemant-vishnu-savara@sansad.nic.in",
     "phone": "+91 98765 10196",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.1
   },
   {
     "id": "MP-3042414-2",
@@ -5113,14 +5309,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 12,
     "worksRecommended": 99,
     "completionRate": 12.1,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.murlidhar-mohol@sansad.nic.in",
     "phone": "+91 98765 10197",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.2
   },
   {
     "id": "MP-3042415-2",
@@ -5139,14 +5336,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 67,
     "completionRate": 1.5,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shyamkumar@sansad.nic.in",
     "phone": "+91 98765 10198",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.1
   },
   {
     "id": "MP-3042416-2",
@@ -5165,14 +5363,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 28,
     "worksRecommended": 96,
     "completionRate": 29.2,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.narayan-tatu-rane@sansad.nic.in",
     "phone": "+91 98765 10199",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.75
   },
   {
     "id": "MP-3042417-2",
@@ -5191,14 +5390,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 12,
     "worksRecommended": 84,
     "completionRate": 14.3,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "IND",
+    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.vishal@sansad.nic.in",
     "phone": "+91 98765 10200",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.1
   },
   {
     "id": "MP-3042418-2",
@@ -5217,14 +5417,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 19,
     "worksRecommended": 134,
     "completionRate": 14.2,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shrimant-chh-udayanraje-pratapsinhamaharaj-bhonsle@sansad.nic.in",
     "phone": "+91 98765 10201",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.2
   },
   {
     "id": "MP-3044252-2",
@@ -5243,14 +5444,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 21,
     "worksRecommended": 49,
     "completionRate": 42.9,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.angomcha-bimol-akoijam@sansad.nic.in",
     "phone": "+91 98765 10202",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.58
   },
   {
     "id": "MP-3044251-2",
@@ -5269,14 +5471,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 41,
     "completionRate": 36.6,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.alfred-kanngam-s-arthur@sansad.nic.in",
     "phone": "+91 98765 10203",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.98
   },
   {
     "id": "MP-3042422-2",
@@ -5295,14 +5498,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 104,
     "worksRecommended": 241,
     "completionRate": 43.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "VOTPP",
+    "partyHi": "\u0935\u0940\u092a\u0940\u092a\u0940",
     "email": "mp.andrew-j-syngkon@sansad.nic.in",
     "phone": "+91 98765 10204",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.62
   },
   {
     "id": "MP-3042794-2",
@@ -5321,14 +5525,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 139,
     "worksRecommended": 352,
     "completionRate": 39.5,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.saleng-a-sangma@sansad.nic.in",
     "phone": "+91 98765 10205",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.49
   },
   {
     "id": "MP-3042423-2",
@@ -5347,14 +5552,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 134,
     "worksRecommended": 271,
     "completionRate": 49.4,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "ZPM",
+    "partyHi": "\u091c\u0947\u0921\u092a\u0940\u090f\u092e",
     "email": "mp.richard-vanlalhmangaiha@sansad.nic.in",
     "phone": "+91 98765 10206",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.04
   },
   {
     "id": "MP-3045278-2",
@@ -5373,14 +5579,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 44,
     "worksRecommended": 56,
     "completionRate": 78.6,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.s-supongmeren-jamir@sansad.nic.in",
     "phone": "+91 98765 10207",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.86
   },
   {
     "id": "MP-3042424-2",
@@ -5399,14 +5606,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 51,
     "worksRecommended": 318,
     "completionRate": 16.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pradeep-purohit@sansad.nic.in",
     "phone": "+91 98765 10208",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.4
   },
   {
     "id": "MP-3042425-2",
@@ -5425,14 +5633,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 111,
     "completionRate": 0.9,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-pradeep-kumar-panigrahy@sansad.nic.in",
     "phone": "+91 98765 10209",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042426-2",
@@ -5451,14 +5660,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 91,
     "completionRate": 3.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rudra-narayan-pany@sansad.nic.in",
     "phone": "+91 98765 10210",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.03
   },
   {
     "id": "MP-3042427-2",
@@ -5477,14 +5687,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 349,
     "completionRate": 4.3,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bibhu-prasad-tarai@sansad.nic.in",
     "phone": "+91 98765 10211",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.41
   },
   {
     "id": "MP-3042428-2",
@@ -5503,14 +5714,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 848,
     "completionRate": 0.4,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rabindra-narayan-behera@sansad.nic.in",
     "phone": "+91 98765 10212",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.06
   },
   {
     "id": "MP-3042429-2",
@@ -5529,14 +5741,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 96,
     "worksRecommended": 320,
     "completionRate": 30.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.malvika-devi@sansad.nic.in",
     "phone": "+91 98765 10213",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.79
   },
   {
     "id": "MP-3042430-2",
@@ -5555,14 +5768,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 8,
     "worksRecommended": 57,
     "completionRate": 14.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.baijayant-panda@sansad.nic.in",
     "phone": "+91 98765 10214",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.64
   },
   {
     "id": "MP-3019122-2",
@@ -5581,14 +5795,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 13,
     "worksRecommended": 82,
     "completionRate": 15.9,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vaithilingam-ve@sansad.nic.in",
     "phone": "+91 98765 10215",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.13
   },
   {
     "id": "MP-3042437-2",
@@ -5607,14 +5822,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 238,
     "worksRecommended": 648,
     "completionRate": 36.7,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "IND",
+    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.sarabjeet-singh-khalsa@sansad.nic.in",
     "phone": "+91 98765 10216",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.97
   },
   {
     "id": "MP-3042438-2",
@@ -5640,7 +5856,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.81
   },
   {
     "id": "MP-3042439-2",
@@ -5659,14 +5876,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 96,
     "worksRecommended": 373,
     "completionRate": 25.7,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sukhjinder-singh-randhawa@sansad.nic.in",
     "phone": "+91 98765 10218",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.12
   },
   {
     "id": "MP-3042440-2",
@@ -5685,14 +5903,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 121,
     "worksRecommended": 345,
     "completionRate": 35.1,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "AAP",
+    "partyHi": "\u0906\u092a",
     "email": "mp.dr-raj-kumar-chabbewal@sansad.nic.in",
     "phone": "+91 98765 10219",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.37
   },
   {
     "id": "MP-3042441-2",
@@ -5711,14 +5930,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 58,
     "worksRecommended": 305,
     "completionRate": 19.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.charanjit-singh-channi@sansad.nic.in",
     "phone": "+91 98765 10220",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.61
   },
   {
     "id": "MP-3042442-2",
@@ -5737,14 +5957,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 61,
     "worksRecommended": 257,
     "completionRate": 23.7,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.amrinder-singh-raja-warring@sansad.nic.in",
     "phone": "+91 98765 10221",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.84
   },
   {
     "id": "MP-3043498-2",
@@ -5763,14 +5984,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 80,
     "worksRecommended": 444,
     "completionRate": 18.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-dharamvira-gandhi@sansad.nic.in",
     "phone": "+91 98765 10222",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.56
   },
   {
     "id": "MP-3017446-2",
@@ -5789,14 +6011,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 92,
     "worksRecommended": 318,
     "completionRate": 28.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-gurjeet-singh-aujla@sansad.nic.in",
     "phone": "+91 98765 10223",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.85
   },
   {
     "id": "MP-3017445-2",
@@ -5815,14 +6038,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 77,
     "worksRecommended": 382,
     "completionRate": 20.2,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-amar-singh@sansad.nic.in",
     "phone": "+91 98765 10224",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.74
   },
   {
     "id": "MP-3042796-2",
@@ -5841,14 +6065,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 123,
     "worksRecommended": 389,
     "completionRate": 31.6,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "AAP",
+    "partyHi": "\u0906\u092a",
     "email": "mp.malvinder-singh-kang@sansad.nic.in",
     "phone": "+91 98765 10225",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.0
   },
   {
     "id": "MP-3042913-2",
@@ -5867,14 +6092,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 158,
     "worksRecommended": 449,
     "completionRate": 35.2,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "AAP",
+    "partyHi": "\u0906\u092a",
     "email": "mp.gurmeet-singh-meet-hayer@sansad.nic.in",
     "phone": "+91 98765 10226",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.72
   },
   {
     "id": "MP-3042444-2",
@@ -5893,14 +6119,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 75,
     "completionRate": 42.7,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bhupender-yadav@sansad.nic.in",
     "phone": "+91 98765 10227",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.73
   },
   {
     "id": "MP-3042445-2",
@@ -5919,14 +6146,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 99,
     "worksRecommended": 193,
     "completionRate": 51.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ummeda-ram-beniwal@sansad.nic.in",
     "phone": "+91 98765 10228",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.74
   },
   {
     "id": "MP-3042446-2",
@@ -5945,14 +6173,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 78,
     "worksRecommended": 252,
     "completionRate": 31.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sanjna-jatav@sansad.nic.in",
     "phone": "+91 98765 10229",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.93
   },
   {
     "id": "MP-3042447-2",
@@ -5971,14 +6200,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 119,
     "worksRecommended": 257,
     "completionRate": 46.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.damodar-agarwal@sansad.nic.in",
     "phone": "+91 98765 10230",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.8
   },
   {
     "id": "MP-3042448-2",
@@ -5997,14 +6227,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 118,
     "completionRate": 20.3,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.murari-lal-meena@sansad.nic.in",
     "phone": "+91 98765 10231",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.02
   },
   {
     "id": "MP-3042449-2",
@@ -6023,14 +6254,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 95,
     "completionRate": 2.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kuldeep-indora@sansad.nic.in",
     "phone": "+91 98765 10232",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.16
   },
   {
     "id": "MP-3042450-2",
@@ -6049,14 +6281,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 72,
     "completionRate": 23.6,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.manju-sharma@sansad.nic.in",
     "phone": "+91 98765 10233",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.43
   },
   {
     "id": "MP-3042451-2",
@@ -6082,7 +6315,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.66
   },
   {
     "id": "MP-3042452-2",
@@ -6108,7 +6342,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.29
   },
   {
     "id": "MP-3042453-2",
@@ -6127,14 +6362,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 11,
     "worksRecommended": 56,
     "completionRate": 19.6,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bhajan-lal-jatav@sansad.nic.in",
     "phone": "+91 98765 10236",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.67
   },
   {
     "id": "MP-3042454-2",
@@ -6153,14 +6389,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 30,
     "worksRecommended": 144,
     "completionRate": 20.8,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mahima-kumari-mewar@sansad.nic.in",
     "phone": "+91 98765 10237",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.17
   },
   {
     "id": "MP-3042455-2",
@@ -6179,14 +6416,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 56,
     "worksRecommended": 180,
     "completionRate": 31.1,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "CPI(M)",
+    "partyHi": "\u092e\u093e\u0915\u092a\u093e",
     "email": "mp.amraram@sansad.nic.in",
     "phone": "+91 98765 10238",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.48
   },
   {
     "id": "MP-3017174-2",
@@ -6205,14 +6443,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 38,
     "worksRecommended": 131,
     "completionRate": 29.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "SKM",
+    "partyHi": "\u090f\u0938\u0915\u0947\u090f\u092e",
     "email": "mp.indra-hang-subba@sansad.nic.in",
     "phone": "+91 98765 10239",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.7
   },
   {
     "id": "MP-3042473-2",
@@ -6231,14 +6470,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 101,
     "completionRate": 23.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.thanga-tamilselvan@sansad.nic.in",
     "phone": "+91 98765 10240",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.26
   },
   {
     "id": "MP-3042458-2",
@@ -6257,14 +6497,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 202,
     "worksRecommended": 321,
     "completionRate": 62.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.tharaniventhan-m-s@sansad.nic.in",
     "phone": "+91 98765 10241",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.14
   },
   {
     "id": "MP-3042459-2",
@@ -6283,14 +6524,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 9,
     "worksRecommended": 107,
     "completionRate": 8.4,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ganapathy-rajkumar-p@sansad.nic.in",
     "phone": "+91 98765 10242",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.86
   },
   {
     "id": "MP-3042461-2",
@@ -6309,14 +6551,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 64,
     "worksRecommended": 376,
     "completionRate": 17.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.mani-a@sansad.nic.in",
     "phone": "+91 98765 10243",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.77
   },
   {
     "id": "MP-3042462-2",
@@ -6335,14 +6578,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 50,
     "worksRecommended": 135,
     "completionRate": 37.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "CPI(M)",
+    "partyHi": "\u092e\u093e\u0915\u092a\u093e",
     "email": "mp.sachithanantham-r@sansad.nic.in",
     "phone": "+91 98765 10244",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.94
   },
   {
     "id": "MP-3042463-2",
@@ -6361,14 +6605,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 141,
     "worksRecommended": 242,
     "completionRate": 58.3,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.k-e-prakash@sansad.nic.in",
     "phone": "+91 98765 10245",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.8
   },
   {
     "id": "MP-3042464-2",
@@ -6387,14 +6632,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 198,
     "worksRecommended": 386,
     "completionRate": 51.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.malaiyarasan-d@sansad.nic.in",
     "phone": "+91 98765 10246",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 12.0
   },
   {
     "id": "MP-3042467-2",
@@ -6420,7 +6666,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.9
   },
   {
     "id": "MP-3042468-2",
@@ -6439,14 +6686,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 48,
     "worksRecommended": 81,
     "completionRate": 59.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.eswarasamy-k@sansad.nic.in",
     "phone": "+91 98765 10248",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.44
   },
   {
     "id": "MP-3042471-2",
@@ -6465,14 +6713,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 117,
     "worksRecommended": 178,
     "completionRate": 65.7,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dr-rani-sri-kumar@sansad.nic.in",
     "phone": "+91 98765 10249",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.67
   },
   {
     "id": "MP-3042472-2",
@@ -6491,14 +6740,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 47,
     "worksRecommended": 95,
     "completionRate": 49.5,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.murasoli-s@sansad.nic.in",
     "phone": "+91 98765 10250",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.66
   },
   {
     "id": "MP-3042474-2",
@@ -6517,14 +6767,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 76,
     "worksRecommended": 159,
     "completionRate": 47.8,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.robert-bruce-c@sansad.nic.in",
     "phone": "+91 98765 10251",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.08
   },
   {
     "id": "MP-3042475-2",
@@ -6543,14 +6794,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 87,
     "worksRecommended": 181,
     "completionRate": 48.1,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sasikanth-senthil@sansad.nic.in",
     "phone": "+91 98765 10252",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.24
   },
   {
     "id": "MP-3042460-2",
@@ -6576,7 +6828,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.86
   },
   {
     "id": "MP-3042466-2",
@@ -6595,14 +6848,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 67,
     "worksRecommended": 96,
     "completionRate": 69.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gopinath-k@sansad.nic.in",
     "phone": "+91 98765 10254",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.75
   },
   {
     "id": "MP-3042470-2",
@@ -6621,14 +6875,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 17,
     "completionRate": 0.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.selvaganapathi-t-m@sansad.nic.in",
     "phone": "+91 98765 10255",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017455-2",
@@ -6654,7 +6909,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.56
   },
   {
     "id": "MP-3019643-2",
@@ -6673,14 +6929,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 40,
     "worksRecommended": 100,
     "completionRate": 40.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kalanidhi-veeraswamy@sansad.nic.in",
     "phone": "+91 98765 10257",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.81
   },
   {
     "id": "MP-3018396-2",
@@ -6699,14 +6956,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 5,
     "worksRecommended": 31,
     "completionRate": 16.1,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.t-sumathy-a-thamizhachi-thangapandian@sansad.nic.in",
     "phone": "+91 98765 10258",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.82
   },
   {
     "id": "MP-3019167-2",
@@ -6725,14 +6983,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 45,
     "worksRecommended": 80,
     "completionRate": 56.2,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "VCK",
+    "partyHi": "\u0935\u0940\u0938\u0940\u0915\u0947",
     "email": "mp.thirumaa-valavan-thol@sansad.nic.in",
     "phone": "+91 98765 10259",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.27
   },
   {
     "id": "MP-3019154-2",
@@ -6751,14 +7010,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 277,
     "worksRecommended": 456,
     "completionRate": 60.7,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ganesan-selvam@sansad.nic.in",
     "phone": "+91 98765 10260",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.62
   },
   {
     "id": "MP-3042476-2",
@@ -6784,7 +7044,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.75
   },
   {
     "id": "MP-3042477-2",
@@ -6803,14 +7064,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 182,
     "worksRecommended": 538,
     "completionRate": 33.8,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.konda-vishweshwar-reddy@sansad.nic.in",
     "phone": "+91 98765 10262",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.75
   },
   {
     "id": "MP-3042478-2",
@@ -6829,14 +7091,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 22,
     "worksRecommended": 212,
     "completionRate": 10.4,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ramasahayam-raghuram-reddy@sansad.nic.in",
     "phone": "+91 98765 10263",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.82
   },
   {
     "id": "MP-3042479-2",
@@ -6855,14 +7118,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 239,
     "worksRecommended": 393,
     "completionRate": 60.8,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.balram-naik-porika@sansad.nic.in",
     "phone": "+91 98765 10264",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.81
   },
   {
     "id": "MP-3042480-2",
@@ -6881,14 +7145,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 129,
     "worksRecommended": 384,
     "completionRate": 33.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.aruna-d-k@sansad.nic.in",
     "phone": "+91 98765 10265",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.5
   },
   {
     "id": "MP-3042481-2",
@@ -6907,14 +7172,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 34,
     "worksRecommended": 316,
     "completionRate": 10.8,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.eatala-rajender@sansad.nic.in",
     "phone": "+91 98765 10266",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.68
   },
   {
     "id": "MP-3042482-2",
@@ -6933,14 +7199,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 65,
     "worksRecommended": 396,
     "completionRate": 16.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.suresh-kumar-shetkar@sansad.nic.in",
     "phone": "+91 98765 10267",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.24
   },
   {
     "id": "MP-3019172-2",
@@ -6959,14 +7226,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 480,
     "worksRecommended": 934,
     "completionRate": 51.4,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.arvind-dharmapuri@sansad.nic.in",
     "phone": "+91 98765 10268",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 14.75
   },
   {
     "id": "MP-3019176-2",
@@ -6985,14 +7253,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 38,
     "completionRate": 0.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kishan-reddy-gangapuram@sansad.nic.in",
     "phone": "+91 98765 10269",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.7
   },
   {
     "id": "MP-3043284-2",
@@ -7011,14 +7280,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 143,
     "worksRecommended": 241,
     "completionRate": 59.3,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-mallu-ravi@sansad.nic.in",
     "phone": "+91 98765 10270",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.52
   },
   {
     "id": "MP-3043394-2",
@@ -7044,7 +7314,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.75
   },
   {
     "id": "MP-3019181-2",
@@ -7063,14 +7334,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 217,
     "worksRecommended": 653,
     "completionRate": 33.2,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sanjay-kumar-bandi@sansad.nic.in",
     "phone": "+91 98765 10272",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.04
   },
   {
     "id": "MP-3042483-2",
@@ -7089,14 +7361,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 62,
     "completionRate": 1.6,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "IND",
+    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.patel-umeshbhai-babubhai@sansad.nic.in",
     "phone": "+91 98765 10273",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3041086-2",
@@ -7115,14 +7388,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 2,
     "completionRate": 0.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kalaben-mohanbhai-delkar@sansad.nic.in",
     "phone": "+91 98765 10274",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042484-2",
@@ -7141,14 +7415,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 18,
     "worksRecommended": 45,
     "completionRate": 40.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kriti-devi-debbarman@sansad.nic.in",
     "phone": "+91 98765 10275",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.25
   },
   {
     "id": "MP-3042485-2",
@@ -7167,14 +7442,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 7,
     "worksRecommended": 33,
     "completionRate": 21.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.biplab-kumar-deb@sansad.nic.in",
     "phone": "+91 98765 10276",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.39
   },
   {
     "id": "MP-3042500-2",
@@ -7193,14 +7469,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 54,
     "worksRecommended": 126,
     "completionRate": 42.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shashank-mani@sansad.nic.in",
     "phone": "+91 98765 10277",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.03
   },
   {
     "id": "MP-3042486-2",
@@ -7219,14 +7496,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 31,
     "completionRate": 9.7,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ujjwal-raman-singh@sansad.nic.in",
     "phone": "+91 98765 10278",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.09
   },
   {
     "id": "MP-3042487-2",
@@ -7245,14 +7523,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 62,
     "worksRecommended": 284,
     "completionRate": 21.8,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.lalji-verma@sansad.nic.in",
     "phone": "+91 98765 10279",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.54
   },
   {
     "id": "MP-3042488-2",
@@ -7278,7 +7557,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.18
   },
   {
     "id": "MP-3018415-2",
@@ -7297,14 +7577,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 84,
     "worksRecommended": 272,
     "completionRate": 30.9,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mala-rajya-laxmi-shah@sansad.nic.in",
     "phone": "+91 98765 10281",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.95
   },
   {
     "id": "MP-3017176-2",
@@ -7323,14 +7604,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 116,
     "worksRecommended": 511,
     "completionRate": 22.7,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ajay-bhatt@sansad.nic.in",
     "phone": "+91 98765 10282",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.23
   },
   {
     "id": "MP-3018414-2",
@@ -7349,14 +7631,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 151,
     "completionRate": 2.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ajay-tamta@sansad.nic.in",
     "phone": "+91 98765 10283",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.17
   },
   {
     "id": "MP-3047111-2",
@@ -7375,14 +7658,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 16,
     "completionRate": 6.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anil-baluni@sansad.nic.in",
     "phone": "+91 98765 10284",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.03
   },
   {
     "id": "MP-3047110-2",
@@ -7401,14 +7685,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 50,
     "completionRate": 6.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.trivendra-singh-rawat@sansad.nic.in",
     "phone": "+91 98765 10285",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.13
   },
   {
     "id": "MP-3042532-2",
@@ -7427,14 +7712,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 91,
     "completionRate": 18.7,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.manoj-tigga@sansad.nic.in",
     "phone": "+91 98765 10286",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.31
   },
   {
     "id": "MP-3042533-2",
@@ -7453,14 +7739,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 95,
     "worksRecommended": 253,
     "completionRate": 37.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bag-mitali@sansad.nic.in",
     "phone": "+91 98765 10287",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.32
   },
   {
     "id": "MP-3042534-2",
@@ -7479,14 +7766,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 4,
     "worksRecommended": 145,
     "completionRate": 2.8,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pathan-yusuf@sansad.nic.in",
     "phone": "+91 98765 10288",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.2
   },
   {
     "id": "MP-3042535-2",
@@ -7505,14 +7793,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 42,
     "worksRecommended": 72,
     "completionRate": 58.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.arup-chakraborty@sansad.nic.in",
     "phone": "+91 98765 10289",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.53
   },
   {
     "id": "MP-3042536-2",
@@ -7531,14 +7820,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 27,
     "worksRecommended": 116,
     "completionRate": 23.3,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-sharmila-sarkar@sansad.nic.in",
     "phone": "+91 98765 10290",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.33
   },
   {
     "id": "MP-3042538-2",
@@ -7564,7 +7854,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.66
   },
   {
     "id": "MP-3042539-2",
@@ -7583,14 +7874,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 10,
     "worksRecommended": 32,
     "completionRate": 31.2,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sk-nurul-islam@sansad.nic.in",
     "phone": "+91 98765 10292",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.16
   },
   {
     "id": "MP-3042541-2",
@@ -7609,14 +7901,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 120,
     "worksRecommended": 215,
     "completionRate": 55.8,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sayani-ghosh@sansad.nic.in",
     "phone": "+91 98765 10293",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.86
   },
   {
     "id": "MP-3042543-2",
@@ -7635,14 +7928,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 29,
     "worksRecommended": 70,
     "completionRate": 41.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.adhikari-soumendu@sansad.nic.in",
     "phone": "+91 98765 10294",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.61
   },
   {
     "id": "MP-3042545-2",
@@ -7661,14 +7955,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 99,
     "worksRecommended": 178,
     "completionRate": 55.6,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bapi-haldar@sansad.nic.in",
     "phone": "+91 98765 10295",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.26
   },
   {
     "id": "MP-3042546-2",
@@ -7687,14 +7982,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 7,
     "worksRecommended": 35,
     "completionRate": 20.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.june-maliah@sansad.nic.in",
     "phone": "+91 98765 10296",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.88
   },
   {
     "id": "MP-3042547-2",
@@ -7720,7 +8016,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.57
   },
   {
     "id": "MP-3017196-1",
@@ -7746,7 +8043,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.57
   },
   {
     "id": "MP-3019255-1",
@@ -7772,7 +8070,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.63
   },
   {
     "id": "MP-3043037-1",
@@ -7798,7 +8097,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.2
   },
   {
     "id": "MP-3043337-1",
@@ -7824,7 +8124,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.4
   },
   {
     "id": "MP-3044299-1",
@@ -7850,7 +8151,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.86
   },
   {
     "id": "MP-3050536-1",
@@ -7876,7 +8178,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.49
   },
   {
     "id": "MP-3050537-1",
@@ -7902,7 +8205,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.67
   },
   {
     "id": "MP-3056236-1",
@@ -7928,7 +8232,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.16
   },
   {
     "id": "MP-3066164-1",
@@ -7954,7 +8259,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066214-1",
@@ -7980,7 +8286,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066270-1",
@@ -8006,7 +8313,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3050535-1",
@@ -8032,7 +8340,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066421-1",
@@ -8058,7 +8367,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017222-1",
@@ -8084,7 +8394,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.58
   },
   {
     "id": "MP-3019246-1",
@@ -8110,7 +8421,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.82
   },
   {
     "id": "MP-3056512-1",
@@ -8136,7 +8448,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017224-1",
@@ -8162,7 +8475,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.1
   },
   {
     "id": "MP-3065277-1",
@@ -8188,7 +8502,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065299-1",
@@ -8214,7 +8529,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066097-1",
@@ -8240,7 +8556,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017167-1",
@@ -8266,7 +8583,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 15.75
   },
   {
     "id": "MP-3017197-1",
@@ -8292,7 +8610,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 14.52
   },
   {
     "id": "MP-3017208-1",
@@ -8318,7 +8637,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 12.89
   },
   {
     "id": "MP-3017209-1",
@@ -8344,7 +8664,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 17.99
   },
   {
     "id": "MP-3042570-1",
@@ -8370,7 +8691,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.38
   },
   {
     "id": "MP-3017198-1",
@@ -8396,7 +8718,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.6
   },
   {
     "id": "MP-3043338-1",
@@ -8422,7 +8745,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.43
   },
   {
     "id": "MP-3017200-1",
@@ -8448,7 +8772,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.97
   },
   {
     "id": "MP-3043454-1",
@@ -8474,7 +8799,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.43
   },
   {
     "id": "MP-3043455-1",
@@ -8500,7 +8826,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3046284-1",
@@ -8526,7 +8853,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.01
   },
   {
     "id": "MP-3046285-1",
@@ -8552,7 +8880,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3064962-1",
@@ -8578,7 +8907,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065300-1",
@@ -8604,7 +8934,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065569-1",
@@ -8630,7 +8961,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3044092-1",
@@ -8656,7 +8988,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.34
   },
   {
     "id": "MP-3017318-1",
@@ -8682,7 +9015,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.15
   },
   {
     "id": "MP-3017501-1",
@@ -8708,7 +9042,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 12.82
   },
   {
     "id": "MP-3043409-1",
@@ -8734,7 +9069,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.22
   },
   {
     "id": "MP-3017500-1",
@@ -8760,7 +9096,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065578-1",
@@ -8786,7 +9123,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3045897-1",
@@ -8812,7 +9150,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3020006-1",
@@ -8838,7 +9177,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.85
   },
   {
     "id": "MP-3020005-1",
@@ -8864,7 +9204,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.12
   },
   {
     "id": "MP-3061061-1",
@@ -8890,7 +9231,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3022960-1",
@@ -8916,7 +9258,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.28
   },
   {
     "id": "MP-3025895-1",
@@ -8942,7 +9285,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.81
   },
   {
     "id": "MP-3026513-1",
@@ -8968,7 +9312,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.2
   },
   {
     "id": "MP-3027305-1",
@@ -8994,7 +9339,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.3
   },
   {
     "id": "MP-3042558-1",
@@ -9020,7 +9366,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.67
   },
   {
     "id": "MP-3042561-1",
@@ -9046,7 +9393,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.76
   },
   {
     "id": "MP-3045962-1",
@@ -9072,7 +9420,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.92
   },
   {
     "id": "MP-3046565-1",
@@ -9098,7 +9447,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066440-1",
@@ -9124,7 +9474,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066468-1",
@@ -9150,7 +9501,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066616-1",
@@ -9176,7 +9528,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017503-1",
@@ -9202,7 +9555,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3045909-1",
@@ -9228,7 +9582,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.42
   },
   {
     "id": "MP-3049850-1",
@@ -9254,7 +9609,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.05
   },
   {
     "id": "MP-3064657-1",
@@ -9280,7 +9636,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3064963-1",
@@ -9306,7 +9663,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017229-1",
@@ -9332,7 +9690,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.95
   },
   {
     "id": "MP-3042922-1",
@@ -9358,7 +9717,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.77
   },
   {
     "id": "MP-3064835-1",
@@ -9384,7 +9744,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019254-1",
@@ -9410,7 +9771,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 13.34
   },
   {
     "id": "MP-3017287-1",
@@ -9436,7 +9798,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.91
   },
   {
     "id": "MP-3017288-1",
@@ -9462,7 +9825,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.48
   },
   {
     "id": "MP-3017289-1",
@@ -9488,7 +9852,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.5
   },
   {
     "id": "MP-3017290-1",
@@ -9514,7 +9879,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.03
   },
   {
     "id": "MP-3042555-1",
@@ -9540,7 +9906,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.95
   },
   {
     "id": "MP-3042565-1",
@@ -9566,7 +9933,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.26
   },
   {
     "id": "MP-3017184-1",
@@ -9592,7 +9960,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.11
   },
   {
     "id": "MP-3017232-1",
@@ -9618,7 +9987,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.01
   },
   {
     "id": "MP-3043536-1",
@@ -9644,7 +10014,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.05
   },
   {
     "id": "MP-3045173-1",
@@ -9670,7 +10041,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.03
   },
   {
     "id": "MP-3017235-1",
@@ -9696,7 +10068,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.72
   },
   {
     "id": "MP-3017243-1",
@@ -9722,7 +10095,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.14
   },
   {
     "id": "MP-3019253-1",
@@ -9748,7 +10122,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.9
   },
   {
     "id": "MP-3019248-1",
@@ -9774,7 +10149,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.17
   },
   {
     "id": "MP-3019249-1",
@@ -9800,7 +10176,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.2
   },
   {
     "id": "MP-3017245-1",
@@ -9826,7 +10203,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.86
   },
   {
     "id": "MP-3017246-1",
@@ -9852,7 +10230,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.66
   },
   {
     "id": "MP-3017247-1",
@@ -9878,7 +10257,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.01
   },
   {
     "id": "MP-3017250-1",
@@ -9904,7 +10284,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.26
   },
   {
     "id": "MP-3017252-1",
@@ -9930,7 +10311,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.97
   },
   {
     "id": "MP-3017253-1",
@@ -9956,7 +10338,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.17
   },
   {
     "id": "MP-3019257-1",
@@ -9982,7 +10365,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.02
   },
   {
     "id": "MP-3043324-1",
@@ -10008,7 +10392,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.9
   },
   {
     "id": "MP-3017251-1",
@@ -10034,7 +10419,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.0
   },
   {
     "id": "MP-3046257-1",
@@ -10060,7 +10446,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.07
   },
   {
     "id": "MP-3056873-1",
@@ -10086,7 +10473,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017254-1",
@@ -10112,7 +10500,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.56
   },
   {
     "id": "MP-3017257-1",
@@ -10138,7 +10527,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.29
   },
   {
     "id": "MP-3017258-1",
@@ -10164,7 +10554,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.6
   },
   {
     "id": "MP-3042554-1",
@@ -10190,7 +10581,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.52
   },
   {
     "id": "MP-3042567-1",
@@ -10216,7 +10608,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.8
   },
   {
     "id": "MP-3043035-1",
@@ -10242,7 +10635,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.67
   },
   {
     "id": "MP-3043966-1",
@@ -10268,7 +10662,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.06
   },
   {
     "id": "MP-3017255-1",
@@ -10294,7 +10689,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.77
   },
   {
     "id": "MP-3065971-1",
@@ -10320,7 +10716,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066552-1",
@@ -10346,7 +10743,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066667-1",
@@ -10372,7 +10770,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017259-1",
@@ -10398,7 +10797,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.82
   },
   {
     "id": "MP-3017263-1",
@@ -10424,7 +10824,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.94
   },
   {
     "id": "MP-3017264-1",
@@ -10450,7 +10851,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.98
   },
   {
     "id": "MP-3017267-1",
@@ -10476,7 +10878,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.77
   },
   {
     "id": "MP-3042556-1",
@@ -10502,7 +10905,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.08
   },
   {
     "id": "MP-3042557-1",
@@ -10528,7 +10932,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.15
   },
   {
     "id": "MP-3042559-1",
@@ -10554,7 +10959,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042560-1",
@@ -10580,7 +10986,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.79
   },
   {
     "id": "MP-3042562-1",
@@ -10606,7 +11013,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.71
   },
   {
     "id": "MP-3065973-1",
@@ -10632,7 +11040,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065972-1",
@@ -10658,7 +11067,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066422-1",
@@ -10684,7 +11094,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017509-1",
@@ -10710,7 +11121,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 14.48
   },
   {
     "id": "MP-3017365-1",
@@ -10736,7 +11148,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.16
   },
   {
     "id": "MP-3017366-1",
@@ -10762,7 +11175,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.94
   },
   {
     "id": "MP-3017372-1",
@@ -10788,7 +11202,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.6
   },
   {
     "id": "MP-3042553-1",
@@ -10814,7 +11229,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.16
   },
   {
     "id": "MP-3017368-1",
@@ -10840,7 +11256,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.38
   },
   {
     "id": "MP-3064658-1",
@@ -10866,7 +11283,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3049783-1",
@@ -10892,7 +11310,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3064961-1",
@@ -10918,7 +11337,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066023-1",
@@ -10944,7 +11364,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066499-1",
@@ -10970,7 +11391,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017281-1",
@@ -10996,7 +11418,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.31
   },
   {
     "id": "MP-3017282-1",
@@ -11022,7 +11445,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.9
   },
   {
     "id": "MP-3017283-1",
@@ -11048,7 +11472,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.96
   },
   {
     "id": "MP-3017510-1",
@@ -11074,7 +11499,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.71
   },
   {
     "id": "MP-3017511-1",
@@ -11100,7 +11526,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.07
   },
   {
     "id": "MP-3019259-1",
@@ -11126,7 +11553,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.04
   },
   {
     "id": "MP-3019258-1",
@@ -11152,7 +11580,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.55
   },
   {
     "id": "MP-3060764-1",
@@ -11178,7 +11607,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3023700-1",
@@ -11204,7 +11634,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.2
   },
   {
     "id": "MP-3017375-2",
@@ -11230,7 +11661,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.0
   },
   {
     "id": "MP-3017376-2",
@@ -11256,7 +11688,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.53
   },
   {
     "id": "MP-3017377-2",
@@ -11282,7 +11715,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.12
   },
   {
     "id": "MP-3018338-2",
@@ -11308,7 +11742,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.97
   },
   {
     "id": "MP-3018339-2",
@@ -11334,7 +11769,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.24
   },
   {
     "id": "MP-3042552-1",
@@ -11360,7 +11796,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.49
   },
   {
     "id": "MP-3018937-2",
@@ -11386,7 +11823,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.23
   },
   {
     "id": "MP-3018340-2",
@@ -11412,7 +11850,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.47
   },
   {
     "id": "MP-3018341-2",
@@ -11438,7 +11877,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.66
   },
   {
     "id": "MP-3018342-2",
@@ -11464,7 +11904,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.31
   },
   {
     "id": "MP-3018343-2",
@@ -11490,7 +11931,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.78
   },
   {
     "id": "MP-3018344-2",
@@ -11516,7 +11958,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.14
   },
   {
     "id": "MP-3018345-2",
@@ -11542,7 +11985,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.24
   },
   {
     "id": "MP-3018936-2",
@@ -11568,7 +12012,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.16
   },
   {
     "id": "MP-3018938-2",
@@ -11594,7 +12039,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.44
   },
   {
     "id": "MP-3018939-2",
@@ -11620,7 +12066,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.1
   },
   {
     "id": "MP-3018940-2",
@@ -11646,7 +12093,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.67
   },
   {
     "id": "MP-3018941-2",
@@ -11672,7 +12120,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.48
   },
   {
     "id": "MP-3017168-1",
@@ -11698,7 +12147,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.19
   },
   {
     "id": "MP-3017170-1",
@@ -11724,7 +12174,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 20.44
   },
   {
     "id": "MP-3017304-1",
@@ -11750,7 +12201,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 16.49
   },
   {
     "id": "MP-3017310-1",
@@ -11776,7 +12228,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.26
   },
   {
     "id": "MP-3019261-1",
@@ -11802,7 +12255,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.86
   },
   {
     "id": "MP-3044300-1",
@@ -11828,7 +12282,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.37
   },
   {
     "id": "MP-3044741-1",
@@ -11854,7 +12309,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017313-1",
@@ -11880,7 +12336,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.56
   },
   {
     "id": "MP-3047083-1",
@@ -11906,7 +12363,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3046918-1",
@@ -11932,7 +12390,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.95
   },
   {
     "id": "MP-3017171-1",
@@ -11958,7 +12417,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.2
   },
   {
     "id": "MP-3017322-1",
@@ -11984,7 +12444,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.05
   },
   {
     "id": "MP-3017323-1",
@@ -12010,7 +12471,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.6
   },
   {
     "id": "MP-3017324-1",
@@ -12036,7 +12498,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.19
   },
   {
     "id": "MP-3017325-1",
@@ -12062,7 +12525,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.87
   },
   {
     "id": "MP-3017328-1",
@@ -12088,7 +12552,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.06
   },
   {
     "id": "MP-3017329-1",
@@ -12114,7 +12579,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.18
   },
   {
     "id": "MP-3017330-1",
@@ -12140,7 +12606,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.68
   },
   {
     "id": "MP-3017331-1",
@@ -12166,7 +12633,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.22
   },
   {
     "id": "MP-3017346-1",
@@ -12192,7 +12660,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.05
   },
   {
     "id": "MP-3019265-1",
@@ -12218,7 +12687,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.68
   },
   {
     "id": "MP-3043339-1",
@@ -12244,7 +12714,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.12
   },
   {
     "id": "MP-3023812-1",
@@ -12270,7 +12741,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.38
   },
   {
     "id": "MP-3032002-1",
@@ -12296,7 +12768,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042569-1",
@@ -12322,7 +12795,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017362-1",
@@ -12348,7 +12822,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017360-1",
@@ -12374,7 +12849,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.26
   },
   {
     "id": "MP-3044811-1",
@@ -12400,7 +12876,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.87
   },
   {
     "id": "MP-3044812-1",
@@ -12426,7 +12903,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.41
   },
   {
     "id": "MP-3017359-1",
@@ -12452,7 +12930,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.11
   },
   {
     "id": "MP-3056687-1",
@@ -12478,7 +12957,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065548-1",
@@ -12504,7 +12984,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066259-1",
@@ -12530,7 +13011,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066271-1",
@@ -12556,7 +13038,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066666-1",
@@ -12582,7 +13065,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3018942-2",
@@ -12608,7 +13092,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.75
   },
   {
     "id": "MP-3018943-2",
@@ -12634,7 +13119,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.17
   },
   {
     "id": "MP-3018944-2",
@@ -12660,7 +13146,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.35
   },
   {
     "id": "MP-3018945-2",
@@ -12686,7 +13173,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.87
   },
   {
     "id": "MP-3018946-2",
@@ -12712,7 +13200,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.54
   },
   {
     "id": "MP-3018947-2",
@@ -12738,7 +13227,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.39
   },
   {
     "id": "MP-3018948-2",
@@ -12764,7 +13254,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.34
   },
   {
     "id": "MP-3018949-2",
@@ -12790,7 +13281,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.07
   },
   {
     "id": "MP-3021881-2",
@@ -12816,7 +13308,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.89
   },
   {
     "id": "MP-3017378-2",
@@ -12842,7 +13335,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.45
   },
   {
     "id": "MP-3018950-2",
@@ -12868,7 +13362,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.53
   },
   {
     "id": "MP-3017379-2",
@@ -12894,7 +13389,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.16
   },
   {
     "id": "MP-3017380-2",
@@ -12920,7 +13416,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.74
   },
   {
     "id": "MP-3018346-2",
@@ -12946,7 +13443,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.34
   },
   {
     "id": "MP-3018347-2",
@@ -12972,7 +13470,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.12
   },
   {
     "id": "MP-3018348-2",
@@ -12998,7 +13497,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.92
   },
   {
     "id": "MP-3018349-2",
@@ -13024,7 +13524,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.4
   },
   {
     "id": "MP-3018951-2",
@@ -13050,7 +13551,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.17
   },
   {
     "id": "MP-3018952-2",
@@ -13076,7 +13578,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.42
   },
   {
     "id": "MP-3018953-2",
@@ -13102,7 +13605,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.94
   },
   {
     "id": "MP-3018954-2",
@@ -13128,7 +13632,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.22
   },
   {
     "id": "MP-3018955-2",
@@ -13154,7 +13659,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.66
   },
   {
     "id": "MP-3018956-2",
@@ -13180,7 +13686,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.2
   },
   {
     "id": "MP-3018957-2",
@@ -13206,7 +13713,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.5
   },
   {
     "id": "MP-3018958-2",
@@ -13232,7 +13740,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.46
   },
   {
     "id": "MP-3017172-2",
@@ -13258,7 +13767,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.28
   },
   {
     "id": "MP-3017173-2",
@@ -13284,7 +13794,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.73
   },
   {
     "id": "MP-3017381-2",
@@ -13310,7 +13821,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.36
   },
   {
     "id": "MP-3017382-2",
@@ -13336,7 +13848,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.26
   },
   {
     "id": "MP-3017383-2",
@@ -13362,7 +13875,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.72
   },
   {
     "id": "MP-3017384-2",
@@ -13388,7 +13902,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.64
   },
   {
     "id": "MP-3017385-2",
@@ -13414,7 +13929,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.19
   },
   {
     "id": "MP-3018350-2",
@@ -13440,7 +13956,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.04
   },
   {
     "id": "MP-3018351-2",
@@ -13466,7 +13983,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.01
   },
   {
     "id": "MP-3018352-2",
@@ -13492,7 +14010,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.6
   },
   {
     "id": "MP-3018353-2",
@@ -13518,7 +14037,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.09
   },
   {
     "id": "MP-3018354-2",
@@ -13544,7 +14064,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.24
   },
   {
     "id": "MP-3018355-2",
@@ -13570,7 +14091,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.76
   },
   {
     "id": "MP-3018356-2",
@@ -13596,7 +14118,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.26
   },
   {
     "id": "MP-3018357-2",
@@ -13622,7 +14145,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.14
   },
   {
     "id": "MP-3018358-2",
@@ -13648,7 +14172,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.68
   },
   {
     "id": "MP-3018359-2",
@@ -13674,7 +14199,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.57
   },
   {
     "id": "MP-3018360-2",
@@ -13700,7 +14226,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.79
   },
   {
     "id": "MP-3018361-2",
@@ -13726,7 +14253,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.8
   },
   {
     "id": "MP-3018959-2",
@@ -13752,7 +14280,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.71
   },
   {
     "id": "MP-3018960-2",
@@ -13778,7 +14307,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.9
   },
   {
     "id": "MP-3018961-2",
@@ -13804,7 +14334,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.43
   },
   {
     "id": "MP-3018962-2",
@@ -13830,7 +14361,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.94
   },
   {
     "id": "MP-3018963-2",
@@ -13856,7 +14388,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.95
   },
   {
     "id": "MP-3018964-2",
@@ -13882,7 +14415,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.75
   },
   {
     "id": "MP-3018966-2",
@@ -13908,7 +14442,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.2
   },
   {
     "id": "MP-3018967-2",
@@ -13934,7 +14469,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.54
   },
   {
     "id": "MP-3018968-2",
@@ -13960,7 +14496,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3018969-2",
@@ -13986,7 +14523,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.62
   },
   {
     "id": "MP-3018970-2",
@@ -14012,7 +14550,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.11
   },
   {
     "id": "MP-3018971-2",
@@ -14038,7 +14577,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3018972-2",
@@ -14064,7 +14604,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.07
   },
   {
     "id": "MP-3018973-2",
@@ -14090,7 +14631,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.84
   },
   {
     "id": "MP-3018974-2",
@@ -14116,7 +14658,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.46
   },
   {
     "id": "MP-3018975-2",
@@ -14142,7 +14685,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.05
   },
   {
     "id": "MP-3018976-2",
@@ -14168,7 +14712,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.97
   },
   {
     "id": "MP-3018978-2",
@@ -14194,7 +14739,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.69
   },
   {
     "id": "MP-3018979-2",
@@ -14220,7 +14766,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.1
   },
   {
     "id": "MP-3018980-2",
@@ -14246,7 +14793,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.67
   },
   {
     "id": "MP-3018981-2",
@@ -14272,7 +14820,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.3
   },
   {
     "id": "MP-3018965-2",
@@ -14298,7 +14847,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.39
   },
   {
     "id": "MP-3021513-2",
@@ -14324,7 +14874,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.58
   },
   {
     "id": "MP-3018982-2",
@@ -14350,7 +14901,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.5
   },
   {
     "id": "MP-3018362-2",
@@ -14376,7 +14928,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.84
   },
   {
     "id": "MP-3018363-2",
@@ -14402,7 +14955,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.71
   },
   {
     "id": "MP-3018364-2",
@@ -14428,7 +14982,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.45
   },
   {
     "id": "MP-3018365-2",
@@ -14454,7 +15009,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.15
   },
   {
     "id": "MP-3018366-2",
@@ -14480,7 +15036,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.09
   },
   {
     "id": "MP-3018983-2",
@@ -14506,7 +15063,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.67
   },
   {
     "id": "MP-3018984-2",
@@ -14532,7 +15090,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.74
   },
   {
     "id": "MP-3018985-2",
@@ -14558,7 +15117,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.53
   },
   {
     "id": "MP-3018986-2",
@@ -14584,7 +15144,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.1
   },
   {
     "id": "MP-3018987-2",
@@ -14610,7 +15171,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.68
   },
   {
     "id": "MP-3018988-2",
@@ -14636,7 +15198,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.95
   },
   {
     "id": "MP-3020008-2",
@@ -14662,7 +15225,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.03
   },
   {
     "id": "MP-3020007-2",
@@ -14688,7 +15252,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.6
   },
   {
     "id": "MP-3020002-2",
@@ -14714,7 +15279,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.09
   },
   {
     "id": "MP-3020003-2",
@@ -14740,7 +15306,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.28
   },
   {
     "id": "MP-3020004-2",
@@ -14766,7 +15333,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.95
   },
   {
     "id": "MP-3019998-2",
@@ -14792,7 +15360,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.92
   },
   {
     "id": "MP-3019999-2",
@@ -14818,7 +15387,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.52
   },
   {
     "id": "MP-3018367-2",
@@ -14844,7 +15414,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.47
   },
   {
     "id": "MP-3018989-2",
@@ -14870,7 +15441,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.04
   },
   {
     "id": "MP-3017181-2",
@@ -14896,7 +15468,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.88
   },
   {
     "id": "MP-3017386-2",
@@ -14922,7 +15495,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.64
   },
   {
     "id": "MP-3017387-2",
@@ -14948,7 +15522,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.15
   },
   {
     "id": "MP-3017388-2",
@@ -14974,7 +15549,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.53
   },
   {
     "id": "MP-3017390-2",
@@ -15000,7 +15576,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.72
   },
   {
     "id": "MP-3017391-2",
@@ -15026,7 +15603,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.38
   },
   {
     "id": "MP-3017392-2",
@@ -15052,7 +15630,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017393-2",
@@ -15078,7 +15657,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.14
   },
   {
     "id": "MP-3018990-2",
@@ -15104,7 +15684,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.58
   },
   {
     "id": "MP-3018991-2",
@@ -15130,7 +15711,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.73
   },
   {
     "id": "MP-3018992-2",
@@ -15156,7 +15738,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.01
   },
   {
     "id": "MP-3018993-2",
@@ -15182,7 +15765,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.34
   },
   {
     "id": "MP-3018994-2",
@@ -15208,7 +15792,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.05
   },
   {
     "id": "MP-3018995-2",
@@ -15234,7 +15819,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.1
   },
   {
     "id": "MP-3018996-2",
@@ -15260,7 +15846,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.36
   },
   {
     "id": "MP-3018998-2",
@@ -15286,7 +15873,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.44
   },
   {
     "id": "MP-3018999-2",
@@ -15312,7 +15900,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.94
   },
   {
     "id": "MP-3019000-2",
@@ -15338,7 +15927,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.49
   },
   {
     "id": "MP-3019002-2",
@@ -15364,7 +15954,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.37
   },
   {
     "id": "MP-3019003-2",
@@ -15390,7 +15981,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019004-2",
@@ -15416,7 +16008,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.55
   },
   {
     "id": "MP-3019005-2",
@@ -15442,7 +16035,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.87
   },
   {
     "id": "MP-3019006-2",
@@ -15468,7 +16062,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.5
   },
   {
     "id": "MP-3018997-2",
@@ -15494,7 +16089,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.06
   },
   {
     "id": "MP-3018977-2",
@@ -15520,7 +16116,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.28
   },
   {
     "id": "MP-3019240-2",
@@ -15546,7 +16143,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.48
   },
   {
     "id": "MP-3019001-2",
@@ -15572,7 +16170,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.51
   },
   {
     "id": "MP-3047999-2",
@@ -15598,7 +16197,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.57
   },
   {
     "id": "MP-3017394-2",
@@ -15624,7 +16224,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.98
   },
   {
     "id": "MP-3018368-2",
@@ -15650,7 +16251,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.79
   },
   {
     "id": "MP-3019007-2",
@@ -15676,7 +16278,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.44
   },
   {
     "id": "MP-3019008-2",
@@ -15702,7 +16305,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.16
   },
   {
     "id": "MP-3019009-2",
@@ -15728,7 +16332,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.41
   },
   {
     "id": "MP-3019010-2",
@@ -15754,7 +16359,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.26
   },
   {
     "id": "MP-3019011-2",
@@ -15780,7 +16386,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019012-2",
@@ -15806,7 +16413,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.16
   },
   {
     "id": "MP-3019238-2",
@@ -15832,7 +16440,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.38
   },
   {
     "id": "MP-3019239-2",
@@ -15858,7 +16467,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.43
   },
   {
     "id": "MP-3018369-2",
@@ -15884,7 +16494,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.2
   },
   {
     "id": "MP-3019013-2",
@@ -15910,7 +16521,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.9
   },
   {
     "id": "MP-3019014-2",
@@ -15936,7 +16548,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.24
   },
   {
     "id": "MP-3019015-2",
@@ -15962,7 +16575,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.48
   },
   {
     "id": "MP-3017395-2",
@@ -15988,7 +16602,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017396-2",
@@ -16014,7 +16629,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.12
   },
   {
     "id": "MP-3019016-2",
@@ -16040,7 +16656,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.9
   },
   {
     "id": "MP-3019017-2",
@@ -16066,7 +16683,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019018-2",
@@ -16092,7 +16710,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.1
   },
   {
     "id": "MP-3019019-2",
@@ -16118,7 +16737,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.13
   },
   {
     "id": "MP-3026799-2",
@@ -16144,7 +16764,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017397-2",
@@ -16170,7 +16791,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.23
   },
   {
     "id": "MP-3017398-2",
@@ -16196,7 +16818,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.24
   },
   {
     "id": "MP-3017399-2",
@@ -16222,7 +16845,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.6
   },
   {
     "id": "MP-3018370-2",
@@ -16248,7 +16872,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.25
   },
   {
     "id": "MP-3018371-2",
@@ -16274,7 +16899,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.5
   },
   {
     "id": "MP-3018372-2",
@@ -16300,7 +16926,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.98
   },
   {
     "id": "MP-3018373-2",
@@ -16326,7 +16953,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.6
   },
   {
     "id": "MP-3018374-2",
@@ -16352,7 +16980,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.36
   },
   {
     "id": "MP-3019020-2",
@@ -16378,7 +17007,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019021-2",
@@ -16404,7 +17034,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019022-2",
@@ -16430,7 +17061,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.65
   },
   {
     "id": "MP-3019023-2",
@@ -16456,7 +17088,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.11
   },
   {
     "id": "MP-3019024-2",
@@ -16482,7 +17115,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019026-2",
@@ -16508,7 +17142,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.03
   },
   {
     "id": "MP-3019532-2",
@@ -16534,7 +17169,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.74
   },
   {
     "id": "MP-3019025-2",
@@ -16560,7 +17196,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.24
   },
   {
     "id": "MP-3017400-2",
@@ -16586,7 +17223,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.14
   },
   {
     "id": "MP-3017401-2",
@@ -16612,7 +17250,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.76
   },
   {
     "id": "MP-3017402-2",
@@ -16638,7 +17277,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.99
   },
   {
     "id": "MP-3017403-2",
@@ -16664,7 +17304,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.87
   },
   {
     "id": "MP-3017404-2",
@@ -16690,7 +17331,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.62
   },
   {
     "id": "MP-3017405-2",
@@ -16716,7 +17358,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.12
   },
   {
     "id": "MP-3017406-2",
@@ -16742,7 +17385,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.43
   },
   {
     "id": "MP-3019027-2",
@@ -16768,7 +17412,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.64
   },
   {
     "id": "MP-3019028-2",
@@ -16794,7 +17439,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.51
   },
   {
     "id": "MP-3019029-2",
@@ -16820,7 +17466,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.35
   },
   {
     "id": "MP-3019030-2",
@@ -16846,7 +17493,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.6
   },
   {
     "id": "MP-3019031-2",
@@ -16872,7 +17520,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.11
   },
   {
     "id": "MP-3019038-2",
@@ -16898,7 +17547,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.17
   },
   {
     "id": "MP-3019040-2",
@@ -16924,7 +17574,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.9
   },
   {
     "id": "MP-3019046-2",
@@ -16950,7 +17601,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.8
   },
   {
     "id": "MP-3019033-2",
@@ -16976,7 +17628,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.04
   },
   {
     "id": "MP-3019041-2",
@@ -17002,7 +17655,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.58
   },
   {
     "id": "MP-3019034-2",
@@ -17028,7 +17682,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.41
   },
   {
     "id": "MP-3019045-2",
@@ -17054,7 +17709,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.0
   },
   {
     "id": "MP-3019044-2",
@@ -17080,7 +17736,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.84
   },
   {
     "id": "MP-3019043-2",
@@ -17106,7 +17763,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.28
   },
   {
     "id": "MP-3019036-2",
@@ -17132,7 +17790,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.13
   },
   {
     "id": "MP-3019035-2",
@@ -17158,7 +17817,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.9
   },
   {
     "id": "MP-3019042-2",
@@ -17184,7 +17844,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.6
   },
   {
     "id": "MP-3019047-2",
@@ -17210,7 +17871,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.75
   },
   {
     "id": "MP-3019529-2",
@@ -17236,7 +17898,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.8
   },
   {
     "id": "MP-3019039-2",
@@ -17262,7 +17925,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.45
   },
   {
     "id": "MP-3019037-2",
@@ -17288,7 +17952,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.45
   },
   {
     "id": "MP-3017407-2",
@@ -17314,7 +17979,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.18
   },
   {
     "id": "MP-3017408-2",
@@ -17340,7 +18006,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.21
   },
   {
     "id": "MP-3017409-2",
@@ -17366,7 +18033,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.02
   },
   {
     "id": "MP-3017410-2",
@@ -17392,7 +18060,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.44
   },
   {
     "id": "MP-3017411-2",
@@ -17418,7 +18087,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.9
   },
   {
     "id": "MP-3017412-2",
@@ -17444,7 +18114,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.31
   },
   {
     "id": "MP-3017413-2",
@@ -17470,7 +18141,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.1
   },
   {
     "id": "MP-3017414-2",
@@ -17496,7 +18168,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.08
   },
   {
     "id": "MP-3017415-2",
@@ -17522,7 +18195,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.11
   },
   {
     "id": "MP-3017416-2",
@@ -17548,7 +18222,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.39
   },
   {
     "id": "MP-3017417-2",
@@ -17574,7 +18249,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.61
   },
   {
     "id": "MP-3017418-2",
@@ -17600,7 +18276,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.99
   },
   {
     "id": "MP-3017419-2",
@@ -17626,7 +18303,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.56
   },
   {
     "id": "MP-3018375-2",
@@ -17652,7 +18330,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.17
   },
   {
     "id": "MP-3018376-2",
@@ -17678,7 +18357,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.32
   },
   {
     "id": "MP-3018377-2",
@@ -17704,7 +18384,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.58
   },
   {
     "id": "MP-3019302-2",
@@ -17730,7 +18411,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.33
   },
   {
     "id": "MP-3021488-2",
@@ -17756,7 +18438,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.81
   },
   {
     "id": "MP-3019050-2",
@@ -17782,7 +18465,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.38
   },
   {
     "id": "MP-3019048-2",
@@ -17808,7 +18492,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.07
   },
   {
     "id": "MP-3017420-2",
@@ -17834,7 +18519,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.07
   },
   {
     "id": "MP-3019436-2",
@@ -17860,7 +18546,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 19.31
   },
   {
     "id": "MP-3017177-2",
@@ -17886,7 +18573,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017421-2",
@@ -17912,7 +18600,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.23
   },
   {
     "id": "MP-3017422-2",
@@ -17938,7 +18627,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017423-2",
@@ -17964,7 +18654,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.22
   },
   {
     "id": "MP-3017424-2",
@@ -17990,7 +18681,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.07
   },
   {
     "id": "MP-3017425-2",
@@ -18016,7 +18708,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.15
   },
   {
     "id": "MP-3018378-2",
@@ -18042,7 +18735,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.81
   },
   {
     "id": "MP-3018379-2",
@@ -18068,7 +18762,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.99
   },
   {
     "id": "MP-3018380-2",
@@ -18094,7 +18789,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.49
   },
   {
     "id": "MP-3018381-2",
@@ -18120,7 +18816,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.47
   },
   {
     "id": "MP-3018382-2",
@@ -18146,7 +18843,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.85
   },
   {
     "id": "MP-3018383-2",
@@ -18172,7 +18870,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.41
   },
   {
     "id": "MP-3019065-2",
@@ -18198,7 +18897,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.12
   },
   {
     "id": "MP-3019056-2",
@@ -18224,7 +18924,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.17
   },
   {
     "id": "MP-3019067-2",
@@ -18250,7 +18951,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.44
   },
   {
     "id": "MP-3019066-2",
@@ -18276,7 +18978,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.79
   },
   {
     "id": "MP-3019052-2",
@@ -18302,7 +19005,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.25
   },
   {
     "id": "MP-3019058-2",
@@ -18328,7 +19032,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.83
   },
   {
     "id": "MP-3019057-2",
@@ -18354,7 +19059,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.95
   },
   {
     "id": "MP-3019069-2",
@@ -18380,7 +19086,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.08
   },
   {
     "id": "MP-3019068-2",
@@ -18406,7 +19113,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.6
   },
   {
     "id": "MP-3019064-2",
@@ -18432,7 +19140,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.39
   },
   {
     "id": "MP-3019055-2",
@@ -18458,7 +19167,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.64
   },
   {
     "id": "MP-3019060-2",
@@ -18484,7 +19194,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.83
   },
   {
     "id": "MP-3019053-2",
@@ -18510,7 +19221,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.34
   },
   {
     "id": "MP-3019061-2",
@@ -18536,7 +19248,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.69
   },
   {
     "id": "MP-3019059-2",
@@ -18562,7 +19275,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.15
   },
   {
     "id": "MP-3019070-2",
@@ -18588,7 +19302,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.74
   },
   {
     "id": "MP-3019063-2",
@@ -18614,7 +19329,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.95
   },
   {
     "id": "MP-3019054-2",
@@ -18640,7 +19356,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.31
   },
   {
     "id": "MP-3019062-2",
@@ -18666,7 +19383,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.11
   },
   {
     "id": "MP-3017426-2",
@@ -18692,7 +19410,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.96
   },
   {
     "id": "MP-3017427-2",
@@ -18718,7 +19437,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.45
   },
   {
     "id": "MP-3017428-2",
@@ -18744,7 +19464,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017429-2",
@@ -18770,7 +19491,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017430-2",
@@ -18796,7 +19518,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017431-2",
@@ -18822,7 +19545,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3018384-2",
@@ -18848,7 +19572,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.25
   },
   {
     "id": "MP-3018385-2",
@@ -18874,7 +19599,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.91
   },
   {
     "id": "MP-3018386-2",
@@ -18900,7 +19626,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.87
   },
   {
     "id": "MP-3018387-2",
@@ -18926,7 +19653,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.15
   },
   {
     "id": "MP-3018388-2",
@@ -18952,7 +19680,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.48
   },
   {
     "id": "MP-3019303-2",
@@ -18978,7 +19707,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.81
   },
   {
     "id": "MP-3019087-2",
@@ -19004,7 +19734,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.82
   },
   {
     "id": "MP-3019100-2",
@@ -19030,7 +19761,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.8
   },
   {
     "id": "MP-3019642-2",
@@ -19056,7 +19788,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.24
   },
   {
     "id": "MP-3019088-2",
@@ -19082,7 +19815,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 13.15
   },
   {
     "id": "MP-3019097-2",
@@ -19108,7 +19842,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.82
   },
   {
     "id": "MP-3019071-2",
@@ -19134,7 +19869,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.55
   },
   {
     "id": "MP-3019079-2",
@@ -19160,7 +19896,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.09
   },
   {
     "id": "MP-3019093-2",
@@ -19186,7 +19923,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.4
   },
   {
     "id": "MP-3019090-2",
@@ -19212,7 +19950,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.74
   },
   {
     "id": "MP-3019073-2",
@@ -19238,7 +19977,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.15
   },
   {
     "id": "MP-3019095-2",
@@ -19264,7 +20004,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.88
   },
   {
     "id": "MP-3019103-2",
@@ -19290,7 +20031,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.49
   },
   {
     "id": "MP-3019080-2",
@@ -19316,7 +20058,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.51
   },
   {
     "id": "MP-3019078-2",
@@ -19342,7 +20085,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.13
   },
   {
     "id": "MP-3019076-2",
@@ -19368,7 +20112,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.65
   },
   {
     "id": "MP-3019099-2",
@@ -19394,7 +20139,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.43
   },
   {
     "id": "MP-3019075-2",
@@ -19420,7 +20166,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.1
   },
   {
     "id": "MP-3019092-2",
@@ -19446,7 +20193,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.21
   },
   {
     "id": "MP-3019101-2",
@@ -19472,7 +20220,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.33
   },
   {
     "id": "MP-3019085-2",
@@ -19498,7 +20247,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.2
   },
   {
     "id": "MP-3019077-2",
@@ -19524,7 +20274,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.54
   },
   {
     "id": "MP-3019091-2",
@@ -19550,7 +20301,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.2
   },
   {
     "id": "MP-3019089-2",
@@ -19576,7 +20328,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.83
   },
   {
     "id": "MP-3019096-2",
@@ -19602,7 +20355,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.37
   },
   {
     "id": "MP-3019104-2",
@@ -19628,7 +20382,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.22
   },
   {
     "id": "MP-3019082-2",
@@ -19654,7 +20409,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.55
   },
   {
     "id": "MP-3019084-2",
@@ -19680,7 +20436,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.46
   },
   {
     "id": "MP-3019106-2",
@@ -19706,7 +20463,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.11
   },
   {
     "id": "MP-3019102-2",
@@ -19732,7 +20490,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.46
   },
   {
     "id": "MP-3019105-2",
@@ -19758,7 +20517,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.77
   },
   {
     "id": "MP-3019094-2",
@@ -19784,7 +20544,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.88
   },
   {
     "id": "MP-3019098-2",
@@ -19810,7 +20571,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.34
   },
   {
     "id": "MP-3019072-2",
@@ -19836,7 +20598,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.04
   },
   {
     "id": "MP-3019086-2",
@@ -19862,7 +20625,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.93
   },
   {
     "id": "MP-3035703-2",
@@ -19888,7 +20652,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.51
   },
   {
     "id": "MP-3019074-2",
@@ -19914,7 +20679,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.36
   },
   {
     "id": "MP-3059947-2",
@@ -19940,7 +20706,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.61
   },
   {
     "id": "MP-3017432-2",
@@ -19966,7 +20733,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.27
   },
   {
     "id": "MP-3019107-2",
@@ -19992,7 +20760,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.01
   },
   {
     "id": "MP-3019108-2",
@@ -20018,7 +20787,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.29
   },
   {
     "id": "MP-3019109-2",
@@ -20044,7 +20814,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.65
   },
   {
     "id": "MP-3019110-2",
@@ -20070,7 +20841,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.02
   },
   {
     "id": "MP-3017433-2",
@@ -20096,7 +20868,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.9
   },
   {
     "id": "MP-3017373-2",
@@ -20122,7 +20895,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.19
   },
   {
     "id": "MP-3017434-2",
@@ -20148,7 +20922,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.16
   },
   {
     "id": "MP-3017435-2",
@@ -20174,7 +20949,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.93
   },
   {
     "id": "MP-3017436-2",
@@ -20200,7 +20976,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.26
   },
   {
     "id": "MP-3017437-2",
@@ -20226,7 +21003,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.74
   },
   {
     "id": "MP-3017438-2",
@@ -20252,7 +21030,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.08
   },
   {
     "id": "MP-3017439-2",
@@ -20278,7 +21057,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.94
   },
   {
     "id": "MP-3017440-2",
@@ -20304,7 +21084,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.08
   },
   {
     "id": "MP-3018389-2",
@@ -20330,7 +21111,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.92
   },
   {
     "id": "MP-3018390-2",
@@ -20356,7 +21138,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.11
   },
   {
     "id": "MP-3019121-2",
@@ -20382,7 +21165,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.46
   },
   {
     "id": "MP-3019118-2",
@@ -20408,7 +21192,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.2
   },
   {
     "id": "MP-3019113-2",
@@ -20434,7 +21219,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.7
   },
   {
     "id": "MP-3019120-2",
@@ -20460,7 +21246,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.53
   },
   {
     "id": "MP-3019114-2",
@@ -20486,7 +21273,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.44
   },
   {
     "id": "MP-3019119-2",
@@ -20512,7 +21300,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.61
   },
   {
     "id": "MP-3019116-2",
@@ -20538,7 +21327,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.97
   },
   {
     "id": "MP-3019117-2",
@@ -20564,7 +21354,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.7
   },
   {
     "id": "MP-3019115-2",
@@ -20590,7 +21381,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.62
   },
   {
     "id": "MP-3019111-2",
@@ -20616,7 +21408,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.48
   },
   {
     "id": "MP-3019112-2",
@@ -20642,7 +21435,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.62
   },
   {
     "id": "MP-3019122-2",
@@ -20668,7 +21462,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.59
   },
   {
     "id": "MP-3017448-2",
@@ -20694,7 +21489,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.71
   },
   {
     "id": "MP-3017450-2",
@@ -20720,7 +21516,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.17
   },
   {
     "id": "MP-3017451-2",
@@ -20746,7 +21543,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.64
   },
   {
     "id": "MP-3017452-2",
@@ -20772,7 +21570,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.66
   },
   {
     "id": "MP-3017453-2",
@@ -20798,7 +21597,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017454-2",
@@ -20824,7 +21624,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.09
   },
   {
     "id": "MP-3018391-2",
@@ -20850,7 +21651,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.63
   },
   {
     "id": "MP-3019137-2",
@@ -20876,7 +21678,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.64
   },
   {
     "id": "MP-3019145-2",
@@ -20902,7 +21705,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.8
   },
   {
     "id": "MP-3019139-2",
@@ -20928,7 +21732,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.46
   },
   {
     "id": "MP-3019133-2",
@@ -20954,7 +21759,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.48
   },
   {
     "id": "MP-3019144-2",
@@ -20980,7 +21786,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.34
   },
   {
     "id": "MP-3019131-2",
@@ -21006,7 +21813,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.32
   },
   {
     "id": "MP-3019136-2",
@@ -21032,7 +21840,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.39
   },
   {
     "id": "MP-3019140-2",
@@ -21058,7 +21867,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.52
   },
   {
     "id": "MP-3019141-2",
@@ -21084,7 +21894,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.17
   },
   {
     "id": "MP-3019130-2",
@@ -21110,7 +21921,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.15
   },
   {
     "id": "MP-3019134-2",
@@ -21136,7 +21948,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.47
   },
   {
     "id": "MP-3019138-2",
@@ -21162,7 +21975,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.49
   },
   {
     "id": "MP-3019143-2",
@@ -21188,7 +22002,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.98
   },
   {
     "id": "MP-3019132-2",
@@ -21214,7 +22029,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.29
   },
   {
     "id": "MP-3019142-2",
@@ -21240,7 +22056,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.29
   },
   {
     "id": "MP-3019135-2",
@@ -21266,7 +22083,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.17
   },
   {
     "id": "MP-3019129-2",
@@ -21292,7 +22110,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.13
   },
   {
     "id": "MP-3019128-2",
@@ -21318,7 +22137,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 12.22
   },
   {
     "id": "MP-3059984-2",
@@ -21344,7 +22164,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.56
   },
   {
     "id": "MP-3017174-2",
@@ -21370,7 +22191,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.31
   },
   {
     "id": "MP-3017175-2",
@@ -21396,7 +22218,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.71
   },
   {
     "id": "MP-3017455-2",
@@ -21422,7 +22245,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.73
   },
   {
     "id": "MP-3017456-2",
@@ -21448,7 +22272,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.78
   },
   {
     "id": "MP-3017457-2",
@@ -21474,7 +22299,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.22
   },
   {
     "id": "MP-3017458-2",
@@ -21500,7 +22326,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.42
   },
   {
     "id": "MP-3018392-2",
@@ -21526,7 +22353,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.94
   },
   {
     "id": "MP-3018393-2",
@@ -21552,7 +22380,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.28
   },
   {
     "id": "MP-3018394-2",
@@ -21578,7 +22407,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.24
   },
   {
     "id": "MP-3018395-2",
@@ -21604,7 +22434,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.81
   },
   {
     "id": "MP-3018396-2",
@@ -21630,7 +22461,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.63
   },
   {
     "id": "MP-3019242-2",
@@ -21656,7 +22488,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.2
   },
   {
     "id": "MP-3019148-2",
@@ -21682,7 +22515,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.61
   },
   {
     "id": "MP-3019164-2",
@@ -21708,7 +22542,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.83
   },
   {
     "id": "MP-3019994-2",
@@ -21734,7 +22569,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.58
   },
   {
     "id": "MP-3019168-2",
@@ -21760,7 +22596,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.85
   },
   {
     "id": "MP-3019163-2",
@@ -21786,7 +22623,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.57
   },
   {
     "id": "MP-3019155-2",
@@ -21812,7 +22650,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.31
   },
   {
     "id": "MP-3019149-2",
@@ -21838,7 +22677,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.43
   },
   {
     "id": "MP-3019154-2",
@@ -21864,7 +22704,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.01
   },
   {
     "id": "MP-3019166-2",
@@ -21890,7 +22731,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.07
   },
   {
     "id": "MP-3019161-2",
@@ -21916,7 +22758,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.03
   },
   {
     "id": "MP-3021882-2",
@@ -21942,7 +22785,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.2
   },
   {
     "id": "MP-3019169-2",
@@ -21968,7 +22812,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.96
   },
   {
     "id": "MP-3019643-2",
@@ -21994,7 +22839,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.56
   },
   {
     "id": "MP-3019153-2",
@@ -22020,7 +22866,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.86
   },
   {
     "id": "MP-3019146-2",
@@ -22046,7 +22893,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.45
   },
   {
     "id": "MP-3019160-2",
@@ -22072,7 +22920,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.28
   },
   {
     "id": "MP-3019165-2",
@@ -22098,7 +22947,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.43
   },
   {
     "id": "MP-3019152-2",
@@ -22124,7 +22974,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.09
   },
   {
     "id": "MP-3019151-2",
@@ -22150,7 +23001,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.64
   },
   {
     "id": "MP-3019157-2",
@@ -22176,7 +23028,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.35
   },
   {
     "id": "MP-3019158-2",
@@ -22202,7 +23055,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.53
   },
   {
     "id": "MP-3019147-2",
@@ -22228,7 +23082,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.03
   },
   {
     "id": "MP-3019156-2",
@@ -22254,7 +23109,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.68
   },
   {
     "id": "MP-3019243-2",
@@ -22280,7 +23136,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.45
   },
   {
     "id": "MP-3019167-2",
@@ -22306,7 +23163,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.64
   },
   {
     "id": "MP-3019150-2",
@@ -22332,7 +23190,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.7
   },
   {
     "id": "MP-3019162-2",
@@ -22358,7 +23217,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 11.14
   },
   {
     "id": "MP-3019159-2",
@@ -22384,7 +23244,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.19
   },
   {
     "id": "MP-3017459-2",
@@ -22410,7 +23271,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.69
   },
   {
     "id": "MP-3017460-2",
@@ -22436,7 +23298,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.45
   },
   {
     "id": "MP-3018397-2",
@@ -22462,7 +23325,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.48
   },
   {
     "id": "MP-3018398-2",
@@ -22488,7 +23352,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.82
   },
   {
     "id": "MP-3018399-2",
@@ -22514,7 +23379,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.68
   },
   {
     "id": "MP-3019178-2",
@@ -22540,7 +23406,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.16
   },
   {
     "id": "MP-3019175-2",
@@ -22566,7 +23433,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.35
   },
   {
     "id": "MP-3019180-2",
@@ -22592,7 +23460,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.02
   },
   {
     "id": "MP-3019183-2",
@@ -22618,7 +23487,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.17
   },
   {
     "id": "MP-3019176-2",
@@ -22644,7 +23514,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.7
   },
   {
     "id": "MP-3019173-2",
@@ -22670,7 +23541,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.32
   },
   {
     "id": "MP-3019182-2",
@@ -22696,7 +23568,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.48
   },
   {
     "id": "MP-3019172-2",
@@ -22722,7 +23595,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 14.75
   },
   {
     "id": "MP-3019181-2",
@@ -22748,7 +23622,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.85
   },
   {
     "id": "MP-3019179-2",
@@ -22774,7 +23649,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.03
   },
   {
     "id": "MP-3019170-2",
@@ -22800,7 +23676,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.46
   },
   {
     "id": "MP-3019177-2",
@@ -22826,7 +23703,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.69
   },
   {
     "id": "MP-3019171-2",
@@ -22852,7 +23730,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.52
   },
   {
     "id": "MP-3039176-2",
@@ -22878,7 +23757,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3018400-2",
@@ -22904,7 +23784,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.33
   },
   {
     "id": "MP-3019184-2",
@@ -22930,7 +23811,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.03
   },
   {
     "id": "MP-3017166-2",
@@ -22956,7 +23838,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.35
   },
   {
     "id": "MP-3017461-2",
@@ -22982,7 +23865,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.86
   },
   {
     "id": "MP-3017462-2",
@@ -23008,7 +23892,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.98
   },
   {
     "id": "MP-3017463-2",
@@ -23034,7 +23919,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.15
   },
   {
     "id": "MP-3017464-2",
@@ -23060,7 +23946,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.28
   },
   {
     "id": "MP-3017465-2",
@@ -23086,7 +23973,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.33
   },
   {
     "id": "MP-3017466-2",
@@ -23112,7 +24000,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.7
   },
   {
     "id": "MP-3017467-2",
@@ -23138,7 +24027,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.41
   },
   {
     "id": "MP-3017468-2",
@@ -23164,7 +24054,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.75
   },
   {
     "id": "MP-3017469-2",
@@ -23190,7 +24081,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.75
   },
   {
     "id": "MP-3017470-2",
@@ -23216,7 +24108,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.86
   },
   {
     "id": "MP-3017471-2",
@@ -23242,7 +24135,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.33
   },
   {
     "id": "MP-3017472-2",
@@ -23268,7 +24162,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.15
   },
   {
     "id": "MP-3017473-2",
@@ -23294,7 +24189,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.89
   },
   {
     "id": "MP-3017474-2",
@@ -23320,7 +24216,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017475-2",
@@ -23346,7 +24243,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.78
   },
   {
     "id": "MP-3017476-2",
@@ -23372,7 +24270,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.21
   },
   {
     "id": "MP-3018401-2",
@@ -23398,7 +24297,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.79
   },
   {
     "id": "MP-3018402-2",
@@ -23424,7 +24324,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.68
   },
   {
     "id": "MP-3018403-2",
@@ -23450,7 +24351,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.71
   },
   {
     "id": "MP-3018404-2",
@@ -23476,7 +24378,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.43
   },
   {
     "id": "MP-3018405-2",
@@ -23502,7 +24405,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.26
   },
   {
     "id": "MP-3018406-2",
@@ -23528,7 +24432,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.67
   },
   {
     "id": "MP-3018407-2",
@@ -23554,7 +24459,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.22
   },
   {
     "id": "MP-3018408-2",
@@ -23580,7 +24486,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.59
   },
   {
     "id": "MP-3018409-2",
@@ -23606,7 +24513,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.21
   },
   {
     "id": "MP-3018410-2",
@@ -23632,7 +24540,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.1
   },
   {
     "id": "MP-3018411-2",
@@ -23658,7 +24567,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.09
   },
   {
     "id": "MP-3018412-2",
@@ -23684,7 +24594,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.88
   },
   {
     "id": "MP-3018413-2",
@@ -23710,7 +24621,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.95
   },
   {
     "id": "MP-3019311-2",
@@ -23736,7 +24648,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.13
   },
   {
     "id": "MP-3019222-2",
@@ -23762,7 +24675,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.22
   },
   {
     "id": "MP-3019211-2",
@@ -23788,7 +24702,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.3
   },
   {
     "id": "MP-3019196-2",
@@ -23814,7 +24729,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.2
   },
   {
     "id": "MP-3019217-2",
@@ -23840,7 +24756,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.75
   },
   {
     "id": "MP-3019205-2",
@@ -23866,7 +24783,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.11
   },
   {
     "id": "MP-3019201-2",
@@ -23892,7 +24810,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.35
   },
   {
     "id": "MP-3019224-2",
@@ -23918,7 +24837,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.48
   },
   {
     "id": "MP-3019528-2",
@@ -23944,7 +24864,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.13
   },
   {
     "id": "MP-3019199-2",
@@ -23970,7 +24891,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.34
   },
   {
     "id": "MP-3019241-2",
@@ -23996,7 +24918,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.57
   },
   {
     "id": "MP-3019193-2",
@@ -24022,7 +24945,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.38
   },
   {
     "id": "MP-3019220-2",
@@ -24048,7 +24972,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.03
   },
   {
     "id": "MP-3019244-2",
@@ -24074,7 +24999,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.55
   },
   {
     "id": "MP-3019228-2",
@@ -24100,7 +25026,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.67
   },
   {
     "id": "MP-3019198-2",
@@ -24126,7 +25053,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.73
   },
   {
     "id": "MP-3019203-2",
@@ -24152,7 +25080,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.0
   },
   {
     "id": "MP-3019195-2",
@@ -24178,7 +25107,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.71
   },
   {
     "id": "MP-3019209-2",
@@ -24204,7 +25134,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.03
   },
   {
     "id": "MP-3019640-2",
@@ -24230,7 +25161,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.2
   },
   {
     "id": "MP-3019214-2",
@@ -24256,7 +25188,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.71
   },
   {
     "id": "MP-3019530-2",
@@ -24282,7 +25215,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.85
   },
   {
     "id": "MP-3019223-2",
@@ -24308,7 +25242,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.06
   },
   {
     "id": "MP-3019200-2",
@@ -24334,7 +25269,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019215-2",
@@ -24360,7 +25296,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.52
   },
   {
     "id": "MP-3019207-2",
@@ -24386,7 +25323,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.43
   },
   {
     "id": "MP-3019206-2",
@@ -24412,7 +25350,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.41
   },
   {
     "id": "MP-3019213-2",
@@ -24438,7 +25377,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.9
   },
   {
     "id": "MP-3019221-2",
@@ -24464,7 +25404,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.2
   },
   {
     "id": "MP-3019226-2",
@@ -24490,7 +25431,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.41
   },
   {
     "id": "MP-3019190-2",
@@ -24516,7 +25458,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.5
   },
   {
     "id": "MP-3019218-2",
@@ -24542,7 +25485,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.76
   },
   {
     "id": "MP-3019219-2",
@@ -24568,7 +25512,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.76
   },
   {
     "id": "MP-3019227-2",
@@ -24594,7 +25539,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.58
   },
   {
     "id": "MP-3019210-2",
@@ -24620,7 +25566,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.95
   },
   {
     "id": "MP-3019208-2",
@@ -24646,7 +25593,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.96
   },
   {
     "id": "MP-3019188-2",
@@ -24672,7 +25620,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.7
   },
   {
     "id": "MP-3019186-2",
@@ -24698,7 +25647,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.27
   },
   {
     "id": "MP-3019212-2",
@@ -24724,7 +25674,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.27
   },
   {
     "id": "MP-3019191-2",
@@ -24750,7 +25701,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.56
   },
   {
     "id": "MP-3019189-2",
@@ -24776,7 +25728,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.99
   },
   {
     "id": "MP-3019185-2",
@@ -24802,7 +25755,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.31
   },
   {
     "id": "MP-3019197-2",
@@ -24828,7 +25782,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.28
   },
   {
     "id": "MP-3019216-2",
@@ -24854,7 +25809,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.25
   },
   {
     "id": "MP-3019187-2",
@@ -24880,7 +25836,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.83
   },
   {
     "id": "MP-3019225-2",
@@ -24906,7 +25863,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.63
   },
   {
     "id": "MP-3019194-2",
@@ -24932,7 +25890,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.48
   },
   {
     "id": "MP-3019204-2",
@@ -24958,7 +25917,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.22
   },
   {
     "id": "MP-3019202-2",
@@ -24984,7 +25944,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.1
   },
   {
     "id": "MP-3019192-2",
@@ -25010,7 +25971,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.01
   },
   {
     "id": "MP-3059268-2",
@@ -25036,7 +25998,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3060357-2",
@@ -25062,7 +26025,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017176-2",
@@ -25088,7 +26052,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.09
   },
   {
     "id": "MP-3018414-2",
@@ -25114,7 +26079,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 14.09
   },
   {
     "id": "MP-3018415-2",
@@ -25140,7 +26106,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.01
   },
   {
     "id": "MP-3019230-2",
@@ -25166,7 +26133,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.5
   },
   {
     "id": "MP-3019229-2",
@@ -25192,7 +26160,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.87
   },
   {
     "id": "MP-3017477-2",
@@ -25218,7 +26187,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.99
   },
   {
     "id": "MP-3017478-2",
@@ -25244,7 +26214,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.74
   },
   {
     "id": "MP-3017479-2",
@@ -25270,7 +26241,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.08
   },
   {
     "id": "MP-3017480-2",
@@ -25296,7 +26268,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.31
   },
   {
     "id": "MP-3017481-2",
@@ -25322,7 +26295,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.63
   },
   {
     "id": "MP-3017482-2",
@@ -25348,7 +26322,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.77
   },
   {
     "id": "MP-3017483-2",
@@ -25374,7 +26349,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.11
   },
   {
     "id": "MP-3017484-2",
@@ -25400,7 +26376,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.03
   },
   {
     "id": "MP-3017485-2",
@@ -25426,7 +26403,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.35
   },
   {
     "id": "MP-3017486-2",
@@ -25452,7 +26430,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.04
   },
   {
     "id": "MP-3017487-2",
@@ -25478,7 +26457,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.81
   },
   {
     "id": "MP-3017488-2",
@@ -25504,7 +26484,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.3
   },
   {
     "id": "MP-3017489-2",
@@ -25530,7 +26511,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.83
   },
   {
     "id": "MP-3017490-2",
@@ -25556,7 +26538,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.36
   },
   {
     "id": "MP-3017491-2",
@@ -25582,7 +26565,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.27
   },
   {
     "id": "MP-3017492-2",
@@ -25608,7 +26592,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.22
   },
   {
     "id": "MP-3017493-2",
@@ -25634,7 +26619,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.28
   },
   {
     "id": "MP-3017494-2",
@@ -25660,7 +26646,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.17
   },
   {
     "id": "MP-3017495-2",
@@ -25686,7 +26673,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.02
   },
   {
     "id": "MP-3017496-2",
@@ -25712,7 +26700,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.47
   },
   {
     "id": "MP-3018416-2",
@@ -25738,7 +26727,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.83
   },
   {
     "id": "MP-3018417-2",
@@ -25764,7 +26754,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.12
   },
   {
     "id": "MP-3018418-2",
@@ -25790,7 +26781,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 12.58
   },
   {
     "id": "MP-3018419-2",
@@ -25816,7 +26808,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3018420-2",
@@ -25842,7 +26835,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.07
   },
   {
     "id": "MP-3018421-2",
@@ -25868,7 +26862,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.74
   },
   {
     "id": "MP-3018422-2",
@@ -25894,7 +26889,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.86
   },
   {
     "id": "MP-3019300-2",
@@ -25920,7 +26916,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 15.7
   },
   {
     "id": "MP-3019301-2",
@@ -25946,7 +26943,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.74
   },
   {
     "id": "MP-3019231-2",
@@ -25972,7 +26970,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.43
   },
   {
     "id": "MP-3019237-2",
@@ -25998,7 +26997,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.06
   },
   {
     "id": "MP-3019335-2",
@@ -26024,7 +27024,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.09
   },
   {
     "id": "MP-3019233-2",
@@ -26050,7 +27051,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.37
   },
   {
     "id": "MP-3019373-2",
@@ -26076,7 +27078,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.23
   },
   {
     "id": "MP-3019641-2",
@@ -26102,7 +27105,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.2
   },
   {
     "id": "MP-3019236-2",
@@ -26128,7 +27132,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.12
   },
   {
     "id": "MP-3019232-2",
@@ -26154,7 +27159,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.43
   },
   {
     "id": "MP-3019299-2",
@@ -26180,7 +27186,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.91
   },
   {
     "id": "MP-3019533-2",
@@ -26206,7 +27213,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.79
   },
   {
     "id": "MP-3019235-2",
@@ -26232,7 +27240,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.46
   },
   {
     "id": "MP-3019531-2",
@@ -26258,7 +27267,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 12.77
   },
   {
     "id": "MP-3019234-2",
@@ -26284,7 +27294,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.14
   },
   {
     "id": "MP-3042276-2",
@@ -26303,14 +27314,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 29,
     "completionRate": 0.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bishnu-pada-ray@sansad.nic.in",
     "phone": "+91 98765 11012",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042278-2",
@@ -26329,14 +27341,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 31,
     "worksRecommended": 161,
     "completionRate": 19.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.c-m-ramesh@sansad.nic.in",
     "phone": "+91 98765 11013",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.91
   },
   {
     "id": "MP-3018943-2",
@@ -26355,14 +27368,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 58,
     "worksRecommended": 325,
     "completionRate": 17.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "YSRCP",
+    "partyHi": "\u0935\u093e\u0908\u090f\u0938\u0906\u0930\u0938\u0940\u092a\u0940",
     "email": "mp.y-s-avinash-reddy@sansad.nic.in",
     "phone": "+91 98765 11014",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.94
   },
   {
     "id": "MP-3042279-2",
@@ -26381,14 +27395,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 46,
     "worksRecommended": 176,
     "completionRate": 26.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.ambica-g-lakshminarayana-valmiki@sansad.nic.in",
     "phone": "+91 98765 11015",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.08
   },
   {
     "id": "MP-3042280-2",
@@ -26407,14 +27422,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 28,
     "worksRecommended": 142,
     "completionRate": 19.7,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "YSRCP",
+    "partyHi": "\u0935\u093e\u0908\u090f\u0938\u0906\u0930\u0938\u0940\u092a\u0940",
     "email": "mp.gumma-thanuja-rani@sansad.nic.in",
     "phone": "+91 98765 11016",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.94
   },
   {
     "id": "MP-3042281-2",
@@ -26433,14 +27449,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 6,
     "worksRecommended": 156,
     "completionRate": 3.8,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.krishna-prasad-tenneti@sansad.nic.in",
     "phone": "+91 98765 11017",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.29
   },
   {
     "id": "MP-3042282-2",
@@ -26459,14 +27476,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 136,
     "worksRecommended": 323,
     "completionRate": 42.1,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.daggumalla-prasada-rao@sansad.nic.in",
     "phone": "+91 98765 11018",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.86
   },
   {
     "id": "MP-3042283-2",
@@ -26485,14 +27503,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 67,
     "worksRecommended": 141,
     "completionRate": 47.5,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.putta-mahesh-kumar@sansad.nic.in",
     "phone": "+91 98765 11019",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.62
   },
   {
     "id": "MP-3042284-2",
@@ -26511,14 +27530,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 16,
     "worksRecommended": 98,
     "completionRate": 16.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.dr-chandra-sekhar-pemmasani@sansad.nic.in",
     "phone": "+91 98765 11020",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.16
   },
   {
     "id": "MP-3042285-2",
@@ -26537,14 +27557,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 56,
     "worksRecommended": 124,
     "completionRate": 45.2,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.b-k-parthasarathi@sansad.nic.in",
     "phone": "+91 98765 11021",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.39
   },
   {
     "id": "MP-3042286-2",
@@ -26563,14 +27584,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 6,
     "worksRecommended": 22,
     "completionRate": 27.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "JSP",
+    "partyHi": "\u091c\u0928\u0938\u0947\u0928\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
     "email": "mp.tangella-uday-srinivas@sansad.nic.in",
     "phone": "+91 98765 11022",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.38
   },
   {
     "id": "MP-3042287-2",
@@ -26589,14 +27611,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 144,
     "worksRecommended": 221,
     "completionRate": 65.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.bastipati-nagaraju-panchalingala@sansad.nic.in",
     "phone": "+91 98765 11023",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.35
   },
   {
     "id": "MP-3042288-2",
@@ -26615,14 +27638,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 1,
     "completionRate": 0.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bhupathiraju-srinivasa-varma@sansad.nic.in",
     "phone": "+91 98765 11024",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042290-2",
@@ -26641,14 +27665,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 138,
     "worksRecommended": 205,
     "completionRate": 67.3,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.prabhakar-reddy-vemireddy@sansad.nic.in",
     "phone": "+91 98765 11025",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.61
   },
   {
     "id": "MP-3042292-2",
@@ -26667,14 +27692,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 41,
     "completionRate": 2.4,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.sivanath-kesineni@sansad.nic.in",
     "phone": "+91 98765 11026",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.33
   },
   {
     "id": "MP-3042293-2",
@@ -26693,14 +27719,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 45,
     "completionRate": 0.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.sribharat-mathukumli@sansad.nic.in",
     "phone": "+91 98765 11027",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042294-2",
@@ -26719,14 +27746,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 36,
     "worksRecommended": 147,
     "completionRate": 24.5,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.appalanaidu-kalisetti@sansad.nic.in",
     "phone": "+91 98765 11028",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.39
   },
   {
     "id": "MP-3018941-2",
@@ -26745,14 +27773,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 195,
     "worksRecommended": 551,
     "completionRate": 35.4,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "YSRCP",
+    "partyHi": "\u0935\u093e\u0908\u090f\u0938\u0906\u0930\u0938\u0940\u092a\u0940",
     "email": "mp.midhun-reddy@sansad.nic.in",
     "phone": "+91 98765 11029",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.04
   },
   {
     "id": "MP-3018342-2",
@@ -26771,14 +27800,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 9,
     "worksRecommended": 72,
     "completionRate": 12.5,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "JSP",
+    "partyHi": "\u091c\u0928\u0938\u0947\u0928\u093e \u092a\u093e\u0930\u094d\u091f\u0940",
     "email": "mp.balashowry-vallabbhaneni@sansad.nic.in",
     "phone": "+91 98765 11030",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.33
   },
   {
     "id": "MP-3018939-2",
@@ -26797,14 +27827,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 78,
     "worksRecommended": 253,
     "completionRate": 30.8,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.kinjarapu-ram-mohan-naidu@sansad.nic.in",
     "phone": "+91 98765 11031",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.22
   },
   {
     "id": "MP-3018946-2",
@@ -26823,14 +27854,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 122,
     "worksRecommended": 401,
     "completionRate": 30.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "YSRCP",
+    "partyHi": "\u0935\u093e\u0908\u090f\u0938\u0906\u0930\u0938\u0940\u092a\u0940",
     "email": "mp.maddila-gurumoorthy@sansad.nic.in",
     "phone": "+91 98765 11032",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.97
   },
   {
     "id": "MP-3018945-2",
@@ -26849,14 +27881,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 132,
     "completionRate": 0.8,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.lavu-sri-krishna-devarayalu@sansad.nic.in",
     "phone": "+91 98765 11033",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.16
   },
   {
     "id": "MP-3043486-2",
@@ -26875,14 +27908,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 46,
     "completionRate": 6.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.daggubati-purandeshwari@sansad.nic.in",
     "phone": "+91 98765 11034",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.5
   },
   {
     "id": "MP-3043545-2",
@@ -26901,14 +27935,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 70,
     "worksRecommended": 225,
     "completionRate": 31.1,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.dr-byreddy-shabari@sansad.nic.in",
     "phone": "+91 98765 11035",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.18
   },
   {
     "id": "MP-3018340-2",
@@ -26927,14 +27962,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 33,
     "completionRate": 6.1,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TDP",
+    "partyHi": "\u091f\u0940\u0921\u0940\u092a\u0940",
     "email": "mp.magunta-sreenivasulu-reddy@sansad.nic.in",
     "phone": "+91 98765 11036",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.25
   },
   {
     "id": "MP-3018353-2",
@@ -26953,14 +27989,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 81,
     "worksRecommended": 288,
     "completionRate": 28.1,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ashok-kumar-yadav@sansad.nic.in",
     "phone": "+91 98765 11037",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.71
   },
   {
     "id": "MP-3017381-2",
@@ -26979,14 +28016,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 38,
     "worksRecommended": 78,
     "completionRate": 48.7,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-janardan-singh-sigriwal@sansad.nic.in",
     "phone": "+91 98765 11038",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.14
   },
   {
     "id": "MP-3018357-2",
@@ -27005,14 +28043,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 1,
     "completionRate": 0.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.rajiv-ranjan-lalan-singh@sansad.nic.in",
     "phone": "+91 98765 11039",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.14
   },
   {
     "id": "MP-3018354-2",
@@ -27031,14 +28070,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 104,
     "worksRecommended": 185,
     "completionRate": 56.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.kaushalendra-kumar@sansad.nic.in",
     "phone": "+91 98765 11040",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.37
   },
   {
     "id": "MP-3018969-2",
@@ -27057,14 +28097,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 68,
     "worksRecommended": 124,
     "completionRate": 54.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.radha-mohan-singh@sansad.nic.in",
     "phone": "+91 98765 11041",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.99
   },
   {
     "id": "MP-3018359-2",
@@ -27083,14 +28124,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 46,
     "worksRecommended": 131,
     "completionRate": 35.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dileshwar-kamait@sansad.nic.in",
     "phone": "+91 98765 11042",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.06
   },
   {
     "id": "MP-3017382-2",
@@ -27109,14 +28151,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 30,
     "worksRecommended": 59,
     "completionRate": 50.8,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "LJP(RV)",
+    "partyHi": "\u0932\u094b\u091c\u092a\u093e(\u0930\u093e)",
     "email": "mp.smt-veena-devi@sansad.nic.in",
     "phone": "+91 98765 11043",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.4
   },
   {
     "id": "MP-3018350-2",
@@ -27135,14 +28178,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 43,
     "worksRecommended": 170,
     "completionRate": 25.3,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.alok-kumar-suman@sansad.nic.in",
     "phone": "+91 98765 11044",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.27
   },
   {
     "id": "MP-3042310-2",
@@ -27168,7 +28212,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.48
   },
   {
     "id": "MP-3043221-2",
@@ -27187,14 +28232,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 146,
     "worksRecommended": 310,
     "completionRate": 47.1,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "RJD",
+    "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.surendra-prasad-yadav@sansad.nic.in",
     "phone": "+91 98765 11046",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.89
   },
   {
     "id": "MP-3018972-2",
@@ -27213,14 +28259,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 83,
     "worksRecommended": 258,
     "completionRate": 32.2,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sunil-kumar@sansad.nic.in",
     "phone": "+91 98765 11047",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.16
   },
   {
     "id": "MP-3018960-2",
@@ -27239,14 +28286,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 0,
     "completionRate": 0.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sanjay-jaiswal@sansad.nic.in",
     "phone": "+91 98765 11048",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.9
   },
   {
     "id": "MP-3021513-2",
@@ -27265,14 +28313,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 41,
     "worksRecommended": 147,
     "completionRate": 27.9,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.nityanand-rai@sansad.nic.in",
     "phone": "+91 98765 11049",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.65
   },
   {
     "id": "MP-3018961-2",
@@ -27291,14 +28340,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 59,
     "worksRecommended": 179,
     "completionRate": 33.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mr-gopal-jee-thakur@sansad.nic.in",
     "phone": "+91 98765 11050",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.87
   },
   {
     "id": "MP-3018979-2",
@@ -27317,14 +28367,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 60,
     "worksRecommended": 85,
     "completionRate": 70.6,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ravi-shankar-prasad@sansad.nic.in",
     "phone": "+91 98765 11051",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": true,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.15
   },
   {
     "id": "MP-3044145-2",
@@ -27343,14 +28394,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 6,
     "worksRecommended": 96,
     "completionRate": 6.2,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vivek-thakur@sansad.nic.in",
     "phone": "+91 98765 11052",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.06
   },
   {
     "id": "MP-3044146-2",
@@ -27369,14 +28421,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 44,
     "worksRecommended": 123,
     "completionRate": 35.8,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "JD(U)",
+    "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.lovely-anand@sansad.nic.in",
     "phone": "+91 98765 11053",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.52
   },
   {
     "id": "MP-3018356-2",
@@ -27395,14 +28448,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 12,
     "completionRate": 0.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajiv-pratap-rudy@sansad.nic.in",
     "phone": "+91 98765 11054",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.26
   },
   {
     "id": "MP-3042329-2",
@@ -27421,14 +28475,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 47,
     "worksRecommended": 136,
     "completionRate": 34.6,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.captain-viriato-fernandes@sansad.nic.in",
     "phone": "+91 98765 11055",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.42
   },
   {
     "id": "MP-3042330-2",
@@ -27447,14 +28502,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 209,
     "completionRate": 1.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dineshbhai-makwana@sansad.nic.in",
     "phone": "+91 98765 11056",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.81
   },
   {
     "id": "MP-3042332-2",
@@ -27473,14 +28529,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 150,
     "worksRecommended": 635,
     "completionRate": 23.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.haribhai-patel@sansad.nic.in",
     "phone": "+91 98765 11057",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.79
   },
   {
     "id": "MP-3042333-2",
@@ -27499,14 +28556,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 118,
     "worksRecommended": 539,
     "completionRate": 21.9,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajpalsinh-mahendrasinh-jadav@sansad.nic.in",
     "phone": "+91 98765 11058",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.83
   },
   {
     "id": "MP-3042334-2",
@@ -27525,14 +28583,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 105,
     "worksRecommended": 332,
     "completionRate": 31.6,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.parshottambhai-rupala@sansad.nic.in",
     "phone": "+91 98765 11059",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.78
   },
   {
     "id": "MP-3042335-2",
@@ -27551,14 +28610,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 107,
     "worksRecommended": 255,
     "completionRate": 42.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mukeshkumar-chandrakaant-dalal@sansad.nic.in",
     "phone": "+91 98765 11060",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.29
   },
   {
     "id": "MP-3042336-2",
@@ -27577,14 +28637,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 78,
     "worksRecommended": 218,
     "completionRate": 35.8,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-hemang-joshi@sansad.nic.in",
     "phone": "+91 98765 11061",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.48
   },
   {
     "id": "MP-3042337-2",
@@ -27610,7 +28671,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.24
   },
   {
     "id": "MP-3042331-2",
@@ -27629,14 +28691,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 116,
     "worksRecommended": 456,
     "completionRate": 25.4,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jashubhai-bhilubhai-rathva@sansad.nic.in",
     "phone": "+91 98765 11063",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.41
   },
   {
     "id": "MP-3019002-2",
@@ -27655,14 +28718,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 21,
     "worksRecommended": 239,
     "completionRate": 8.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.hasmukh-bhai-soma-bhai-patel@sansad.nic.in",
     "phone": "+91 98765 11064",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.39
   },
   {
     "id": "MP-3018995-2",
@@ -27681,14 +28745,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 226,
     "worksRecommended": 431,
     "completionRate": 52.4,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mansukhbhai-dhanjibhai-vasava@sansad.nic.in",
     "phone": "+91 98765 11065",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.88
   },
   {
     "id": "MP-3018994-2",
@@ -27707,14 +28772,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 98,
     "worksRecommended": 469,
     "completionRate": 20.9,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jaswantsinh-sumanbhai-bhabhor@sansad.nic.in",
     "phone": "+91 98765 11066",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.03
   },
   {
     "id": "MP-3017181-2",
@@ -27733,14 +28799,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 265,
     "worksRecommended": 797,
     "completionRate": 33.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.devusinh-jesingbhai-chauhan@sansad.nic.in",
     "phone": "+91 98765 11067",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.43
   },
   {
     "id": "MP-3018992-2",
@@ -27759,14 +28826,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 278,
     "worksRecommended": 413,
     "completionRate": 67.3,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.c-r-patil@sansad.nic.in",
     "phone": "+91 98765 11068",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.4
   },
   {
     "id": "MP-3018991-2",
@@ -27785,14 +28853,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 162,
     "worksRecommended": 344,
     "completionRate": 47.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bharatsinhji-shankarji-dabhi@sansad.nic.in",
     "phone": "+91 98765 11069",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.46
   },
   {
     "id": "MP-3018996-2",
@@ -27811,14 +28880,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 265,
     "worksRecommended": 560,
     "completionRate": 47.3,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mitesh-rameshbhai-bakabhai-patel@sansad.nic.in",
     "phone": "+91 98765 11070",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.68
   },
   {
     "id": "MP-3018999-2",
@@ -27844,7 +28914,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.99
   },
   {
     "id": "MP-3043220-2",
@@ -27870,7 +28941,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.61
   },
   {
     "id": "MP-3043222-2",
@@ -27889,14 +28961,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 130,
     "worksRecommended": 289,
     "completionRate": 45.0,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shobhanaben-mahendrasinh-baraiya@sansad.nic.in",
     "phone": "+91 98765 11073",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.34
   },
   {
     "id": "MP-3043225-2",
@@ -27915,14 +28988,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 192,
     "worksRecommended": 364,
     "completionRate": 52.7,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bharatbhai-manubhai-sutariya@sansad.nic.in",
     "phone": "+91 98765 11074",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.05
   },
   {
     "id": "MP-3043226-2",
@@ -27941,14 +29015,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 29,
     "worksRecommended": 85,
     "completionRate": 34.1,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.nimuben-jayantibhai-bambhaniya@sansad.nic.in",
     "phone": "+91 98765 11075",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.92
   },
   {
     "id": "MP-3043227-2",
@@ -27967,14 +29042,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 105,
     "worksRecommended": 211,
     "completionRate": 49.8,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.chandubhai-chhaganbhai-shihora@sansad.nic.in",
     "phone": "+91 98765 11076",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.98
   },
   {
     "id": "MP-3019001-2",
@@ -27993,14 +29069,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 101,
     "worksRecommended": 371,
     "completionRate": 27.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vinod-chavda@sansad.nic.in",
     "phone": "+91 98765 11077",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.02
   },
   {
     "id": "MP-3043487-2",
@@ -28019,14 +29096,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 81,
     "worksRecommended": 309,
     "completionRate": 26.2,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-mansukh-mandaviya@sansad.nic.in",
     "phone": "+91 98765 11078",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.76
   },
   {
     "id": "MP-3019005-2",
@@ -28045,14 +29123,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 62,
     "worksRecommended": 179,
     "completionRate": 34.6,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-poonamben-hematbhai-maadam@sansad.nic.in",
     "phone": "+91 98765 11079",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.99
   },
   {
     "id": "MP-3017388-2",
@@ -28078,7 +29157,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.76
   },
   {
     "id": "MP-3019034-2",
@@ -28097,14 +29177,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 92,
     "worksRecommended": 225,
     "completionRate": 40.9,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.parvatagouda-chandanagouda-gaddigoudar@sansad.nic.in",
     "phone": "+91 98765 11081",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.59
   },
   {
     "id": "MP-3017406-2",
@@ -28123,14 +29204,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 27,
     "worksRecommended": 138,
     "completionRate": 19.6,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-ls-tejasvi-surya@sansad.nic.in",
     "phone": "+91 98765 11082",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.52
   },
   {
     "id": "MP-3019039-2",
@@ -28149,14 +29231,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 26,
     "worksRecommended": 370,
     "completionRate": 7.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ramesh-chandappa-jigajinagi@sansad.nic.in",
     "phone": "+91 98765 11083",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.45
   },
   {
     "id": "MP-3019036-2",
@@ -28175,14 +29258,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 28,
     "worksRecommended": 204,
     "completionRate": 13.7,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pralhad-venkatesh-joshi@sansad.nic.in",
     "phone": "+91 98765 11084",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.29
   },
   {
     "id": "MP-3017402-2",
@@ -28201,14 +29285,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 49,
     "worksRecommended": 378,
     "completionRate": 13.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-b-y-raghavendra@sansad.nic.in",
     "phone": "+91 98765 11085",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.11
   },
   {
     "id": "MP-3019529-2",
@@ -28227,14 +29312,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 23,
     "completionRate": 8.7,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.p-c-mohan@sansad.nic.in",
     "phone": "+91 98765 11086",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.53
   },
   {
     "id": "MP-3043716-2",
@@ -28253,14 +29339,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 30,
     "worksRecommended": 115,
     "completionRate": 26.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shobha-karandlaje@sansad.nic.in",
     "phone": "+91 98765 11087",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.71
   },
   {
     "id": "MP-3043717-2",
@@ -28279,14 +29366,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 16,
     "worksRecommended": 211,
     "completionRate": 7.6,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.priyanka-satish-jarkiholi@sansad.nic.in",
     "phone": "+91 98765 11088",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.13
   },
   {
     "id": "MP-3017412-2",
@@ -28305,14 +29393,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 70,
     "worksRecommended": 197,
     "completionRate": 35.5,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-suresh-kodikunnil@sansad.nic.in",
     "phone": "+91 98765 11089",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.68
   },
   {
     "id": "MP-3017415-2",
@@ -28338,7 +29427,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.35
   },
   {
     "id": "MP-3019048-2",
@@ -28357,14 +29447,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 69,
     "worksRecommended": 361,
     "completionRate": 19.1,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.anto-antony@sansad.nic.in",
     "phone": "+91 98765 11091",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.48
   },
   {
     "id": "MP-3042789-2",
@@ -28383,14 +29474,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 61,
     "worksRecommended": 212,
     "completionRate": 28.8,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "IUML",
+    "partyHi": "\u0906\u0908\u092f\u0942\u090f\u092e\u090f\u0932",
     "email": "mp.e-t-mohammed-basheer@sansad.nic.in",
     "phone": "+91 98765 11092",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.7
   },
   {
     "id": "MP-3042790-2",
@@ -28409,14 +29501,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 61,
     "worksRecommended": 352,
     "completionRate": 17.3,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "IUML",
+    "partyHi": "\u0906\u0908\u092f\u0942\u090f\u092e\u090f\u0932",
     "email": "mp.dr-m-p-abdussamad-samadani@sansad.nic.in",
     "phone": "+91 98765 11093",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.17
   },
   {
     "id": "MP-3043393-2",
@@ -28435,14 +29528,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 27,
     "worksRecommended": 190,
     "completionRate": 14.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "CPI(M)",
+    "partyHi": "\u092e\u093e\u0915\u092a\u093e",
     "email": "mp.k-radhakrishnan@sansad.nic.in",
     "phone": "+91 98765 11094",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.43
   },
   {
     "id": "MP-3049648-2",
@@ -28461,14 +29555,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 98,
     "completionRate": 17.3,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.priyanka-gandhi-vadra@sansad.nic.in",
     "phone": "+91 98765 11095",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.5
   },
   {
     "id": "MP-3042387-2",
@@ -28487,14 +29582,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 49,
     "worksRecommended": 501,
     "completionRate": 9.8,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.darshan-singh-choudhary@sansad.nic.in",
     "phone": "+91 98765 11096",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.53
   },
   {
     "id": "MP-3042388-2",
@@ -28513,14 +29609,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 531,
     "completionRate": 2.8,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ashish-dubey@sansad.nic.in",
     "phone": "+91 98765 11097",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.48
   },
   {
     "id": "MP-3042389-2",
@@ -28546,7 +29643,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.78
   },
   {
     "id": "MP-3042390-2",
@@ -28565,14 +29663,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 76,
     "worksRecommended": 206,
     "completionRate": 36.9,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anita-nagarsingh-chouhan@sansad.nic.in",
     "phone": "+91 98765 11099",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.74
   },
   {
     "id": "MP-3042391-2",
@@ -28591,14 +29690,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 110,
     "worksRecommended": 236,
     "completionRate": 46.6,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-lata-wankhede@sansad.nic.in",
     "phone": "+91 98765 11100",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.53
   },
   {
     "id": "MP-3042392-2",
@@ -28617,14 +29717,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 172,
     "worksRecommended": 350,
     "completionRate": 49.1,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-rajesh-mishra@sansad.nic.in",
     "phone": "+91 98765 11101",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 13.65
   },
   {
     "id": "MP-3018381-2",
@@ -28643,14 +29744,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 288,
     "worksRecommended": 499,
     "completionRate": 57.7,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.durga-das-uikey@sansad.nic.in",
     "phone": "+91 98765 11102",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.74
   },
   {
     "id": "MP-3019070-2",
@@ -28669,14 +29771,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 61,
     "worksRecommended": 129,
     "completionRate": 47.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-sandhya-ray@sansad.nic.in",
     "phone": "+91 98765 11103",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.22
   },
   {
     "id": "MP-3019068-2",
@@ -28695,14 +29798,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 10,
     "worksRecommended": 148,
     "completionRate": 6.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mahendra-singh-solanky@sansad.nic.in",
     "phone": "+91 98765 11104",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.62
   },
   {
     "id": "MP-3019065-2",
@@ -28721,14 +29825,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 145,
     "worksRecommended": 330,
     "completionRate": 43.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shankar-lalwani@sansad.nic.in",
     "phone": "+91 98765 11105",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.52
   },
   {
     "id": "MP-3019056-2",
@@ -28747,14 +29852,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 108,
     "worksRecommended": 338,
     "completionRate": 32.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.gajendra-singh-patel@sansad.nic.in",
     "phone": "+91 98765 11106",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.52
   },
   {
     "id": "MP-3019055-2",
@@ -28780,7 +29886,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.62
   },
   {
     "id": "MP-3017421-2",
@@ -28799,14 +29906,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 60,
     "worksRecommended": 321,
     "completionRate": 18.7,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-sudheer-gupta@sansad.nic.in",
     "phone": "+91 98765 11108",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.9
   },
   {
     "id": "MP-3018380-2",
@@ -28825,14 +29933,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 54,
     "worksRecommended": 356,
     "completionRate": 15.2,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rodmal-nagar@sansad.nic.in",
     "phone": "+91 98765 11109",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.6
   },
   {
     "id": "MP-3019059-2",
@@ -28851,14 +29960,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 113,
     "completionRate": 0.9,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.janardan-mishra@sansad.nic.in",
     "phone": "+91 98765 11110",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.11
   },
   {
     "id": "MP-3019057-2",
@@ -28877,14 +29987,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 77,
     "worksRecommended": 319,
     "completionRate": 24.1,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ganesh-singh@sansad.nic.in",
     "phone": "+91 98765 11111",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.14
   },
   {
     "id": "MP-3019069-2",
@@ -28903,14 +30014,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 47,
     "worksRecommended": 227,
     "completionRate": 20.7,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-himadri-singh@sansad.nic.in",
     "phone": "+91 98765 11112",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.36
   },
   {
     "id": "MP-3019053-2",
@@ -28929,14 +30041,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 12,
     "worksRecommended": 380,
     "completionRate": 3.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.virendra-kumar@sansad.nic.in",
     "phone": "+91 98765 11113",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.5
   },
   {
     "id": "MP-3017425-2",
@@ -28955,14 +30068,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 152,
     "worksRecommended": 248,
     "completionRate": 61.3,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-anil-firojiya@sansad.nic.in",
     "phone": "+91 98765 11114",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.21
   },
   {
     "id": "MP-3019058-2",
@@ -28981,14 +30095,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 229,
     "worksRecommended": 417,
     "completionRate": 54.9,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.gyaneshwar-patil@sansad.nic.in",
     "phone": "+91 98765 11115",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.35
   },
   {
     "id": "MP-3018383-2",
@@ -29014,7 +30129,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.49
   },
   {
     "id": "MP-3043718-2",
@@ -29033,14 +30149,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 46,
     "worksRecommended": 64,
     "completionRate": 71.9,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jyotiraditya-m-scindia@sansad.nic.in",
     "phone": "+91 98765 11117",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.47
   },
   {
     "id": "MP-3044395-2",
@@ -29066,7 +30183,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.64
   },
   {
     "id": "MP-3042419-2",
@@ -29085,14 +30203,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 11,
     "worksRecommended": 138,
     "completionRate": 8.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.bhausaheb-rajaram-wakchaure@sansad.nic.in",
     "phone": "+91 98765 11119",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.81
   },
   {
     "id": "MP-3042420-2",
@@ -29111,14 +30230,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 0,
     "completionRate": 0.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "SHS",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e",
     "email": "mp.naresh-ganpat-mhaske@sansad.nic.in",
     "phone": "+91 98765 11120",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042421-2",
@@ -29137,14 +30257,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 29,
     "worksRecommended": 112,
     "completionRate": 25.9,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.amar-sharadrao-kale@sansad.nic.in",
     "phone": "+91 98765 11121",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.45
   },
   {
     "id": "MP-3042400-2",
@@ -29163,14 +30284,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 7,
     "worksRecommended": 88,
     "completionRate": 8.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dhanorkar-pratibha-suresh-alias-balubhau@sansad.nic.in",
     "phone": "+91 98765 11122",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.78
   },
   {
     "id": "MP-3042408-2",
@@ -29189,14 +30311,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 41,
     "worksRecommended": 259,
     "completionRate": 15.8,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.mohite-patil-dhairyasheel-rajsinh@sansad.nic.in",
     "phone": "+91 98765 11123",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.88
   },
   {
     "id": "MP-3019082-2",
@@ -29215,14 +30338,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 4,
     "worksRecommended": 17,
     "completionRate": 23.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SHS",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e",
     "email": "mp.dhairyasheel-sambhajirao-mane@sansad.nic.in",
     "phone": "+91 98765 11124",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.65
   },
   {
     "id": "MP-3019077-2",
@@ -29241,14 +30365,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 2,
     "completionRate": 0.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "SHS",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e",
     "email": "mp.shrikant-eknath-shinde@sansad.nic.in",
     "phone": "+91 98765 11125",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.54
   },
   {
     "id": "MP-3019079-2",
@@ -29267,14 +30392,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 14,
     "worksRecommended": 74,
     "completionRate": 18.9,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.arvind-ganpat-sawant@sansad.nic.in",
     "phone": "+91 98765 11126",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.09
   },
   {
     "id": "MP-3019088-2",
@@ -29293,14 +30419,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 36,
     "worksRecommended": 216,
     "completionRate": 16.7,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.omprakash-bhupalsinh-alias-pawan-rajenimbalkar@sansad.nic.in",
     "phone": "+91 98765 11127",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.97
   },
   {
     "id": "MP-3019101-2",
@@ -29319,14 +30446,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 18,
     "worksRecommended": 70,
     "completionRate": 25.7,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "NCP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e",
     "email": "mp.sunil-dattatray-tatkare@sansad.nic.in",
     "phone": "+91 98765 11128",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.58
   },
   {
     "id": "MP-3019105-2",
@@ -29345,14 +30473,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 13,
     "completionRate": 23.1,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-raksha-nikhil-khadse@sansad.nic.in",
     "phone": "+91 98765 11129",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.59
   },
   {
     "id": "MP-3019076-2",
@@ -29371,14 +30500,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 113,
     "completionRate": 15.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.amol-ramsing-kolhe@sansad.nic.in",
     "phone": "+91 98765 11130",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.5
   },
   {
     "id": "MP-3042792-2",
@@ -29397,14 +30527,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 49,
     "completionRate": 0.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.piyush-vedprakash-goyal@sansad.nic.in",
     "phone": "+91 98765 11131",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042793-2",
@@ -29423,14 +30554,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 67,
     "completionRate": 0.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "SHS",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e",
     "email": "mp.ravindra-dattaram-waikar@sansad.nic.in",
     "phone": "+91 98765 11132",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3019099-2",
@@ -29449,14 +30581,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 114,
     "completionRate": 28.1,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SHS",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e",
     "email": "mp.shrirang-appa-barne@sansad.nic.in",
     "phone": "+91 98765 11133",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.35
   },
   {
     "id": "MP-3019087-2",
@@ -29482,7 +30615,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.87
   },
   {
     "id": "MP-3019106-2",
@@ -29501,14 +30635,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 10,
     "worksRecommended": 138,
     "completionRate": 7.2,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "NCP-SP",
+    "partyHi": "\u0930\u093e\u0915\u093e\u0902\u092a\u093e (\u0936\u092a)",
     "email": "mp.smt-supriya-sadanand-sule@sansad.nic.in",
     "phone": "+91 98765 11135",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.77
   },
   {
     "id": "MP-3019095-2",
@@ -29527,14 +30662,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 28,
     "worksRecommended": 83,
     "completionRate": 33.7,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.sanjay-haribhau-jadhav@sansad.nic.in",
     "phone": "+91 98765 11136",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.31
   },
   {
     "id": "MP-3043224-2",
@@ -29553,14 +30689,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 26,
     "worksRecommended": 119,
     "completionRate": 21.8,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-kalge-shivaji-bandappa@sansad.nic.in",
     "phone": "+91 98765 11137",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.13
   },
   {
     "id": "MP-3043228-2",
@@ -29579,14 +30716,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 131,
     "completionRate": 1.5,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.praniti-sushilkumar-shinde@sansad.nic.in",
     "phone": "+91 98765 11138",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.15
   },
   {
     "id": "MP-3019090-2",
@@ -29605,14 +30743,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 68,
     "completionRate": 0.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "SHS",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e",
     "email": "mp.prataprao-jadhav@sansad.nic.in",
     "phone": "+91 98765 11139",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.74
   },
   {
     "id": "MP-3043915-2",
@@ -29631,14 +30770,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 40,
     "completionRate": 0.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.sanjay-dina-patil@sansad.nic.in",
     "phone": "+91 98765 11140",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3044176-2",
@@ -29657,14 +30797,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 134,
     "completionRate": 17.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.sanjay-uttamrao-deshmukh@sansad.nic.in",
     "phone": "+91 98765 11141",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.44
   },
   {
     "id": "MP-3044396-2",
@@ -29683,14 +30824,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 51,
     "completionRate": 0.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SHS(UBT)",
+    "partyHi": "\u0936\u093f\u0935\u0938\u0947\u0928\u093e (\u092f\u0942\u092c\u0940\u091f\u0940)",
     "email": "mp.anil-yeshwant-desai@sansad.nic.in",
     "phone": "+91 98765 11142",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3052343-2",
@@ -29716,7 +30858,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.0
   },
   {
     "id": "MP-3042431-2",
@@ -29735,14 +30878,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 342,
     "completionRate": 5.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ananta-nayak@sansad.nic.in",
     "phone": "+91 98765 11144",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.51
   },
   {
     "id": "MP-3042432-2",
@@ -29761,14 +30905,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 27,
     "worksRecommended": 250,
     "completionRate": 10.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.naba-charan-majhi@sansad.nic.in",
     "phone": "+91 98765 11145",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.38
   },
   {
     "id": "MP-3042433-2",
@@ -29787,14 +30932,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 23,
     "worksRecommended": 221,
     "completionRate": 10.4,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.balabhadra-majhi@sansad.nic.in",
     "phone": "+91 98765 11146",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.86
   },
   {
     "id": "MP-3042434-2",
@@ -29813,14 +30959,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 550,
     "worksRecommended": 740,
     "completionRate": 74.3,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sambit-patra@sansad.nic.in",
     "phone": "+91 98765 11147",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.16
   },
   {
     "id": "MP-3042435-2",
@@ -29839,14 +30986,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 115,
     "completionRate": 1.7,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dharmendra-pradhan@sansad.nic.in",
     "phone": "+91 98765 11148",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.58
   },
   {
     "id": "MP-3018389-2",
@@ -29865,14 +31013,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 10,
     "worksRecommended": 177,
     "completionRate": 5.6,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pratap-chandra-sarangi@sansad.nic.in",
     "phone": "+91 98765 11149",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.25
   },
   {
     "id": "MP-3017438-2",
@@ -29891,14 +31040,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 12,
     "worksRecommended": 228,
     "completionRate": 5.3,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-sangeeta-kumari-singh-deo@sansad.nic.in",
     "phone": "+91 98765 11150",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.1
   },
   {
     "id": "MP-3017437-2",
@@ -29917,14 +31067,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 89,
     "worksRecommended": 487,
     "completionRate": 18.3,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-bhartruhari-mahtab@sansad.nic.in",
     "phone": "+91 98765 11151",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.56
   },
   {
     "id": "MP-3018390-2",
@@ -29943,14 +31094,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 199,
     "worksRecommended": 603,
     "completionRate": 33.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.saptagiri-sankar-ulaka@sansad.nic.in",
     "phone": "+91 98765 11152",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.67
   },
   {
     "id": "MP-3017435-2",
@@ -29969,14 +31121,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 91,
     "worksRecommended": 222,
     "completionRate": 41.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-jual-oram@sansad.nic.in",
     "phone": "+91 98765 11153",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.78
   },
   {
     "id": "MP-3042795-2",
@@ -29995,14 +31148,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 27,
     "worksRecommended": 308,
     "completionRate": 8.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.avimanyu-sethi@sansad.nic.in",
     "phone": "+91 98765 11154",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.02
   },
   {
     "id": "MP-3017373-2",
@@ -30021,14 +31175,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 47,
     "worksRecommended": 294,
     "completionRate": 16.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-aparajita-sarangi@sansad.nic.in",
     "phone": "+91 98765 11155",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.15
   },
   {
     "id": "MP-3043546-2",
@@ -30047,14 +31202,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 155,
     "worksRecommended": 400,
     "completionRate": 38.8,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sukanta-kumar-panigrahi@sansad.nic.in",
     "phone": "+91 98765 11156",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.01
   },
   {
     "id": "MP-3043719-2",
@@ -30073,14 +31229,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 163,
     "completionRate": 14.7,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anita-subhadarshini@sansad.nic.in",
     "phone": "+91 98765 11157",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.72
   },
   {
     "id": "MP-3019127-2",
@@ -30099,14 +31256,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 179,
     "worksRecommended": 469,
     "completionRate": 38.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "SAD",
+    "partyHi": "\u0936\u093f\u0905\u0926",
     "email": "mp.smt-harsimrat-kaur-badal@sansad.nic.in",
     "phone": "+91 98765 11158",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.66
   },
   {
     "id": "MP-3042456-2",
@@ -30125,14 +31283,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 0,
     "completionRate": 0.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.harish-chandra-meena@sansad.nic.in",
     "phone": "+91 98765 11159",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042457-2",
@@ -30151,14 +31310,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 24,
     "worksRecommended": 221,
     "completionRate": 10.9,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.manna-lal-rawat@sansad.nic.in",
     "phone": "+91 98765 11160",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.39
   },
   {
     "id": "MP-3017449-2",
@@ -30184,7 +31344,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.96
   },
   {
     "id": "MP-3019131-2",
@@ -30203,14 +31364,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 10,
     "worksRecommended": 200,
     "completionRate": 5.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.chandra-prakash-joshi@sansad.nic.in",
     "phone": "+91 98765 11162",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.33
   },
   {
     "id": "MP-3019139-2",
@@ -30229,14 +31391,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 38,
     "worksRecommended": 261,
     "completionRate": 14.6,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rahul-kaswan@sansad.nic.in",
     "phone": "+91 98765 11163",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.81
   },
   {
     "id": "MP-3019133-2",
@@ -30255,14 +31418,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 198,
     "completionRate": 0.0,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dushyant-singh@sansad.nic.in",
     "phone": "+91 98765 11164",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.48
   },
   {
     "id": "MP-3019134-2",
@@ -30281,14 +31445,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 40,
     "completionRate": 0.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.gajendra-singh-shekhawat@sansad.nic.in",
     "phone": "+91 98765 11165",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.47
   },
   {
     "id": "MP-3017454-2",
@@ -30307,14 +31472,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 45,
     "completionRate": 33.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-pp-chaudhary@sansad.nic.in",
     "phone": "+91 98765 11166",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.5
   },
   {
     "id": "MP-3019130-2",
@@ -30333,14 +31499,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 64,
     "worksRecommended": 159,
     "completionRate": 40.3,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bhagirath-chaudhary@sansad.nic.in",
     "phone": "+91 98765 11167",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.41
   },
   {
     "id": "MP-3019138-2",
@@ -30366,7 +31533,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.21
   },
   {
     "id": "MP-3042914-2",
@@ -30385,14 +31553,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 23,
     "worksRecommended": 119,
     "completionRate": 19.3,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BAP",
+    "partyHi": "\u092c\u0940\u090f\u092a\u0940",
     "email": "mp.raj-kumar-roat@sansad.nic.in",
     "phone": "+91 98765 11169",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.01
   },
   {
     "id": "MP-3017451-2",
@@ -30411,14 +31580,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 184,
     "worksRecommended": 250,
     "completionRate": 73.6,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "RLP",
+    "partyHi": "\u0930\u093e\u0932\u094b\u092a\u093e",
     "email": "mp.shri-hanuman-beniwal@sansad.nic.in",
     "phone": "+91 98765 11170",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.99
   },
   {
     "id": "MP-3044260-2",
@@ -30437,14 +31607,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 10,
     "worksRecommended": 105,
     "completionRate": 9.5,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rao-rajendra-singh@sansad.nic.in",
     "phone": "+91 98765 11171",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.72
   },
   {
     "id": "MP-3019169-2",
@@ -30463,14 +31634,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 87,
     "worksRecommended": 179,
     "completionRate": 48.6,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-s-jothimani@sansad.nic.in",
     "phone": "+91 98765 11172",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.41
   },
   {
     "id": "MP-3019151-2",
@@ -30489,14 +31661,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 77,
     "worksRecommended": 114,
     "completionRate": 67.5,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.andimuthu-raja@sansad.nic.in",
     "phone": "+91 98765 11173",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.7
   },
   {
     "id": "MP-3017457-2",
@@ -30515,14 +31688,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 117,
     "worksRecommended": 185,
     "completionRate": 63.2,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-karti-p-chidambaram@sansad.nic.in",
     "phone": "+91 98765 11174",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.44
   },
   {
     "id": "MP-3019156-2",
@@ -30541,14 +31715,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 65,
     "worksRecommended": 118,
     "completionRate": 55.1,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "CPI",
+    "partyHi": "\u092d\u093e\u0915\u092a\u093e",
     "email": "mp.k-subbarayan@sansad.nic.in",
     "phone": "+91 98765 11175",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.79
   },
   {
     "id": "MP-3019994-2",
@@ -30567,14 +31742,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 22,
     "worksRecommended": 113,
     "completionRate": 19.5,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.d-m-kathir-anand@sansad.nic.in",
     "phone": "+91 98765 11176",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.7
   },
   {
     "id": "MP-3018394-2",
@@ -30593,14 +31769,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 223,
     "worksRecommended": 304,
     "completionRate": 73.4,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "VCK",
+    "partyHi": "\u0935\u0940\u0938\u0940\u0915\u0947",
     "email": "mp.d-ravikumar@sansad.nic.in",
     "phone": "+91 98765 11177",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 10.29
   },
   {
     "id": "MP-3019158-2",
@@ -30619,14 +31796,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 69,
     "worksRecommended": 86,
     "completionRate": 80.2,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.manickam-tagore-b@sansad.nic.in",
     "phone": "+91 98765 11178",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.39
   },
   {
     "id": "MP-3019162-2",
@@ -30645,14 +31823,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 46,
     "worksRecommended": 127,
     "completionRate": 36.2,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "CPI(M)",
+    "partyHi": "\u092e\u093e\u0915\u092a\u093e",
     "email": "mp.s-venkatesan@sansad.nic.in",
     "phone": "+91 98765 11179",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.6
   },
   {
     "id": "MP-3019166-2",
@@ -30671,14 +31850,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 65,
     "worksRecommended": 126,
     "completionRate": 51.6,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.thalikkottai-rajuthevar-baalu@sansad.nic.in",
     "phone": "+91 98765 11180",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.11
   },
   {
     "id": "MP-3019242-2",
@@ -30697,14 +31877,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 172,
     "worksRecommended": 210,
     "completionRate": 81.9,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.cn-annadurai@sansad.nic.in",
     "phone": "+91 98765 11181",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.98
   },
   {
     "id": "MP-3042797-2",
@@ -30723,14 +31904,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 45,
     "worksRecommended": 82,
     "completionRate": 54.9,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "MDMK",
+    "partyHi": "\u090f\u092e\u0921\u0940\u090f\u092e\u0915\u0947",
     "email": "mp.durai-vaiko@sansad.nic.in",
     "phone": "+91 98765 11182",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.42
   },
   {
     "id": "MP-3019157-2",
@@ -30749,14 +31931,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 68,
     "worksRecommended": 113,
     "completionRate": 60.2,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "IUML",
+    "partyHi": "\u0906\u0908\u092f\u0942\u090f\u092e\u090f\u0932",
     "email": "mp.kani-k-navas@sansad.nic.in",
     "phone": "+91 98765 11183",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.21
   },
   {
     "id": "MP-3017458-2",
@@ -30775,14 +31958,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 43,
     "worksRecommended": 102,
     "completionRate": 42.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-vijayakumar-vasanth@sansad.nic.in",
     "phone": "+91 98765 11184",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.36
   },
   {
     "id": "MP-3017175-2",
@@ -30801,14 +31985,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 51,
     "worksRecommended": 167,
     "completionRate": 30.5,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.s-jagathrakshakan@sansad.nic.in",
     "phone": "+91 98765 11185",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.65
   },
   {
     "id": "MP-3044147-2",
@@ -30827,14 +32012,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 53,
     "worksRecommended": 291,
     "completionRate": 18.2,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sudha-r@sansad.nic.in",
     "phone": "+91 98765 11186",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.71
   },
   {
     "id": "MP-3044992-2",
@@ -30853,14 +32039,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 54,
     "worksRecommended": 113,
     "completionRate": 47.8,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "CPI",
+    "partyHi": "\u092d\u093e\u0915\u092a\u093e",
     "email": "mp.selvaraj-v@sansad.nic.in",
     "phone": "+91 98765 11187",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.43
   },
   {
     "id": "MP-3045569-2",
@@ -30879,14 +32066,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 144,
     "worksRecommended": 208,
     "completionRate": 69.2,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.v-s-matheswaran@sansad.nic.in",
     "phone": "+91 98765 11188",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.02
   },
   {
     "id": "MP-3018395-2",
@@ -30912,7 +32100,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.38
   },
   {
     "id": "MP-3045216-2",
@@ -30931,14 +32120,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 6,
     "worksRecommended": 37,
     "completionRate": 16.2,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kunduru-raghuveer@sansad.nic.in",
     "phone": "+91 98765 11190",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.63
   },
   {
     "id": "MP-3045227-2",
@@ -30957,14 +32147,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 9,
     "worksRecommended": 99,
     "completionRate": 9.1,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vamsi-krishna-gaddam@sansad.nic.in",
     "phone": "+91 98765 11191",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.7
   },
   {
     "id": "MP-3045246-2",
@@ -30983,14 +32174,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 73,
     "worksRecommended": 240,
     "completionRate": 30.4,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kadiyam-kavya@sansad.nic.in",
     "phone": "+91 98765 11192",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.95
   },
   {
     "id": "MP-3045387-2",
@@ -31009,14 +32201,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 41,
     "worksRecommended": 182,
     "completionRate": 22.5,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.madhavaneni-raghunandan-rao@sansad.nic.in",
     "phone": "+91 98765 11193",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.29
   },
   {
     "id": "MP-3019173-2",
@@ -31042,7 +32235,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.57
   },
   {
     "id": "MP-3042489-2",
@@ -31061,14 +32255,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 36,
     "completionRate": 47.2,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.neeraj-maurya@sansad.nic.in",
     "phone": "+91 98765 11195",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.66
   },
   {
     "id": "MP-3042490-2",
@@ -31087,14 +32282,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 16,
     "worksRecommended": 89,
     "completionRate": 18.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dharmendra-yadav@sansad.nic.in",
     "phone": "+91 98765 11196",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.5
   },
   {
     "id": "MP-3042491-2",
@@ -31113,14 +32309,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 50,
     "worksRecommended": 161,
     "completionRate": 31.1,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.aditya-yadav@sansad.nic.in",
     "phone": "+91 98765 11197",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.14
   },
   {
     "id": "MP-3042493-2",
@@ -31139,14 +32336,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 115,
     "completionRate": 27.8,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anand-kumar@sansad.nic.in",
     "phone": "+91 98765 11198",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.83
   },
   {
     "id": "MP-3042494-2",
@@ -31172,7 +32370,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.02
   },
   {
     "id": "MP-3042495-2",
@@ -31191,14 +32390,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 202,
     "worksRecommended": 610,
     "completionRate": 33.1,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.krishna-devi-shivshanker-patel@sansad.nic.in",
     "phone": "+91 98765 11200",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.65
   },
   {
     "id": "MP-3042496-2",
@@ -31217,14 +32417,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 16,
     "worksRecommended": 33,
     "completionRate": 48.5,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.tanuj-punia@sansad.nic.in",
     "phone": "+91 98765 11201",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.85
   },
   {
     "id": "MP-3044187-2",
@@ -31243,14 +32444,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 37,
     "worksRecommended": 186,
     "completionRate": 19.9,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ram-prasad-chaudhary@sansad.nic.in",
     "phone": "+91 98765 11202",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.39
   },
   {
     "id": "MP-3042498-2",
@@ -31269,14 +32471,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 139,
     "completionRate": 10.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "RLD",
+    "partyHi": "\u0930\u093e\u0932\u094b\u0926",
     "email": "mp.chandan-chauhan@sansad.nic.in",
     "phone": "+91 98765 11203",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.14
   },
   {
     "id": "MP-3042499-2",
@@ -31295,14 +32498,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 16,
     "worksRecommended": 33,
     "completionRate": 48.5,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.virendra-singh@sansad.nic.in",
     "phone": "+91 98765 11204",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.07
   },
   {
     "id": "MP-3042501-2",
@@ -31321,14 +32525,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 151,
     "worksRecommended": 185,
     "completionRate": 81.6,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.anand-bhadauriya@sansad.nic.in",
     "phone": "+91 98765 11205",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.87
   },
   {
     "id": "MP-3042502-2",
@@ -31347,14 +32552,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 232,
     "worksRecommended": 339,
     "completionRate": 68.4,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.devesh-shakya@sansad.nic.in",
     "phone": "+91 98765 11206",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.37
   },
   {
     "id": "MP-3042503-2",
@@ -31373,14 +32579,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 192,
     "worksRecommended": 515,
     "completionRate": 37.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.jitendra-kumar-dohare@sansad.nic.in",
     "phone": "+91 98765 11207",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.91
   },
   {
     "id": "MP-3042504-2",
@@ -31406,7 +32613,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.18
   },
   {
     "id": "MP-3042505-2",
@@ -31425,14 +32633,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 14,
     "worksRecommended": 81,
     "completionRate": 17.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.naresh-chandra-uttam-patel@sansad.nic.in",
     "phone": "+91 98765 11209",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.35
   },
   {
     "id": "MP-3042506-2",
@@ -31451,14 +32660,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 37,
     "worksRecommended": 43,
     "completionRate": 86.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.akshaya-yadav@sansad.nic.in",
     "phone": "+91 98765 11210",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.73
   },
   {
     "id": "MP-3042507-2",
@@ -31477,14 +32687,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 46,
     "worksRecommended": 89,
     "completionRate": 51.7,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.atul-garg@sansad.nic.in",
     "phone": "+91 98765 11211",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.38
   },
   {
     "id": "MP-3042508-2",
@@ -31503,14 +32714,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 19,
     "worksRecommended": 234,
     "completionRate": 8.1,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ajendra-singh-lodhi@sansad.nic.in",
     "phone": "+91 98765 11212",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.46
   },
   {
     "id": "MP-3042509-2",
@@ -31529,14 +32741,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 69,
     "worksRecommended": 106,
     "completionRate": 65.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anoop-pradhan-balmiki@sansad.nic.in",
     "phone": "+91 98765 11213",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.43
   },
   {
     "id": "MP-3042510-2",
@@ -31555,14 +32768,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 135,
     "worksRecommended": 378,
     "completionRate": 35.7,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.narayan-das-ahirwar@sansad.nic.in",
     "phone": "+91 98765 11214",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.82
   },
   {
     "id": "MP-3042511-2",
@@ -31581,14 +32795,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 622,
     "worksRecommended": 702,
     "completionRate": 88.6,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.babu-singh-kushwaha@sansad.nic.in",
     "phone": "+91 98765 11215",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.45
   },
   {
     "id": "MP-3042512-2",
@@ -31607,14 +32822,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 55,
     "worksRecommended": 106,
     "completionRate": 51.9,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.iqra-choudhary@sansad.nic.in",
     "phone": "+91 98765 11216",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.13
   },
   {
     "id": "MP-3042513-2",
@@ -31633,14 +32849,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 104,
     "worksRecommended": 164,
     "completionRate": 63.4,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ramesh-awasthi@sansad.nic.in",
     "phone": "+91 98765 11217",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.99
   },
   {
     "id": "MP-3042514-2",
@@ -31659,14 +32876,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 612,
     "worksRecommended": 2589,
     "completionRate": 23.6,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.pushpendra-saroj@sansad.nic.in",
     "phone": "+91 98765 11218",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.29
   },
   {
     "id": "MP-3042515-2",
@@ -31685,14 +32903,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 349,
     "worksRecommended": 360,
     "completionRate": 96.9,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.utkarsh-verma-madhur@sansad.nic.in",
     "phone": "+91 98765 11219",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.22
   },
   {
     "id": "MP-3042516-2",
@@ -31711,14 +32930,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 212,
     "worksRecommended": 297,
     "completionRate": 71.4,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.daroga-prasad-saroj@sansad.nic.in",
     "phone": "+91 98765 11220",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.13
   },
   {
     "id": "MP-3042517-2",
@@ -31737,14 +32957,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 727,
     "worksRecommended": 1396,
     "completionRate": 52.1,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.priya-saroj@sansad.nic.in",
     "phone": "+91 98765 11221",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.44
   },
   {
     "id": "MP-3042518-2",
@@ -31763,14 +32984,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 95,
     "worksRecommended": 232,
     "completionRate": 40.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.arun-govil@sansad.nic.in",
     "phone": "+91 98765 11222",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.67
   },
   {
     "id": "MP-3042519-2",
@@ -31789,14 +33011,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 165,
     "worksRecommended": 273,
     "completionRate": 60.4,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ruchi-vira@sansad.nic.in",
     "phone": "+91 98765 11223",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.33
   },
   {
     "id": "MP-3042520-2",
@@ -31815,14 +33038,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 263,
     "completionRate": 12.2,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.harendra-singh-malik@sansad.nic.in",
     "phone": "+91 98765 11224",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.95
   },
   {
     "id": "MP-3042521-2",
@@ -31841,14 +33065,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 24,
     "completionRate": 62.5,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.praveen-patel@sansad.nic.in",
     "phone": "+91 98765 11225",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.05
   },
   {
     "id": "MP-3042522-2",
@@ -31874,7 +33099,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.41
   },
   {
     "id": "MP-3042523-2",
@@ -31893,14 +33119,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 318,
     "worksRecommended": 463,
     "completionRate": 68.7,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.mohibbullah@sansad.nic.in",
     "phone": "+91 98765 11227",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.66
   },
   {
     "id": "MP-3042524-2",
@@ -31919,14 +33146,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 298,
     "worksRecommended": 438,
     "completionRate": 68.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.chhotelal@sansad.nic.in",
     "phone": "+91 98765 11228",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.91
   },
   {
     "id": "MP-3042525-2",
@@ -31945,14 +33173,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 51,
     "worksRecommended": 115,
     "completionRate": 44.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.imran-masood@sansad.nic.in",
     "phone": "+91 98765 11229",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.21
   },
   {
     "id": "MP-3042526-2",
@@ -31971,14 +33200,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 97,
     "worksRecommended": 331,
     "completionRate": 29.3,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ramashankar-rajbhar@sansad.nic.in",
     "phone": "+91 98765 11230",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.46
   },
   {
     "id": "MP-3042527-2",
@@ -31997,14 +33227,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 325,
     "completionRate": 0.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.zia-ur-rehman@sansad.nic.in",
     "phone": "+91 98765 11231",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042528-2",
@@ -32023,14 +33254,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 4,
     "worksRecommended": 508,
     "completionRate": 0.8,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.laxmikant-pappu-nishad@sansad.nic.in",
     "phone": "+91 98765 11232",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.2
   },
   {
     "id": "MP-3042529-2",
@@ -32049,14 +33281,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 23,
     "worksRecommended": 73,
     "completionRate": 31.5,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rakesh-rathor@sansad.nic.in",
     "phone": "+91 98765 11233",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.2
   },
   {
     "id": "MP-3042530-2",
@@ -32075,14 +33308,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 6,
     "worksRecommended": 81,
     "completionRate": 7.4,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.rambhual-nishad@sansad.nic.in",
     "phone": "+91 98765 11234",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.43
   },
   {
     "id": "MP-3042492-2",
@@ -32101,14 +33335,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 16,
     "worksRecommended": 154,
     "completionRate": 10.4,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "RLD",
+    "partyHi": "\u0930\u093e\u0932\u094b\u0926",
     "email": "mp.dr-rajkumar-sangwan@sansad.nic.in",
     "phone": "+91 98765 11235",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.09
   },
   {
     "id": "MP-3019196-2",
@@ -32127,14 +33362,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 62,
     "worksRecommended": 150,
     "completionRate": 41.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.devendra-alias-bhole-singh@sansad.nic.in",
     "phone": "+91 98765 11236",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.24
   },
   {
     "id": "MP-3017466-2",
@@ -32160,7 +33396,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.47
   },
   {
     "id": "MP-3019202-2",
@@ -32179,14 +33416,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 2,
     "worksRecommended": 132,
     "completionRate": 1.5,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kamlesh-paswan@sansad.nic.in",
     "phone": "+91 98765 11238",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.1
   },
   {
     "id": "MP-3019222-2",
@@ -32205,14 +33443,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 142,
     "worksRecommended": 301,
     "completionRate": 47.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bhola-singh@sansad.nic.in",
     "phone": "+91 98765 11239",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.01
   },
   {
     "id": "MP-3019530-2",
@@ -32231,14 +33470,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 45,
     "worksRecommended": 53,
     "completionRate": 84.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajkumar-chahar@sansad.nic.in",
     "phone": "+91 98765 11240",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.53
   },
   {
     "id": "MP-3019187-2",
@@ -32257,14 +33497,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 71,
     "worksRecommended": 173,
     "completionRate": 41.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mahesh-sharma@sansad.nic.in",
     "phone": "+91 98765 11241",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.79
   },
   {
     "id": "MP-3019214-2",
@@ -32290,7 +33531,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.71
   },
   {
     "id": "MP-3019201-2",
@@ -32309,14 +33551,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 33,
     "completionRate": 9.1,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jai-prakash@sansad.nic.in",
     "phone": "+91 98765 11243",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.89
   },
   {
     "id": "MP-3018405-2",
@@ -32335,14 +33578,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 95,
     "worksRecommended": 179,
     "completionRate": 53.1,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anurag-sharma@sansad.nic.in",
     "phone": "+91 98765 11244",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.97
   },
   {
     "id": "MP-3019220-2",
@@ -32361,14 +33605,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 135,
     "worksRecommended": 257,
     "completionRate": 52.5,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vijay-kumar-dubey@sansad.nic.in",
     "phone": "+91 98765 11245",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.83
   },
   {
     "id": "MP-3019311-2",
@@ -32394,7 +33639,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.71
   },
   {
     "id": "MP-3019227-2",
@@ -32420,7 +33666,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.62
   },
   {
     "id": "MP-3019225-2",
@@ -32439,14 +33686,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 14,
     "completionRate": 0.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "AD(S)",
+    "partyHi": "\u0905\u092a\u0928\u093e \u0926\u0932 (\u0938\u094b)",
     "email": "mp.smt-anupriya-patel@sansad.nic.in",
     "phone": "+91 98765 11248",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.63
   },
   {
     "id": "MP-3019244-2",
@@ -32465,14 +33713,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 3,
     "worksRecommended": 5,
     "completionRate": 60.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ashok-kumar-rawat@sansad.nic.in",
     "phone": "+91 98765 11249",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.86
   },
   {
     "id": "MP-3017471-2",
@@ -32491,14 +33740,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 5,
     "worksRecommended": 8,
     "completionRate": 62.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-arun-kumar-sagar@sansad.nic.in",
     "phone": "+91 98765 11250",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.71
   },
   {
     "id": "MP-3018402-2",
@@ -32524,7 +33774,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.59
   },
   {
     "id": "MP-3019205-2",
@@ -32543,14 +33794,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 246,
     "worksRecommended": 306,
     "completionRate": 80.4,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mukesh-rajput@sansad.nic.in",
     "phone": "+91 98765 11252",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.26
   },
   {
     "id": "MP-3042816-2",
@@ -32576,7 +33828,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.3
   },
   {
     "id": "MP-3017469-2",
@@ -32602,7 +33855,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.88
   },
   {
     "id": "MP-3019207-2",
@@ -32628,7 +33882,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.68
   },
   {
     "id": "MP-3019226-2",
@@ -32654,7 +33909,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.97
   },
   {
     "id": "MP-3043395-2",
@@ -32673,14 +33929,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 33,
     "worksRecommended": 108,
     "completionRate": 30.6,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.karan-bhushan-singh@sansad.nic.in",
     "phone": "+91 98765 11257",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.61
   },
   {
     "id": "MP-3017473-2",
@@ -32699,14 +33956,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 55,
     "worksRecommended": 110,
     "completionRate": 50.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.prof-sp-singh-baghel@sansad.nic.in",
     "phone": "+91 98765 11258",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 7.52
   },
   {
     "id": "MP-3043488-2",
@@ -32732,7 +33990,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.7
   },
   {
     "id": "MP-3043489-2",
@@ -32758,7 +34017,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.38
   },
   {
     "id": "MP-3019223-2",
@@ -32777,14 +34037,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 1360,
     "completionRate": 0.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ram-shiromani@sansad.nic.in",
     "phone": "+91 98765 11261",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.06
   },
   {
     "id": "MP-3043598-2",
@@ -32810,7 +34071,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.8
   },
   {
     "id": "MP-3019203-2",
@@ -32829,14 +34091,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 40,
     "worksRecommended": 164,
     "completionRate": 24.4,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kirti-vardhan-singh@sansad.nic.in",
     "phone": "+91 98765 11263",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.14
   },
   {
     "id": "MP-3043720-2",
@@ -32855,14 +34118,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 64,
     "worksRecommended": 124,
     "completionRate": 51.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kanwar-singh-tanwar@sansad.nic.in",
     "phone": "+91 98765 11264",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.52
   },
   {
     "id": "MP-3044397-2",
@@ -32881,14 +34145,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 144,
     "worksRecommended": 184,
     "completionRate": 78.3,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.chhatra-pal-singh-gangwar@sansad.nic.in",
     "phone": "+91 98765 11265",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 9.36
   },
   {
     "id": "MP-3044716-2",
@@ -32907,14 +34172,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 525,
     "worksRecommended": 551,
     "completionRate": 95.3,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vinod-kumar-bind@sansad.nic.in",
     "phone": "+91 98765 11266",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.26
   },
   {
     "id": "MP-3045253-2",
@@ -32933,14 +34199,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 64,
     "worksRecommended": 431,
     "completionRate": 14.8,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.afzal-ansari@sansad.nic.in",
     "phone": "+91 98765 11267",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.48
   },
   {
     "id": "MP-3045351-2",
@@ -32959,14 +34226,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 64,
     "completionRate": 50.0,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jitin-prasada@sansad.nic.in",
     "phone": "+91 98765 11268",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.77
   },
   {
     "id": "MP-3046000-2",
@@ -32985,14 +34253,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 286,
     "worksRecommended": 758,
     "completionRate": 37.7,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "ASP(KR)",
+    "partyHi": "\u0906\u0938\u092a\u093e (\u0915\u093e\u0902\u0936\u0940\u0930\u093e\u092e)",
     "email": "mp.chandra-shekhar@sansad.nic.in",
     "phone": "+91 98765 11269",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.16
   },
   {
     "id": "MP-3019200-2",
@@ -33018,7 +34287,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.08
   },
   {
     "id": "MP-3042549-2",
@@ -33037,14 +34307,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 74,
     "worksRecommended": 265,
     "completionRate": 27.9,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.abhijit-gangopadhyay@sansad.nic.in",
     "phone": "+91 98765 11271",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.54
   },
   {
     "id": "MP-3042540-2",
@@ -33070,7 +34341,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.49
   },
   {
     "id": "MP-3042542-2",
@@ -33089,14 +34361,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 40,
     "worksRecommended": 66,
     "completionRate": 60.6,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kalipada-saren@sansad.nic.in",
     "phone": "+91 98765 11273",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.45
   },
   {
     "id": "MP-3042544-2",
@@ -33115,14 +34388,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 25,
     "worksRecommended": 139,
     "completionRate": 18.0,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.isha-khan-choudhury@sansad.nic.in",
     "phone": "+91 98765 11274",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.86
   },
   {
     "id": "MP-3042537-2",
@@ -33141,14 +34415,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 23,
     "worksRecommended": 112,
     "completionRate": 20.5,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.azad-kirti-jha@sansad.nic.in",
     "phone": "+91 98765 11275",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.19
   },
   {
     "id": "MP-3019235-2",
@@ -33167,14 +34442,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 18,
     "worksRecommended": 46,
     "completionRate": 39.1,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shatrughan-sinha@sansad.nic.in",
     "phone": "+91 98765 11276",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.17
   },
   {
     "id": "MP-3017477-2",
@@ -33193,14 +34469,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 54,
     "worksRecommended": 190,
     "completionRate": 28.4,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-sukanta-majumdar@sansad.nic.in",
     "phone": "+91 98765 11277",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.63
   },
   {
     "id": "MP-3017479-2",
@@ -33226,7 +34503,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.6
   },
   {
     "id": "MP-3017485-2",
@@ -33245,14 +34523,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 82,
     "worksRecommended": 199,
     "completionRate": 41.2,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kakoli-ghosh-dastidar@sansad.nic.in",
     "phone": "+91 98765 11279",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.94
   },
   {
     "id": "MP-3017478-2",
@@ -33271,14 +34550,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 62,
     "worksRecommended": 109,
     "completionRate": 56.9,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-satabdi-roy-banerjee@sansad.nic.in",
     "phone": "+91 98765 11280",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.66
   },
   {
     "id": "MP-3018416-2",
@@ -33297,14 +34577,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 48,
     "worksRecommended": 129,
     "completionRate": 37.2,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.saumitra-khan@sansad.nic.in",
     "phone": "+91 98765 11281",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.39
   },
   {
     "id": "MP-3019335-2",
@@ -33323,14 +34604,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 145,
     "worksRecommended": 208,
     "completionRate": 69.7,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.asit-kumar-mal@sansad.nic.in",
     "phone": "+91 98765 11282",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 15.03
   },
   {
     "id": "MP-3019234-2",
@@ -33349,14 +34631,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 89,
     "worksRecommended": 169,
     "completionRate": 52.7,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.raju-bista@sansad.nic.in",
     "phone": "+91 98765 11283",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.47
   },
   {
     "id": "MP-3017491-2",
@@ -33375,14 +34658,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 166,
     "worksRecommended": 205,
     "completionRate": 81.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-deepak-dev-adhikari@sansad.nic.in",
     "phone": "+91 98765 11284",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 8.48
   },
   {
     "id": "MP-3019233-2",
@@ -33401,14 +34685,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 140,
     "worksRecommended": 227,
     "completionRate": 61.7,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.prasun-banerjee@sansad.nic.in",
     "phone": "+91 98765 11285",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.57
   },
   {
     "id": "MP-3017486-2",
@@ -33427,14 +34712,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 5,
     "worksRecommended": 19,
     "completionRate": 26.3,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-jayanta-kumar-roy@sansad.nic.in",
     "phone": "+91 98765 11286",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.59
   },
   {
     "id": "MP-3018418-2",
@@ -33453,14 +34739,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 125,
     "completionRate": 25.6,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.khalilur-rahaman@sansad.nic.in",
     "phone": "+91 98765 11287",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.91
   },
   {
     "id": "MP-3018422-2",
@@ -33479,14 +34766,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 180,
     "worksRecommended": 230,
     "completionRate": 78.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pratima-mondal@sansad.nic.in",
     "phone": "+91 98765 11288",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.75
   },
   {
     "id": "MP-3018421-2",
@@ -33505,14 +34793,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 75,
     "completionRate": 42.7,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mala-roy@sansad.nic.in",
     "phone": "+91 98765 11289",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.98
   },
   {
     "id": "MP-3019231-2",
@@ -33538,7 +34827,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.4
   },
   {
     "id": "MP-3019301-2",
@@ -33557,14 +34847,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 7,
     "worksRecommended": 43,
     "completionRate": 16.3,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.khagen-murmu@sansad.nic.in",
     "phone": "+91 98765 11291",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.6
   },
   {
     "id": "MP-3017483-2",
@@ -33583,14 +34874,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 40,
     "worksRecommended": 107,
     "completionRate": 37.4,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-jyotirmay-singh-mahato@sansad.nic.in",
     "phone": "+91 98765 11292",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.57
   },
   {
     "id": "MP-3019236-2",
@@ -33609,14 +34901,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 80,
     "worksRecommended": 220,
     "completionRate": 36.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jagannath-sarkar@sansad.nic.in",
     "phone": "+91 98765 11293",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.45
   },
   {
     "id": "MP-3019533-2",
@@ -33635,14 +34928,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 9,
     "worksRecommended": 38,
     "completionRate": 23.7,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sudip-bandyopadhyay@sansad.nic.in",
     "phone": "+91 98765 11294",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.27
   },
   {
     "id": "MP-3019237-2",
@@ -33661,14 +34955,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 96,
     "worksRecommended": 208,
     "completionRate": 46.2,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-sajda-ahmed@sansad.nic.in",
     "phone": "+91 98765 11295",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 4.48
   },
   {
     "id": "MP-3019300-2",
@@ -33687,14 +34982,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 173,
     "worksRecommended": 328,
     "completionRate": 52.7,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.abu-taher-khan@sansad.nic.in",
     "phone": "+91 98765 11296",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 2.97
   },
   {
     "id": "MP-3017493-2",
@@ -33713,14 +35009,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 15,
     "worksRecommended": 52,
     "completionRate": 28.8,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.prof-sougata-ray@sansad.nic.in",
     "phone": "+91 98765 11297",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.78
   },
   {
     "id": "MP-3019373-2",
@@ -33739,14 +35036,15 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 97,
     "worksRecommended": 120,
     "completionRate": 80.8,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kalyan-banerjee@sansad.nic.in",
     "phone": "+91 98765 11298",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.9
   },
   {
     "id": "MP-3043599-2",
@@ -33772,7 +35070,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.5
   },
   {
     "id": "MP-3017487-2",
@@ -33798,7 +35097,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 5.2
   },
   {
     "id": "MP-3026800-1",
@@ -33824,7 +35124,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3060561-1",
@@ -33850,7 +35151,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3061955-1",
@@ -33876,7 +35178,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3063548-1",
@@ -33902,7 +35205,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3063547-1",
@@ -33928,7 +35232,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066614-1",
@@ -33954,7 +35259,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3067143-1",
@@ -33980,7 +35286,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042566-1",
@@ -34006,7 +35313,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.04
   },
   {
     "id": "MP-3044066-1",
@@ -34032,7 +35340,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 6.8
   },
   {
     "id": "MP-3044073-1",
@@ -34058,7 +35367,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017237-1",
@@ -34084,7 +35394,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 3.14
   },
   {
     "id": "MP-3047757-1",
@@ -34110,7 +35421,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.14
   },
   {
     "id": "MP-3065897-1",
@@ -34136,7 +35448,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066166-1",
@@ -34162,7 +35475,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017242-1",
@@ -34188,7 +35502,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066550-1",
@@ -34214,7 +35529,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3042564-1",
@@ -34240,7 +35556,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 1.57
   },
   {
     "id": "MP-3048864-1",
@@ -34266,7 +35583,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.3
   },
   {
     "id": "MP-3061108-1",
@@ -34292,7 +35610,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3064688-1",
@@ -34318,7 +35637,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3064779-1",
@@ -34344,7 +35664,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3017272-1",
@@ -34370,7 +35691,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3065436-1",
@@ -34396,7 +35718,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066268-1",
@@ -34422,7 +35745,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3066664-1",
@@ -34448,7 +35772,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   },
   {
     "id": "MP-3068111-1",
@@ -34474,7 +35799,8 @@ export const ALL_MPS_DATA = [
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
     "reconciliationRequired": false,
-    "hasCurrentData": true
+    "hasCurrentData": true,
+    "actualCr": 0.0
   }
 ];
 
@@ -34512,6 +35838,7 @@ export const getMpsSummaryStats = (mps) => {
   
   const totalAllocated = list.reduce((sum, m) => sum + (m.allocatedCr || m.sanctionedCr || 0), 0);
   const totalUtilized = list.reduce((sum, m) => sum + (m.spentCr || m.disbursedCr || 0), 0);
+  const totalActual = list.reduce((sum, m) => sum + (m.actualCr || 0), 0);
   const totalCompleted = list.reduce((sum, m) => sum + (m.worksCompleted || 0), 0);
   const totalRecommended = list.reduce((sum, m) => sum + (m.worksRecommended || 0), 0);
   const totalDups = list.reduce((sum, m) => sum + (m.duplicateVoucherCount || 0), 0);
@@ -34527,7 +35854,7 @@ export const getMpsSummaryStats = (mps) => {
     totalAllocatedCr: roundVal(totalAllocated),
     totalDisbursedCr: roundVal(totalUtilized),
     totalReconciledDisbursedCr: roundVal(totalUtilized),
-    totalActualCr: roundVal(totalUtilized),
+    totalActualCr: roundVal(totalActual),
     totalUtilizedCr: roundVal(totalUtilized),
     avgUtilizationPct: roundVal((totalUtilized / (totalAllocated || 1)) * 100),
     totalWorksCompleted: totalCompleted,

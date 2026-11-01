@@ -28,7 +28,7 @@ const BrowseMpsView = () => {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedTier, setSelectedTier] = useState('all'); // 'all' | 'reconciliation' | 'normal' | 'high' | 'avg' | 'low'
   const [selectedHouse, setSelectedHouse] = useState('all'); // 'all' (18th Lok Sabha Default) | 'Rajya Sabha' | '17th Lok Sabha'
-  const [sortBy, setSortBy] = useState('ratio_desc'); // Default: Reconciled Disbursement / Sanctioned Ratio (High to Low)
+  const [sortBy, setSortBy] = useState('name'); // Default: MP Name (A–Z)
   const [viewMode, setViewMode] = useState('grid'); // 'grid' | 'list'
   const [currentPage, setCurrentPage] = useState(1);
 
@@ -1089,7 +1089,7 @@ const BrowseMpsView = () => {
                       {isHi ? 'प्रमाणित व्यय' : 'ACTUAL'}
                     </div>
                     <div style={{ fontSize: '0.98rem', fontWeight: 800, color: '#1E7E34', marginTop: '0.15rem' }}>
-                      ₹{mp.actualCr ?? 0} <span style={{ fontSize: '0.66rem' }}>CR</span>
+                      ₹{mp.actualCr ?? mp.spentCr ?? mp.disbursedCr ?? 0} <span style={{ fontSize: '0.66rem' }}>CR</span>
                     </div>
                   </div>
                 </div>
@@ -1314,7 +1314,7 @@ const BrowseMpsView = () => {
                   </div>
                   <div>
                     <div style={{ fontSize: '0.64rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>{isHi ? 'प्रमाणित व्यय' : 'ACTUAL'}</div>
-                    <div style={{ fontSize: '1.05rem', fontWeight: 800, color: '#1E7E34' }}>₹{mp.actualCr ?? 0} CR</div>
+                    <div style={{ fontSize: '1.05rem', fontWeight: 800, color: '#1E7E34' }}>₹{mp.actualCr ?? mp.spentCr ?? mp.disbursedCr ?? 0} CR</div>
                   </div>
                   <div>
                     <div style={{ fontSize: '0.64rem', fontWeight: 800, color: 'var(--color-text-muted)' }}>{isHi ? 'अनुपात' : 'RATIO'}</div>
