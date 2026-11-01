@@ -1,0 +1,196 @@
+{
+  "current_records_loaded": 540,
+  "successfully_matched": 540,
+  "unmatched": 0,
+  "ambiguous_matches_resolved": 9,
+  "historical_17th_records_excluded": 544,
+  "rajya_sabha_records_retained": 235,
+  "ambiguous_details": [
+    {
+      "name": "Bharti, Shri Arun",
+      "constituency": "Jamui(SC)",
+      "state": "Bihar",
+      "resolved_to": "ARUN BHARTI",
+      "score": 2
+    },
+    {
+      "name": "Choudhury, Shri Phani Bhusan",
+      "constituency": "Barpeta",
+      "state": "Assam",
+      "resolved_to": "PHANI BHUSAN CHOUDHURY",
+      "score": 3
+    },
+    {
+      "name": "Gautam, Shri Satish Kumar",
+      "constituency": "Aligarh",
+      "state": "Uttar Pradesh",
+      "resolved_to": "Shri Satish Kumar Gautam ",
+      "score": 3
+    },
+    {
+      "name": "Jaiswal, Shri Manish",
+      "constituency": "Hazaribagh",
+      "state": "Jharkhand",
+      "resolved_to": "MANISH JAISWAL",
+      "score": 2
+    },
+    {
+      "name": "M S, Shri Tharaniventhan",
+      "constituency": "Arani",
+      "state": "Tamil Nadu",
+      "resolved_to": "THARANIVENTHAN M S",
+      "score": 1
+    },
+    {
+      "name": "Pandey, Shri Sanatan",
+      "constituency": "Ballia",
+      "state": "Uttar Pradesh",
+      "resolved_to": "SANATAN PANDEY",
+      "score": 2
+    },
+    {
+      "name": "Rathor, Shri Rakesh",
+      "constituency": "Sitapur",
+      "state": "Uttar Pradesh",
+      "resolved_to": "RAKESH RATHOR",
+      "score": 2
+    },
+    {
+      "name": "Vasantrao, Shri Chavan Ravindra",
+      "constituency": "Nanded",
+      "state": "Maharashtra",
+      "resolved_to": "Ravindra Vasantrao Chavan",
+      "score": 3
+    },
+    {
+      "name": "Yadav, Shri Dharmendra",
+      "constituency": "Azamgarh",
+      "state": "Uttar Pradesh",
+      "resolved_to": "DHARMENDRA YADAV",
+      "score": 2
+    }
+  ],
+  "unmatched_details": [],
+  "sample_matched": [
+    {
+      "mp_name": "Mani A",
+      "party": "DMK",
+      "constituency": "DHARAMAPURI",
+      "state": "Tamil Nadu",
+      "mp_id": 3042461,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Raja A",
+      "party": "DMK",
+      "constituency": "NILGIRIS(SC)",
+      "state": "Tamil Nadu",
+      "mp_id": 3019151,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Brijmohan Agrawal",
+      "party": "BJP",
+      "constituency": "RAIPUR",
+      "state": "Chhattisgarh",
+      "mp_id": 3043392,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Damodar Agrawal",
+      "party": "BJP",
+      "constituency": "BHILWARA",
+      "state": "Rajasthan",
+      "mp_id": 3042447,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Narayandas Ahirwar",
+      "party": "SP",
+      "constituency": "JALAUN(SC)",
+      "state": "Uttar Pradesh",
+      "mp_id": 3042510,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Mian Altaf Ahmad",
+      "party": "JKNC",
+      "constituency": "ANANTNAG",
+      "state": "Jammu And Kashmir",
+      "mp_id": 3042348,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Sajda Ahmed",
+      "party": "TMC",
+      "constituency": "ULUBERIA",
+      "state": "West Bengal",
+      "mp_id": 3019237,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Angomcha Bimol Akoijam",
+      "party": "INC",
+      "constituency": "INNER MANIPUR",
+      "state": "Manipur",
+      "mp_id": 3044252,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Lovely Anand",
+      "party": "JD(U)",
+      "constituency": "SHEOHAR",
+      "state": "Bihar",
+      "mp_id": 3044146,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "D M Kathir Anand",
+      "party": "DMK",
+      "constituency": "VELLORE",
+      "state": "Tamil Nadu",
+      "mp_id": 3019994,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "C N Annadurai",
+      "party": "DMK",
+      "constituency": "TIRUVANNAMALAI",
+      "state": "Tamil Nadu",
+      "mp_id": 3019242,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Afzal Ansari",
+      "party": "SP",
+      "constituency": "GHAZIPUR",
+      "state": "Uttar Pradesh",
+      "mp_id": 3045253,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Anto Antony",
+      "party": "INC",
+      "constituency": "PATHANAMTHITTA",
+      "state": "Kerala",
+      "mp_id": 3019048,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Tariq Anwar",
+      "party": "INC",
+      "constituency": "KATIHAR",
+      "state": "Bihar",
+      "mp_id": 3042313,
+      "match_type": "Exact unique constituency match"
+    },
+    {
+      "mp_name": "Alfred Kanngam S Arthur",
+      "party": "INC",
+      "constituency": "OUTER MANIPUR(ST)",
+      "state": "Manipur",
+      "mp_id": 3044251,
+      "match_type": "Exact unique constituency match"
+    }
+  ]
+}
