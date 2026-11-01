@@ -23,7 +23,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10001",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017378-2",
@@ -48,7 +49,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10002",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018950-2",
@@ -73,7 +75,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10003",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042295-2",
@@ -98,7 +101,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10004",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042296-2",
@@ -123,7 +127,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10005",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042297-2",
@@ -148,7 +153,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10006",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042299-2",
@@ -173,7 +179,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10007",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042301-2",
@@ -198,7 +205,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10008",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042298-2",
@@ -223,7 +231,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10009",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042302-2",
@@ -248,7 +257,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10010",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042304-2",
@@ -273,7 +283,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10011",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042305-2",
@@ -298,7 +309,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10012",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018955-2",
@@ -323,7 +335,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10013",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018957-2",
@@ -348,7 +361,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10014",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018347-2",
@@ -373,7 +387,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10015",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042300-2",
@@ -398,7 +413,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10016",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018958-2",
@@ -423,7 +439,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10017",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042306-2",
@@ -448,7 +465,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10018",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042307-2",
@@ -473,7 +491,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10019",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042308-2",
@@ -498,7 +517,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10020",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042309-2",
@@ -523,7 +543,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10021",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042311-2",
@@ -548,7 +569,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10022",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042312-2",
@@ -573,7 +595,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10023",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042313-2",
@@ -598,7 +621,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10024",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042314-2",
@@ -623,7 +647,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10025",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042315-2",
@@ -648,7 +673,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10026",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042317-2",
@@ -673,7 +699,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10027",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042318-2",
@@ -698,7 +725,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10028",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042319-2",
@@ -723,7 +751,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10029",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042320-2",
@@ -748,7 +777,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10030",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042321-2",
@@ -773,7 +803,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10031",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042316-2",
@@ -798,7 +829,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10032",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018355-2",
@@ -823,7 +855,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10033",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018966-2",
@@ -848,7 +881,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10034",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018967-2",
@@ -873,7 +907,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10035",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018351-2",
@@ -898,7 +933,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10036",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018360-2",
@@ -923,7 +959,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10037",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017384-2",
@@ -948,7 +985,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10038",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018975-2",
@@ -973,7 +1011,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10039",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042568-1",
@@ -998,7 +1037,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10040",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066167-1",
@@ -1023,7 +1063,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10041",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066186-1",
@@ -1048,7 +1089,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10042",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066187-1",
@@ -1073,7 +1115,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10043",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017305-1",
@@ -1098,7 +1141,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10044",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017307-1",
@@ -1123,7 +1167,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10045",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017308-1",
@@ -1148,7 +1193,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10046",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3056872-1",
@@ -1173,7 +1219,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10047",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3058540-1",
@@ -1198,7 +1245,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10048",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3059270-1",
@@ -1223,7 +1271,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10049",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3059272-1",
@@ -1248,7 +1297,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10050",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3059498-1",
@@ -1273,7 +1323,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10051",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3061320-1",
@@ -1298,7 +1349,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10052",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017301-1",
@@ -1323,7 +1375,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10053",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017300-1",
@@ -1348,7 +1401,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10054",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065276-1",
@@ -1373,7 +1427,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10055",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065298-1",
@@ -1398,7 +1453,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10056",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065417-1",
@@ -1423,7 +1479,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10057",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066269-1",
@@ -1448,7 +1505,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10058",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066551-1",
@@ -1473,7 +1531,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10059",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3067975-1",
@@ -1498,7 +1557,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10060",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017332-1",
@@ -1523,7 +1583,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10061",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017334-1",
@@ -1548,7 +1609,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10062",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017337-1",
@@ -1573,7 +1635,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10063",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017338-1",
@@ -1598,7 +1661,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10064",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042323-2",
@@ -1623,7 +1687,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10065",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017339-1",
@@ -1648,7 +1713,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10066",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017340-1",
@@ -1673,7 +1739,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10067",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017343-1",
@@ -1698,7 +1765,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10068",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017344-1",
@@ -1723,7 +1791,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10069",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017345-1",
@@ -1748,7 +1817,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10070",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019262-1",
@@ -1773,7 +1843,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10071",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042324-2",
@@ -1798,7 +1869,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10072",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042325-2",
@@ -1823,7 +1895,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10073",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042327-2",
@@ -1848,7 +1921,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10074",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042328-2",
@@ -1873,7 +1947,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10075",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042326-2",
@@ -1898,7 +1973,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10076",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018986-2",
@@ -1923,7 +1999,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10077",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018366-2",
@@ -1948,7 +2025,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10078",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018365-2",
@@ -1973,7 +2051,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10079",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043391-2",
@@ -1998,7 +2077,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10080",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043392-2",
@@ -2023,7 +2103,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10081",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043715-2",
@@ -2048,7 +2129,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10082",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020007-2",
@@ -2073,7 +2155,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10083",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045894-2",
@@ -2098,7 +2181,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10084",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045891-2",
@@ -2123,7 +2207,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10085",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045896-2",
@@ -2148,7 +2233,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10086",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045893-2",
@@ -2173,7 +2259,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10087",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045895-2",
@@ -2198,7 +2285,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10088",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045892-2",
@@ -2223,7 +2311,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10089",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018989-2",
@@ -2248,7 +2337,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10090",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019264-1",
@@ -2273,7 +2363,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10091",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042551-1",
@@ -2298,7 +2389,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10092",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042920-1",
@@ -2323,7 +2415,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10093",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042921-1",
@@ -2348,7 +2441,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10094",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017341-1",
@@ -2373,7 +2467,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10095",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043036-1",
@@ -2398,7 +2493,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10096",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043325-1",
@@ -2423,7 +2519,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10097",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017342-1",
@@ -2448,7 +2545,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10098",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043534-1",
@@ -2473,7 +2571,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10099",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044168-1",
@@ -2498,7 +2597,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10100",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045224-1",
@@ -2523,7 +2623,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10101",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066935-1",
@@ -2548,7 +2649,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10102",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017389-2",
@@ -2573,7 +2675,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10103",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042338-2",
@@ -2598,7 +2701,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10104",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042340-2",
@@ -2623,7 +2727,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10105",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042341-2",
@@ -2648,7 +2753,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10106",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042342-2",
@@ -2673,7 +2779,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10107",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042343-2",
@@ -2698,7 +2805,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10108",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042344-2",
@@ -2723,7 +2831,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10109",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042345-2",
@@ -2748,7 +2857,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10110",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018368-2",
@@ -2773,7 +2883,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10111",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017394-2",
@@ -2798,7 +2909,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10112",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019007-2",
@@ -2823,7 +2935,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10113",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042347-2",
@@ -2848,7 +2961,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10114",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019014-2",
@@ -2873,7 +2987,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10115",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043229-2",
@@ -2898,7 +3013,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10116",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018369-2",
@@ -2923,7 +3039,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10117",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042348-2",
@@ -2948,7 +3065,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10118",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042349-2",
@@ -2973,7 +3091,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10119",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017396-2",
@@ -2998,7 +3117,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10120",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019016-2",
@@ -3023,7 +3143,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10121",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044682-2",
@@ -3048,7 +3169,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10122",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042350-2",
@@ -3073,7 +3195,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10123",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042351-2",
@@ -3098,7 +3221,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10124",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042352-2",
@@ -3123,7 +3247,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10125",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042353-2",
@@ -3148,7 +3273,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10126",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042354-2",
@@ -3173,7 +3299,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10127",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042356-2",
@@ -3198,7 +3325,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10128",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019020-2",
@@ -3223,7 +3351,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10129",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019022-2",
@@ -3248,7 +3377,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10130",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018370-2",
@@ -3273,7 +3403,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10131",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019023-2",
@@ -3298,7 +3429,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10132",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018372-2",
@@ -3323,7 +3455,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10133",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043223-2",
@@ -3348,7 +3481,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10134",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018374-2",
@@ -3373,7 +3507,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10135",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017399-2",
@@ -3398,7 +3533,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10136",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042357-2",
@@ -3423,7 +3559,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10137",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042358-2",
@@ -3448,7 +3585,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10138",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042359-2",
@@ -3473,7 +3611,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10139",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042360-2",
@@ -3498,7 +3637,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10140",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042361-2",
@@ -3523,7 +3663,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10141",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042362-2",
@@ -3548,7 +3689,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10142",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042363-2",
@@ -3573,7 +3715,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10143",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042364-2",
@@ -3598,7 +3741,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10144",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042365-2",
@@ -3623,7 +3767,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10145",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042366-2",
@@ -3648,7 +3793,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10146",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042367-2",
@@ -3673,7 +3819,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10147",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042368-2",
@@ -3698,7 +3845,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10148",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042369-2",
@@ -3723,7 +3871,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10149",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042370-2",
@@ -3748,7 +3897,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10150",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042371-2",
@@ -3773,7 +3923,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10151",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042372-2",
@@ -3798,7 +3949,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10152",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042373-2",
@@ -3823,7 +3975,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10153",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042374-2",
@@ -3848,7 +4001,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10154",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042376-2",
@@ -3873,7 +4027,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10155",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042375-2",
@@ -3898,7 +4053,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10156",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042380-2",
@@ -3923,7 +4079,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10157",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042377-2",
@@ -3948,7 +4105,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10158",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042379-2",
@@ -3973,7 +4131,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10159",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042378-2",
@@ -3998,7 +4157,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10160",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017417-2",
@@ -4023,7 +4183,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10161",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017408-2",
@@ -4048,7 +4209,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10162",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017409-2",
@@ -4073,7 +4235,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10163",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017410-2",
@@ -4098,7 +4261,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10164",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017411-2",
@@ -4123,7 +4287,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10165",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017413-2",
@@ -4148,7 +4313,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10166",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017418-2",
@@ -4173,7 +4339,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10167",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018377-2",
@@ -4198,7 +4365,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10168",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017416-2",
@@ -4223,7 +4391,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10169",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043914-2",
@@ -4248,7 +4417,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10170",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042791-2",
@@ -4273,7 +4443,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10171",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042381-2",
@@ -4298,7 +4469,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10172",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042382-2",
@@ -4323,7 +4495,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10173",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042383-2",
@@ -4348,7 +4521,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10174",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042384-2",
@@ -4373,7 +4547,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10175",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042385-2",
@@ -4398,7 +4573,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10176",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042386-2",
@@ -4423,7 +4599,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10177",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042393-2",
@@ -4448,7 +4625,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10178",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042394-2",
@@ -4473,7 +4651,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10179",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042395-2",
@@ -4498,7 +4677,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10180",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042396-2",
@@ -4523,7 +4703,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10181",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042397-2",
@@ -4548,7 +4729,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10182",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042398-2",
@@ -4573,7 +4755,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10183",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042399-2",
@@ -4598,7 +4781,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10184",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042401-2",
@@ -4623,7 +4807,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10185",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042402-2",
@@ -4648,7 +4833,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10186",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042403-2",
@@ -4673,7 +4859,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10187",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042404-2",
@@ -4698,7 +4885,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10188",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042405-2",
@@ -4723,7 +4911,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10189",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042406-2",
@@ -4748,7 +4937,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10190",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042407-2",
@@ -4773,7 +4963,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10191",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042409-2",
@@ -4798,7 +4989,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10192",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042410-2",
@@ -4823,7 +5015,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10193",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042411-2",
@@ -4848,7 +5041,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10194",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042412-2",
@@ -4873,7 +5067,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10195",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042413-2",
@@ -4898,7 +5093,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10196",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042414-2",
@@ -4923,7 +5119,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10197",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042415-2",
@@ -4948,7 +5145,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10198",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042416-2",
@@ -4973,7 +5171,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10199",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042417-2",
@@ -4998,7 +5197,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10200",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042418-2",
@@ -5023,7 +5223,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10201",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044252-2",
@@ -5048,7 +5249,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10202",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044251-2",
@@ -5073,7 +5275,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10203",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042422-2",
@@ -5098,7 +5301,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10204",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042794-2",
@@ -5123,7 +5327,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10205",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042423-2",
@@ -5148,7 +5353,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10206",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045278-2",
@@ -5173,7 +5379,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10207",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042424-2",
@@ -5198,7 +5405,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10208",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042425-2",
@@ -5223,7 +5431,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10209",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042426-2",
@@ -5248,7 +5457,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10210",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042427-2",
@@ -5273,7 +5483,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10211",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042428-2",
@@ -5298,7 +5509,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10212",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042429-2",
@@ -5323,7 +5535,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10213",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042430-2",
@@ -5348,7 +5561,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10214",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019122-2",
@@ -5373,7 +5587,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10215",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042437-2",
@@ -5398,7 +5613,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10216",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042438-2",
@@ -5423,7 +5639,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10217",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042439-2",
@@ -5448,7 +5665,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10218",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042440-2",
@@ -5473,7 +5691,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10219",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042441-2",
@@ -5498,7 +5717,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10220",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042442-2",
@@ -5523,7 +5743,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10221",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043498-2",
@@ -5548,7 +5769,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10222",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017446-2",
@@ -5573,7 +5795,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10223",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017445-2",
@@ -5598,7 +5821,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10224",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042796-2",
@@ -5623,7 +5847,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10225",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042913-2",
@@ -5648,7 +5873,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10226",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042444-2",
@@ -5673,7 +5899,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10227",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042445-2",
@@ -5698,7 +5925,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10228",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042446-2",
@@ -5723,7 +5951,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10229",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042447-2",
@@ -5748,7 +5977,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10230",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042448-2",
@@ -5773,7 +6003,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10231",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042449-2",
@@ -5798,7 +6029,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10232",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042450-2",
@@ -5823,7 +6055,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10233",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042451-2",
@@ -5848,7 +6081,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10234",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042452-2",
@@ -5873,7 +6107,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10235",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042453-2",
@@ -5898,7 +6133,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10236",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042454-2",
@@ -5923,7 +6159,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10237",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042455-2",
@@ -5948,7 +6185,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10238",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017174-2",
@@ -5973,7 +6211,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10239",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042473-2",
@@ -5998,7 +6237,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10240",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042458-2",
@@ -6023,7 +6263,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10241",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042459-2",
@@ -6048,7 +6289,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10242",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042461-2",
@@ -6073,7 +6315,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10243",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042462-2",
@@ -6098,7 +6341,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10244",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042463-2",
@@ -6123,7 +6367,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10245",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042464-2",
@@ -6148,7 +6393,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10246",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042467-2",
@@ -6173,7 +6419,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10247",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042468-2",
@@ -6198,7 +6445,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10248",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042471-2",
@@ -6223,7 +6471,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10249",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042472-2",
@@ -6248,7 +6497,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10250",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042474-2",
@@ -6273,7 +6523,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10251",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042475-2",
@@ -6298,7 +6549,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10252",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042460-2",
@@ -6323,7 +6575,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10253",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042466-2",
@@ -6348,7 +6601,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10254",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042470-2",
@@ -6373,7 +6627,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10255",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017455-2",
@@ -6398,7 +6653,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10256",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019643-2",
@@ -6423,7 +6679,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10257",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018396-2",
@@ -6448,7 +6705,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10258",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019167-2",
@@ -6473,7 +6731,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10259",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019154-2",
@@ -6498,7 +6757,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10260",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042476-2",
@@ -6523,7 +6783,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10261",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042477-2",
@@ -6548,7 +6809,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10262",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042478-2",
@@ -6573,7 +6835,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10263",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042479-2",
@@ -6598,7 +6861,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10264",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042480-2",
@@ -6623,7 +6887,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10265",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042481-2",
@@ -6648,7 +6913,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10266",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042482-2",
@@ -6673,7 +6939,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10267",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019172-2",
@@ -6698,7 +6965,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10268",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019176-2",
@@ -6723,7 +6991,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10269",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043284-2",
@@ -6748,7 +7017,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10270",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043394-2",
@@ -6773,7 +7043,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10271",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019181-2",
@@ -6798,7 +7069,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10272",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042483-2",
@@ -6823,7 +7095,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10273",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3041086-2",
@@ -6848,7 +7121,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10274",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042484-2",
@@ -6873,7 +7147,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10275",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042485-2",
@@ -6898,7 +7173,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10276",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042500-2",
@@ -6923,7 +7199,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10277",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042486-2",
@@ -6948,7 +7225,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10278",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042487-2",
@@ -6973,7 +7251,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10279",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042488-2",
@@ -6998,7 +7277,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10280",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018415-2",
@@ -7023,7 +7303,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10281",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017176-2",
@@ -7048,7 +7329,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10282",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018414-2",
@@ -7073,7 +7355,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10283",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3047111-2",
@@ -7098,7 +7381,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10284",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3047110-2",
@@ -7123,7 +7407,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10285",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042532-2",
@@ -7148,7 +7433,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10286",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042533-2",
@@ -7173,7 +7459,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10287",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042534-2",
@@ -7198,7 +7485,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10288",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042535-2",
@@ -7223,7 +7511,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10289",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042536-2",
@@ -7248,7 +7537,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10290",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042538-2",
@@ -7273,7 +7563,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10291",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042539-2",
@@ -7298,7 +7589,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10292",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042541-2",
@@ -7323,7 +7615,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10293",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042543-2",
@@ -7348,7 +7641,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10294",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042545-2",
@@ -7373,7 +7667,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10295",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042546-2",
@@ -7398,7 +7693,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10296",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042547-2",
@@ -7423,7 +7719,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10297",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017196-1",
@@ -7448,7 +7745,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10298",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019255-1",
@@ -7473,7 +7771,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10299",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043037-1",
@@ -7498,7 +7797,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10300",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043337-1",
@@ -7523,7 +7823,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10301",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044299-1",
@@ -7548,7 +7849,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10302",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3050536-1",
@@ -7573,7 +7875,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10303",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3050537-1",
@@ -7598,7 +7901,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10304",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3056236-1",
@@ -7623,7 +7927,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10305",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066164-1",
@@ -7648,7 +7953,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10306",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066214-1",
@@ -7673,7 +7979,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10307",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066270-1",
@@ -7698,7 +8005,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10308",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3050535-1",
@@ -7723,7 +8031,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10309",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066421-1",
@@ -7748,7 +8057,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10310",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017222-1",
@@ -7773,7 +8083,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10311",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019246-1",
@@ -7798,7 +8109,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10312",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3056512-1",
@@ -7823,7 +8135,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10313",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017224-1",
@@ -7848,7 +8161,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10314",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065277-1",
@@ -7873,7 +8187,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10315",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065299-1",
@@ -7898,7 +8213,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10316",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066097-1",
@@ -7923,7 +8239,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10317",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017167-1",
@@ -7948,7 +8265,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10318",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017197-1",
@@ -7973,7 +8291,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10319",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017208-1",
@@ -7998,7 +8317,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10320",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017209-1",
@@ -8023,7 +8343,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10321",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042570-1",
@@ -8048,7 +8369,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10322",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017198-1",
@@ -8073,7 +8395,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10323",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043338-1",
@@ -8098,7 +8421,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10324",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017200-1",
@@ -8123,7 +8447,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10325",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043454-1",
@@ -8148,7 +8473,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10326",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043455-1",
@@ -8173,7 +8499,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10327",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3046284-1",
@@ -8198,7 +8525,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10328",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3046285-1",
@@ -8223,7 +8551,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10329",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064962-1",
@@ -8248,7 +8577,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10330",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065300-1",
@@ -8273,7 +8603,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10331",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065569-1",
@@ -8298,7 +8629,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10332",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044092-1",
@@ -8323,7 +8655,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10333",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017318-1",
@@ -8348,7 +8681,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10334",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017501-1",
@@ -8373,7 +8707,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10335",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043409-1",
@@ -8398,7 +8733,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10336",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017500-1",
@@ -8423,7 +8759,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10337",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065578-1",
@@ -8448,7 +8785,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10338",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045897-1",
@@ -8473,7 +8811,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10339",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020006-1",
@@ -8498,7 +8837,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10340",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020005-1",
@@ -8523,7 +8863,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10341",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3061061-1",
@@ -8548,7 +8889,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10342",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3022960-1",
@@ -8573,7 +8915,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10343",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3025895-1",
@@ -8598,7 +8941,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10344",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3026513-1",
@@ -8623,7 +8967,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10345",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3027305-1",
@@ -8648,7 +8993,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10346",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042558-1",
@@ -8673,7 +9019,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10347",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042561-1",
@@ -8698,7 +9045,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10348",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045962-1",
@@ -8723,7 +9071,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10349",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3046565-1",
@@ -8748,7 +9097,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10350",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066440-1",
@@ -8773,7 +9123,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10351",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066468-1",
@@ -8798,7 +9149,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10352",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066616-1",
@@ -8823,7 +9175,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10353",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017503-1",
@@ -8848,7 +9201,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10354",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045909-1",
@@ -8873,7 +9227,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10355",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3049850-1",
@@ -8898,7 +9253,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10356",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064657-1",
@@ -8923,7 +9279,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10357",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064963-1",
@@ -8948,7 +9305,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10358",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017229-1",
@@ -8973,7 +9331,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10359",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042922-1",
@@ -8998,7 +9357,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10360",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064835-1",
@@ -9023,7 +9383,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10361",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019254-1",
@@ -9048,7 +9409,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10362",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017287-1",
@@ -9073,7 +9435,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10363",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017288-1",
@@ -9098,7 +9461,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10364",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017289-1",
@@ -9123,7 +9487,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10365",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017290-1",
@@ -9148,7 +9513,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10366",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042555-1",
@@ -9173,7 +9539,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10367",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042565-1",
@@ -9198,7 +9565,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10368",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017184-1",
@@ -9223,7 +9591,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10369",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017232-1",
@@ -9248,7 +9617,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10370",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043536-1",
@@ -9273,7 +9643,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10371",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045173-1",
@@ -9298,7 +9669,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10372",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017235-1",
@@ -9323,7 +9695,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10373",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017243-1",
@@ -9348,7 +9721,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10374",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019253-1",
@@ -9373,7 +9747,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10375",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019248-1",
@@ -9398,7 +9773,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10376",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019249-1",
@@ -9423,7 +9799,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10377",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017245-1",
@@ -9448,7 +9825,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10378",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017246-1",
@@ -9473,7 +9851,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10379",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017247-1",
@@ -9498,7 +9877,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10380",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017250-1",
@@ -9523,7 +9903,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10381",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017252-1",
@@ -9548,7 +9929,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10382",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017253-1",
@@ -9573,7 +9955,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10383",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019257-1",
@@ -9598,7 +9981,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10384",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043324-1",
@@ -9623,7 +10007,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10385",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017251-1",
@@ -9648,7 +10033,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10386",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3046257-1",
@@ -9673,7 +10059,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10387",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3056873-1",
@@ -9698,7 +10085,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10388",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017254-1",
@@ -9723,7 +10111,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10389",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017257-1",
@@ -9748,7 +10137,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10390",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017258-1",
@@ -9773,7 +10163,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10391",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042554-1",
@@ -9798,7 +10189,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10392",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042567-1",
@@ -9823,7 +10215,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10393",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043035-1",
@@ -9848,7 +10241,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10394",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043966-1",
@@ -9873,7 +10267,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10395",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017255-1",
@@ -9898,7 +10293,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10396",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065971-1",
@@ -9923,7 +10319,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10397",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066552-1",
@@ -9948,7 +10345,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10398",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066667-1",
@@ -9973,7 +10371,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10399",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017259-1",
@@ -9998,7 +10397,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10400",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017263-1",
@@ -10023,7 +10423,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10401",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017264-1",
@@ -10048,7 +10449,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10402",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017267-1",
@@ -10073,7 +10475,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10403",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042556-1",
@@ -10098,7 +10501,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10404",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042557-1",
@@ -10123,7 +10527,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10405",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042559-1",
@@ -10148,7 +10553,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10406",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042560-1",
@@ -10173,7 +10579,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10407",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042562-1",
@@ -10198,7 +10605,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10408",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065973-1",
@@ -10223,7 +10631,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10409",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065972-1",
@@ -10248,7 +10657,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10410",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066422-1",
@@ -10273,7 +10683,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10411",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017509-1",
@@ -10298,7 +10709,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10412",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017365-1",
@@ -10323,7 +10735,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10413",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017366-1",
@@ -10348,7 +10761,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10414",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017372-1",
@@ -10373,7 +10787,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10415",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042553-1",
@@ -10398,7 +10813,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10416",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017368-1",
@@ -10423,7 +10839,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10417",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064658-1",
@@ -10448,7 +10865,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10418",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3049783-1",
@@ -10473,7 +10891,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10419",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064961-1",
@@ -10498,7 +10917,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10420",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066023-1",
@@ -10523,7 +10943,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10421",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066499-1",
@@ -10548,7 +10969,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10422",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017281-1",
@@ -10573,7 +10995,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10423",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017282-1",
@@ -10598,7 +11021,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10424",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017283-1",
@@ -10623,7 +11047,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10425",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017510-1",
@@ -10648,7 +11073,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10426",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017511-1",
@@ -10673,7 +11099,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10427",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019259-1",
@@ -10698,7 +11125,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10428",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019258-1",
@@ -10723,7 +11151,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10429",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3060764-1",
@@ -10748,7 +11177,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10430",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3023700-1",
@@ -10773,7 +11203,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10431",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017375-2",
@@ -10798,7 +11229,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10432",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017376-2",
@@ -10823,7 +11255,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10433",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017377-2",
@@ -10848,7 +11281,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10434",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018338-2",
@@ -10873,7 +11307,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10435",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018339-2",
@@ -10898,7 +11333,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10436",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042552-1",
@@ -10923,7 +11359,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10437",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018937-2",
@@ -10948,7 +11385,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10438",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018340-2",
@@ -10973,7 +11411,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10439",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018341-2",
@@ -10998,7 +11437,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10440",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018342-2",
@@ -11023,7 +11463,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10441",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018343-2",
@@ -11048,7 +11489,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10442",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018344-2",
@@ -11073,7 +11515,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10443",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018345-2",
@@ -11098,7 +11541,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10444",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018936-2",
@@ -11123,7 +11567,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10445",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018938-2",
@@ -11148,7 +11593,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10446",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018939-2",
@@ -11173,7 +11619,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10447",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018940-2",
@@ -11198,7 +11645,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10448",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018941-2",
@@ -11223,7 +11671,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10449",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017168-1",
@@ -11248,7 +11697,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10450",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017170-1",
@@ -11273,7 +11723,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10451",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017304-1",
@@ -11298,7 +11749,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10452",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017310-1",
@@ -11323,7 +11775,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10453",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019261-1",
@@ -11348,7 +11801,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10454",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044300-1",
@@ -11373,7 +11827,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10455",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044741-1",
@@ -11398,7 +11853,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10456",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017313-1",
@@ -11423,7 +11879,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10457",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3047083-1",
@@ -11448,7 +11905,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10458",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3046918-1",
@@ -11473,7 +11931,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10459",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017171-1",
@@ -11498,7 +11957,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10460",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017322-1",
@@ -11523,7 +11983,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10461",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017323-1",
@@ -11548,7 +12009,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10462",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017324-1",
@@ -11573,7 +12035,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10463",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017325-1",
@@ -11598,7 +12061,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10464",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017328-1",
@@ -11623,7 +12087,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10465",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017329-1",
@@ -11648,7 +12113,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10466",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017330-1",
@@ -11673,7 +12139,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10467",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017331-1",
@@ -11698,7 +12165,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10468",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017346-1",
@@ -11723,7 +12191,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10469",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019265-1",
@@ -11748,7 +12217,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10470",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043339-1",
@@ -11773,7 +12243,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10471",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3023812-1",
@@ -11798,7 +12269,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10472",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3032002-1",
@@ -11823,7 +12295,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10473",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042569-1",
@@ -11848,7 +12321,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10474",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017362-1",
@@ -11873,7 +12347,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10475",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017360-1",
@@ -11898,7 +12373,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10476",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044811-1",
@@ -11923,7 +12399,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10477",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044812-1",
@@ -11948,7 +12425,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10478",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017359-1",
@@ -11973,7 +12451,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10479",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3056687-1",
@@ -11998,7 +12477,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10480",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065548-1",
@@ -12023,7 +12503,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10481",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066259-1",
@@ -12048,7 +12529,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10482",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066271-1",
@@ -12073,7 +12555,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10483",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066666-1",
@@ -12098,7 +12581,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10484",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018942-2",
@@ -12123,7 +12607,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10485",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018943-2",
@@ -12148,7 +12633,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10486",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018944-2",
@@ -12173,7 +12659,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10487",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018945-2",
@@ -12198,7 +12685,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10488",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018946-2",
@@ -12223,7 +12711,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10489",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018947-2",
@@ -12248,7 +12737,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10490",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018948-2",
@@ -12273,7 +12763,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10491",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018949-2",
@@ -12298,7 +12789,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10492",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3021881-2",
@@ -12323,7 +12815,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10493",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017378-2",
@@ -12348,7 +12841,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10494",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018950-2",
@@ -12373,7 +12867,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10495",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017379-2",
@@ -12398,7 +12893,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10496",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017380-2",
@@ -12423,7 +12919,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10497",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018346-2",
@@ -12448,7 +12945,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10498",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018347-2",
@@ -12473,7 +12971,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10499",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018348-2",
@@ -12498,7 +12997,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10500",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018349-2",
@@ -12523,7 +13023,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10501",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018951-2",
@@ -12548,7 +13049,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10502",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018952-2",
@@ -12573,7 +13075,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10503",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018953-2",
@@ -12598,7 +13101,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10504",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018954-2",
@@ -12623,7 +13127,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10505",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018955-2",
@@ -12648,7 +13153,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10506",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018956-2",
@@ -12673,7 +13179,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10507",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018957-2",
@@ -12698,7 +13205,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10508",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018958-2",
@@ -12723,7 +13231,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10509",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017172-2",
@@ -12748,7 +13257,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10510",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017173-2",
@@ -12773,7 +13283,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10511",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017381-2",
@@ -12798,7 +13309,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10512",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017382-2",
@@ -12823,7 +13335,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10513",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017383-2",
@@ -12848,7 +13361,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10514",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017384-2",
@@ -12873,7 +13387,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10515",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017385-2",
@@ -12898,7 +13413,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10516",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018350-2",
@@ -12923,7 +13439,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10517",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018351-2",
@@ -12948,7 +13465,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10518",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018352-2",
@@ -12973,7 +13491,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10519",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018353-2",
@@ -12998,7 +13517,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10520",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018354-2",
@@ -13023,7 +13543,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10521",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018355-2",
@@ -13048,7 +13569,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10522",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018356-2",
@@ -13073,7 +13595,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10523",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018357-2",
@@ -13098,7 +13621,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10524",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018358-2",
@@ -13123,7 +13647,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10525",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018359-2",
@@ -13148,7 +13673,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10526",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018360-2",
@@ -13173,7 +13699,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10527",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018361-2",
@@ -13198,7 +13725,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10528",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018959-2",
@@ -13223,7 +13751,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10529",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018960-2",
@@ -13248,7 +13777,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10530",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018961-2",
@@ -13273,7 +13803,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10531",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018962-2",
@@ -13298,7 +13829,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10532",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018963-2",
@@ -13323,7 +13855,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10533",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018964-2",
@@ -13348,7 +13881,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10534",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018966-2",
@@ -13373,7 +13907,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10535",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018967-2",
@@ -13398,7 +13933,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10536",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018968-2",
@@ -13423,7 +13959,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10537",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018969-2",
@@ -13448,7 +13985,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10538",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018970-2",
@@ -13473,7 +14011,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10539",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018971-2",
@@ -13498,7 +14037,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10540",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018972-2",
@@ -13523,7 +14063,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10541",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018973-2",
@@ -13548,7 +14089,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10542",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018974-2",
@@ -13573,7 +14115,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10543",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018975-2",
@@ -13598,7 +14141,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10544",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018976-2",
@@ -13623,7 +14167,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10545",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018978-2",
@@ -13648,7 +14193,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10546",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018979-2",
@@ -13673,7 +14219,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10547",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018980-2",
@@ -13698,7 +14245,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10548",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018981-2",
@@ -13723,7 +14271,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10549",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018965-2",
@@ -13748,7 +14297,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10550",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3021513-2",
@@ -13773,7 +14323,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10551",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018982-2",
@@ -13798,7 +14349,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10552",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018362-2",
@@ -13823,7 +14375,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10553",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018363-2",
@@ -13848,7 +14401,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10554",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018364-2",
@@ -13873,7 +14427,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10555",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018365-2",
@@ -13898,7 +14453,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10556",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018366-2",
@@ -13923,7 +14479,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10557",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018983-2",
@@ -13948,7 +14505,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10558",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018984-2",
@@ -13973,7 +14531,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10559",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018985-2",
@@ -13998,7 +14557,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10560",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018986-2",
@@ -14023,7 +14583,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10561",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018987-2",
@@ -14048,7 +14609,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10562",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018988-2",
@@ -14073,7 +14635,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10563",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020008-2",
@@ -14098,7 +14661,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10564",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020007-2",
@@ -14123,7 +14687,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10565",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020002-2",
@@ -14148,7 +14713,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10566",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020003-2",
@@ -14173,7 +14739,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10567",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3020004-2",
@@ -14198,7 +14765,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10568",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019998-2",
@@ -14223,7 +14791,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10569",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019999-2",
@@ -14248,7 +14817,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10570",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018367-2",
@@ -14273,7 +14843,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10571",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018989-2",
@@ -14298,7 +14869,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10572",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017181-2",
@@ -14323,7 +14895,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10573",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017386-2",
@@ -14348,7 +14921,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10574",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017387-2",
@@ -14373,7 +14947,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10575",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017388-2",
@@ -14398,7 +14973,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10576",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017390-2",
@@ -14423,7 +14999,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10577",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017391-2",
@@ -14448,7 +15025,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10578",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017392-2",
@@ -14473,7 +15051,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10579",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017393-2",
@@ -14498,7 +15077,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10580",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018990-2",
@@ -14523,7 +15103,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10581",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018991-2",
@@ -14548,7 +15129,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10582",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018992-2",
@@ -14573,7 +15155,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10583",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018993-2",
@@ -14598,7 +15181,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10584",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018994-2",
@@ -14623,7 +15207,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10585",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018995-2",
@@ -14648,7 +15233,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10586",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018996-2",
@@ -14673,7 +15259,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10587",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018998-2",
@@ -14698,7 +15285,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10588",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018999-2",
@@ -14723,7 +15311,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10589",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019000-2",
@@ -14748,7 +15337,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10590",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019002-2",
@@ -14773,7 +15363,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10591",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019003-2",
@@ -14798,7 +15389,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10592",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019004-2",
@@ -14823,7 +15415,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10593",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019005-2",
@@ -14848,7 +15441,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10594",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019006-2",
@@ -14873,7 +15467,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10595",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018997-2",
@@ -14898,7 +15493,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10596",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018977-2",
@@ -14923,7 +15519,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10597",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019240-2",
@@ -14948,7 +15545,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10598",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019001-2",
@@ -14973,7 +15571,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10599",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3047999-2",
@@ -14998,7 +15597,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10600",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017394-2",
@@ -15023,7 +15623,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10601",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018368-2",
@@ -15048,7 +15649,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10602",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019007-2",
@@ -15073,7 +15675,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10603",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019008-2",
@@ -15098,7 +15701,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10604",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019009-2",
@@ -15123,7 +15727,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10605",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019010-2",
@@ -15148,7 +15753,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10606",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019011-2",
@@ -15173,7 +15779,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10607",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019012-2",
@@ -15198,7 +15805,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10608",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019238-2",
@@ -15223,7 +15831,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10609",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019239-2",
@@ -15248,7 +15857,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10610",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018369-2",
@@ -15273,7 +15883,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10611",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019013-2",
@@ -15298,7 +15909,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10612",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019014-2",
@@ -15323,7 +15935,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10613",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019015-2",
@@ -15348,7 +15961,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10614",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017395-2",
@@ -15373,7 +15987,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10615",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017396-2",
@@ -15398,7 +16013,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10616",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019016-2",
@@ -15423,7 +16039,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10617",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019017-2",
@@ -15448,7 +16065,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10618",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019018-2",
@@ -15473,7 +16091,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10619",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019019-2",
@@ -15498,7 +16117,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10620",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3026799-2",
@@ -15523,7 +16143,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10621",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017397-2",
@@ -15548,7 +16169,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10622",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017398-2",
@@ -15573,7 +16195,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10623",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017399-2",
@@ -15598,7 +16221,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10624",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018370-2",
@@ -15623,7 +16247,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10625",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018371-2",
@@ -15648,7 +16273,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10626",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018372-2",
@@ -15673,7 +16299,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10627",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018373-2",
@@ -15698,7 +16325,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10628",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018374-2",
@@ -15723,7 +16351,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10629",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019020-2",
@@ -15748,7 +16377,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10630",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019021-2",
@@ -15773,7 +16403,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10631",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019022-2",
@@ -15798,7 +16429,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10632",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019023-2",
@@ -15823,7 +16455,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10633",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019024-2",
@@ -15848,7 +16481,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10634",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019026-2",
@@ -15873,7 +16507,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10635",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019532-2",
@@ -15898,7 +16533,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10636",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019025-2",
@@ -15923,7 +16559,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10637",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017400-2",
@@ -15948,7 +16585,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10638",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017401-2",
@@ -15973,7 +16611,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10639",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017402-2",
@@ -15998,7 +16637,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10640",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017403-2",
@@ -16023,7 +16663,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10641",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017404-2",
@@ -16048,7 +16689,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10642",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017405-2",
@@ -16073,7 +16715,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10643",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017406-2",
@@ -16098,7 +16741,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10644",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019027-2",
@@ -16123,7 +16767,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10645",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019028-2",
@@ -16148,7 +16793,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10646",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019029-2",
@@ -16173,7 +16819,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10647",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019030-2",
@@ -16198,7 +16845,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10648",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019031-2",
@@ -16223,7 +16871,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10649",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019038-2",
@@ -16248,7 +16897,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10650",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019040-2",
@@ -16273,7 +16923,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10651",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019046-2",
@@ -16298,7 +16949,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10652",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019033-2",
@@ -16323,7 +16975,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10653",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019041-2",
@@ -16348,7 +17001,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10654",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019034-2",
@@ -16373,7 +17027,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10655",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019045-2",
@@ -16398,7 +17053,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10656",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019044-2",
@@ -16423,7 +17079,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10657",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019043-2",
@@ -16448,7 +17105,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10658",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019036-2",
@@ -16473,7 +17131,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10659",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019035-2",
@@ -16498,7 +17157,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10660",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019042-2",
@@ -16523,7 +17183,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10661",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019047-2",
@@ -16548,7 +17209,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10662",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019529-2",
@@ -16573,7 +17235,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10663",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019039-2",
@@ -16598,7 +17261,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10664",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019037-2",
@@ -16623,7 +17287,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10665",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017407-2",
@@ -16648,7 +17313,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10666",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017408-2",
@@ -16673,7 +17339,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10667",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017409-2",
@@ -16698,7 +17365,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10668",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017410-2",
@@ -16723,7 +17391,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10669",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017411-2",
@@ -16748,7 +17417,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10670",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017412-2",
@@ -16773,7 +17443,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10671",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017413-2",
@@ -16798,7 +17469,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10672",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017414-2",
@@ -16823,7 +17495,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10673",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017415-2",
@@ -16848,7 +17521,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10674",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017416-2",
@@ -16873,7 +17547,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10675",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017417-2",
@@ -16898,7 +17573,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10676",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017418-2",
@@ -16923,7 +17599,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10677",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017419-2",
@@ -16948,7 +17625,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10678",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018375-2",
@@ -16973,7 +17651,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10679",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018376-2",
@@ -16998,7 +17677,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10680",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018377-2",
@@ -17023,7 +17703,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10681",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019302-2",
@@ -17048,7 +17729,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10682",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3021488-2",
@@ -17073,7 +17755,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10683",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019050-2",
@@ -17098,7 +17781,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10684",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019048-2",
@@ -17123,7 +17807,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10685",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017420-2",
@@ -17148,7 +17833,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10686",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019436-2",
@@ -17173,7 +17859,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10687",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017177-2",
@@ -17198,7 +17885,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10688",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017421-2",
@@ -17223,7 +17911,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10689",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017422-2",
@@ -17248,7 +17937,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10690",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017423-2",
@@ -17273,7 +17963,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10691",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017424-2",
@@ -17298,7 +17989,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10692",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017425-2",
@@ -17323,7 +18015,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10693",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018378-2",
@@ -17348,7 +18041,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10694",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018379-2",
@@ -17373,7 +18067,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10695",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018380-2",
@@ -17398,7 +18093,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10696",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018381-2",
@@ -17423,7 +18119,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10697",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018382-2",
@@ -17448,7 +18145,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10698",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018383-2",
@@ -17473,7 +18171,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10699",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019065-2",
@@ -17498,7 +18197,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10700",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019056-2",
@@ -17523,7 +18223,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10701",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019067-2",
@@ -17548,7 +18249,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10702",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019066-2",
@@ -17573,7 +18275,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10703",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019052-2",
@@ -17598,7 +18301,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10704",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019058-2",
@@ -17623,7 +18327,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10705",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019057-2",
@@ -17648,7 +18353,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10706",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019069-2",
@@ -17673,7 +18379,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10707",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019068-2",
@@ -17698,7 +18405,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10708",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019064-2",
@@ -17723,7 +18431,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10709",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019055-2",
@@ -17748,7 +18457,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10710",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019060-2",
@@ -17773,7 +18483,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10711",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019053-2",
@@ -17798,7 +18509,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10712",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019061-2",
@@ -17823,7 +18535,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10713",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019059-2",
@@ -17848,7 +18561,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10714",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019070-2",
@@ -17873,7 +18587,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10715",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019063-2",
@@ -17898,7 +18613,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10716",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019054-2",
@@ -17923,7 +18639,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10717",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019062-2",
@@ -17948,7 +18665,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10718",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017426-2",
@@ -17973,7 +18691,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10719",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017427-2",
@@ -17998,7 +18717,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10720",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017428-2",
@@ -18023,7 +18743,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10721",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017429-2",
@@ -18048,7 +18769,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10722",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017430-2",
@@ -18073,7 +18795,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10723",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017431-2",
@@ -18098,7 +18821,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10724",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018384-2",
@@ -18123,7 +18847,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10725",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018385-2",
@@ -18148,7 +18873,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10726",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018386-2",
@@ -18173,7 +18899,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10727",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018387-2",
@@ -18198,7 +18925,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10728",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018388-2",
@@ -18223,7 +18951,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10729",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019303-2",
@@ -18248,7 +18977,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10730",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019087-2",
@@ -18273,7 +19003,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10731",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019100-2",
@@ -18298,7 +19029,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10732",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019642-2",
@@ -18323,7 +19055,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10733",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019088-2",
@@ -18348,7 +19081,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10734",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019097-2",
@@ -18373,7 +19107,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10735",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019071-2",
@@ -18398,7 +19133,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10736",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019079-2",
@@ -18423,7 +19159,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10737",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019093-2",
@@ -18448,7 +19185,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10738",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019090-2",
@@ -18473,7 +19211,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10739",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019073-2",
@@ -18498,7 +19237,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10740",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019095-2",
@@ -18523,7 +19263,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10741",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019103-2",
@@ -18548,7 +19289,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10742",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019080-2",
@@ -18573,7 +19315,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10743",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019078-2",
@@ -18598,7 +19341,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10744",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019076-2",
@@ -18623,7 +19367,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10745",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019099-2",
@@ -18648,7 +19393,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10746",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019075-2",
@@ -18673,7 +19419,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10747",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019092-2",
@@ -18698,7 +19445,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10748",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019101-2",
@@ -18723,7 +19471,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10749",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019085-2",
@@ -18748,7 +19497,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10750",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019077-2",
@@ -18773,7 +19523,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10751",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019091-2",
@@ -18798,7 +19549,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10752",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019089-2",
@@ -18823,7 +19575,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10753",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019096-2",
@@ -18848,7 +19601,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10754",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019104-2",
@@ -18873,7 +19627,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10755",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019082-2",
@@ -18898,7 +19653,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10756",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019084-2",
@@ -18923,7 +19679,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10757",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019106-2",
@@ -18948,7 +19705,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10758",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019102-2",
@@ -18973,7 +19731,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10759",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019105-2",
@@ -18998,7 +19757,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10760",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019094-2",
@@ -19023,7 +19783,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10761",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019098-2",
@@ -19048,7 +19809,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10762",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019072-2",
@@ -19073,7 +19835,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10763",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019086-2",
@@ -19098,7 +19861,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10764",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3035703-2",
@@ -19123,7 +19887,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10765",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019074-2",
@@ -19148,7 +19913,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10766",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3059947-2",
@@ -19173,7 +19939,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10767",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017432-2",
@@ -19198,7 +19965,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10768",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019107-2",
@@ -19223,7 +19991,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10769",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019108-2",
@@ -19248,7 +20017,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10770",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019109-2",
@@ -19273,7 +20043,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10771",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019110-2",
@@ -19298,7 +20069,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10772",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017433-2",
@@ -19323,7 +20095,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10773",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017373-2",
@@ -19348,7 +20121,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10774",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017434-2",
@@ -19373,7 +20147,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10775",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017435-2",
@@ -19398,7 +20173,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10776",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017436-2",
@@ -19423,7 +20199,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10777",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017437-2",
@@ -19448,7 +20225,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10778",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017438-2",
@@ -19473,7 +20251,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10779",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017439-2",
@@ -19498,7 +20277,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10780",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017440-2",
@@ -19523,7 +20303,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10781",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018389-2",
@@ -19548,7 +20329,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10782",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018390-2",
@@ -19573,7 +20355,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10783",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019121-2",
@@ -19598,7 +20381,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10784",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019118-2",
@@ -19623,7 +20407,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10785",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019113-2",
@@ -19648,7 +20433,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10786",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019120-2",
@@ -19673,7 +20459,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10787",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019114-2",
@@ -19698,7 +20485,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10788",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019119-2",
@@ -19723,7 +20511,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10789",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019116-2",
@@ -19748,7 +20537,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10790",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019117-2",
@@ -19773,7 +20563,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10791",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019115-2",
@@ -19798,7 +20589,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10792",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019111-2",
@@ -19823,7 +20615,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10793",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019112-2",
@@ -19848,7 +20641,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10794",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019122-2",
@@ -19873,7 +20667,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10795",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017448-2",
@@ -19898,7 +20693,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10796",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017450-2",
@@ -19923,7 +20719,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10797",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017451-2",
@@ -19948,7 +20745,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10798",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017452-2",
@@ -19973,7 +20771,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10799",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017453-2",
@@ -19998,7 +20797,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10800",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017454-2",
@@ -20023,7 +20823,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10801",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018391-2",
@@ -20048,7 +20849,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10802",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019137-2",
@@ -20073,7 +20875,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10803",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019145-2",
@@ -20098,7 +20901,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10804",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019139-2",
@@ -20123,7 +20927,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10805",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019133-2",
@@ -20148,7 +20953,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10806",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019144-2",
@@ -20173,7 +20979,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10807",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019131-2",
@@ -20198,7 +21005,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10808",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019136-2",
@@ -20223,7 +21031,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10809",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019140-2",
@@ -20248,7 +21057,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10810",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019141-2",
@@ -20273,7 +21083,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10811",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019130-2",
@@ -20298,7 +21109,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10812",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019134-2",
@@ -20323,7 +21135,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10813",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019138-2",
@@ -20348,7 +21161,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10814",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019143-2",
@@ -20373,7 +21187,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10815",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019132-2",
@@ -20398,7 +21213,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10816",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019142-2",
@@ -20423,7 +21239,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10817",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019135-2",
@@ -20448,7 +21265,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10818",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019129-2",
@@ -20473,7 +21291,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10819",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019128-2",
@@ -20498,7 +21317,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10820",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3059984-2",
@@ -20523,7 +21343,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10821",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017174-2",
@@ -20548,7 +21369,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10822",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017175-2",
@@ -20573,7 +21395,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10823",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017455-2",
@@ -20598,7 +21421,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10824",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017456-2",
@@ -20623,7 +21447,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10825",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017457-2",
@@ -20648,7 +21473,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10826",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017458-2",
@@ -20673,7 +21499,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10827",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018392-2",
@@ -20698,7 +21525,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10828",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018393-2",
@@ -20723,7 +21551,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10829",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018394-2",
@@ -20748,7 +21577,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10830",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018395-2",
@@ -20773,7 +21603,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10831",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018396-2",
@@ -20798,7 +21629,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10832",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019242-2",
@@ -20823,7 +21655,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10833",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019148-2",
@@ -20848,7 +21681,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10834",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019164-2",
@@ -20873,7 +21707,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10835",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019994-2",
@@ -20898,7 +21733,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10836",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019168-2",
@@ -20923,7 +21759,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10837",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019163-2",
@@ -20948,7 +21785,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10838",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019155-2",
@@ -20973,7 +21811,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10839",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019149-2",
@@ -20998,7 +21837,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10840",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019154-2",
@@ -21023,7 +21863,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10841",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019166-2",
@@ -21048,7 +21889,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10842",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019161-2",
@@ -21073,7 +21915,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10843",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3021882-2",
@@ -21098,7 +21941,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10844",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019169-2",
@@ -21123,7 +21967,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10845",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019643-2",
@@ -21148,7 +21993,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10846",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019153-2",
@@ -21173,7 +22019,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10847",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019146-2",
@@ -21198,7 +22045,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10848",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019160-2",
@@ -21223,7 +22071,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10849",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019165-2",
@@ -21248,7 +22097,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10850",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019152-2",
@@ -21273,7 +22123,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10851",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019151-2",
@@ -21298,7 +22149,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10852",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019157-2",
@@ -21323,7 +22175,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10853",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019158-2",
@@ -21348,7 +22201,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10854",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019147-2",
@@ -21373,7 +22227,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10855",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019156-2",
@@ -21398,7 +22253,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10856",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019243-2",
@@ -21423,7 +22279,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10857",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019167-2",
@@ -21448,7 +22305,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10858",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019150-2",
@@ -21473,7 +22331,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10859",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019162-2",
@@ -21498,7 +22357,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10860",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019159-2",
@@ -21523,7 +22383,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10861",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017459-2",
@@ -21548,7 +22409,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10862",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017460-2",
@@ -21573,7 +22435,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10863",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018397-2",
@@ -21598,7 +22461,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10864",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018398-2",
@@ -21623,7 +22487,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10865",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018399-2",
@@ -21648,7 +22513,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10866",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019178-2",
@@ -21673,7 +22539,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10867",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019175-2",
@@ -21698,7 +22565,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10868",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019180-2",
@@ -21723,7 +22591,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10869",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019183-2",
@@ -21748,7 +22617,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10870",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019176-2",
@@ -21773,7 +22643,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10871",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019173-2",
@@ -21798,7 +22669,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10872",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019182-2",
@@ -21823,7 +22695,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10873",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019172-2",
@@ -21848,7 +22721,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10874",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019181-2",
@@ -21873,7 +22747,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10875",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019179-2",
@@ -21898,7 +22773,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10876",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019170-2",
@@ -21923,7 +22799,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10877",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019177-2",
@@ -21948,7 +22825,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10878",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019171-2",
@@ -21973,7 +22851,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10879",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3039176-2",
@@ -21998,7 +22877,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10880",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018400-2",
@@ -22023,7 +22903,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10881",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019184-2",
@@ -22048,7 +22929,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10882",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017166-2",
@@ -22073,7 +22955,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10883",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017461-2",
@@ -22098,7 +22981,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10884",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017462-2",
@@ -22123,7 +23007,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10885",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017463-2",
@@ -22148,7 +23033,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10886",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017464-2",
@@ -22173,7 +23059,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10887",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017465-2",
@@ -22198,7 +23085,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10888",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017466-2",
@@ -22223,7 +23111,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10889",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017467-2",
@@ -22248,7 +23137,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10890",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017468-2",
@@ -22273,7 +23163,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10891",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017469-2",
@@ -22298,7 +23189,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10892",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017470-2",
@@ -22323,7 +23215,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10893",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017471-2",
@@ -22348,7 +23241,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10894",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017472-2",
@@ -22373,7 +23267,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10895",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017473-2",
@@ -22398,7 +23293,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10896",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017474-2",
@@ -22423,7 +23319,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10897",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017475-2",
@@ -22448,7 +23345,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10898",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017476-2",
@@ -22473,7 +23371,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10899",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018401-2",
@@ -22498,7 +23397,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10900",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018402-2",
@@ -22523,7 +23423,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10901",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018403-2",
@@ -22548,7 +23449,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10902",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018404-2",
@@ -22573,7 +23475,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10903",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018405-2",
@@ -22598,7 +23501,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10904",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018406-2",
@@ -22623,7 +23527,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10905",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018407-2",
@@ -22648,7 +23553,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10906",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018408-2",
@@ -22673,7 +23579,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10907",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018409-2",
@@ -22698,7 +23605,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10908",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018410-2",
@@ -22723,7 +23631,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10909",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018411-2",
@@ -22748,7 +23657,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10910",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018412-2",
@@ -22773,7 +23683,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10911",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018413-2",
@@ -22798,7 +23709,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10912",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019311-2",
@@ -22823,7 +23735,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10913",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019222-2",
@@ -22848,7 +23761,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10914",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019211-2",
@@ -22873,7 +23787,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10915",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019196-2",
@@ -22898,7 +23813,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10916",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019217-2",
@@ -22923,7 +23839,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10917",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019205-2",
@@ -22948,7 +23865,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10918",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019201-2",
@@ -22973,7 +23891,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10919",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019224-2",
@@ -22998,7 +23917,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10920",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019528-2",
@@ -23023,7 +23943,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10921",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019199-2",
@@ -23048,7 +23969,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10922",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019241-2",
@@ -23073,7 +23995,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10923",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019193-2",
@@ -23098,7 +24021,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10924",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019220-2",
@@ -23123,7 +24047,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10925",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019244-2",
@@ -23148,7 +24073,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10926",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019228-2",
@@ -23173,7 +24099,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10927",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019198-2",
@@ -23198,7 +24125,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10928",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019203-2",
@@ -23223,7 +24151,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10929",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019195-2",
@@ -23248,7 +24177,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10930",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019209-2",
@@ -23273,7 +24203,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10931",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019640-2",
@@ -23298,7 +24229,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10932",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019214-2",
@@ -23323,7 +24255,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10933",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019530-2",
@@ -23348,7 +24281,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10934",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019223-2",
@@ -23373,7 +24307,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10935",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019200-2",
@@ -23398,7 +24333,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10936",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019215-2",
@@ -23423,7 +24359,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10937",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019207-2",
@@ -23448,7 +24385,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10938",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019206-2",
@@ -23473,7 +24411,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10939",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019213-2",
@@ -23498,7 +24437,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10940",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019221-2",
@@ -23523,7 +24463,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10941",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019226-2",
@@ -23548,7 +24489,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10942",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019190-2",
@@ -23573,7 +24515,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10943",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019218-2",
@@ -23598,7 +24541,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10944",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019219-2",
@@ -23623,7 +24567,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10945",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019227-2",
@@ -23648,7 +24593,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10946",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019210-2",
@@ -23673,7 +24619,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10947",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019208-2",
@@ -23698,7 +24645,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10948",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019188-2",
@@ -23723,7 +24671,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10949",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019186-2",
@@ -23748,7 +24697,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10950",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019212-2",
@@ -23773,7 +24723,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10951",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019191-2",
@@ -23798,7 +24749,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10952",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019189-2",
@@ -23823,7 +24775,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10953",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019185-2",
@@ -23848,7 +24801,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10954",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019197-2",
@@ -23873,7 +24827,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10955",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019216-2",
@@ -23898,7 +24853,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10956",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019187-2",
@@ -23923,7 +24879,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10957",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019225-2",
@@ -23948,7 +24905,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10958",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019194-2",
@@ -23973,7 +24931,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10959",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019204-2",
@@ -23998,7 +24957,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10960",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019202-2",
@@ -24023,7 +24983,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10961",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019192-2",
@@ -24048,7 +25009,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10962",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3059268-2",
@@ -24073,7 +25035,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10963",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3060357-2",
@@ -24098,7 +25061,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10964",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017176-2",
@@ -24123,7 +25087,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10965",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018414-2",
@@ -24148,7 +25113,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10966",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018415-2",
@@ -24173,7 +25139,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10967",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019230-2",
@@ -24198,7 +25165,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10968",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019229-2",
@@ -24223,7 +25191,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10969",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017477-2",
@@ -24248,7 +25217,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10970",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017478-2",
@@ -24273,7 +25243,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10971",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017479-2",
@@ -24298,7 +25269,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10972",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017480-2",
@@ -24323,7 +25295,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10973",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017481-2",
@@ -24348,7 +25321,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10974",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017482-2",
@@ -24373,7 +25347,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10975",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017483-2",
@@ -24398,7 +25373,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10976",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017484-2",
@@ -24423,7 +25399,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10977",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017485-2",
@@ -24448,7 +25425,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10978",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017486-2",
@@ -24473,7 +25451,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10979",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017487-2",
@@ -24498,7 +25477,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10980",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017488-2",
@@ -24523,7 +25503,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10981",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017489-2",
@@ -24548,7 +25529,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10982",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017490-2",
@@ -24573,7 +25555,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10983",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017491-2",
@@ -24598,7 +25581,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10984",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017492-2",
@@ -24623,7 +25607,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10985",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017493-2",
@@ -24648,7 +25633,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10986",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017494-2",
@@ -24673,7 +25659,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10987",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017495-2",
@@ -24698,7 +25685,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10988",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017496-2",
@@ -24723,7 +25711,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10989",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018416-2",
@@ -24748,7 +25737,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10990",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018417-2",
@@ -24773,7 +25763,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10991",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018418-2",
@@ -24798,7 +25789,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10992",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018419-2",
@@ -24823,7 +25815,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10993",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018420-2",
@@ -24848,7 +25841,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10994",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018421-2",
@@ -24873,7 +25867,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10995",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018422-2",
@@ -24898,7 +25893,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10996",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019300-2",
@@ -24923,7 +25919,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10997",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019301-2",
@@ -24948,7 +25945,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10998",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019231-2",
@@ -24973,7 +25971,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 10999",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019237-2",
@@ -24998,7 +25997,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11000",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019335-2",
@@ -25023,7 +26023,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11001",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019233-2",
@@ -25048,7 +26049,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11002",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019373-2",
@@ -25073,7 +26075,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11003",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019641-2",
@@ -25098,7 +26101,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11004",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019236-2",
@@ -25123,7 +26127,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11005",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019232-2",
@@ -25148,7 +26153,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11006",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019299-2",
@@ -25173,7 +26179,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11007",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019533-2",
@@ -25198,7 +26205,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11008",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019235-2",
@@ -25223,7 +26231,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11009",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019531-2",
@@ -25248,7 +26257,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11010",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019234-2",
@@ -25273,7 +26283,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11011",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042276-2",
@@ -25298,7 +26309,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11012",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042278-2",
@@ -25323,7 +26335,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11013",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018943-2",
@@ -25348,7 +26361,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11014",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042279-2",
@@ -25373,7 +26387,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11015",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042280-2",
@@ -25398,7 +26413,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11016",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042281-2",
@@ -25423,7 +26439,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11017",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042282-2",
@@ -25448,7 +26465,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11018",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042283-2",
@@ -25473,7 +26491,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11019",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042284-2",
@@ -25498,7 +26517,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11020",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042285-2",
@@ -25523,7 +26543,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11021",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042286-2",
@@ -25548,7 +26569,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11022",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042287-2",
@@ -25573,7 +26595,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11023",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042288-2",
@@ -25598,7 +26621,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11024",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042290-2",
@@ -25623,7 +26647,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11025",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042292-2",
@@ -25648,7 +26673,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11026",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042293-2",
@@ -25673,7 +26699,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11027",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042294-2",
@@ -25698,7 +26725,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11028",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018941-2",
@@ -25723,7 +26751,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11029",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018342-2",
@@ -25748,7 +26777,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11030",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018939-2",
@@ -25773,7 +26803,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11031",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018946-2",
@@ -25798,7 +26829,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11032",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018945-2",
@@ -25823,7 +26855,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11033",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043486-2",
@@ -25848,7 +26881,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11034",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043545-2",
@@ -25873,7 +26907,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11035",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018340-2",
@@ -25898,7 +26933,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11036",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018353-2",
@@ -25923,7 +26959,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11037",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017381-2",
@@ -25948,7 +26985,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11038",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018357-2",
@@ -25973,7 +27011,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11039",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018354-2",
@@ -25998,7 +27037,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11040",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018969-2",
@@ -26023,7 +27063,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11041",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018359-2",
@@ -26048,7 +27089,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11042",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017382-2",
@@ -26073,7 +27115,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11043",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018350-2",
@@ -26098,7 +27141,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11044",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042310-2",
@@ -26123,7 +27167,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11045",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043221-2",
@@ -26148,7 +27193,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11046",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018972-2",
@@ -26173,7 +27219,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11047",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018960-2",
@@ -26198,7 +27245,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11048",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3021513-2",
@@ -26223,7 +27271,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11049",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018961-2",
@@ -26248,7 +27297,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11050",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018979-2",
@@ -26273,7 +27323,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11051",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": true
+    "reconciliationRequired": true,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044145-2",
@@ -26298,7 +27349,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11052",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044146-2",
@@ -26323,7 +27375,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11053",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018356-2",
@@ -26348,7 +27401,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11054",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042329-2",
@@ -26373,7 +27427,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11055",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042330-2",
@@ -26398,7 +27453,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11056",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042332-2",
@@ -26423,7 +27479,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11057",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042333-2",
@@ -26448,7 +27505,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11058",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042334-2",
@@ -26473,7 +27531,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11059",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042335-2",
@@ -26498,7 +27557,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11060",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042336-2",
@@ -26523,7 +27583,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11061",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042337-2",
@@ -26548,7 +27609,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11062",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042331-2",
@@ -26573,7 +27635,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11063",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019002-2",
@@ -26598,7 +27661,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11064",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018995-2",
@@ -26623,7 +27687,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11065",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018994-2",
@@ -26648,7 +27713,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11066",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017181-2",
@@ -26673,7 +27739,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11067",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018992-2",
@@ -26698,7 +27765,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11068",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018991-2",
@@ -26723,7 +27791,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11069",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018996-2",
@@ -26748,7 +27817,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11070",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018999-2",
@@ -26773,7 +27843,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11071",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043220-2",
@@ -26798,7 +27869,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11072",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043222-2",
@@ -26823,7 +27895,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11073",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043225-2",
@@ -26848,7 +27921,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11074",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043226-2",
@@ -26873,7 +27947,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11075",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043227-2",
@@ -26898,7 +27973,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11076",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019001-2",
@@ -26923,7 +27999,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11077",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043487-2",
@@ -26948,7 +28025,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11078",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019005-2",
@@ -26973,7 +28051,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11079",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017388-2",
@@ -26998,7 +28077,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11080",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019034-2",
@@ -27023,7 +28103,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11081",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017406-2",
@@ -27048,7 +28129,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11082",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019039-2",
@@ -27073,7 +28155,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11083",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019036-2",
@@ -27098,7 +28181,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11084",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017402-2",
@@ -27123,7 +28207,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11085",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019529-2",
@@ -27148,7 +28233,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11086",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043716-2",
@@ -27173,7 +28259,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11087",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043717-2",
@@ -27198,7 +28285,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11088",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017412-2",
@@ -27223,7 +28311,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11089",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017415-2",
@@ -27248,7 +28337,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11090",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019048-2",
@@ -27273,7 +28363,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11091",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042789-2",
@@ -27298,7 +28389,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11092",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042790-2",
@@ -27323,7 +28415,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11093",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043393-2",
@@ -27348,7 +28441,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11094",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3049648-2",
@@ -27373,7 +28467,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11095",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042387-2",
@@ -27398,7 +28493,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11096",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042388-2",
@@ -27423,7 +28519,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11097",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042389-2",
@@ -27448,7 +28545,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11098",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042390-2",
@@ -27473,7 +28571,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11099",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042391-2",
@@ -27498,7 +28597,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11100",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042392-2",
@@ -27523,7 +28623,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11101",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018381-2",
@@ -27548,7 +28649,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11102",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019070-2",
@@ -27573,7 +28675,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11103",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019068-2",
@@ -27598,7 +28701,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11104",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019065-2",
@@ -27623,7 +28727,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11105",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019056-2",
@@ -27648,7 +28753,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11106",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019055-2",
@@ -27673,7 +28779,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11107",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017421-2",
@@ -27698,7 +28805,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11108",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018380-2",
@@ -27723,7 +28831,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11109",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019059-2",
@@ -27748,7 +28857,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11110",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019057-2",
@@ -27773,7 +28883,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11111",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019069-2",
@@ -27798,7 +28909,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11112",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019053-2",
@@ -27823,7 +28935,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11113",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017425-2",
@@ -27848,7 +28961,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11114",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019058-2",
@@ -27873,7 +28987,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11115",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018383-2",
@@ -27898,7 +29013,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11116",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043718-2",
@@ -27923,7 +29039,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11117",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044395-2",
@@ -27948,7 +29065,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11118",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042419-2",
@@ -27973,7 +29091,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11119",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042420-2",
@@ -27998,7 +29117,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11120",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042421-2",
@@ -28023,7 +29143,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11121",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042400-2",
@@ -28048,7 +29169,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11122",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042408-2",
@@ -28073,7 +29195,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11123",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019082-2",
@@ -28098,7 +29221,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11124",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019077-2",
@@ -28123,7 +29247,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11125",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019079-2",
@@ -28148,7 +29273,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11126",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019088-2",
@@ -28173,7 +29299,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11127",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019101-2",
@@ -28198,7 +29325,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11128",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019105-2",
@@ -28223,7 +29351,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11129",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019076-2",
@@ -28248,7 +29377,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11130",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042792-2",
@@ -28273,7 +29403,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11131",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042793-2",
@@ -28298,7 +29429,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11132",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019099-2",
@@ -28323,7 +29455,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11133",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019087-2",
@@ -28348,7 +29481,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11134",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019106-2",
@@ -28373,7 +29507,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11135",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019095-2",
@@ -28398,7 +29533,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11136",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043224-2",
@@ -28423,7 +29559,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11137",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043228-2",
@@ -28448,7 +29585,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11138",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019090-2",
@@ -28473,7 +29611,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11139",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043915-2",
@@ -28498,7 +29637,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11140",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044176-2",
@@ -28523,7 +29663,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11141",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044396-2",
@@ -28548,7 +29689,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11142",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3052343-2",
@@ -28573,7 +29715,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11143",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042431-2",
@@ -28598,7 +29741,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11144",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042432-2",
@@ -28623,7 +29767,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11145",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042433-2",
@@ -28648,7 +29793,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11146",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042434-2",
@@ -28673,7 +29819,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11147",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042435-2",
@@ -28698,7 +29845,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11148",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018389-2",
@@ -28723,7 +29871,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11149",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017438-2",
@@ -28748,7 +29897,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11150",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017437-2",
@@ -28773,7 +29923,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11151",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018390-2",
@@ -28798,7 +29949,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11152",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017435-2",
@@ -28823,7 +29975,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11153",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042795-2",
@@ -28848,7 +30001,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11154",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017373-2",
@@ -28873,7 +30027,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11155",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043546-2",
@@ -28898,7 +30053,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11156",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043719-2",
@@ -28923,7 +30079,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11157",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019127-2",
@@ -28948,7 +30105,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11158",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042456-2",
@@ -28973,7 +30131,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11159",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042457-2",
@@ -28998,7 +30157,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11160",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017449-2",
@@ -29023,7 +30183,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11161",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019131-2",
@@ -29048,7 +30209,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11162",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019139-2",
@@ -29073,7 +30235,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11163",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019133-2",
@@ -29098,7 +30261,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11164",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019134-2",
@@ -29123,7 +30287,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11165",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017454-2",
@@ -29148,7 +30313,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11166",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019130-2",
@@ -29173,7 +30339,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11167",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019138-2",
@@ -29198,7 +30365,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11168",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042914-2",
@@ -29223,7 +30391,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11169",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017451-2",
@@ -29248,7 +30417,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11170",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044260-2",
@@ -29273,7 +30443,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11171",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019169-2",
@@ -29298,7 +30469,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11172",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019151-2",
@@ -29323,7 +30495,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11173",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017457-2",
@@ -29348,7 +30521,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11174",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019156-2",
@@ -29373,7 +30547,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11175",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019994-2",
@@ -29398,7 +30573,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11176",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018394-2",
@@ -29423,7 +30599,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11177",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019158-2",
@@ -29448,7 +30625,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11178",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019162-2",
@@ -29473,7 +30651,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11179",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019166-2",
@@ -29498,7 +30677,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11180",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019242-2",
@@ -29523,7 +30703,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11181",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042797-2",
@@ -29548,7 +30729,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11182",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019157-2",
@@ -29573,7 +30755,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11183",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017458-2",
@@ -29598,7 +30781,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11184",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017175-2",
@@ -29623,7 +30807,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11185",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044147-2",
@@ -29648,7 +30833,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11186",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044992-2",
@@ -29673,7 +30859,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11187",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045569-2",
@@ -29698,7 +30885,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11188",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018395-2",
@@ -29723,7 +30911,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11189",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045216-2",
@@ -29748,7 +30937,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11190",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045227-2",
@@ -29773,7 +30963,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11191",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045246-2",
@@ -29798,7 +30989,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11192",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045387-2",
@@ -29823,7 +31015,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11193",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019173-2",
@@ -29848,7 +31041,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11194",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042489-2",
@@ -29873,7 +31067,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11195",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042490-2",
@@ -29898,7 +31093,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11196",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042491-2",
@@ -29923,7 +31119,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11197",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042493-2",
@@ -29948,7 +31145,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11198",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042494-2",
@@ -29973,7 +31171,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11199",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042495-2",
@@ -29998,7 +31197,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11200",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042496-2",
@@ -30023,7 +31223,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11201",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044187-2",
@@ -30048,7 +31249,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11202",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042498-2",
@@ -30073,7 +31275,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11203",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042499-2",
@@ -30098,7 +31301,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11204",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042501-2",
@@ -30123,7 +31327,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11205",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042502-2",
@@ -30148,7 +31353,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11206",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042503-2",
@@ -30173,7 +31379,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11207",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042504-2",
@@ -30198,7 +31405,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11208",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042505-2",
@@ -30223,7 +31431,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11209",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042506-2",
@@ -30248,7 +31457,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11210",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042507-2",
@@ -30273,7 +31483,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11211",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042508-2",
@@ -30298,7 +31509,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11212",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042509-2",
@@ -30323,7 +31535,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11213",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042510-2",
@@ -30348,7 +31561,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11214",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042511-2",
@@ -30373,7 +31587,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11215",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042512-2",
@@ -30398,7 +31613,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11216",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042513-2",
@@ -30423,7 +31639,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11217",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042514-2",
@@ -30448,7 +31665,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11218",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042515-2",
@@ -30473,7 +31691,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11219",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042516-2",
@@ -30498,7 +31717,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11220",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042517-2",
@@ -30523,7 +31743,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11221",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042518-2",
@@ -30548,7 +31769,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11222",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042519-2",
@@ -30573,7 +31795,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11223",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042520-2",
@@ -30598,7 +31821,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11224",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042521-2",
@@ -30623,7 +31847,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11225",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042522-2",
@@ -30648,7 +31873,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11226",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042523-2",
@@ -30673,7 +31899,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11227",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042524-2",
@@ -30698,7 +31925,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11228",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042525-2",
@@ -30723,7 +31951,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11229",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042526-2",
@@ -30748,7 +31977,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11230",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042527-2",
@@ -30773,7 +32003,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11231",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042528-2",
@@ -30798,7 +32029,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11232",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042529-2",
@@ -30823,7 +32055,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11233",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042530-2",
@@ -30848,7 +32081,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11234",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042492-2",
@@ -30873,7 +32107,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11235",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019196-2",
@@ -30898,7 +32133,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11236",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017466-2",
@@ -30923,7 +32159,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11237",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019202-2",
@@ -30948,7 +32185,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11238",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019222-2",
@@ -30973,7 +32211,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11239",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019530-2",
@@ -30998,7 +32237,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11240",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019187-2",
@@ -31023,7 +32263,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11241",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019214-2",
@@ -31048,7 +32289,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11242",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019201-2",
@@ -31073,7 +32315,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11243",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018405-2",
@@ -31098,7 +32341,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11244",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019220-2",
@@ -31123,7 +32367,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11245",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019311-2",
@@ -31148,7 +32393,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11246",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019227-2",
@@ -31173,7 +32419,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11247",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019225-2",
@@ -31198,7 +32445,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11248",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019244-2",
@@ -31223,7 +32471,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11249",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017471-2",
@@ -31248,7 +32497,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11250",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018402-2",
@@ -31273,7 +32523,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11251",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019205-2",
@@ -31298,7 +32549,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11252",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042816-2",
@@ -31323,7 +32575,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11253",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017469-2",
@@ -31348,7 +32601,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11254",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019207-2",
@@ -31373,7 +32627,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11255",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019226-2",
@@ -31398,7 +32653,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11256",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043395-2",
@@ -31423,7 +32679,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11257",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017473-2",
@@ -31448,7 +32705,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11258",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043488-2",
@@ -31473,7 +32731,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11259",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043489-2",
@@ -31498,7 +32757,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11260",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019223-2",
@@ -31523,7 +32783,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11261",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043598-2",
@@ -31548,7 +32809,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11262",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019203-2",
@@ -31573,7 +32835,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11263",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043720-2",
@@ -31598,7 +32861,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11264",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044397-2",
@@ -31623,7 +32887,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11265",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044716-2",
@@ -31648,7 +32913,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11266",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045253-2",
@@ -31673,7 +32939,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11267",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3045351-2",
@@ -31698,7 +32965,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11268",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3046000-2",
@@ -31723,7 +32991,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11269",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019200-2",
@@ -31748,7 +33017,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11270",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042549-2",
@@ -31773,7 +33043,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11271",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042540-2",
@@ -31798,7 +33069,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11272",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042542-2",
@@ -31823,7 +33095,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11273",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042544-2",
@@ -31848,7 +33121,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11274",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042537-2",
@@ -31873,7 +33147,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11275",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019235-2",
@@ -31898,7 +33173,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11276",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017477-2",
@@ -31923,7 +33199,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11277",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017479-2",
@@ -31948,7 +33225,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11278",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017485-2",
@@ -31973,7 +33251,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11279",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017478-2",
@@ -31998,7 +33277,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11280",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018416-2",
@@ -32023,7 +33303,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11281",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019335-2",
@@ -32048,7 +33329,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11282",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019234-2",
@@ -32073,7 +33355,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11283",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017491-2",
@@ -32098,7 +33381,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11284",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019233-2",
@@ -32123,7 +33407,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11285",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017486-2",
@@ -32148,7 +33433,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11286",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018418-2",
@@ -32173,7 +33459,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11287",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018422-2",
@@ -32198,7 +33485,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11288",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3018421-2",
@@ -32223,7 +33511,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11289",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019231-2",
@@ -32248,7 +33537,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11290",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019301-2",
@@ -32273,7 +33563,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11291",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017483-2",
@@ -32298,7 +33589,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11292",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019236-2",
@@ -32323,7 +33615,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11293",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019533-2",
@@ -32348,7 +33641,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11294",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019237-2",
@@ -32373,7 +33667,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11295",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019300-2",
@@ -32398,7 +33693,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11296",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017493-2",
@@ -32423,7 +33719,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11297",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3019373-2",
@@ -32448,7 +33745,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11298",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3043599-2",
@@ -32473,7 +33771,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11299",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017487-2",
@@ -32498,7 +33797,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11300",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3026800-1",
@@ -32523,7 +33823,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11301",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3060561-1",
@@ -32548,7 +33849,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11302",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3061955-1",
@@ -32573,7 +33875,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11303",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3063548-1",
@@ -32598,7 +33901,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11304",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3063547-1",
@@ -32623,7 +33927,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11305",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066614-1",
@@ -32648,7 +33953,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11306",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3067143-1",
@@ -32673,7 +33979,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11307",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042566-1",
@@ -32698,7 +34005,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11308",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044066-1",
@@ -32723,7 +34031,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11309",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3044073-1",
@@ -32748,7 +34057,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11310",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017237-1",
@@ -32773,7 +34083,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11311",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3047757-1",
@@ -32798,7 +34109,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11312",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065897-1",
@@ -32823,7 +34135,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11313",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066166-1",
@@ -32848,7 +34161,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11314",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017242-1",
@@ -32873,7 +34187,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11315",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066550-1",
@@ -32898,7 +34213,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11316",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3042564-1",
@@ -32923,7 +34239,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11317",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3048864-1",
@@ -32948,7 +34265,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11318",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3061108-1",
@@ -32973,7 +34291,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11319",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064688-1",
@@ -32998,7 +34317,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11320",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3064779-1",
@@ -33023,7 +34343,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11321",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3017272-1",
@@ -33048,7 +34369,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11322",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3065436-1",
@@ -33073,7 +34395,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11323",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066268-1",
@@ -33098,7 +34421,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11324",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3066664-1",
@@ -33123,7 +34447,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11325",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   },
   {
     "id": "MP-3068111-1",
@@ -33148,7 +34473,8 @@ export const ALL_MPS_DATA = [
     "phone": "+91 98765 11326",
     "duplicateVoucherCount": 0,
     "duplicateDisbursedCr": 0.0,
-    "reconciliationRequired": false
+    "reconciliationRequired": false,
+    "hasCurrentData": true
   }
 ];
 

@@ -1095,7 +1095,7 @@ const BrowseMpsView = () => {
                 </div>
 
                 {/* Zero Current-Tenure Works Notice */}
-                {!mp.hasCurrentData ? (
+                {(mp.hasCurrentData === false || ((mp.worksRecommended || 0) === 0 && (mp.sanctionedCr || 0) === 0 && (mp.worksCompleted || 0) === 0)) ? (
                   <div
                     style={{
                       background: '#FFF9C4',
