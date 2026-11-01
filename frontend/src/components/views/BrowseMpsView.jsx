@@ -439,11 +439,11 @@ const BrowseMpsView = () => {
             <div style={{ fontSize: '0.72rem', fontWeight: 800, color: 'var(--color-text-muted)', textTransform: 'uppercase', letterSpacing: '0.08em' }}>
               {isHi ? 'समाधान संकेतक' : 'RECONCILIATION AUDIT'}
             </div>
-            <div style={{ fontSize: '1.85rem', fontWeight: 800, color: summaryStats.reconciliationCount > 0 ? '#B45309' : '#1E7E34', lineHeight: 1.15, marginTop: '0.35rem' }}>
-              {summaryStats.reconciliationCount} <span style={{ fontSize: '0.95rem', fontWeight: 700 }}>MPs</span>
+            <div style={{ fontSize: '1.85rem', fontWeight: 800, color: (summaryStats?.reconciliationCount ?? 0) > 0 ? '#B45309' : '#1E7E34', lineHeight: 1.15, marginTop: '0.35rem' }}>
+              {summaryStats?.reconciliationCount ?? 0} <span style={{ fontSize: '0.95rem', fontWeight: 700 }}>MPs</span>
             </div>
             <div style={{ fontSize: '0.72rem', fontWeight: 600, color: '#B45309', marginTop: '0.25rem' }}>
-              {summaryStats.duplicateVouchersCount.toLocaleString()} duplicate vouchers flagged
+              {(summaryStats?.duplicateVouchersCount ?? 0).toLocaleString()} duplicate vouchers flagged
             </div>
           </div>
         </div>

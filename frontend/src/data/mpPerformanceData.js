@@ -1,4 +1,4 @@
-// Generated MP performance data
+// Generated MP performance data with official MoSPI constituency mappings
 export const ALL_MPS_DATA = [
   {
     "id": "MP-3042277-2",
@@ -7,7 +7,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "AMALAPURAM(SC)",
     "sanctionedCr": 11.81,
     "disbursedCr": 5.68,
     "reconciledDisbursedCr": 5.68,
@@ -20,7 +20,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gm-harish-balayogi@sansad.nic.in",
-    "phone": "+91 98765 10001"
+    "phone": "+91 98765 10001",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017378-2",
@@ -29,7 +32,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Arunachal Pradesh",
-    "constituency": "ARUNACHAL WEST",
+    "constituency": "ARUNACHAL EAST",
     "sanctionedCr": 15.05,
     "disbursedCr": 10.26,
     "reconciledDisbursedCr": 10.26,
@@ -42,7 +45,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-tapir-gao@sansad.nic.in",
-    "phone": "+91 98765 10002"
+    "phone": "+91 98765 10002",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018950-2",
@@ -64,7 +70,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kiren-rijiju@sansad.nic.in",
-    "phone": "+91 98765 10003"
+    "phone": "+91 98765 10003",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042295-2",
@@ -86,7 +95,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.phani-bhusan-choudhury@sansad.nic.in",
-    "phone": "+91 98765 10004"
+    "phone": "+91 98765 10004",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042296-2",
@@ -95,7 +107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "DHUBRI",
     "sanctionedCr": 10.17,
     "disbursedCr": 4.98,
     "reconciledDisbursedCr": 4.98,
@@ -108,7 +120,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.rakibul-hussain@sansad.nic.in",
-    "phone": "+91 98765 10005"
+    "phone": "+91 98765 10005",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042297-2",
@@ -117,7 +132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "DIBRUGARH",
     "sanctionedCr": 9.4,
     "disbursedCr": 2.57,
     "reconciledDisbursedCr": 2.57,
@@ -130,7 +145,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-sarbananda-sonowal-18ls@sansad.nic.in",
-    "phone": "+91 98765 10006"
+    "phone": "+91 98765 10006",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042299-2",
@@ -139,7 +157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "GUWAHATI",
     "sanctionedCr": 14.15,
     "disbursedCr": 8.07,
     "reconciledDisbursedCr": 8.07,
@@ -152,7 +170,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.bijuli-kalita-medhi@sansad.nic.in",
-    "phone": "+91 98765 10007"
+    "phone": "+91 98765 10007",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042301-2",
@@ -161,7 +182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Kaziranga",
     "sanctionedCr": 9.85,
     "disbursedCr": 2.64,
     "reconciledDisbursedCr": 2.64,
@@ -174,7 +195,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.kamakhya-prasad-tasa@sansad.nic.in",
-    "phone": "+91 98765 10008"
+    "phone": "+91 98765 10008",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042298-2",
@@ -183,7 +207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Diphu (ST)",
     "sanctionedCr": 9.75,
     "disbursedCr": 7.19,
     "reconciledDisbursedCr": 7.19,
@@ -196,7 +220,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.amarsing-tisso@sansad.nic.in",
-    "phone": "+91 98765 10009"
+    "phone": "+91 98765 10009",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042302-2",
@@ -205,7 +232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "KOKRAJHAR (ST)",
     "sanctionedCr": 14.55,
     "disbursedCr": 6.98,
     "reconciledDisbursedCr": 6.98,
@@ -218,7 +245,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.joyanta-basumatary@sansad.nic.in",
-    "phone": "+91 98765 10010"
+    "phone": "+91 98765 10010",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042304-2",
@@ -227,7 +257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "SILCHAR",
     "sanctionedCr": 9.88,
     "disbursedCr": 0.83,
     "reconciledDisbursedCr": 0.83,
@@ -240,7 +270,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.parimal-suklabaidya@sansad.nic.in",
-    "phone": "+91 98765 10011"
+    "phone": "+91 98765 10011",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042305-2",
@@ -249,7 +282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Sonitpur",
     "sanctionedCr": 12.82,
     "disbursedCr": 7.74,
     "reconciledDisbursedCr": 7.74,
@@ -262,7 +295,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ranjit-dutta@sansad.nic.in",
-    "phone": "+91 98765 10012"
+    "phone": "+91 98765 10012",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018955-2",
@@ -271,7 +307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Darrang-Udalguri",
     "sanctionedCr": 7.38,
     "disbursedCr": 3.26,
     "reconciledDisbursedCr": 3.26,
@@ -284,7 +320,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dilip-saikia@sansad.nic.in",
-    "phone": "+91 98765 10013"
+    "phone": "+91 98765 10013",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018957-2",
@@ -293,7 +332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "KARIMGANJ (SC)",
     "sanctionedCr": 13.88,
     "disbursedCr": 8.77,
     "reconciledDisbursedCr": 8.77,
@@ -306,7 +345,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kripanath-mallah@sansad.nic.in",
-    "phone": "+91 98765 10014"
+    "phone": "+91 98765 10014",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018347-2",
@@ -315,7 +357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "LAKHIMPUR",
     "sanctionedCr": 8.72,
     "disbursedCr": 6.0,
     "reconciledDisbursedCr": 6.0,
@@ -328,7 +370,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.pradan-baruah@sansad.nic.in",
-    "phone": "+91 98765 10015"
+    "phone": "+91 98765 10015",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042300-2",
@@ -337,7 +382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "JORHAT",
     "sanctionedCr": 10.94,
     "disbursedCr": 4.87,
     "reconciledDisbursedCr": 4.87,
@@ -350,7 +395,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.gaurav-gogoi@sansad.nic.in",
-    "phone": "+91 98765 10016"
+    "phone": "+91 98765 10016",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018958-2",
@@ -359,7 +407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "NOWGONG",
     "sanctionedCr": 9.74,
     "disbursedCr": 6.84,
     "reconciledDisbursedCr": 6.84,
@@ -372,7 +420,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.pradyut-bordoloi@sansad.nic.in",
-    "phone": "+91 98765 10017"
+    "phone": "+91 98765 10017",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042306-2",
@@ -381,7 +432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "ARRAH",
     "sanctionedCr": 14.36,
     "disbursedCr": 11.96,
     "reconciledDisbursedCr": 11.96,
@@ -394,7 +445,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sudama-prasad@sansad.nic.in",
-    "phone": "+91 98765 10018"
+    "phone": "+91 98765 10018",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042307-2",
@@ -403,7 +457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "AURANGABAD_BR",
     "sanctionedCr": 14.96,
     "disbursedCr": 15.66,
     "reconciledDisbursedCr": 15.66,
@@ -416,7 +470,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.abhay-kumar-sinha@sansad.nic.in",
-    "phone": "+91 98765 10019"
+    "phone": "+91 98765 10019",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042308-2",
@@ -425,7 +482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BUXAR",
     "sanctionedCr": 18.45,
     "disbursedCr": 25.3,
     "reconciledDisbursedCr": 25.3,
@@ -438,7 +495,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sudhakar-singh@sansad.nic.in",
-    "phone": "+91 98765 10020"
+    "phone": "+91 98765 10020",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042309-2",
@@ -447,7 +507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "GAYA (SC)",
     "sanctionedCr": 11.53,
     "disbursedCr": 12.67,
     "reconciledDisbursedCr": 12.67,
@@ -460,7 +520,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jitan-ram-manjhi@sansad.nic.in",
-    "phone": "+91 98765 10021"
+    "phone": "+91 98765 10021",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042311-2",
@@ -469,7 +532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "JAMUI(SC)",
     "sanctionedCr": 16.95,
     "disbursedCr": 27.69,
     "reconciledDisbursedCr": 27.69,
@@ -482,7 +545,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.arun-bharti@sansad.nic.in",
-    "phone": "+91 98765 10022"
+    "phone": "+91 98765 10022",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042312-2",
@@ -491,7 +557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KARAKAT",
     "sanctionedCr": 14.79,
     "disbursedCr": 16.0,
     "reconciledDisbursedCr": 16.0,
@@ -504,7 +570,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.raja-ram-singh@sansad.nic.in",
-    "phone": "+91 98765 10023"
+    "phone": "+91 98765 10023",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042313-2",
@@ -513,7 +582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KATIHAR",
     "sanctionedCr": 8.37,
     "disbursedCr": 15.95,
     "reconciledDisbursedCr": 15.95,
@@ -526,7 +595,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.tariq-anwar@sansad.nic.in",
-    "phone": "+91 98765 10024"
+    "phone": "+91 98765 10024",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042314-2",
@@ -535,7 +607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KHAGARIA",
     "sanctionedCr": 8.19,
     "disbursedCr": 14.9,
     "reconciledDisbursedCr": 14.9,
@@ -548,7 +620,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.rajesh-verma@sansad.nic.in",
-    "phone": "+91 98765 10025"
+    "phone": "+91 98765 10025",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042315-2",
@@ -557,7 +632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MUZAFFARPUR",
     "sanctionedCr": 14.8,
     "disbursedCr": 21.59,
     "reconciledDisbursedCr": 21.59,
@@ -570,7 +645,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.raj-bhushan-choudhary@sansad.nic.in",
-    "phone": "+91 98765 10026"
+    "phone": "+91 98765 10026",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042317-2",
@@ -579,7 +657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PURNEA",
     "sanctionedCr": 14.52,
     "disbursedCr": 15.75,
     "reconciledDisbursedCr": 15.75,
@@ -592,7 +670,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajesh-ranjan-alias-pappu-yadav@sansad.nic.in",
-    "phone": "+91 98765 10027"
+    "phone": "+91 98765 10027",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042318-2",
@@ -601,7 +682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SAMASTIPUR(SC)",
     "sanctionedCr": 8.98,
     "disbursedCr": 7.62,
     "reconciledDisbursedCr": 7.62,
@@ -614,7 +695,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shambhavi@sansad.nic.in",
-    "phone": "+91 98765 10028"
+    "phone": "+91 98765 10028",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042319-2",
@@ -623,7 +707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SASARAM(SC)",
     "sanctionedCr": 14.58,
     "disbursedCr": 19.35,
     "reconciledDisbursedCr": 19.35,
@@ -636,7 +720,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.manoj-kumar@sansad.nic.in",
-    "phone": "+91 98765 10029"
+    "phone": "+91 98765 10029",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042320-2",
@@ -645,7 +732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SITAMARHI",
     "sanctionedCr": 9.65,
     "disbursedCr": 9.03,
     "reconciledDisbursedCr": 9.03,
@@ -658,7 +745,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.devesh-chandra-thakur@sansad.nic.in",
-    "phone": "+91 98765 10030"
+    "phone": "+91 98765 10030",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042321-2",
@@ -667,7 +757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SIWAN",
     "sanctionedCr": 14.78,
     "disbursedCr": 27.15,
     "reconciledDisbursedCr": 27.15,
@@ -680,7 +770,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.vijaylakshmi-devi@sansad.nic.in",
-    "phone": "+91 98765 10031"
+    "phone": "+91 98765 10031",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042316-2",
@@ -689,7 +782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PATALIPUTRA",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -702,7 +795,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.misha-bharti@sansad.nic.in",
-    "phone": "+91 98765 10032"
+    "phone": "+91 98765 10032",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018355-2",
@@ -724,7 +820,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.pradeep-kumar-singh@sansad.nic.in",
-    "phone": "+91 98765 10033"
+    "phone": "+91 98765 10033",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018966-2",
@@ -733,7 +832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BANKA",
     "sanctionedCr": 14.55,
     "disbursedCr": 23.15,
     "reconciledDisbursedCr": 23.15,
@@ -746,7 +845,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.giridhari-yadav@sansad.nic.in",
-    "phone": "+91 98765 10034"
+    "phone": "+91 98765 10034",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018967-2",
@@ -755,7 +857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BEGUSARAI",
     "sanctionedCr": 9.38,
     "disbursedCr": 6.64,
     "reconciledDisbursedCr": 6.64,
@@ -765,10 +867,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 70,
     "completionRate": 24.3,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.giriraj-singh@sansad.nic.in",
-    "phone": "+91 98765 10035"
+    "phone": "+91 98765 10035",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018351-2",
@@ -777,7 +882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BHAGALPUR",
     "sanctionedCr": 8.55,
     "disbursedCr": 15.41,
     "reconciledDisbursedCr": 15.41,
@@ -790,7 +895,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ajay-kumar-mandal@sansad.nic.in",
-    "phone": "+91 98765 10036"
+    "phone": "+91 98765 10036",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018360-2",
@@ -799,7 +907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "JHANJHARPUR",
     "sanctionedCr": 15.21,
     "disbursedCr": 23.33,
     "reconciledDisbursedCr": 23.33,
@@ -812,7 +920,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ramprit-mandal@sansad.nic.in",
-    "phone": "+91 98765 10037"
+    "phone": "+91 98765 10037",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3017384-2",
@@ -821,7 +932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KISHANGANJ",
     "sanctionedCr": 15.12,
     "disbursedCr": 18.54,
     "reconciledDisbursedCr": 18.54,
@@ -834,7 +945,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-mohammad-jawed@sansad.nic.in",
-    "phone": "+91 98765 10038"
+    "phone": "+91 98765 10038",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018975-2",
@@ -843,7 +957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MADHEPURA",
     "sanctionedCr": 13.38,
     "disbursedCr": 18.56,
     "reconciledDisbursedCr": 18.56,
@@ -856,7 +970,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dinesh-chandra-yadav@sansad.nic.in",
-    "phone": "+91 98765 10039"
+    "phone": "+91 98765 10039",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3042568-1",
@@ -878,7 +995,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-madan-rathore-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10040"
+    "phone": "+91 98765 10040",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066167-1",
@@ -900,7 +1020,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dr-alka-singh-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10041"
+    "phone": "+91 98765 10041",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066186-1",
@@ -922,7 +1045,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-satish-poonia-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10042"
+    "phone": "+91 98765 10042",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066187-1",
@@ -944,7 +1070,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-neeraj-dangi-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10043"
+    "phone": "+91 98765 10043",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017305-1",
@@ -966,7 +1095,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-r-girirajan-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10044"
+    "phone": "+91 98765 10044",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017307-1",
@@ -988,7 +1120,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-p-chidambaram-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10045"
+    "phone": "+91 98765 10045",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017308-1",
@@ -1010,7 +1145,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-k-r-n-rajeshkumar-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10046"
+    "phone": "+91 98765 10046",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3056872-1",
@@ -1032,7 +1170,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-rajathi-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10047"
+    "phone": "+91 98765 10047",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3058540-1",
@@ -1054,7 +1195,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-kamal-haasan-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10048"
+    "phone": "+91 98765 10048",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3059270-1",
@@ -1076,7 +1220,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-s-r-sivalingam-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10049"
+    "phone": "+91 98765 10049",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3059272-1",
@@ -1098,7 +1245,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-i-s-inbadurai-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10050"
+    "phone": "+91 98765 10050",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3059498-1",
@@ -1120,7 +1270,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-m-dhanapal-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10051"
+    "phone": "+91 98765 10051",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3061320-1",
@@ -1142,7 +1295,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-p-wilson-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10052"
+    "phone": "+91 98765 10052",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017301-1",
@@ -1164,7 +1320,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-tiruchi-siva-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10053"
+    "phone": "+91 98765 10053",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017300-1",
@@ -1186,7 +1345,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-m-thambi-durai-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10054"
+    "phone": "+91 98765 10054",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065276-1",
@@ -1208,7 +1370,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-l-k-sudhish-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10055"
+    "phone": "+91 98765 10055",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065298-1",
@@ -1230,7 +1395,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-constandine-ravindran-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10056"
+    "phone": "+91 98765 10056",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065417-1",
@@ -1252,7 +1420,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-christopher-manickam-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10057"
+    "phone": "+91 98765 10057",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066269-1",
@@ -1274,7 +1445,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-praveen-chakravarthy-2026-28@sansad.nic.in",
-    "phone": "+91 98765 10058"
+    "phone": "+91 98765 10058",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066551-1",
@@ -1296,7 +1470,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dr-anbumani-ramadoss-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10059"
+    "phone": "+91 98765 10059",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3067975-1",
@@ -1318,7 +1495,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-vem-narendar-reddy-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10060"
+    "phone": "+91 98765 10060",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017332-1",
@@ -1340,7 +1520,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-mithlesh-kumar-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10061"
+    "phone": "+91 98765 10061",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017334-1",
@@ -1362,7 +1545,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-surendra-singh-nagar-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10062"
+    "phone": "+91 98765 10062",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017337-1",
@@ -1384,7 +1570,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-b-l-verma-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10063"
+    "phone": "+91 98765 10063",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017338-1",
@@ -1406,7 +1595,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-brij-lal-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10064"
+    "phone": "+91 98765 10064",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042323-2",
@@ -1428,7 +1620,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.manish-tewari@sansad.nic.in",
-    "phone": "+91 98765 10065"
+    "phone": "+91 98765 10065",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017339-1",
@@ -1450,7 +1645,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-neeraj-shekhar-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10066"
+    "phone": "+91 98765 10066",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017340-1",
@@ -1472,7 +1670,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-ramji-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10067"
+    "phone": "+91 98765 10067",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017343-1",
@@ -1494,7 +1695,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-sangeeta-yadav-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10068"
+    "phone": "+91 98765 10068",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017344-1",
@@ -1516,7 +1720,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-seema-dwivedi-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10069"
+    "phone": "+91 98765 10069",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017345-1",
@@ -1538,7 +1745,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.smt-darshana-singh-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10070"
+    "phone": "+91 98765 10070",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019262-1",
@@ -1560,7 +1770,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-baburam-nishad-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10071"
+    "phone": "+91 98765 10071",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042324-2",
@@ -1569,7 +1782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "BASTAR(ST)",
     "sanctionedCr": 12.81,
     "disbursedCr": 6.72,
     "reconciledDisbursedCr": 6.72,
@@ -1582,7 +1795,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mahesh-kashyap@sansad.nic.in",
-    "phone": "+91 98765 10072"
+    "phone": "+91 98765 10072",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042325-2",
@@ -1591,7 +1807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "BILASPUR",
     "sanctionedCr": 10.54,
     "disbursedCr": 5.9,
     "reconciledDisbursedCr": 5.9,
@@ -1604,7 +1820,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.tokhan-sahu@sansad.nic.in",
-    "phone": "+91 98765 10073"
+    "phone": "+91 98765 10073",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042327-2",
@@ -1613,7 +1832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "KANKER(ST)",
     "sanctionedCr": 7.42,
     "disbursedCr": 3.82,
     "reconciledDisbursedCr": 3.82,
@@ -1626,7 +1845,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.bhojraj-nag@sansad.nic.in",
-    "phone": "+91 98765 10074"
+    "phone": "+91 98765 10074",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042328-2",
@@ -1635,7 +1857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "MAHASAMUND",
     "sanctionedCr": 11.63,
     "disbursedCr": 8.22,
     "reconciledDisbursedCr": 8.22,
@@ -1648,7 +1870,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.roop-kumari-choudhary@sansad.nic.in",
-    "phone": "+91 98765 10075"
+    "phone": "+91 98765 10075",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042326-2",
@@ -1657,7 +1882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "JANJGIR CHAMPA(SC)",
     "sanctionedCr": 13.76,
     "disbursedCr": 10.29,
     "reconciledDisbursedCr": 10.29,
@@ -1670,7 +1895,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kamlesh-jangde@sansad.nic.in",
-    "phone": "+91 98765 10076"
+    "phone": "+91 98765 10076",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018986-2",
@@ -1679,7 +1907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "DURG",
     "sanctionedCr": 14.18,
     "disbursedCr": 6.73,
     "reconciledDisbursedCr": 6.73,
@@ -1692,7 +1920,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.vijay-baghel@sansad.nic.in",
-    "phone": "+91 98765 10077"
+    "phone": "+91 98765 10077",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018366-2",
@@ -1701,7 +1932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "KORBA",
     "sanctionedCr": 13.08,
     "disbursedCr": 7.84,
     "reconciledDisbursedCr": 7.84,
@@ -1714,7 +1945,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.jyotsna-charandas-mahant@sansad.nic.in",
-    "phone": "+91 98765 10078"
+    "phone": "+91 98765 10078",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018365-2",
@@ -1723,7 +1957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "RAJNANDGAON",
     "sanctionedCr": 8.98,
     "disbursedCr": 6.6,
     "reconciledDisbursedCr": 6.6,
@@ -1736,7 +1970,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.santosh-pandey@sansad.nic.in",
-    "phone": "+91 98765 10079"
+    "phone": "+91 98765 10079",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043391-2",
@@ -1758,7 +1995,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.radhe-shyam-rathiya@sansad.nic.in",
-    "phone": "+91 98765 10080"
+    "phone": "+91 98765 10080",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043392-2",
@@ -1767,7 +2007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "RAIPUR",
     "sanctionedCr": 12.63,
     "disbursedCr": 7.25,
     "reconciledDisbursedCr": 7.25,
@@ -1780,7 +2020,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.brijmohan-agrawal@sansad.nic.in",
-    "phone": "+91 98765 10081"
+    "phone": "+91 98765 10081",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043715-2",
@@ -1789,7 +2032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "SARGUJA(ST)",
     "sanctionedCr": 10.35,
     "disbursedCr": 6.47,
     "reconciledDisbursedCr": 6.47,
@@ -1802,7 +2045,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.chintamani-maharaj@sansad.nic.in",
-    "phone": "+91 98765 10082"
+    "phone": "+91 98765 10082",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020007-2",
@@ -1811,7 +2057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "NORTH EAST DELHI",
     "sanctionedCr": 13.03,
     "disbursedCr": 2.97,
     "reconciledDisbursedCr": 2.97,
@@ -1821,10 +2067,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 7,
     "worksRecommended": 25,
     "completionRate": 28.0,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.manoj-tiwari@sansad.nic.in",
-    "phone": "+91 98765 10083"
+    "phone": "+91 98765 10083",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045894-2",
@@ -1846,7 +2095,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.yogendra-chandoliya@sansad.nic.in",
-    "phone": "+91 98765 10084"
+    "phone": "+91 98765 10084",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045891-2",
@@ -1855,7 +2107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "CHANDINI CHOWK",
     "sanctionedCr": 6.26,
     "disbursedCr": 3.03,
     "reconciledDisbursedCr": 3.03,
@@ -1868,7 +2120,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.praveen-khandelwal@sansad.nic.in",
-    "phone": "+91 98765 10085"
+    "phone": "+91 98765 10085",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045896-2",
@@ -1877,7 +2132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "WEST DELHI",
     "sanctionedCr": 9.06,
     "disbursedCr": 1.66,
     "reconciledDisbursedCr": 1.66,
@@ -1890,7 +2145,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kamaljeet-sehrawat@sansad.nic.in",
-    "phone": "+91 98765 10086"
+    "phone": "+91 98765 10086",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045893-2",
@@ -1899,7 +2157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "NEW DELHI",
     "sanctionedCr": 8.76,
     "disbursedCr": 2.79,
     "reconciledDisbursedCr": 2.79,
@@ -1909,10 +2167,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 47,
     "worksRecommended": 117,
     "completionRate": 40.2,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bansuri-swaraj@sansad.nic.in",
-    "phone": "+91 98765 10087"
+    "phone": "+91 98765 10087",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045895-2",
@@ -1921,7 +2182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "SOUTH DELHI",
     "sanctionedCr": 13.27,
     "disbursedCr": 3.4,
     "reconciledDisbursedCr": 3.4,
@@ -1934,7 +2195,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ramvir-singh-bidhuri@sansad.nic.in",
-    "phone": "+91 98765 10088"
+    "phone": "+91 98765 10088",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045892-2",
@@ -1943,7 +2207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "EAST DELHI",
     "sanctionedCr": 7.76,
     "disbursedCr": 3.22,
     "reconciledDisbursedCr": 3.22,
@@ -1956,7 +2220,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.harsh-malhotra@sansad.nic.in",
-    "phone": "+91 98765 10089"
+    "phone": "+91 98765 10089",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018989-2",
@@ -1965,7 +2232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Goa",
-    "constituency": "SOUTH GOA",
+    "constituency": "NORTH GOA",
     "sanctionedCr": 15.14,
     "disbursedCr": 1.79,
     "reconciledDisbursedCr": 1.79,
@@ -1978,7 +2245,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shripad-yesso-naik@sansad.nic.in",
-    "phone": "+91 98765 10090"
+    "phone": "+91 98765 10090",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019264-1",
@@ -2000,7 +2270,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-geeta-alias-chandraprabha-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10091"
+    "phone": "+91 98765 10091",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042551-1",
@@ -2022,7 +2295,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-ramji-lal-suman-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10092"
+    "phone": "+91 98765 10092",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042920-1",
@@ -2044,7 +2320,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-sanjay-seth-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10093"
+    "phone": "+91 98765 10093",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042921-1",
@@ -2066,7 +2345,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-amar-pal-maurya-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10094"
+    "phone": "+91 98765 10094",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017341-1",
@@ -2088,7 +2370,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dr-sudhanshu-trivedi-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10095"
+    "phone": "+91 98765 10095",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043036-1",
@@ -2110,7 +2395,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-sangeeta-balwant-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10096"
+    "phone": "+91 98765 10096",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043325-1",
@@ -2132,7 +2420,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-tejveer-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10097"
+    "phone": "+91 98765 10097",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017342-1",
@@ -2154,7 +2445,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-jaya-amitabh-bachchan-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10098"
+    "phone": "+91 98765 10098",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043534-1",
@@ -2176,7 +2470,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-naveen-jain-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10099"
+    "phone": "+91 98765 10099",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044168-1",
@@ -2198,7 +2495,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-sadhna-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10100"
+    "phone": "+91 98765 10100",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045224-1",
@@ -2220,7 +2520,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-ratanjit-pratap-narain-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10101"
+    "phone": "+91 98765 10101",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066935-1",
@@ -2242,7 +2545,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-biswajit-sinha-rahul-sinha-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10102"
+    "phone": "+91 98765 10102",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017389-2",
@@ -2251,7 +2557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "GANDHINAGAR",
     "sanctionedCr": 5.47,
     "disbursedCr": 1.17,
     "reconciledDisbursedCr": 1.17,
@@ -2261,10 +2567,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 22,
     "worksRecommended": 120,
     "completionRate": 18.3,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-amit-shah@sansad.nic.in",
-    "phone": "+91 98765 10103"
+    "phone": "+91 98765 10103",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042338-2",
@@ -2273,7 +2582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "AMBALA (SC)",
     "sanctionedCr": 12.67,
     "disbursedCr": 3.35,
     "reconciledDisbursedCr": 3.35,
@@ -2286,7 +2595,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.varun-chaudhry@sansad.nic.in",
-    "phone": "+91 98765 10104"
+    "phone": "+91 98765 10104",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042340-2",
@@ -2295,7 +2607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "HISAR",
     "sanctionedCr": 14.65,
     "disbursedCr": 7.63,
     "reconciledDisbursedCr": 7.63,
@@ -2308,7 +2620,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.jai-parkash@sansad.nic.in",
-    "phone": "+91 98765 10105"
+    "phone": "+91 98765 10105",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042341-2",
@@ -2317,7 +2632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "KARNAL",
     "sanctionedCr": 3.05,
     "disbursedCr": 1.76,
     "reconciledDisbursedCr": 1.76,
@@ -2330,7 +2645,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.manohar-lal@sansad.nic.in",
-    "phone": "+91 98765 10106"
+    "phone": "+91 98765 10106",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042342-2",
@@ -2339,7 +2657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "KURUKSHETRA",
     "sanctionedCr": 11.84,
     "disbursedCr": 6.22,
     "reconciledDisbursedCr": 6.22,
@@ -2352,7 +2670,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.naveen-jindal@sansad.nic.in",
-    "phone": "+91 98765 10107"
+    "phone": "+91 98765 10107",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042343-2",
@@ -2361,7 +2682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "ROHTAK",
     "sanctionedCr": 13.93,
     "disbursedCr": 6.37,
     "reconciledDisbursedCr": 6.37,
@@ -2374,7 +2695,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.deepender-singh-hooda@sansad.nic.in",
-    "phone": "+91 98765 10108"
+    "phone": "+91 98765 10108",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042344-2",
@@ -2383,7 +2707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "SIRSA(SC)",
     "sanctionedCr": 11.73,
     "disbursedCr": 3.2,
     "reconciledDisbursedCr": 3.2,
@@ -2396,7 +2720,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.selja@sansad.nic.in",
-    "phone": "+91 98765 10109"
+    "phone": "+91 98765 10109",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042345-2",
@@ -2418,7 +2745,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.satpal-brahamchari@sansad.nic.in",
-    "phone": "+91 98765 10110"
+    "phone": "+91 98765 10110",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018368-2",
@@ -2427,7 +2757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "GURGAON",
     "sanctionedCr": 8.25,
     "disbursedCr": 2.7,
     "reconciledDisbursedCr": 2.7,
@@ -2440,7 +2770,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rao-inderjit-singh@sansad.nic.in",
-    "phone": "+91 98765 10111"
+    "phone": "+91 98765 10111",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017394-2",
@@ -2449,7 +2782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "BHIWANI MAHENDRAGARH",
     "sanctionedCr": 11.1,
     "disbursedCr": 7.28,
     "reconciledDisbursedCr": 7.28,
@@ -2462,7 +2795,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-dharambir-singh@sansad.nic.in",
-    "phone": "+91 98765 10112"
+    "phone": "+91 98765 10112",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019007-2",
@@ -2471,7 +2807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "FARIDABAD",
     "sanctionedCr": 7.11,
     "disbursedCr": 3.47,
     "reconciledDisbursedCr": 3.47,
@@ -2484,7 +2820,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.krishan-pal-gurjar@sansad.nic.in",
-    "phone": "+91 98765 10113"
+    "phone": "+91 98765 10113",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042347-2",
@@ -2493,7 +2832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "KANGRA",
     "sanctionedCr": 17.62,
     "disbursedCr": 9.09,
     "reconciledDisbursedCr": 9.09,
@@ -2506,7 +2845,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.rajeev-bhardwaj@sansad.nic.in",
-    "phone": "+91 98765 10114"
+    "phone": "+91 98765 10114",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019014-2",
@@ -2515,7 +2857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "SHIMLA (SC)",
     "sanctionedCr": 13.05,
     "disbursedCr": 9.58,
     "reconciledDisbursedCr": 9.58,
@@ -2528,7 +2870,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.suresh-kumar-kashyap@sansad.nic.in",
-    "phone": "+91 98765 10115"
+    "phone": "+91 98765 10115",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043229-2",
@@ -2537,7 +2882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "MANDI",
     "sanctionedCr": 12.08,
     "disbursedCr": 6.31,
     "reconciledDisbursedCr": 6.31,
@@ -2547,10 +2892,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 93,
     "worksRecommended": 374,
     "completionRate": 24.9,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kangana-ranaut@sansad.nic.in",
-    "phone": "+91 98765 10116"
+    "phone": "+91 98765 10116",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018369-2",
@@ -2559,7 +2907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "HAMIRPUR",
     "sanctionedCr": 3.81,
     "disbursedCr": 2.08,
     "reconciledDisbursedCr": 2.08,
@@ -2572,7 +2920,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anurag-singh-thakur@sansad.nic.in",
-    "phone": "+91 98765 10117"
+    "phone": "+91 98765 10117",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042348-2",
@@ -2580,7 +2931,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-mian-altaf-ahmad",
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "ANANTNAG",
     "sanctionedCr": 13.87,
     "disbursedCr": 2.89,
@@ -2594,7 +2945,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mian-altaf-ahmad@sansad.nic.in",
-    "phone": "+91 98765 10118"
+    "phone": "+91 98765 10118",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042349-2",
@@ -2602,8 +2956,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-aga-syed-ruhullah-mehdi",
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "SRINAGAR",
     "sanctionedCr": 13.9,
     "disbursedCr": 2.49,
     "reconciledDisbursedCr": 2.49,
@@ -2616,7 +2970,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.aga-syed-ruhullah-mehdi@sansad.nic.in",
-    "phone": "+91 98765 10119"
+    "phone": "+91 98765 10119",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017396-2",
@@ -2624,8 +2981,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-jugal-kishore-sharma",
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "JAMMU",
     "sanctionedCr": 11.18,
     "disbursedCr": 3.34,
     "reconciledDisbursedCr": 3.34,
@@ -2638,7 +2995,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-jugal-kishore-sharma@sansad.nic.in",
-    "phone": "+91 98765 10120"
+    "phone": "+91 98765 10120",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019016-2",
@@ -2646,8 +3006,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-jitendra-singh",
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "UDHAMPUR",
     "sanctionedCr": 11.87,
     "disbursedCr": 5.19,
     "reconciledDisbursedCr": 5.19,
@@ -2660,7 +3020,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.jitendra-singh@sansad.nic.in",
-    "phone": "+91 98765 10121"
+    "phone": "+91 98765 10121",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044682-2",
@@ -2668,8 +3031,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-abdul-rashid-sheikh",
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "BARAMULLAH",
     "sanctionedCr": 9.24,
     "disbursedCr": 3.27,
     "reconciledDisbursedCr": 3.27,
@@ -2682,7 +3045,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.abdul-rashid-sheikh@sansad.nic.in",
-    "phone": "+91 98765 10122"
+    "phone": "+91 98765 10122",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042350-2",
@@ -2691,7 +3057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "CHATRA",
     "sanctionedCr": 10.79,
     "disbursedCr": 5.68,
     "reconciledDisbursedCr": 5.68,
@@ -2704,7 +3070,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.kali-charan-singh@sansad.nic.in",
-    "phone": "+91 98765 10123"
+    "phone": "+91 98765 10123",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042351-2",
@@ -2713,7 +3082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "DHANBAD",
     "sanctionedCr": 14.64,
     "disbursedCr": 6.86,
     "reconciledDisbursedCr": 6.86,
@@ -2726,7 +3095,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dulu-mahato@sansad.nic.in",
-    "phone": "+91 98765 10124"
+    "phone": "+91 98765 10124",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042352-2",
@@ -2748,7 +3120,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.manish-jaiswal@sansad.nic.in",
-    "phone": "+91 98765 10125"
+    "phone": "+91 98765 10125",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042353-2",
@@ -2757,7 +3132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "KHUNTI(ST)",
     "sanctionedCr": 12.75,
     "disbursedCr": 10.38,
     "reconciledDisbursedCr": 10.38,
@@ -2770,7 +3145,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kali-charan-munda@sansad.nic.in",
-    "phone": "+91 98765 10126"
+    "phone": "+91 98765 10126",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042354-2",
@@ -2779,7 +3157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "LOHARDAGA(ST)",
     "sanctionedCr": 16.04,
     "disbursedCr": 14.21,
     "reconciledDisbursedCr": 14.21,
@@ -2792,7 +3170,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sukhdeo-bhagat@sansad.nic.in",
-    "phone": "+91 98765 10127"
+    "phone": "+91 98765 10127",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042356-2",
@@ -2801,7 +3182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "SINGHBHUM(ST)",
     "sanctionedCr": 7.82,
     "disbursedCr": 5.91,
     "reconciledDisbursedCr": 5.91,
@@ -2814,7 +3195,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.joba-majhi@sansad.nic.in",
-    "phone": "+91 98765 10128"
+    "phone": "+91 98765 10128",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019020-2",
@@ -2823,7 +3207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "GODDA",
     "sanctionedCr": 0.61,
     "disbursedCr": 0.19,
     "reconciledDisbursedCr": 0.19,
@@ -2836,7 +3220,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.nishikant-dubey@sansad.nic.in",
-    "phone": "+91 98765 10129"
+    "phone": "+91 98765 10129",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019022-2",
@@ -2845,7 +3232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "JAMSHEDPUR",
     "sanctionedCr": 11.1,
     "disbursedCr": 8.45,
     "reconciledDisbursedCr": 8.45,
@@ -2858,7 +3245,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.bidyut-baran-mahato@sansad.nic.in",
-    "phone": "+91 98765 10130"
+    "phone": "+91 98765 10130",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018370-2",
@@ -2867,7 +3257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "KODERMA",
     "sanctionedCr": 12.15,
     "disbursedCr": 4.21,
     "reconciledDisbursedCr": 4.21,
@@ -2877,10 +3267,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 87,
     "worksRecommended": 393,
     "completionRate": 22.1,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.annpurna-devi@sansad.nic.in",
-    "phone": "+91 98765 10131"
+    "phone": "+91 98765 10131",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019023-2",
@@ -2889,7 +3282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "RAJMAHAL(ST)",
     "sanctionedCr": 9.2,
     "disbursedCr": 3.25,
     "reconciledDisbursedCr": 3.25,
@@ -2902,7 +3295,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vijay-kumar-hansdak@sansad.nic.in",
-    "phone": "+91 98765 10132"
+    "phone": "+91 98765 10132",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018372-2",
@@ -2911,7 +3307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "RANCHI",
     "sanctionedCr": 12.18,
     "disbursedCr": 8.86,
     "reconciledDisbursedCr": 8.86,
@@ -2924,7 +3320,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sanjay-seth@sansad.nic.in",
-    "phone": "+91 98765 10133"
+    "phone": "+91 98765 10133",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043223-2",
@@ -2933,7 +3332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "DUMKA(ST)",
     "sanctionedCr": 14.12,
     "disbursedCr": 10.25,
     "reconciledDisbursedCr": 10.25,
@@ -2946,7 +3345,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.nalin-soren@sansad.nic.in",
-    "phone": "+91 98765 10134"
+    "phone": "+91 98765 10134",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018374-2",
@@ -2955,7 +3357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "PALAMU(SC)",
     "sanctionedCr": 11.53,
     "disbursedCr": 8.95,
     "reconciledDisbursedCr": 8.95,
@@ -2968,7 +3370,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vishnu-dayal-ram@sansad.nic.in",
-    "phone": "+91 98765 10135"
+    "phone": "+91 98765 10135",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017399-2",
@@ -2977,7 +3382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "GIRIDIH",
     "sanctionedCr": 13.38,
     "disbursedCr": 6.2,
     "reconciledDisbursedCr": 6.2,
@@ -2990,7 +3395,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-chandra-prakash-choudhary@sansad.nic.in",
-    "phone": "+91 98765 10136"
+    "phone": "+91 98765 10136",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042357-2",
@@ -3012,7 +3420,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-c-n-manjunath@sansad.nic.in",
-    "phone": "+91 98765 10137"
+    "phone": "+91 98765 10137",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042358-2",
@@ -3021,7 +3432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BELGAUM",
     "sanctionedCr": 13.05,
     "disbursedCr": 1.21,
     "reconciledDisbursedCr": 1.21,
@@ -3034,7 +3445,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jagadish-shettar@sansad.nic.in",
-    "phone": "+91 98765 10138"
+    "phone": "+91 98765 10138",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042359-2",
@@ -3043,7 +3457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BELLARY(ST)",
     "sanctionedCr": 9.77,
     "disbursedCr": 2.86,
     "reconciledDisbursedCr": 2.86,
@@ -3056,7 +3470,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.e-tukaram@sansad.nic.in",
-    "phone": "+91 98765 10139"
+    "phone": "+91 98765 10139",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042360-2",
@@ -3065,7 +3482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BIDAR",
     "sanctionedCr": 9.64,
     "disbursedCr": 1.87,
     "reconciledDisbursedCr": 1.87,
@@ -3078,7 +3495,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.sagar-eshwar-khandre@sansad.nic.in",
-    "phone": "+91 98765 10140"
+    "phone": "+91 98765 10140",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042361-2",
@@ -3087,7 +3507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHAMARAJANAGAR(SC)",
     "sanctionedCr": 9.15,
     "disbursedCr": 5.36,
     "reconciledDisbursedCr": 5.36,
@@ -3100,7 +3520,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sunil-bose@sansad.nic.in",
-    "phone": "+91 98765 10141"
+    "phone": "+91 98765 10141",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042362-2",
@@ -3109,7 +3532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHIKBALLAPUR",
     "sanctionedCr": 10.72,
     "disbursedCr": 4.02,
     "reconciledDisbursedCr": 4.02,
@@ -3122,7 +3545,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-k-sudhakar@sansad.nic.in",
-    "phone": "+91 98765 10142"
+    "phone": "+91 98765 10142",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042363-2",
@@ -3131,7 +3557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHITRADURGA(SC)",
     "sanctionedCr": 12.16,
     "disbursedCr": 5.07,
     "reconciledDisbursedCr": 5.07,
@@ -3144,7 +3570,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.govind-makthappa-karjol@sansad.nic.in",
-    "phone": "+91 98765 10143"
+    "phone": "+91 98765 10143",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042364-2",
@@ -3153,7 +3582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "DAKSHINA KANNADA",
     "sanctionedCr": 9.51,
     "disbursedCr": 5.66,
     "reconciledDisbursedCr": 5.66,
@@ -3166,7 +3595,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.captain-brijesh-chowta@sansad.nic.in",
-    "phone": "+91 98765 10144"
+    "phone": "+91 98765 10144",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042365-2",
@@ -3175,7 +3607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "DAVANAGERE",
     "sanctionedCr": 10.43,
     "disbursedCr": 6.14,
     "reconciledDisbursedCr": 6.14,
@@ -3188,7 +3620,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-prabha-mallikarjun@sansad.nic.in",
-    "phone": "+91 98765 10145"
+    "phone": "+91 98765 10145",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042366-2",
@@ -3197,7 +3632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "GULBARGA(SC)",
     "sanctionedCr": 9.8,
     "disbursedCr": 0.63,
     "reconciledDisbursedCr": 0.63,
@@ -3210,7 +3645,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.radhakrishna@sansad.nic.in",
-    "phone": "+91 98765 10146"
+    "phone": "+91 98765 10146",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042367-2",
@@ -3219,7 +3657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "HASSAN",
     "sanctionedCr": 12.11,
     "disbursedCr": 6.54,
     "reconciledDisbursedCr": 6.54,
@@ -3232,7 +3670,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shreyas-m-patel@sansad.nic.in",
-    "phone": "+91 98765 10147"
+    "phone": "+91 98765 10147",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042368-2",
@@ -3241,7 +3682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "HAVERI",
     "sanctionedCr": 9.84,
     "disbursedCr": 6.71,
     "reconciledDisbursedCr": 6.71,
@@ -3254,7 +3695,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.basavaraj-bommai@sansad.nic.in",
-    "phone": "+91 98765 10148"
+    "phone": "+91 98765 10148",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042369-2",
@@ -3263,7 +3707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "KOLAR(SC)",
     "sanctionedCr": 5.55,
     "disbursedCr": 4.25,
     "reconciledDisbursedCr": 4.25,
@@ -3276,7 +3720,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.m-mallesh-babu@sansad.nic.in",
-    "phone": "+91 98765 10149"
+    "phone": "+91 98765 10149",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042370-2",
@@ -3285,7 +3732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "KOPPAL",
     "sanctionedCr": 13.15,
     "disbursedCr": 6.88,
     "reconciledDisbursedCr": 6.88,
@@ -3298,7 +3745,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.k-rajashekar-basavaraj-hitnal@sansad.nic.in",
-    "phone": "+91 98765 10150"
+    "phone": "+91 98765 10150",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042371-2",
@@ -3307,7 +3757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "MANDYA",
     "sanctionedCr": 9.8,
     "disbursedCr": 5.09,
     "reconciledDisbursedCr": 5.09,
@@ -3320,7 +3770,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.h-d-kumaraswamy@sansad.nic.in",
-    "phone": "+91 98765 10151"
+    "phone": "+91 98765 10151",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042372-2",
@@ -3329,7 +3782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "MYSORE",
     "sanctionedCr": 11.54,
     "disbursedCr": 6.54,
     "reconciledDisbursedCr": 6.54,
@@ -3342,7 +3795,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.yaduveer-krishnadatta-chamaraja-wadiyar@sansad.nic.in",
-    "phone": "+91 98765 10152"
+    "phone": "+91 98765 10152",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042373-2",
@@ -3351,7 +3807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "RAICHUR(ST)",
     "sanctionedCr": 9.7,
     "disbursedCr": 2.65,
     "reconciledDisbursedCr": 2.65,
@@ -3364,7 +3820,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.g-kumar-naik@sansad.nic.in",
-    "phone": "+91 98765 10153"
+    "phone": "+91 98765 10153",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042374-2",
@@ -3373,7 +3832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "TUMKUR",
     "sanctionedCr": 7.45,
     "disbursedCr": 3.67,
     "reconciledDisbursedCr": 3.67,
@@ -3386,7 +3845,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.v-somanna@sansad.nic.in",
-    "phone": "+91 98765 10154"
+    "phone": "+91 98765 10154",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042376-2",
@@ -3395,7 +3857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "UTTARA KANNADA",
     "sanctionedCr": 10.78,
     "disbursedCr": 3.75,
     "reconciledDisbursedCr": 3.75,
@@ -3408,7 +3870,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.vishweshwar-hegde-kageri@sansad.nic.in",
-    "phone": "+91 98765 10155"
+    "phone": "+91 98765 10155",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042375-2",
@@ -3417,7 +3882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "UDUPI CHIKMAGALUR",
     "sanctionedCr": 14.29,
     "disbursedCr": 5.54,
     "reconciledDisbursedCr": 5.54,
@@ -3430,7 +3895,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kota-srinivas-poojary@sansad.nic.in",
-    "phone": "+91 98765 10156"
+    "phone": "+91 98765 10156",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042380-2",
@@ -3439,7 +3907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "VADAKARA",
     "sanctionedCr": 10.57,
     "disbursedCr": 1.63,
     "reconciledDisbursedCr": 1.63,
@@ -3452,7 +3920,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shafi-parambil@sansad.nic.in",
-    "phone": "+91 98765 10157"
+    "phone": "+91 98765 10157",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042377-2",
@@ -3461,7 +3932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ALAPPUZHA",
     "sanctionedCr": 9.32,
     "disbursedCr": 5.29,
     "reconciledDisbursedCr": 5.29,
@@ -3474,7 +3945,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.k-c-venugopal@sansad.nic.in",
-    "phone": "+91 98765 10158"
+    "phone": "+91 98765 10158",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042379-2",
@@ -3483,7 +3957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "THRISSUR",
     "sanctionedCr": 12.34,
     "disbursedCr": 1.78,
     "reconciledDisbursedCr": 1.78,
@@ -3496,7 +3970,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.suresh-gopi@sansad.nic.in",
-    "phone": "+91 98765 10159"
+    "phone": "+91 98765 10159",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042378-2",
@@ -3505,7 +3982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KOTTAYAM",
     "sanctionedCr": 18.68,
     "disbursedCr": 4.27,
     "reconciledDisbursedCr": 4.27,
@@ -3518,7 +3995,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.adv-k-francis-george@sansad.nic.in",
-    "phone": "+91 98765 10160"
+    "phone": "+91 98765 10160",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017417-2",
@@ -3527,7 +4007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ERNAKULAM",
     "sanctionedCr": 15.46,
     "disbursedCr": 3.12,
     "reconciledDisbursedCr": 3.12,
@@ -3540,7 +4020,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-hibi-eden@sansad.nic.in",
-    "phone": "+91 98765 10161"
+    "phone": "+91 98765 10161",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017408-2",
@@ -3549,7 +4032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "THIRUVANANTHAPURAM",
     "sanctionedCr": 9.98,
     "disbursedCr": 4.5,
     "reconciledDisbursedCr": 4.5,
@@ -3559,10 +4042,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 54,
     "worksRecommended": 132,
     "completionRate": 40.9,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-shashi-tharoor@sansad.nic.in",
-    "phone": "+91 98765 10162"
+    "phone": "+91 98765 10162",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017409-2",
@@ -3571,7 +4057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KOZHIKODE",
     "sanctionedCr": 11.44,
     "disbursedCr": 1.21,
     "reconciledDisbursedCr": 1.21,
@@ -3584,7 +4070,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-m-k-raghavan@sansad.nic.in",
-    "phone": "+91 98765 10163"
+    "phone": "+91 98765 10163",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017410-2",
@@ -3593,7 +4082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KOLLAM",
     "sanctionedCr": 13.16,
     "disbursedCr": 7.25,
     "reconciledDisbursedCr": 7.25,
@@ -3606,7 +4095,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-nk-premachandran@sansad.nic.in",
-    "phone": "+91 98765 10164"
+    "phone": "+91 98765 10164",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017411-2",
@@ -3615,7 +4107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ATTINGAL",
     "sanctionedCr": 13.81,
     "disbursedCr": 3.2,
     "reconciledDisbursedCr": 3.2,
@@ -3628,7 +4120,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.adv-adoor-prakash@sansad.nic.in",
-    "phone": "+91 98765 10165"
+    "phone": "+91 98765 10165",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017413-2",
@@ -3637,7 +4132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "CHALAKUDY",
     "sanctionedCr": 13.05,
     "disbursedCr": 3.3,
     "reconciledDisbursedCr": 3.3,
@@ -3650,7 +4145,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-benny-behanan@sansad.nic.in",
-    "phone": "+91 98765 10166"
+    "phone": "+91 98765 10166",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017418-2",
@@ -3659,7 +4157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "IDUKKI",
     "sanctionedCr": 13.94,
     "disbursedCr": 6.01,
     "reconciledDisbursedCr": 6.01,
@@ -3672,7 +4170,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.adv-dean-kuriakose@sansad.nic.in",
-    "phone": "+91 98765 10167"
+    "phone": "+91 98765 10167",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018377-2",
@@ -3681,7 +4182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "PALAKKAD",
     "sanctionedCr": 15.77,
     "disbursedCr": 5.43,
     "reconciledDisbursedCr": 5.43,
@@ -3694,7 +4195,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vellalath-kochukrishnan-nair-sreekandan@sansad.nic.in",
-    "phone": "+91 98765 10168"
+    "phone": "+91 98765 10168",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017416-2",
@@ -3716,7 +4220,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-kumbakudi-sudhakaran@sansad.nic.in",
-    "phone": "+91 98765 10169"
+    "phone": "+91 98765 10169",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043914-2",
@@ -3738,7 +4245,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.mohamed-haneefa@sansad.nic.in",
-    "phone": "+91 98765 10170"
+    "phone": "+91 98765 10170",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042791-2",
@@ -3760,7 +4270,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.muhammed-hamdullah-sayeed@sansad.nic.in",
-    "phone": "+91 98765 10171"
+    "phone": "+91 98765 10171",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042381-2",
@@ -3769,7 +4282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "BALAGHAT",
     "sanctionedCr": 10.6,
     "disbursedCr": 9.37,
     "reconciledDisbursedCr": 9.37,
@@ -3782,7 +4295,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bharti-pardhi@sansad.nic.in",
-    "phone": "+91 98765 10172"
+    "phone": "+91 98765 10172",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042382-2",
@@ -3791,7 +4307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "BHOPAL",
     "sanctionedCr": 13.5,
     "disbursedCr": 7.15,
     "reconciledDisbursedCr": 7.15,
@@ -3804,7 +4320,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.alok-sharma@sansad.nic.in",
-    "phone": "+91 98765 10173"
+    "phone": "+91 98765 10173",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042383-2",
@@ -3813,7 +4332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "CHHINDWARA",
     "sanctionedCr": 13.08,
     "disbursedCr": 5.73,
     "reconciledDisbursedCr": 5.73,
@@ -3826,7 +4345,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bunty-vivek-sahu@sansad.nic.in",
-    "phone": "+91 98765 10174"
+    "phone": "+91 98765 10174",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042384-2",
@@ -3835,7 +4357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "DAMOH",
     "sanctionedCr": 8.87,
     "disbursedCr": 7.44,
     "reconciledDisbursedCr": 7.44,
@@ -3848,7 +4370,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.rahul-singh-lodhi@sansad.nic.in",
-    "phone": "+91 98765 10175"
+    "phone": "+91 98765 10175",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042385-2",
@@ -3857,7 +4382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "DHAR(ST)",
     "sanctionedCr": 13.58,
     "disbursedCr": 8.79,
     "reconciledDisbursedCr": 8.79,
@@ -3870,7 +4395,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.savitri-thakur@sansad.nic.in",
-    "phone": "+91 98765 10176"
+    "phone": "+91 98765 10176",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042386-2",
@@ -3879,7 +4407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "GWALIOR",
     "sanctionedCr": 10.38,
     "disbursedCr": 2.27,
     "reconciledDisbursedCr": 2.27,
@@ -3892,7 +4420,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.bharat-singh-kushwah@sansad.nic.in",
-    "phone": "+91 98765 10177"
+    "phone": "+91 98765 10177",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042393-2",
@@ -3901,7 +4432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AHMEDNAGAR",
     "sanctionedCr": 12.69,
     "disbursedCr": 2.48,
     "reconciledDisbursedCr": 2.48,
@@ -3914,7 +4445,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.nilesh-dnyandev-lanke@sansad.nic.in",
-    "phone": "+91 98765 10178"
+    "phone": "+91 98765 10178",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042394-2",
@@ -3923,7 +4457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AKOLA",
     "sanctionedCr": 9.79,
     "disbursedCr": 6.13,
     "reconciledDisbursedCr": 6.13,
@@ -3936,7 +4470,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.anup-sanjay-dhotre@sansad.nic.in",
-    "phone": "+91 98765 10179"
+    "phone": "+91 98765 10179",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042395-2",
@@ -3945,7 +4482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AMRAVATI(SC)",
     "sanctionedCr": 16.58,
     "disbursedCr": 10.19,
     "reconciledDisbursedCr": 10.19,
@@ -3958,7 +4495,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.balwant-baswant-wankhade@sansad.nic.in",
-    "phone": "+91 98765 10180"
+    "phone": "+91 98765 10180",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042396-2",
@@ -3967,7 +4507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AURANGABAD_MH",
     "sanctionedCr": 12.83,
     "disbursedCr": 5.41,
     "reconciledDisbursedCr": 5.41,
@@ -3980,7 +4520,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bhumare-sandipanrao-asaram@sansad.nic.in",
-    "phone": "+91 98765 10181"
+    "phone": "+91 98765 10181",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042397-2",
@@ -3989,7 +4532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BEED",
     "sanctionedCr": 9.94,
     "disbursedCr": 4.2,
     "reconciledDisbursedCr": 4.2,
@@ -4002,7 +4545,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.bajrang-manohar-sonwane@sansad.nic.in",
-    "phone": "+91 98765 10182"
+    "phone": "+91 98765 10182",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042398-2",
@@ -4011,7 +4557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BHANDARA-GONDIYA",
     "sanctionedCr": 13.61,
     "disbursedCr": 1.94,
     "reconciledDisbursedCr": 1.94,
@@ -4024,7 +4570,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-prashant-yadaorao-padole@sansad.nic.in",
-    "phone": "+91 98765 10183"
+    "phone": "+91 98765 10183",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042399-2",
@@ -4033,7 +4582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BHIWANDI",
     "sanctionedCr": 14.98,
     "disbursedCr": 7.13,
     "reconciledDisbursedCr": 7.13,
@@ -4046,7 +4595,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.balya-mama-suresh-gopinath-mhatre@sansad.nic.in",
-    "phone": "+91 98765 10184"
+    "phone": "+91 98765 10184",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042401-2",
@@ -4055,7 +4607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "DHULE",
     "sanctionedCr": 10.11,
     "disbursedCr": 2.12,
     "reconciledDisbursedCr": 2.12,
@@ -4068,7 +4620,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.bachhav-shobha-dinesh@sansad.nic.in",
-    "phone": "+91 98765 10185"
+    "phone": "+91 98765 10185",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042402-2",
@@ -4077,7 +4632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "DINDORI(ST)",
     "sanctionedCr": 10.77,
     "disbursedCr": 3.98,
     "reconciledDisbursedCr": 3.98,
@@ -4090,7 +4645,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.bhaskar-murlidhar-bhagare@sansad.nic.in",
-    "phone": "+91 98765 10186"
+    "phone": "+91 98765 10186",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042403-2",
@@ -4099,7 +4657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "GADCHIROLI-CHIMUR(ST)",
     "sanctionedCr": 13.55,
     "disbursedCr": 2.77,
     "reconciledDisbursedCr": 2.77,
@@ -4112,7 +4670,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-kirsan-namdeo@sansad.nic.in",
-    "phone": "+91 98765 10187"
+    "phone": "+91 98765 10187",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042404-2",
@@ -4121,7 +4682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "HINGOLI",
     "sanctionedCr": 13.76,
     "disbursedCr": 7.05,
     "reconciledDisbursedCr": 7.05,
@@ -4134,7 +4695,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.aashtikar-patil-nagesh-bapurao@sansad.nic.in",
-    "phone": "+91 98765 10188"
+    "phone": "+91 98765 10188",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042405-2",
@@ -4143,7 +4707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "JALGAON",
     "sanctionedCr": 1.6,
     "disbursedCr": 1.4,
     "reconciledDisbursedCr": 1.4,
@@ -4156,7 +4720,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smita-uday-wagh@sansad.nic.in",
-    "phone": "+91 98765 10189"
+    "phone": "+91 98765 10189",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042406-2",
@@ -4165,7 +4732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "JALNA",
     "sanctionedCr": 6.0,
     "disbursedCr": 4.02,
     "reconciledDisbursedCr": 4.02,
@@ -4178,7 +4745,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kalyan-vaijinathrao-kale@sansad.nic.in",
-    "phone": "+91 98765 10190"
+    "phone": "+91 98765 10190",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042407-2",
@@ -4187,7 +4757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "KOLHAPUR",
     "sanctionedCr": 14.62,
     "disbursedCr": 4.32,
     "reconciledDisbursedCr": 4.32,
@@ -4200,7 +4770,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.chhatrapati-shahu-shahaji@sansad.nic.in",
-    "phone": "+91 98765 10191"
+    "phone": "+91 98765 10191",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042409-2",
@@ -4209,7 +4782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH-CENTRAL",
     "sanctionedCr": 9.8,
     "disbursedCr": 9.26,
     "reconciledDisbursedCr": 9.26,
@@ -4222,7 +4795,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gaikwad-varsha-eknath@sansad.nic.in",
-    "phone": "+91 98765 10192"
+    "phone": "+91 98765 10192",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042410-2",
@@ -4231,7 +4807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NANDED",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -4244,7 +4820,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.chavan-vasantrao-balwantrao@sansad.nic.in",
-    "phone": "+91 98765 10193"
+    "phone": "+91 98765 10193",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042411-2",
@@ -4253,7 +4832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NANDURBAR(ST)",
     "sanctionedCr": 8.8,
     "disbursedCr": 3.2,
     "reconciledDisbursedCr": 3.2,
@@ -4266,7 +4845,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.adv-gowaal-kagada-padavi@sansad.nic.in",
-    "phone": "+91 98765 10194"
+    "phone": "+91 98765 10194",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042412-2",
@@ -4275,7 +4857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NASHIK",
     "sanctionedCr": 12.74,
     "disbursedCr": 6.18,
     "reconciledDisbursedCr": 6.18,
@@ -4288,7 +4870,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.rajabhau@sansad.nic.in",
-    "phone": "+91 98765 10195"
+    "phone": "+91 98765 10195",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042413-2",
@@ -4297,7 +4882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "PALGHAR(ST)",
     "sanctionedCr": 8.57,
     "disbursedCr": 1.52,
     "reconciledDisbursedCr": 1.52,
@@ -4310,7 +4895,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-hemant-vishnu-savara@sansad.nic.in",
-    "phone": "+91 98765 10196"
+    "phone": "+91 98765 10196",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042414-2",
@@ -4319,7 +4907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "PUNE",
     "sanctionedCr": 14.65,
     "disbursedCr": 1.89,
     "reconciledDisbursedCr": 1.89,
@@ -4332,7 +4920,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.murlidhar-mohol@sansad.nic.in",
-    "phone": "+91 98765 10197"
+    "phone": "+91 98765 10197",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042415-2",
@@ -4341,7 +4932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "RAMTEK(SC)",
     "sanctionedCr": 6.66,
     "disbursedCr": 1.19,
     "reconciledDisbursedCr": 1.19,
@@ -4354,7 +4945,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shyamkumar@sansad.nic.in",
-    "phone": "+91 98765 10198"
+    "phone": "+91 98765 10198",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042416-2",
@@ -4363,7 +4957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "RATNAGIRI-SINDHUDURG",
     "sanctionedCr": 8.65,
     "disbursedCr": 2.83,
     "reconciledDisbursedCr": 2.83,
@@ -4376,7 +4970,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.narayan-tatu-rane@sansad.nic.in",
-    "phone": "+91 98765 10199"
+    "phone": "+91 98765 10199",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042417-2",
@@ -4385,7 +4982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SANGLI",
     "sanctionedCr": 9.09,
     "disbursedCr": 2.62,
     "reconciledDisbursedCr": 2.62,
@@ -4398,7 +4995,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.vishal@sansad.nic.in",
-    "phone": "+91 98765 10200"
+    "phone": "+91 98765 10200",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042418-2",
@@ -4407,7 +5007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SATARA",
     "sanctionedCr": 9.68,
     "disbursedCr": 1.8,
     "reconciledDisbursedCr": 1.8,
@@ -4420,7 +5020,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shrimant-chh-udayanraje-pratapsinhamaharaj-bhonsle@sansad.nic.in",
-    "phone": "+91 98765 10201"
+    "phone": "+91 98765 10201",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044252-2",
@@ -4429,7 +5032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Manipur",
-    "constituency": "OUTER MANIPUR(ST)",
+    "constituency": "INNER MANIPUR",
     "sanctionedCr": 10.85,
     "disbursedCr": 9.48,
     "reconciledDisbursedCr": 9.48,
@@ -4442,7 +5045,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.angomcha-bimol-akoijam@sansad.nic.in",
-    "phone": "+91 98765 10202"
+    "phone": "+91 98765 10202",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044251-2",
@@ -4464,7 +5070,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.alfred-kanngam-s-arthur@sansad.nic.in",
-    "phone": "+91 98765 10203"
+    "phone": "+91 98765 10203",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042422-2",
@@ -4473,7 +5082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Meghalaya",
-    "constituency": "TURA",
+    "constituency": "SHILLONG",
     "sanctionedCr": 9.8,
     "disbursedCr": 7.26,
     "reconciledDisbursedCr": 7.26,
@@ -4486,7 +5095,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.andrew-j-syngkon@sansad.nic.in",
-    "phone": "+91 98765 10204"
+    "phone": "+91 98765 10204",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042794-2",
@@ -4508,7 +5120,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.saleng-a-sangma@sansad.nic.in",
-    "phone": "+91 98765 10205"
+    "phone": "+91 98765 10205",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042423-2",
@@ -4530,7 +5145,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.richard-vanlalhmangaiha@sansad.nic.in",
-    "phone": "+91 98765 10206"
+    "phone": "+91 98765 10206",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045278-2",
@@ -4552,7 +5170,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.s-supongmeren-jamir@sansad.nic.in",
-    "phone": "+91 98765 10207"
+    "phone": "+91 98765 10207",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042424-2",
@@ -4561,7 +5182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BARGARH",
     "sanctionedCr": 12.69,
     "disbursedCr": 3.68,
     "reconciledDisbursedCr": 3.68,
@@ -4574,7 +5195,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pradeep-purohit@sansad.nic.in",
-    "phone": "+91 98765 10208"
+    "phone": "+91 98765 10208",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042425-2",
@@ -4583,7 +5207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BERHAMPUR",
     "sanctionedCr": 4.7,
     "disbursedCr": 0.07,
     "reconciledDisbursedCr": 0.07,
@@ -4596,7 +5220,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-pradeep-kumar-panigrahy@sansad.nic.in",
-    "phone": "+91 98765 10209"
+    "phone": "+91 98765 10209",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042426-2",
@@ -4605,7 +5232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "DHENKANAL",
     "sanctionedCr": 6.87,
     "disbursedCr": 1.01,
     "reconciledDisbursedCr": 1.01,
@@ -4618,7 +5245,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rudra-narayan-pany@sansad.nic.in",
-    "phone": "+91 98765 10210"
+    "phone": "+91 98765 10210",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042427-2",
@@ -4627,7 +5257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "JAGATSINGHPUR(SC)",
     "sanctionedCr": 14.06,
     "disbursedCr": 2.43,
     "reconciledDisbursedCr": 2.43,
@@ -4640,7 +5270,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.bibhu-prasad-tarai@sansad.nic.in",
-    "phone": "+91 98765 10211"
+    "phone": "+91 98765 10211",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042428-2",
@@ -4649,7 +5282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "JAJPUR(SC)",
     "sanctionedCr": 11.71,
     "disbursedCr": 1.09,
     "reconciledDisbursedCr": 1.09,
@@ -4662,7 +5295,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.rabindra-narayan-behera@sansad.nic.in",
-    "phone": "+91 98765 10212"
+    "phone": "+91 98765 10212",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042429-2",
@@ -4671,7 +5307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KALAHANDI",
     "sanctionedCr": 10.33,
     "disbursedCr": 5.29,
     "reconciledDisbursedCr": 5.29,
@@ -4684,7 +5320,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.malvika-devi@sansad.nic.in",
-    "phone": "+91 98765 10213"
+    "phone": "+91 98765 10213",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042430-2",
@@ -4693,7 +5332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KENDRAPARA",
     "sanctionedCr": 9.53,
     "disbursedCr": 1.99,
     "reconciledDisbursedCr": 1.99,
@@ -4706,7 +5345,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.baijayant-panda@sansad.nic.in",
-    "phone": "+91 98765 10214"
+    "phone": "+91 98765 10214",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019122-2",
@@ -4728,7 +5370,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.vaithilingam-ve@sansad.nic.in",
-    "phone": "+91 98765 10215"
+    "phone": "+91 98765 10215",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042437-2",
@@ -4737,7 +5382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "FARIDKOT(SC)",
     "sanctionedCr": 14.92,
     "disbursedCr": 10.28,
     "reconciledDisbursedCr": 10.28,
@@ -4750,7 +5395,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sarabjeet-singh-khalsa@sansad.nic.in",
-    "phone": "+91 98765 10216"
+    "phone": "+91 98765 10216",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042438-2",
@@ -4759,7 +5407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "FIROZPUR",
     "sanctionedCr": 12.23,
     "disbursedCr": 9.64,
     "reconciledDisbursedCr": 9.64,
@@ -4772,7 +5420,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sher-singh-ghubaya@sansad.nic.in",
-    "phone": "+91 98765 10217"
+    "phone": "+91 98765 10217",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042439-2",
@@ -4781,7 +5432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "GURDASPUR",
     "sanctionedCr": 14.03,
     "disbursedCr": 6.07,
     "reconciledDisbursedCr": 6.07,
@@ -4794,7 +5445,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sukhjinder-singh-randhawa@sansad.nic.in",
-    "phone": "+91 98765 10218"
+    "phone": "+91 98765 10218",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042440-2",
@@ -4803,7 +5457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "HOSHIARPUR(SC)",
     "sanctionedCr": 13.75,
     "disbursedCr": 7.8,
     "reconciledDisbursedCr": 7.8,
@@ -4816,7 +5470,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-raj-kumar-chabbewal@sansad.nic.in",
-    "phone": "+91 98765 10219"
+    "phone": "+91 98765 10219",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042441-2",
@@ -4825,7 +5482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "JALANDHAR(SC)",
     "sanctionedCr": 7.33,
     "disbursedCr": 3.01,
     "reconciledDisbursedCr": 3.01,
@@ -4838,7 +5495,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.charanjit-singh-channi@sansad.nic.in",
-    "phone": "+91 98765 10220"
+    "phone": "+91 98765 10220",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042442-2",
@@ -4847,7 +5507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "LUDHIANA",
     "sanctionedCr": 9.9,
     "disbursedCr": 3.91,
     "reconciledDisbursedCr": 3.91,
@@ -4860,7 +5520,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.amrinder-singh-raja-warring@sansad.nic.in",
-    "phone": "+91 98765 10221"
+    "phone": "+91 98765 10221",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043498-2",
@@ -4869,7 +5532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "PATIALA",
     "sanctionedCr": 12.06,
     "disbursedCr": 6.02,
     "reconciledDisbursedCr": 6.02,
@@ -4882,7 +5545,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-dharamvira-gandhi@sansad.nic.in",
-    "phone": "+91 98765 10222"
+    "phone": "+91 98765 10222",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017446-2",
@@ -4891,7 +5557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "AMRITSAR",
     "sanctionedCr": 12.2,
     "disbursedCr": 7.13,
     "reconciledDisbursedCr": 7.13,
@@ -4904,7 +5570,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-gurjeet-singh-aujla@sansad.nic.in",
-    "phone": "+91 98765 10223"
+    "phone": "+91 98765 10223",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017445-2",
@@ -4913,7 +5582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "FATEHGARH SAHIB(SC)",
     "sanctionedCr": 12.2,
     "disbursedCr": 4.94,
     "reconciledDisbursedCr": 4.94,
@@ -4926,7 +5595,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-amar-singh@sansad.nic.in",
-    "phone": "+91 98765 10224"
+    "phone": "+91 98765 10224",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042796-2",
@@ -4935,7 +5607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "ANANDPUR SAHIB",
     "sanctionedCr": 14.1,
     "disbursedCr": 9.08,
     "reconciledDisbursedCr": 9.08,
@@ -4948,7 +5620,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.malvinder-singh-kang@sansad.nic.in",
-    "phone": "+91 98765 10225"
+    "phone": "+91 98765 10225",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042913-2",
@@ -4957,7 +5632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Punjab",
-    "constituency": "BHATINDA",
+    "constituency": "SANGRUR",
     "sanctionedCr": 12.1,
     "disbursedCr": 6.22,
     "reconciledDisbursedCr": 6.22,
@@ -4970,7 +5645,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gurmeet-singh-meet-hayer@sansad.nic.in",
-    "phone": "+91 98765 10226"
+    "phone": "+91 98765 10226",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042444-2",
@@ -4979,7 +5657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "ALWAR",
     "sanctionedCr": 11.01,
     "disbursedCr": 6.37,
     "reconciledDisbursedCr": 6.37,
@@ -4992,7 +5670,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.bhupender-yadav@sansad.nic.in",
-    "phone": "+91 98765 10227"
+    "phone": "+91 98765 10227",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042445-2",
@@ -5001,7 +5682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BARMER",
     "sanctionedCr": 11.39,
     "disbursedCr": 7.02,
     "reconciledDisbursedCr": 7.02,
@@ -5014,7 +5695,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ummeda-ram-beniwal@sansad.nic.in",
-    "phone": "+91 98765 10228"
+    "phone": "+91 98765 10228",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042446-2",
@@ -5023,7 +5707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BHARATPUR(SC)",
     "sanctionedCr": 13.28,
     "disbursedCr": 7.73,
     "reconciledDisbursedCr": 7.73,
@@ -5036,7 +5720,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.sanjna-jatav@sansad.nic.in",
-    "phone": "+91 98765 10229"
+    "phone": "+91 98765 10229",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042447-2",
@@ -5045,7 +5732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BHILWARA",
     "sanctionedCr": 10.61,
     "disbursedCr": 6.4,
     "reconciledDisbursedCr": 6.4,
@@ -5058,7 +5745,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.damodar-agarwal@sansad.nic.in",
-    "phone": "+91 98765 10230"
+    "phone": "+91 98765 10230",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042448-2",
@@ -5067,7 +5757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "DAUSA(ST)",
     "sanctionedCr": 8.56,
     "disbursedCr": 2.99,
     "reconciledDisbursedCr": 2.99,
@@ -5080,7 +5770,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.murari-lal-meena@sansad.nic.in",
-    "phone": "+91 98765 10231"
+    "phone": "+91 98765 10231",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042449-2",
@@ -5089,7 +5782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "GANGANAGAR(SC)",
     "sanctionedCr": 7.25,
     "disbursedCr": 1.87,
     "reconciledDisbursedCr": 1.87,
@@ -5102,7 +5795,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.kuldeep-indora@sansad.nic.in",
-    "phone": "+91 98765 10232"
+    "phone": "+91 98765 10232",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042450-2",
@@ -5111,7 +5807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JAIPUR",
     "sanctionedCr": 11.05,
     "disbursedCr": 2.51,
     "reconciledDisbursedCr": 2.51,
@@ -5124,7 +5820,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.manju-sharma@sansad.nic.in",
-    "phone": "+91 98765 10233"
+    "phone": "+91 98765 10233",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042451-2",
@@ -5133,7 +5832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JALORE",
     "sanctionedCr": 10.0,
     "disbursedCr": 6.45,
     "reconciledDisbursedCr": 6.45,
@@ -5146,7 +5845,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.lumbaram@sansad.nic.in",
-    "phone": "+91 98765 10234"
+    "phone": "+91 98765 10234",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042452-2",
@@ -5155,7 +5857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JHUNJHUNU",
     "sanctionedCr": 8.19,
     "disbursedCr": 6.53,
     "reconciledDisbursedCr": 6.53,
@@ -5168,7 +5870,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.brijendra-singh-ola@sansad.nic.in",
-    "phone": "+91 98765 10235"
+    "phone": "+91 98765 10235",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042453-2",
@@ -5177,7 +5882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "KARAULI-DHOLPUR(SC)",
     "sanctionedCr": 4.14,
     "disbursedCr": 0.68,
     "reconciledDisbursedCr": 0.68,
@@ -5190,7 +5895,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.bhajan-lal-jatav@sansad.nic.in",
-    "phone": "+91 98765 10236"
+    "phone": "+91 98765 10236",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042454-2",
@@ -5199,7 +5907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "RAJSAMAND",
     "sanctionedCr": 11.58,
     "disbursedCr": 6.01,
     "reconciledDisbursedCr": 6.01,
@@ -5212,7 +5920,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mahima-kumari-mewar@sansad.nic.in",
-    "phone": "+91 98765 10237"
+    "phone": "+91 98765 10237",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042455-2",
@@ -5221,7 +5932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "SIKAR",
     "sanctionedCr": 9.28,
     "disbursedCr": 4.68,
     "reconciledDisbursedCr": 4.68,
@@ -5234,7 +5945,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.amraram@sansad.nic.in",
-    "phone": "+91 98765 10238"
+    "phone": "+91 98765 10238",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017174-2",
@@ -5256,7 +5970,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.indra-hang-subba@sansad.nic.in",
-    "phone": "+91 98765 10239"
+    "phone": "+91 98765 10239",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042473-2",
@@ -5265,7 +5982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "THENI",
     "sanctionedCr": 12.07,
     "disbursedCr": 5.55,
     "reconciledDisbursedCr": 5.55,
@@ -5278,7 +5995,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.thanga-tamilselvan@sansad.nic.in",
-    "phone": "+91 98765 10240"
+    "phone": "+91 98765 10240",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042458-2",
@@ -5287,7 +6007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "ARANI",
     "sanctionedCr": 16.62,
     "disbursedCr": 11.3,
     "reconciledDisbursedCr": 11.3,
@@ -5300,7 +6020,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.tharaniventhan-m-s@sansad.nic.in",
-    "phone": "+91 98765 10241"
+    "phone": "+91 98765 10241",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042459-2",
@@ -5309,7 +6032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "COIMBATORE",
     "sanctionedCr": 12.35,
     "disbursedCr": 5.16,
     "reconciledDisbursedCr": 5.16,
@@ -5322,7 +6045,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ganapathy-rajkumar-p@sansad.nic.in",
-    "phone": "+91 98765 10242"
+    "phone": "+91 98765 10242",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042461-2",
@@ -5331,7 +6057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "DHARAMAPURI",
     "sanctionedCr": 16.28,
     "disbursedCr": 7.53,
     "reconciledDisbursedCr": 7.53,
@@ -5344,7 +6070,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mani-a@sansad.nic.in",
-    "phone": "+91 98765 10243"
+    "phone": "+91 98765 10243",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042462-2",
@@ -5353,7 +6082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "DINDIGUL",
     "sanctionedCr": 14.75,
     "disbursedCr": 9.21,
     "reconciledDisbursedCr": 9.21,
@@ -5366,7 +6095,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sachithanantham-r@sansad.nic.in",
-    "phone": "+91 98765 10244"
+    "phone": "+91 98765 10244",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042463-2",
@@ -5375,7 +6107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "ERODE",
     "sanctionedCr": 13.14,
     "disbursedCr": 8.86,
     "reconciledDisbursedCr": 8.86,
@@ -5388,7 +6120,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.k-e-prakash@sansad.nic.in",
-    "phone": "+91 98765 10245"
+    "phone": "+91 98765 10245",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042464-2",
@@ -5397,7 +6132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KALLAKURICHI",
     "sanctionedCr": 17.62,
     "disbursedCr": 12.19,
     "reconciledDisbursedCr": 12.19,
@@ -5410,7 +6145,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.malaiyarasan-d@sansad.nic.in",
-    "phone": "+91 98765 10246"
+    "phone": "+91 98765 10246",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042467-2",
@@ -5419,7 +6157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "PERAMBALUR",
     "sanctionedCr": 10.78,
     "disbursedCr": 8.48,
     "reconciledDisbursedCr": 8.48,
@@ -5432,7 +6170,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.arun-nehru@sansad.nic.in",
-    "phone": "+91 98765 10247"
+    "phone": "+91 98765 10247",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042468-2",
@@ -5441,7 +6182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "POLLACHI",
     "sanctionedCr": 9.46,
     "disbursedCr": 6.77,
     "reconciledDisbursedCr": 6.77,
@@ -5454,7 +6195,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.eswarasamy-k@sansad.nic.in",
-    "phone": "+91 98765 10248"
+    "phone": "+91 98765 10248",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042471-2",
@@ -5463,7 +6207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TENKASI(SC)",
     "sanctionedCr": 13.57,
     "disbursedCr": 10.23,
     "reconciledDisbursedCr": 10.23,
@@ -5476,7 +6220,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-rani-sri-kumar@sansad.nic.in",
-    "phone": "+91 98765 10249"
+    "phone": "+91 98765 10249",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042472-2",
@@ -5485,7 +6232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "THANJAVUR",
     "sanctionedCr": 14.36,
     "disbursedCr": 7.73,
     "reconciledDisbursedCr": 7.73,
@@ -5498,7 +6245,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.murasoli-s@sansad.nic.in",
-    "phone": "+91 98765 10250"
+    "phone": "+91 98765 10250",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042474-2",
@@ -5520,7 +6270,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.robert-bruce-c@sansad.nic.in",
-    "phone": "+91 98765 10251"
+    "phone": "+91 98765 10251",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042475-2",
@@ -5529,7 +6282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUVALLUR(SC)",
     "sanctionedCr": 11.83,
     "disbursedCr": 9.43,
     "reconciledDisbursedCr": 9.43,
@@ -5542,7 +6295,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sasikanth-senthil@sansad.nic.in",
-    "phone": "+91 98765 10252"
+    "phone": "+91 98765 10252",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042460-2",
@@ -5551,7 +6307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CUDDALORE",
     "sanctionedCr": 10.26,
     "disbursedCr": 7.55,
     "reconciledDisbursedCr": 7.55,
@@ -5564,7 +6320,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.m-k-vishnuprasad@sansad.nic.in",
-    "phone": "+91 98765 10253"
+    "phone": "+91 98765 10253",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042466-2",
@@ -5573,7 +6332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KRISHNAGIRI",
     "sanctionedCr": 8.53,
     "disbursedCr": 5.08,
     "reconciledDisbursedCr": 5.08,
@@ -5586,7 +6345,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.gopinath-k@sansad.nic.in",
-    "phone": "+91 98765 10254"
+    "phone": "+91 98765 10254",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042470-2",
@@ -5595,7 +6357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "SALEM",
     "sanctionedCr": 3.54,
     "disbursedCr": 0.49,
     "reconciledDisbursedCr": 0.49,
@@ -5608,7 +6370,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.selvaganapathi-t-m@sansad.nic.in",
-    "phone": "+91 98765 10255"
+    "phone": "+91 98765 10255",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017455-2",
@@ -5617,7 +6382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHENNAI CENTRAL",
     "sanctionedCr": 10.06,
     "disbursedCr": 3.07,
     "reconciledDisbursedCr": 3.07,
@@ -5630,7 +6395,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.thiru-dayanidhi-maran@sansad.nic.in",
-    "phone": "+91 98765 10256"
+    "phone": "+91 98765 10256",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019643-2",
@@ -5639,7 +6407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHENNAI NORTH",
     "sanctionedCr": 14.62,
     "disbursedCr": 9.12,
     "reconciledDisbursedCr": 9.12,
@@ -5652,7 +6420,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kalanidhi-veeraswamy@sansad.nic.in",
-    "phone": "+91 98765 10257"
+    "phone": "+91 98765 10257",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018396-2",
@@ -5661,7 +6432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHENNAI SOUTH",
     "sanctionedCr": 11.28,
     "disbursedCr": 2.85,
     "reconciledDisbursedCr": 2.85,
@@ -5674,7 +6445,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.t-sumathy-a-thamizhachi-thangapandian@sansad.nic.in",
-    "phone": "+91 98765 10258"
+    "phone": "+91 98765 10258",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019167-2",
@@ -5683,7 +6457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHIDAMBARAM(SC)",
     "sanctionedCr": 9.68,
     "disbursedCr": 7.18,
     "reconciledDisbursedCr": 7.18,
@@ -5696,7 +6470,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.thirumaa-valavan-thol@sansad.nic.in",
-    "phone": "+91 98765 10259"
+    "phone": "+91 98765 10259",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019154-2",
@@ -5705,7 +6482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KANCHEEPURAM(SC)",
     "sanctionedCr": 17.56,
     "disbursedCr": 11.32,
     "reconciledDisbursedCr": 11.32,
@@ -5718,7 +6495,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ganesan-selvam@sansad.nic.in",
-    "phone": "+91 98765 10260"
+    "phone": "+91 98765 10260",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042476-2",
@@ -5740,7 +6520,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.godam-nagesh@sansad.nic.in",
-    "phone": "+91 98765 10261"
+    "phone": "+91 98765 10261",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042477-2",
@@ -5749,7 +6532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "CHELVELLA",
     "sanctionedCr": 14.81,
     "disbursedCr": 6.56,
     "reconciledDisbursedCr": 6.56,
@@ -5762,7 +6545,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.konda-vishweshwar-reddy@sansad.nic.in",
-    "phone": "+91 98765 10262"
+    "phone": "+91 98765 10262",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042478-2",
@@ -5771,7 +6557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "KHAMMAM",
     "sanctionedCr": 7.55,
     "disbursedCr": 2.83,
     "reconciledDisbursedCr": 2.83,
@@ -5784,7 +6570,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ramasahayam-raghuram-reddy@sansad.nic.in",
-    "phone": "+91 98765 10263"
+    "phone": "+91 98765 10263",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042479-2",
@@ -5793,7 +6582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MAHABUBABAD",
     "sanctionedCr": 11.0,
     "disbursedCr": 7.5,
     "reconciledDisbursedCr": 7.5,
@@ -5806,7 +6595,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.balram-naik-porika@sansad.nic.in",
-    "phone": "+91 98765 10264"
+    "phone": "+91 98765 10264",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042480-2",
@@ -5815,7 +6607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MAHABUBNAGAR",
     "sanctionedCr": 12.84,
     "disbursedCr": 4.67,
     "reconciledDisbursedCr": 4.67,
@@ -5828,7 +6620,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.aruna-d-k@sansad.nic.in",
-    "phone": "+91 98765 10265"
+    "phone": "+91 98765 10265",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042481-2",
@@ -5837,7 +6632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MALKAJGIRI",
     "sanctionedCr": 25.26,
     "disbursedCr": 3.87,
     "reconciledDisbursedCr": 3.87,
@@ -5850,7 +6645,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.eatala-rajender@sansad.nic.in",
-    "phone": "+91 98765 10266"
+    "phone": "+91 98765 10266",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042482-2",
@@ -5859,7 +6657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "ZAHIRABAD",
     "sanctionedCr": 10.59,
     "disbursedCr": 3.92,
     "reconciledDisbursedCr": 3.92,
@@ -5872,7 +6670,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.suresh-kumar-shetkar@sansad.nic.in",
-    "phone": "+91 98765 10267"
+    "phone": "+91 98765 10267",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019172-2",
@@ -5881,7 +6682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "NIZAMABAD",
     "sanctionedCr": 27.07,
     "disbursedCr": 16.06,
     "reconciledDisbursedCr": 16.06,
@@ -5894,7 +6695,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.arvind-dharmapuri@sansad.nic.in",
-    "phone": "+91 98765 10268"
+    "phone": "+91 98765 10268",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019176-2",
@@ -5903,7 +6707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "SECUNDERABAD",
     "sanctionedCr": 5.86,
     "disbursedCr": 0.83,
     "reconciledDisbursedCr": 0.83,
@@ -5916,7 +6720,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.kishan-reddy-gangapuram@sansad.nic.in",
-    "phone": "+91 98765 10269"
+    "phone": "+91 98765 10269",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043284-2",
@@ -5925,7 +6732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "NAGARKURNOOL(SC)",
     "sanctionedCr": 10.01,
     "disbursedCr": 6.35,
     "reconciledDisbursedCr": 6.35,
@@ -5938,7 +6745,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-mallu-ravi@sansad.nic.in",
-    "phone": "+91 98765 10270"
+    "phone": "+91 98765 10270",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043394-2",
@@ -5947,7 +6757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "BHONGIR",
     "sanctionedCr": 9.31,
     "disbursedCr": 6.42,
     "reconciledDisbursedCr": 6.42,
@@ -5960,7 +6770,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.chamala-kiran-kumar-reddy@sansad.nic.in",
-    "phone": "+91 98765 10271"
+    "phone": "+91 98765 10271",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019181-2",
@@ -5969,7 +6782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "KARIMNAGAR",
     "sanctionedCr": 16.96,
     "disbursedCr": 7.02,
     "reconciledDisbursedCr": 7.02,
@@ -5982,7 +6795,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sanjay-kumar-bandi@sansad.nic.in",
-    "phone": "+91 98765 10272"
+    "phone": "+91 98765 10272",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042483-2",
@@ -6004,7 +6820,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.patel-umeshbhai-babubhai@sansad.nic.in",
-    "phone": "+91 98765 10273"
+    "phone": "+91 98765 10273",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3041086-2",
@@ -6013,7 +6832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "The Dadra And Nagar Haveli And Daman And Diu",
-    "constituency": "DAMAN and DIU",
+    "constituency": "DADRA & NAGAR HAVELI (ST)",
     "sanctionedCr": 1.47,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -6026,7 +6845,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kalaben-mohanbhai-delkar@sansad.nic.in",
-    "phone": "+91 98765 10274"
+    "phone": "+91 98765 10274",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042484-2",
@@ -6035,7 +6857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tripura",
-    "constituency": "TRIPURA WEST",
+    "constituency": "TRIPURA EAST(ST)",
     "sanctionedCr": 9.97,
     "disbursedCr": 4.29,
     "reconciledDisbursedCr": 4.29,
@@ -6048,7 +6870,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kriti-devi-debbarman@sansad.nic.in",
-    "phone": "+91 98765 10275"
+    "phone": "+91 98765 10275",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042485-2",
@@ -6070,7 +6895,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.biplab-kumar-deb@sansad.nic.in",
-    "phone": "+91 98765 10276"
+    "phone": "+91 98765 10276",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042500-2",
@@ -6079,7 +6907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "DEORIA",
     "sanctionedCr": 12.78,
     "disbursedCr": 8.63,
     "reconciledDisbursedCr": 8.63,
@@ -6092,7 +6920,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shashank-mani@sansad.nic.in",
-    "phone": "+91 98765 10277"
+    "phone": "+91 98765 10277",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042486-2",
@@ -6101,7 +6932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ALLAHABAD",
     "sanctionedCr": 9.72,
     "disbursedCr": 6.58,
     "reconciledDisbursedCr": 6.58,
@@ -6114,7 +6945,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ujjwal-raman-singh@sansad.nic.in",
-    "phone": "+91 98765 10278"
+    "phone": "+91 98765 10278",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042487-2",
@@ -6123,7 +6957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AMBEDKAR NAGAR",
     "sanctionedCr": 14.13,
     "disbursedCr": 8.95,
     "reconciledDisbursedCr": 8.95,
@@ -6136,7 +6970,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.lalji-verma@sansad.nic.in",
-    "phone": "+91 98765 10279"
+    "phone": "+91 98765 10279",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042488-2",
@@ -6145,7 +6982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AMETHI",
     "sanctionedCr": 15.01,
     "disbursedCr": 8.37,
     "reconciledDisbursedCr": 8.37,
@@ -6158,7 +6995,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kishori-lal@sansad.nic.in",
-    "phone": "+91 98765 10280"
+    "phone": "+91 98765 10280",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018415-2",
@@ -6167,7 +7007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "TEHRI GARHWAL",
     "sanctionedCr": 10.84,
     "disbursedCr": 6.61,
     "reconciledDisbursedCr": 6.61,
@@ -6180,7 +7020,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.mala-rajya-laxmi-shah@sansad.nic.in",
-    "phone": "+91 98765 10281"
+    "phone": "+91 98765 10281",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017176-2",
@@ -6202,7 +7045,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ajay-bhatt@sansad.nic.in",
-    "phone": "+91 98765 10282"
+    "phone": "+91 98765 10282",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018414-2",
@@ -6211,7 +7057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "ALMORA(SC)",
     "sanctionedCr": 2.99,
     "disbursedCr": 0.67,
     "reconciledDisbursedCr": 0.67,
@@ -6224,7 +7070,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ajay-tamta@sansad.nic.in",
-    "phone": "+91 98765 10283"
+    "phone": "+91 98765 10283",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3047111-2",
@@ -6233,7 +7082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "GARHWAL",
     "sanctionedCr": 2.02,
     "disbursedCr": 0.51,
     "reconciledDisbursedCr": 0.51,
@@ -6246,7 +7095,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.anil-baluni@sansad.nic.in",
-    "phone": "+91 98765 10284"
+    "phone": "+91 98765 10284",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3047110-2",
@@ -6255,7 +7107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "HARDWAR",
     "sanctionedCr": 4.36,
     "disbursedCr": 0.95,
     "reconciledDisbursedCr": 0.95,
@@ -6268,7 +7120,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.trivendra-singh-rawat@sansad.nic.in",
-    "phone": "+91 98765 10285"
+    "phone": "+91 98765 10285",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042532-2",
@@ -6277,7 +7132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "ALIPURDUARS(ST)",
     "sanctionedCr": 10.04,
     "disbursedCr": 1.66,
     "reconciledDisbursedCr": 1.66,
@@ -6290,7 +7145,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.manoj-tigga@sansad.nic.in",
-    "phone": "+91 98765 10286"
+    "phone": "+91 98765 10286",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042533-2",
@@ -6312,7 +7170,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.bag-mitali@sansad.nic.in",
-    "phone": "+91 98765 10287"
+    "phone": "+91 98765 10287",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042534-2",
@@ -6321,7 +7182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BAHARAMPUR",
     "sanctionedCr": 8.61,
     "disbursedCr": 1.39,
     "reconciledDisbursedCr": 1.39,
@@ -6334,7 +7195,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pathan-yusuf@sansad.nic.in",
-    "phone": "+91 98765 10288"
+    "phone": "+91 98765 10288",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042535-2",
@@ -6343,7 +7207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BANKURA",
     "sanctionedCr": 9.75,
     "disbursedCr": 6.48,
     "reconciledDisbursedCr": 6.48,
@@ -6356,7 +7220,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.arup-chakraborty@sansad.nic.in",
-    "phone": "+91 98765 10289"
+    "phone": "+91 98765 10289",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042536-2",
@@ -6365,7 +7232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARDHAMAN PURBA(SC)",
     "sanctionedCr": 8.85,
     "disbursedCr": 2.51,
     "reconciledDisbursedCr": 2.51,
@@ -6378,7 +7245,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-sharmila-sarkar@sansad.nic.in",
-    "phone": "+91 98765 10290"
+    "phone": "+91 98765 10290",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042538-2",
@@ -6387,7 +7257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARRACKPUR",
     "sanctionedCr": 14.13,
     "disbursedCr": 3.71,
     "reconciledDisbursedCr": 3.71,
@@ -6400,7 +7270,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.partha-bhowmick@sansad.nic.in",
-    "phone": "+91 98765 10291"
+    "phone": "+91 98765 10291",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042539-2",
@@ -6409,7 +7282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BASIRHAT",
     "sanctionedCr": 4.85,
     "disbursedCr": 3.37,
     "reconciledDisbursedCr": 3.37,
@@ -6422,7 +7295,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.sk-nurul-islam@sansad.nic.in",
-    "phone": "+91 98765 10292"
+    "phone": "+91 98765 10292",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042541-2",
@@ -6431,7 +7307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JADAVPUR",
     "sanctionedCr": 8.53,
     "disbursedCr": 5.36,
     "reconciledDisbursedCr": 5.36,
@@ -6444,7 +7320,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.sayani-ghosh@sansad.nic.in",
-    "phone": "+91 98765 10293"
+    "phone": "+91 98765 10293",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042543-2",
@@ -6453,7 +7332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KANTHI",
     "sanctionedCr": 9.59,
     "disbursedCr": 5.27,
     "reconciledDisbursedCr": 5.27,
@@ -6466,7 +7345,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.adhikari-soumendu@sansad.nic.in",
-    "phone": "+91 98765 10294"
+    "phone": "+91 98765 10294",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042545-2",
@@ -6475,7 +7357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MATHURAPUR(SC)",
     "sanctionedCr": 9.13,
     "disbursedCr": 4.0,
     "reconciledDisbursedCr": 4.0,
@@ -6488,7 +7370,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.bapi-haldar@sansad.nic.in",
-    "phone": "+91 98765 10295"
+    "phone": "+91 98765 10295",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042546-2",
@@ -6497,7 +7382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MEDINIPUR",
     "sanctionedCr": 11.27,
     "disbursedCr": 4.02,
     "reconciledDisbursedCr": 4.02,
@@ -6510,7 +7395,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.june-maliah@sansad.nic.in",
-    "phone": "+91 98765 10296"
+    "phone": "+91 98765 10296",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042547-2",
@@ -6519,7 +7407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "RAIGANJ",
     "sanctionedCr": 16.65,
     "disbursedCr": 7.01,
     "reconciledDisbursedCr": 7.01,
@@ -6532,7 +7420,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kartick-chandra-paul@sansad.nic.in",
-    "phone": "+91 98765 10297"
+    "phone": "+91 98765 10297",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017196-1",
@@ -6554,7 +7445,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-s-niranjan-reddy-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10298"
+    "phone": "+91 98765 10298",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019255-1",
@@ -6576,7 +7470,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-v-vijayendra-prasad-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10299"
+    "phone": "+91 98765 10299",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043037-1",
@@ -6598,7 +7495,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-golla-baburao-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10300"
+    "phone": "+91 98765 10300",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043337-1",
@@ -6620,7 +7520,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-meda-raghunadha-reddy-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10301"
+    "phone": "+91 98765 10301",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044299-1",
@@ -6642,7 +7545,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-yerram-venkata-subba-reddy-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10302"
+    "phone": "+91 98765 10302",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3050536-1",
@@ -6664,7 +7570,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-ryaga-krishnaiah-2024-28@sansad.nic.in",
-    "phone": "+91 98765 10303"
+    "phone": "+91 98765 10303",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3050537-1",
@@ -6686,7 +7595,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-masthan-rao-yadav-beedha-2024-28@sansad.nic.in",
-    "phone": "+91 98765 10304"
+    "phone": "+91 98765 10304",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3056236-1",
@@ -6708,7 +7620,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-paka-venkata-satyanarayana-2025-28@sansad.nic.in",
-    "phone": "+91 98765 10305"
+    "phone": "+91 98765 10305",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066164-1",
@@ -6730,7 +7645,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-lingamaneni-ramesh-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10306"
+    "phone": "+91 98765 10306",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066214-1",
@@ -6752,7 +7670,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-bhashyam-rama-krishna-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10307"
+    "phone": "+91 98765 10307",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066270-1",
@@ -6774,7 +7695,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-vijay-chintakayala-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10308"
+    "phone": "+91 98765 10308",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3050535-1",
@@ -6796,7 +7720,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-sana-sathish-babu-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10309"
+    "phone": "+91 98765 10309",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066421-1",
@@ -6818,7 +7745,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-tai-tagak-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10310"
+    "phone": "+91 98765 10310",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017222-1",
@@ -6840,7 +7770,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-pabitra-margherita-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10311"
+    "phone": "+91 98765 10311",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019246-1",
@@ -6862,7 +7795,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-rwngwra-narzary-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10312"
+    "phone": "+91 98765 10312",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3056512-1",
@@ -6884,7 +7820,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-kanad-purkayastha-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10313"
+    "phone": "+91 98765 10313",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017224-1",
@@ -6906,7 +7845,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-birendra-prasad-baishya-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10314"
+    "phone": "+91 98765 10314",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065277-1",
@@ -6928,7 +7870,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-jogen-mohan-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10315"
+    "phone": "+91 98765 10315",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065299-1",
@@ -6950,7 +7895,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-terash-gowalla-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10316"
+    "phone": "+91 98765 10316",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066097-1",
@@ -6972,7 +7920,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-pramod-boro-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10317"
+    "phone": "+91 98765 10317",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017167-1",
@@ -6994,7 +7945,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-shambhu-sharan-patel-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10318"
+    "phone": "+91 98765 10318",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017197-1",
@@ -7016,7 +7970,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dr-faiyaz-ahmad-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10319"
+    "phone": "+91 98765 10319",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017208-1",
@@ -7038,7 +7995,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-satish-chandra-dubey-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10320"
+    "phone": "+91 98765 10320",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017209-1",
@@ -7060,7 +8020,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-khiru-mahto-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10321"
+    "phone": "+91 98765 10321",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042570-1",
@@ -7082,7 +8045,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-bhim-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10322"
+    "phone": "+91 98765 10322",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017198-1",
@@ -7104,7 +8070,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.prof-manoj-kumar-jha-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10323"
+    "phone": "+91 98765 10323",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043338-1",
@@ -7126,7 +8095,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-dharmshila-gupta-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10324"
+    "phone": "+91 98765 10324",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017200-1",
@@ -7148,7 +8120,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-akhilesh-prasad-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10325"
+    "phone": "+91 98765 10325",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043454-1",
@@ -7170,7 +8145,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-sanjay-kumar-jha-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10326"
+    "phone": "+91 98765 10326",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043455-1",
@@ -7192,7 +8170,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-sanjay-yadav-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10327"
+    "phone": "+91 98765 10327",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3046284-1",
@@ -7214,7 +8195,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-manan-kumar-mishra-2024-28@sansad.nic.in",
-    "phone": "+91 98765 10328"
+    "phone": "+91 98765 10328",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3046285-1",
@@ -7236,7 +8220,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-upendra-kushwaha-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10329"
+    "phone": "+91 98765 10329",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064962-1",
@@ -7258,7 +8245,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-shivesh-kumar-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10330"
+    "phone": "+91 98765 10330",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065300-1",
@@ -7280,7 +8270,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-ram-nath-thakur-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10331"
+    "phone": "+91 98765 10331",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065569-1",
@@ -7302,7 +8295,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-nitin-nabin-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10332"
+    "phone": "+91 98765 10332",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044092-1",
@@ -7324,7 +8320,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-satnam-singh-sandhu-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10333"
+    "phone": "+91 98765 10333",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017318-1",
@@ -7346,7 +8345,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-rajeev-shukla-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10334"
+    "phone": "+91 98765 10334",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017501-1",
@@ -7368,7 +8370,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-ranjeet-ranjan-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10335"
+    "phone": "+91 98765 10335",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043409-1",
@@ -7390,7 +8395,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-devendra-pratap-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10336"
+    "phone": "+91 98765 10336",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017500-1",
@@ -7412,7 +8420,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-phulo-devi-netam-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10337"
+    "phone": "+91 98765 10337",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065578-1",
@@ -7434,7 +8445,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-laxmi-verma-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10338"
+    "phone": "+91 98765 10338",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045897-1",
@@ -7456,7 +8470,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ms-swati-maliwal-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10339"
+    "phone": "+91 98765 10339",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020006-1",
@@ -7478,7 +8495,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-narain-dass-gupta-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10340"
+    "phone": "+91 98765 10340",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020005-1",
@@ -7500,7 +8520,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-sanjay-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10341"
+    "phone": "+91 98765 10341",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3061061-1",
@@ -7522,7 +8545,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-meenakshi-jain-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10342"
+    "phone": "+91 98765 10342",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3022960-1",
@@ -7544,7 +8570,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-sadanand-mhalu-shet-tanavade-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10343"
+    "phone": "+91 98765 10343",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3025895-1",
@@ -7566,7 +8595,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-babubhai-jesangbhai-desai-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10344"
+    "phone": "+91 98765 10344",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3026513-1",
@@ -7588,7 +8620,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-kesridevsinh-jhala-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10345"
+    "phone": "+91 98765 10345",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3027305-1",
@@ -7610,7 +8645,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-s-jaishankar-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10346"
+    "phone": "+91 98765 10346",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042558-1",
@@ -7632,7 +8670,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dr-parmar-jashvantsinh-salamsinh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10347"
+    "phone": "+91 98765 10347",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042561-1",
@@ -7654,7 +8695,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-govindbhai-laljibhai-dholakia-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10348"
+    "phone": "+91 98765 10348",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045962-1",
@@ -7676,7 +8720,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-mayankkumar-nayak-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10349"
+    "phone": "+91 98765 10349",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3046565-1",
@@ -7698,7 +8745,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-jagat-prakash-nadda-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10350"
+    "phone": "+91 98765 10350",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066440-1",
@@ -7720,7 +8770,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-mukeshbhai-j-rathwa-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10351"
+    "phone": "+91 98765 10351",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066468-1",
@@ -7742,7 +8795,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-jitendra-meghjibhai-kanzariya-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10352"
+    "phone": "+91 98765 10352",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066616-1",
@@ -7764,7 +8820,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-rajesh-parmanand-shukla-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10353"
+    "phone": "+91 98765 10353",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017503-1",
@@ -7786,7 +8845,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-kartikeya-sharma-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10354"
+    "phone": "+91 98765 10354",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045909-1",
@@ -7808,7 +8870,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-subhash-barala-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10355"
+    "phone": "+91 98765 10355",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3049850-1",
@@ -7830,7 +8895,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-rekha-sharma-2024-28@sansad.nic.in",
-    "phone": "+91 98765 10356"
+    "phone": "+91 98765 10356",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064657-1",
@@ -7852,7 +8920,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-sanjay-bhatia-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10357"
+    "phone": "+91 98765 10357",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064963-1",
@@ -7874,7 +8945,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-karamvir-singh-singh-boudh-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10358"
+    "phone": "+91 98765 10358",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017229-1",
@@ -7896,7 +8970,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-sikander-kumar-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10359"
+    "phone": "+91 98765 10359",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042922-1",
@@ -7918,7 +8995,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-harsh-mahajan-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10360"
+    "phone": "+91 98765 10360",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064835-1",
@@ -7940,7 +9020,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-anurag-sharma-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10361"
+    "phone": "+91 98765 10361",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019254-1",
@@ -7948,7 +9031,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-gulam-ali-2022-28",
     "term": "Rajya Sabha",
     "house": "Rajya Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "Jammu And Kashmir (Rajya Sabha Nodal District)",
     "sanctionedCr": 16.61,
     "disbursedCr": 13.17,
@@ -7962,7 +9045,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-gulam-ali-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10362"
+    "phone": "+91 98765 10362",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017287-1",
@@ -7984,7 +9070,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-ghanshyam-tiwari-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10363"
+    "phone": "+91 98765 10363",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017288-1",
@@ -8006,7 +9095,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-mukul-wasnik-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10364"
+    "phone": "+91 98765 10364",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017289-1",
@@ -8028,7 +9120,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-pramod-tiwari-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10365"
+    "phone": "+91 98765 10365",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017290-1",
@@ -8050,7 +9145,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-randeep-singh-surjewala-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10366"
+    "phone": "+91 98765 10366",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042555-1",
@@ -8072,7 +9170,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-chunnilal-garasiya-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10367"
+    "phone": "+91 98765 10367",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042565-1",
@@ -8094,7 +9195,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-sonia-gandhi-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10368"
+    "phone": "+91 98765 10368",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017184-1",
@@ -8116,7 +9220,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-mahua-maji-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10369"
+    "phone": "+91 98765 10369",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017232-1",
@@ -8138,7 +9245,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-aditya-prasad-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10370"
+    "phone": "+91 98765 10370",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043536-1",
@@ -8160,7 +9270,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-pradip-kumar-varma-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10371"
+    "phone": "+91 98765 10371",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045173-1",
@@ -8182,7 +9295,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-sarfraz-ahmad-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10372"
+    "phone": "+91 98765 10372",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017235-1",
@@ -8204,7 +9320,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-jaggesh-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10373"
+    "phone": "+91 98765 10373",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017243-1",
@@ -8226,7 +9345,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-nirmala-sitharaman-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10374"
+    "phone": "+91 98765 10374",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019253-1",
@@ -8248,7 +9370,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-dharmasthala-veerendra-heggade-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10375"
+    "phone": "+91 98765 10375",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019248-1",
@@ -8270,7 +9395,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-jairam-ramesh-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10376"
+    "phone": "+91 98765 10376",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019249-1",
@@ -8292,7 +9420,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-lahar-singh-siroya-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10377"
+    "phone": "+91 98765 10377",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017245-1",
@@ -8314,7 +9445,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-v-sivadasan-2021-27@sansad.nic.in",
-    "phone": "+91 98765 10378"
+    "phone": "+91 98765 10378",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017246-1",
@@ -8336,7 +9470,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-a-a-rahim-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10379"
+    "phone": "+91 98765 10379",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017247-1",
@@ -8358,7 +9495,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-abdul-wahab-2021-27@sansad.nic.in",
-    "phone": "+91 98765 10380"
+    "phone": "+91 98765 10380",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017250-1",
@@ -8380,7 +9520,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-john-brittas-2021-27@sansad.nic.in",
-    "phone": "+91 98765 10381"
+    "phone": "+91 98765 10381",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017252-1",
@@ -8402,7 +9545,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-sandosh-kumar-p-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10382"
+    "phone": "+91 98765 10382",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017253-1",
@@ -8424,7 +9570,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-jebi-mather-hisham-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10383"
+    "phone": "+91 98765 10383",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019257-1",
@@ -8446,7 +9595,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-p-t-usha-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10384"
+    "phone": "+91 98765 10384",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043324-1",
@@ -8468,7 +9620,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-haris-beeran-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10385"
+    "phone": "+91 98765 10385",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017251-1",
@@ -8490,7 +9645,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-jose-k-mani-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10386"
+    "phone": "+91 98765 10386",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3046257-1",
@@ -8512,7 +9670,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-p-p-suneer-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10387"
+    "phone": "+91 98765 10387",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3056873-1",
@@ -8534,7 +9695,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-c-sadanandan-master-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10388"
+    "phone": "+91 98765 10388",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017254-1",
@@ -8556,7 +9720,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-kavita-patidar-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10389"
+    "phone": "+91 98765 10389",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017257-1",
@@ -8578,7 +9745,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-vivek-k-tankha-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10390"
+    "phone": "+91 98765 10390",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017258-1",
@@ -8600,7 +9770,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-sumitra-balmik-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10391"
+    "phone": "+91 98765 10391",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042554-1",
@@ -8622,7 +9795,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-ashok-singh-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10392"
+    "phone": "+91 98765 10392",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042567-1",
@@ -8644,7 +9820,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-balyogi-umeshnath-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10393"
+    "phone": "+91 98765 10393",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043035-1",
@@ -8666,7 +9845,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.smt-maya-naroliya-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10394"
+    "phone": "+91 98765 10394",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043966-1",
@@ -8688,7 +9870,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-banshilal-gurjar-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10395"
+    "phone": "+91 98765 10395",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017255-1",
@@ -8710,7 +9895,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-l-murugan-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10396"
+    "phone": "+91 98765 10396",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065971-1",
@@ -8732,7 +9920,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-rajneesh-kumar-agrawal-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10397"
+    "phone": "+91 98765 10397",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066552-1",
@@ -8754,7 +9945,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-mahesh-kewat-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10398"
+    "phone": "+91 98765 10398",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066667-1",
@@ -8776,7 +9970,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-tarun-chugh-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10399"
+    "phone": "+91 98765 10399",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017259-1",
@@ -8798,7 +9995,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dr-anil-sukhdeorao-bonde-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10400"
+    "phone": "+91 98765 10400",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017263-1",
@@ -8820,7 +10020,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-dhananjay-bhimrao-mahadik-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10401"
+    "phone": "+91 98765 10401",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017264-1",
@@ -8842,7 +10045,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-imran-pratapgarhi-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10402"
+    "phone": "+91 98765 10402",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017267-1",
@@ -8864,7 +10070,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-sanjay-raut-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10403"
+    "phone": "+91 98765 10403",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042556-1",
@@ -8886,7 +10095,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-medha-vishram-kulkarni-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10404"
+    "phone": "+91 98765 10404",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042557-1",
@@ -8908,7 +10120,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-ashokrao-shankarrao-chavan-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10405"
+    "phone": "+91 98765 10405",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042559-1",
@@ -8930,7 +10145,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-milind-murli-deora-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10406"
+    "phone": "+91 98765 10406",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042560-1",
@@ -8952,7 +10170,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-chandrakant-damodar-handore-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10407"
+    "phone": "+91 98765 10407",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042562-1",
@@ -8974,7 +10195,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-ajeet-madhavrao-gopchade-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10408"
+    "phone": "+91 98765 10408",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065973-1",
@@ -8996,7 +10220,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-adhikarimayum-sharda-devi-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10409"
+    "phone": "+91 98765 10409",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065972-1",
@@ -9018,7 +10245,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-james-pangsang-kongkal-sangma-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10410"
+    "phone": "+91 98765 10410",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066422-1",
@@ -9040,7 +10270,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-khiangte-laltluangkima-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10411"
+    "phone": "+91 98765 10411",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017509-1",
@@ -9062,7 +10295,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.smt-s-phangnon-konyak-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10412"
+    "phone": "+91 98765 10412",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017365-1",
@@ -9084,7 +10320,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-sasmit-patra-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10413"
+    "phone": "+91 98765 10413",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017366-1",
@@ -9106,7 +10345,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-manas-ranjan-mangaraj-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10414"
+    "phone": "+91 98765 10414",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017372-1",
@@ -9128,7 +10370,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-sulata-deo-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10415"
+    "phone": "+91 98765 10415",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042553-1",
@@ -9150,7 +10395,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-subhasish-khuntia-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10416"
+    "phone": "+91 98765 10416",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017368-1",
@@ -9172,7 +10420,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-ashwini-vaishnaw-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10417"
+    "phone": "+91 98765 10417",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064658-1",
@@ -9194,7 +10445,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-dilip-kumar-ray-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10418"
+    "phone": "+91 98765 10418",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3049783-1",
@@ -9216,7 +10470,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-sujeet-kumar-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10419"
+    "phone": "+91 98765 10419",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064961-1",
@@ -9238,7 +10495,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-santrupt-misra-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10420"
+    "phone": "+91 98765 10420",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066023-1",
@@ -9260,7 +10520,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-debashish-samantaray-2026-30@sansad.nic.in",
-    "phone": "+91 98765 10421"
+    "phone": "+91 98765 10421",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066499-1",
@@ -9282,7 +10545,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-manmohan-samal-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10422"
+    "phone": "+91 98765 10422",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017281-1",
@@ -9304,7 +10570,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-s-selvaganabathy-2021-27@sansad.nic.in",
-    "phone": "+91 98765 10423"
+    "phone": "+91 98765 10423",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017282-1",
@@ -9326,7 +10595,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-sant-balbir-singh-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10424"
+    "phone": "+91 98765 10424",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017283-1",
@@ -9348,7 +10620,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-harbhajan-singh-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10425"
+    "phone": "+91 98765 10425",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017510-1",
@@ -9370,7 +10645,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-raghav-chadha-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10426"
+    "phone": "+91 98765 10426",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017511-1",
@@ -9392,7 +10670,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dr-sandeep-kumar-pathak-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10427"
+    "phone": "+91 98765 10427",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019259-1",
@@ -9414,7 +10695,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dr-vikramjit-singh-sahney-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10428"
+    "phone": "+91 98765 10428",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019258-1",
@@ -9436,7 +10720,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-ashok-kumar-mittal-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10429"
+    "phone": "+91 98765 10429",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3060764-1",
@@ -9458,7 +10745,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-rajinder-gupta-2025-28@sansad.nic.in",
-    "phone": "+91 98765 10430"
+    "phone": "+91 98765 10430",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3023700-1",
@@ -9480,7 +10770,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-dinesh-sharma-2023-26@sansad.nic.in",
-    "phone": "+91 98765 10431"
+    "phone": "+91 98765 10431",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017375-2",
@@ -9489,7 +10782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "KURNOOL",
     "sanctionedCr": 10.54,
     "disbursedCr": 10.19,
     "reconciledDisbursedCr": 10.19,
@@ -9502,7 +10795,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-sanjeev-kumar-singari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10432"
+    "phone": "+91 98765 10432",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017376-2",
@@ -9511,7 +10807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "CHITTOOR",
     "sanctionedCr": 9.55,
     "disbursedCr": 7.92,
     "reconciledDisbursedCr": 7.92,
@@ -9524,7 +10820,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-n-reddeppa-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10433"
+    "phone": "+91 98765 10433",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017377-2",
@@ -9533,7 +10832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "RAJAHMUNDRY",
     "sanctionedCr": 9.8,
     "disbursedCr": 8.07,
     "reconciledDisbursedCr": 8.07,
@@ -9546,7 +10845,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-margani-bharat-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10434"
+    "phone": "+91 98765 10434",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018338-2",
@@ -9555,7 +10857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ARAKU(ST)",
     "sanctionedCr": 9.89,
     "disbursedCr": 7.73,
     "reconciledDisbursedCr": 7.73,
@@ -9568,7 +10870,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.goddeti-madhavi@sansad.nic.in",
-    "phone": "+91 98765 10435"
+    "phone": "+91 98765 10435",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018339-2",
@@ -9577,7 +10882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NELLORE(SC)",
     "sanctionedCr": 9.24,
     "disbursedCr": 9.24,
     "reconciledDisbursedCr": 9.24,
@@ -9590,7 +10895,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.adala-reddy@sansad.nic.in",
-    "phone": "+91 98765 10436"
+    "phone": "+91 98765 10436",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042552-1",
@@ -9612,7 +10920,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-dorjee-tshering-lepcha-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10437"
+    "phone": "+91 98765 10437",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018937-2",
@@ -9620,7 +10931,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-kuldeep-rai-sharma",
     "term": "17",
     "house": "Lok Sabha",
-    "state": "Andaman & Nicobar Islands",
+    "state": "Andaman And Nicobar Islands",
     "constituency": "ANDAMAN AND NICOBAR ISLANDS",
     "sanctionedCr": 8.93,
     "disbursedCr": 11.09,
@@ -9634,7 +10945,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.kuldeep-rai-sharma@sansad.nic.in",
-    "phone": "+91 98765 10438"
+    "phone": "+91 98765 10438",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018340-2",
@@ -9643,7 +10957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ONGOLE",
     "sanctionedCr": 18.34,
     "disbursedCr": 12.34,
     "reconciledDisbursedCr": 12.34,
@@ -9656,7 +10970,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.magunta-sreenivasulu-reddy@sansad.nic.in",
-    "phone": "+91 98765 10439"
+    "phone": "+91 98765 10439",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018341-2",
@@ -9665,7 +10982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "VIJAYAWADA",
     "sanctionedCr": 5.66,
     "disbursedCr": 5.66,
     "reconciledDisbursedCr": 5.66,
@@ -9678,7 +10995,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.srinivas-kesineni@sansad.nic.in",
-    "phone": "+91 98765 10440"
+    "phone": "+91 98765 10440",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018342-2",
@@ -9687,7 +11007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "MACHILIPATNAM",
     "sanctionedCr": 7.67,
     "disbursedCr": 6.1,
     "reconciledDisbursedCr": 6.1,
@@ -9700,7 +11020,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.balashowry-vallabbhaneni@sansad.nic.in",
-    "phone": "+91 98765 10441"
+    "phone": "+91 98765 10441",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018343-2",
@@ -9709,7 +11032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "HINDUPUR",
     "sanctionedCr": 6.12,
     "disbursedCr": 5.78,
     "reconciledDisbursedCr": 5.78,
@@ -9722,7 +11045,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kuruva-gorantla-madhav@sansad.nic.in",
-    "phone": "+91 98765 10442"
+    "phone": "+91 98765 10442",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018344-2",
@@ -9731,7 +11057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "VISAKHAPATNAM",
     "sanctionedCr": 9.54,
     "disbursedCr": 5.14,
     "reconciledDisbursedCr": 5.14,
@@ -9744,7 +11070,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.mvvv-satyanarayana@sansad.nic.in",
-    "phone": "+91 98765 10443"
+    "phone": "+91 98765 10443",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018345-2",
@@ -9753,7 +11082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NANDYAL",
     "sanctionedCr": 7.31,
     "disbursedCr": 7.31,
     "reconciledDisbursedCr": 7.31,
@@ -9766,7 +11095,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pocha-brahmananda-reddy@sansad.nic.in",
-    "phone": "+91 98765 10444"
+    "phone": "+91 98765 10444",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018936-2",
@@ -9788,7 +11120,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.beesetti-venkata-satyavathi@sansad.nic.in",
-    "phone": "+91 98765 10445"
+    "phone": "+91 98765 10445",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018938-2",
@@ -9797,7 +11132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "VIZIANAGARAM",
     "sanctionedCr": 8.67,
     "disbursedCr": 5.69,
     "reconciledDisbursedCr": 5.69,
@@ -9810,7 +11145,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.chandra-sekhar-bellana@sansad.nic.in",
-    "phone": "+91 98765 10446"
+    "phone": "+91 98765 10446",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018939-2",
@@ -9819,7 +11157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "SRIKAKULAM",
     "sanctionedCr": 7.19,
     "disbursedCr": 5.69,
     "reconciledDisbursedCr": 5.69,
@@ -9832,7 +11170,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.kinjarapu-ram-mohan-naidu@sansad.nic.in",
-    "phone": "+91 98765 10447"
+    "phone": "+91 98765 10447",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018940-2",
@@ -9841,7 +11182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ELURU",
     "sanctionedCr": 7.42,
     "disbursedCr": 3.89,
     "reconciledDisbursedCr": 3.89,
@@ -9854,7 +11195,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.kotagiri-sridhar@sansad.nic.in",
-    "phone": "+91 98765 10448"
+    "phone": "+91 98765 10448",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018941-2",
@@ -9863,7 +11207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "RAJAMPET",
     "sanctionedCr": 9.57,
     "disbursedCr": 7.01,
     "reconciledDisbursedCr": 7.01,
@@ -9876,7 +11220,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.midhun-reddy@sansad.nic.in",
-    "phone": "+91 98765 10449"
+    "phone": "+91 98765 10449",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017168-1",
@@ -9898,7 +11245,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-ilaiyaraaja-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10450"
+    "phone": "+91 98765 10450",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017170-1",
@@ -9920,7 +11270,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-r-dharmar-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10451"
+    "phone": "+91 98765 10451",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017304-1",
@@ -9942,7 +11295,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-s-kalyanasundaram-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10452"
+    "phone": "+91 98765 10452",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017310-1",
@@ -9964,7 +11320,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-b-parthasaradhi-reddy-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10453"
+    "phone": "+91 98765 10453",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019261-1",
@@ -9986,7 +11345,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-damodar-rao-divakonda-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10454"
+    "phone": "+91 98765 10454",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044300-1",
@@ -10008,7 +11370,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-anil-kumar-yadav-mandadi-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10455"
+    "phone": "+91 98765 10455",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044741-1",
@@ -10030,7 +11395,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-renuka-chowdhury-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10456"
+    "phone": "+91 98765 10456",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017313-1",
@@ -10052,7 +11420,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-ravi-chandra-vaddiraju-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10457"
+    "phone": "+91 98765 10457",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3047083-1",
@@ -10074,7 +11445,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-abhishek-manu-singhvi-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10458"
+    "phone": "+91 98765 10458",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3046918-1",
@@ -10096,7 +11470,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-rajib-bhattacharjee-2024-28@sansad.nic.in",
-    "phone": "+91 98765 10459"
+    "phone": "+91 98765 10459",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017171-1",
@@ -10118,7 +11495,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-hardeep-singh-puri-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10460"
+    "phone": "+91 98765 10460",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017322-1",
@@ -10140,7 +11520,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-k-laxman-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10461"
+    "phone": "+91 98765 10461",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017323-1",
@@ -10162,7 +11545,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-laxmikant-bajpayee-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10462"
+    "phone": "+91 98765 10462",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017324-1",
@@ -10184,7 +11570,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dr-radha-mohan-das-agrawal-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10463"
+    "phone": "+91 98765 10463",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017325-1",
@@ -10206,7 +11595,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.prof-ram-gopal-yadav-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10464"
+    "phone": "+91 98765 10464",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017328-1",
@@ -10228,7 +11620,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-arun-singh-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10465"
+    "phone": "+91 98765 10465",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017329-1",
@@ -10250,7 +11645,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-javed-ali-khan-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10466"
+    "phone": "+91 98765 10466",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017330-1",
@@ -10272,7 +11670,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-jayant-chaudhary-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10467"
+    "phone": "+91 98765 10467",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017331-1",
@@ -10294,7 +11695,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-kapil-sibal-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10468"
+    "phone": "+91 98765 10468",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017346-1",
@@ -10316,7 +11720,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-kalpana-saini-2022-28@sansad.nic.in",
-    "phone": "+91 98765 10469"
+    "phone": "+91 98765 10469",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019265-1",
@@ -10338,7 +11745,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-naresh-bansal-2020-26@sansad.nic.in",
-    "phone": "+91 98765 10470"
+    "phone": "+91 98765 10470",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043339-1",
@@ -10360,7 +11770,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-mahendra-bhatt-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10471"
+    "phone": "+91 98765 10471",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3023812-1",
@@ -10382,7 +11795,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-nagendra-ray-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10472"
+    "phone": "+91 98765 10472",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3032002-1",
@@ -10404,7 +11820,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-samirul-islam-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10473"
+    "phone": "+91 98765 10473",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042569-1",
@@ -10426,7 +11845,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-sagarika-ghose-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10474"
+    "phone": "+91 98765 10474",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017362-1",
@@ -10448,7 +11870,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-derek-o-brien-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10475"
+    "phone": "+91 98765 10475",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017360-1",
@@ -10470,7 +11895,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ms-dola-sen-2023-29@sansad.nic.in",
-    "phone": "+91 98765 10476"
+    "phone": "+91 98765 10476",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044811-1",
@@ -10492,7 +11920,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-mamata-thakur-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10477"
+    "phone": "+91 98765 10477",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044812-1",
@@ -10514,7 +11945,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-samik-bhattacharya-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10478"
+    "phone": "+91 98765 10478",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017359-1",
@@ -10536,7 +11970,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-mohammed-nadimul-haque-2024-30@sansad.nic.in",
-    "phone": "+91 98765 10479"
+    "phone": "+91 98765 10479",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3056687-1",
@@ -10558,7 +11995,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-harsh-vardhan-shringla-2025-31@sansad.nic.in",
-    "phone": "+91 98765 10480"
+    "phone": "+91 98765 10480",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065548-1",
@@ -10580,7 +12020,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-rajeev-kumar-2026-32@sansad.nic.in",
-    "phone": "+91 98765 10481"
+    "phone": "+91 98765 10481",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066259-1",
@@ -10602,7 +12045,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-prakash-chik-baraik-2026-29@sansad.nic.in",
-    "phone": "+91 98765 10482"
+    "phone": "+91 98765 10482",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066271-1",
@@ -10624,7 +12070,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-sukhendu-sekhar-ray-2026-29@sansad.nic.in",
-    "phone": "+91 98765 10483"
+    "phone": "+91 98765 10483",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066666-1",
@@ -10646,7 +12095,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ms-sushmita-dev-2026-30@sansad.nic.in",
-    "phone": "+91 98765 10484"
+    "phone": "+91 98765 10484",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018942-2",
@@ -10655,7 +12107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NARASAPURAM",
     "sanctionedCr": 8.05,
     "disbursedCr": 7.01,
     "reconciledDisbursedCr": 7.01,
@@ -10668,7 +12120,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.raghu-ramakrishna-raju-kanumuru@sansad.nic.in",
-    "phone": "+91 98765 10485"
+    "phone": "+91 98765 10485",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018943-2",
@@ -10677,7 +12132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "KADAPA",
     "sanctionedCr": 9.53,
     "disbursedCr": 7.88,
     "reconciledDisbursedCr": 7.88,
@@ -10690,7 +12145,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.y-s-avinash-reddy@sansad.nic.in",
-    "phone": "+91 98765 10486"
+    "phone": "+91 98765 10486",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018944-2",
@@ -10699,7 +12157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "GUNTUR",
     "sanctionedCr": 10.66,
     "disbursedCr": 10.23,
     "reconciledDisbursedCr": 10.23,
@@ -10712,7 +12170,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jayadev-galla@sansad.nic.in",
-    "phone": "+91 98765 10487"
+    "phone": "+91 98765 10487",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018945-2",
@@ -10721,7 +12182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NARASARAOPET",
     "sanctionedCr": 7.87,
     "disbursedCr": 5.46,
     "reconciledDisbursedCr": 5.46,
@@ -10734,7 +12195,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.lavu-sri-krishna-devarayalu@sansad.nic.in",
-    "phone": "+91 98765 10488"
+    "phone": "+91 98765 10488",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018946-2",
@@ -10743,7 +12207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "TIRUPATI(SC)",
     "sanctionedCr": 8.28,
     "disbursedCr": 6.78,
     "reconciledDisbursedCr": 6.78,
@@ -10756,7 +12220,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.maddila-gurumoorthy@sansad.nic.in",
-    "phone": "+91 98765 10489"
+    "phone": "+91 98765 10489",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018947-2",
@@ -10765,7 +12232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "BAPATLA",
     "sanctionedCr": 8.68,
     "disbursedCr": 8.5,
     "reconciledDisbursedCr": 8.5,
@@ -10778,7 +12245,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.nandigam-suresh@sansad.nic.in",
-    "phone": "+91 98765 10490"
+    "phone": "+91 98765 10490",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018948-2",
@@ -10787,7 +12257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ANANTAPUR",
     "sanctionedCr": 13.38,
     "disbursedCr": 10.95,
     "reconciledDisbursedCr": 10.95,
@@ -10800,7 +12270,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.talari-rangaiah@sansad.nic.in",
-    "phone": "+91 98765 10491"
+    "phone": "+91 98765 10491",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018949-2",
@@ -10809,7 +12282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "AMALAPURAM(SC)",
     "sanctionedCr": 11.65,
     "disbursedCr": 10.07,
     "reconciledDisbursedCr": 10.07,
@@ -10822,7 +12295,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-chinta-anuradha@sansad.nic.in",
-    "phone": "+91 98765 10492"
+    "phone": "+91 98765 10492",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3021881-2",
@@ -10831,7 +12307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "KAKINADA",
     "sanctionedCr": 6.99,
     "disbursedCr": 6.89,
     "reconciledDisbursedCr": 6.89,
@@ -10844,7 +12320,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.vanga-geetha-viswanath-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10493"
+    "phone": "+91 98765 10493",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017378-2",
@@ -10853,7 +12332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Arunachal Pradesh",
-    "constituency": "ARUNACHAL WEST",
+    "constituency": "ARUNACHAL EAST",
     "sanctionedCr": 9.78,
     "disbursedCr": 9.73,
     "reconciledDisbursedCr": 9.73,
@@ -10866,7 +12345,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-tapir-gao-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10494"
+    "phone": "+91 98765 10494",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018950-2",
@@ -10888,7 +12370,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kiren-rijiju@sansad.nic.in",
-    "phone": "+91 98765 10495"
+    "phone": "+91 98765 10495",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017379-2",
@@ -10910,7 +12395,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-abdul-khaleque-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10496"
+    "phone": "+91 98765 10496",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017380-2",
@@ -10919,7 +12407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "KOKRAJHAR (ST)",
     "sanctionedCr": 7.25,
     "disbursedCr": 6.52,
     "reconciledDisbursedCr": 6.52,
@@ -10932,7 +12420,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-naba-hira-kumar-sarania-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10497"
+    "phone": "+91 98765 10497",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018346-2",
@@ -10941,7 +12432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "SILCHAR",
     "sanctionedCr": 4.74,
     "disbursedCr": 4.72,
     "reconciledDisbursedCr": 4.72,
@@ -10954,7 +12445,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rajdeep-roy@sansad.nic.in",
-    "phone": "+91 98765 10498"
+    "phone": "+91 98765 10498",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018347-2",
@@ -10963,7 +12457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "LAKHIMPUR",
     "sanctionedCr": 5.13,
     "disbursedCr": 4.53,
     "reconciledDisbursedCr": 4.53,
@@ -10976,7 +12470,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.pradan-baruah@sansad.nic.in",
-    "phone": "+91 98765 10499"
+    "phone": "+91 98765 10499",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018348-2",
@@ -10985,7 +12482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "JORHAT",
     "sanctionedCr": 9.73,
     "disbursedCr": 8.9,
     "reconciledDisbursedCr": 8.9,
@@ -10998,7 +12495,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.topon-kumar-gogoi@sansad.nic.in",
-    "phone": "+91 98765 10500"
+    "phone": "+91 98765 10500",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018349-2",
@@ -11007,7 +12507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "GUWAHATI",
     "sanctionedCr": 6.7,
     "disbursedCr": 6.35,
     "reconciledDisbursedCr": 6.35,
@@ -11020,7 +12520,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.queen-oja@sansad.nic.in",
-    "phone": "+91 98765 10501"
+    "phone": "+91 98765 10501",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018951-2",
@@ -11029,7 +12532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "DHUBRI",
     "sanctionedCr": 4.84,
     "disbursedCr": 4.28,
     "reconciledDisbursedCr": 4.28,
@@ -11042,7 +12545,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.maulana-ajmal-badruddin@sansad.nic.in",
-    "phone": "+91 98765 10502"
+    "phone": "+91 98765 10502",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018952-2",
@@ -11051,7 +12557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "DIBRUGARH",
     "sanctionedCr": 8.76,
     "disbursedCr": 6.67,
     "reconciledDisbursedCr": 6.67,
@@ -11064,7 +12570,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.sh-teli-rameswar@sansad.nic.in",
-    "phone": "+91 98765 10503"
+    "phone": "+91 98765 10503",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018953-2",
@@ -11073,7 +12582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Kaziranga",
     "sanctionedCr": 4.9,
     "disbursedCr": 3.61,
     "reconciledDisbursedCr": 3.61,
@@ -11086,7 +12595,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.gaurav-gogoi@sansad.nic.in",
-    "phone": "+91 98765 10504"
+    "phone": "+91 98765 10504",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018954-2",
@@ -11095,7 +12607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Sonitpur",
     "sanctionedCr": 7.3,
     "disbursedCr": 6.91,
     "reconciledDisbursedCr": 6.91,
@@ -11108,7 +12620,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pallab-lochan-das@sansad.nic.in",
-    "phone": "+91 98765 10505"
+    "phone": "+91 98765 10505",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018955-2",
@@ -11117,7 +12632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Darrang-Udalguri",
     "sanctionedCr": 6.91,
     "disbursedCr": 5.51,
     "reconciledDisbursedCr": 5.51,
@@ -11130,7 +12645,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dilip-saikia@sansad.nic.in",
-    "phone": "+91 98765 10506"
+    "phone": "+91 98765 10506",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018956-2",
@@ -11139,7 +12657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "Diphu (ST)",
     "sanctionedCr": 9.8,
     "disbursedCr": 9.14,
     "reconciledDisbursedCr": 9.14,
@@ -11152,7 +12670,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.horen-sing-bey@sansad.nic.in",
-    "phone": "+91 98765 10507"
+    "phone": "+91 98765 10507",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018957-2",
@@ -11161,7 +12682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "KARIMGANJ (SC)",
     "sanctionedCr": 9.79,
     "disbursedCr": 9.68,
     "reconciledDisbursedCr": 9.68,
@@ -11174,7 +12695,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kripanath-mallah@sansad.nic.in",
-    "phone": "+91 98765 10508"
+    "phone": "+91 98765 10508",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018958-2",
@@ -11183,7 +12707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Assam",
-    "constituency": "BARPETA",
+    "constituency": "NOWGONG",
     "sanctionedCr": 4.69,
     "disbursedCr": 3.96,
     "reconciledDisbursedCr": 3.96,
@@ -11196,7 +12720,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.pradyut-bordoloi@sansad.nic.in",
-    "phone": "+91 98765 10509"
+    "phone": "+91 98765 10509",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017172-2",
@@ -11205,7 +12732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KARAKAT",
     "sanctionedCr": 7.28,
     "disbursedCr": 7.28,
     "reconciledDisbursedCr": 7.28,
@@ -11218,7 +12745,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.mahabali-singh@sansad.nic.in",
-    "phone": "+91 98765 10510"
+    "phone": "+91 98765 10510",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017173-2",
@@ -11227,7 +12757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PURNEA",
     "sanctionedCr": 9.73,
     "disbursedCr": 9.73,
     "reconciledDisbursedCr": 9.73,
@@ -11240,7 +12770,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.santosh-kumar@sansad.nic.in",
-    "phone": "+91 98765 10511"
+    "phone": "+91 98765 10511",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017381-2",
@@ -11249,7 +12782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MAHARAJGANJ_BR",
     "sanctionedCr": 10.9,
     "disbursedCr": 10.44,
     "reconciledDisbursedCr": 10.44,
@@ -11262,7 +12795,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-janardan-singh-sigriwal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10512"
+    "phone": "+91 98765 10512",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017382-2",
@@ -11271,7 +12807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "VAISHALI",
     "sanctionedCr": 7.26,
     "disbursedCr": 7.26,
     "reconciledDisbursedCr": 7.26,
@@ -11284,7 +12820,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-veena-devi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10513"
+    "phone": "+91 98765 10513",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017383-2",
@@ -11293,7 +12832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KATIHAR",
     "sanctionedCr": 4.77,
     "disbursedCr": 4.72,
     "reconciledDisbursedCr": 4.72,
@@ -11306,7 +12845,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-dulal-chandra-goswami-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10514"
+    "phone": "+91 98765 10514",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017384-2",
@@ -11315,7 +12857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KISHANGANJ",
     "sanctionedCr": 9.64,
     "disbursedCr": 9.64,
     "reconciledDisbursedCr": 9.64,
@@ -11328,7 +12870,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-mohammad-jawed-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10515"
+    "phone": "+91 98765 10515",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017385-2",
@@ -11337,7 +12882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SAMASTIPUR(SC)",
     "sanctionedCr": 7.27,
     "disbursedCr": 7.27,
     "reconciledDisbursedCr": 7.27,
@@ -11350,7 +12895,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-prince-raj-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10516"
+    "phone": "+91 98765 10516",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018350-2",
@@ -11359,7 +12907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "GOPALGANJ (SC)",
     "sanctionedCr": 7.04,
     "disbursedCr": 7.04,
     "reconciledDisbursedCr": 7.04,
@@ -11372,7 +12920,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.alok-kumar-suman@sansad.nic.in",
-    "phone": "+91 98765 10517"
+    "phone": "+91 98765 10517",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018351-2",
@@ -11381,7 +12932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BHAGALPUR",
     "sanctionedCr": 9.45,
     "disbursedCr": 9.01,
     "reconciledDisbursedCr": 9.01,
@@ -11394,7 +12945,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.ajay-kumar-mandal@sansad.nic.in",
-    "phone": "+91 98765 10518"
+    "phone": "+91 98765 10518",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018352-2",
@@ -11403,7 +12957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MUZAFFARPUR",
     "sanctionedCr": 4.75,
     "disbursedCr": 4.74,
     "reconciledDisbursedCr": 4.74,
@@ -11416,7 +12970,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ajay-nishad@sansad.nic.in",
-    "phone": "+91 98765 10519"
+    "phone": "+91 98765 10519",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018353-2",
@@ -11425,7 +12982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MADHUBANI",
     "sanctionedCr": 7.09,
     "disbursedCr": 7.09,
     "reconciledDisbursedCr": 7.09,
@@ -11438,7 +12995,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ashok-kumar-yadav@sansad.nic.in",
-    "phone": "+91 98765 10520"
+    "phone": "+91 98765 10520",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018354-2",
@@ -11447,7 +13007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "NALANDA",
     "sanctionedCr": 8.3,
     "disbursedCr": 8.24,
     "reconciledDisbursedCr": 8.24,
@@ -11460,7 +13020,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.kaushalendra-kumar@sansad.nic.in",
-    "phone": "+91 98765 10521"
+    "phone": "+91 98765 10521",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018355-2",
@@ -11482,7 +13045,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pradeep-kumar-singh@sansad.nic.in",
-    "phone": "+91 98765 10522"
+    "phone": "+91 98765 10522",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018356-2",
@@ -11491,7 +13057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SARAN",
     "sanctionedCr": 18.45,
     "disbursedCr": 8.06,
     "reconciledDisbursedCr": 8.06,
@@ -11504,7 +13070,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rajiv-pratap-rudy@sansad.nic.in",
-    "phone": "+91 98765 10523"
+    "phone": "+91 98765 10523",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018357-2",
@@ -11513,7 +13082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MUNGER",
     "sanctionedCr": 11.02,
     "disbursedCr": 8.64,
     "reconciledDisbursedCr": 8.64,
@@ -11526,7 +13095,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.rajiv-ranjan-lalan-singh@sansad.nic.in",
-    "phone": "+91 98765 10524"
+    "phone": "+91 98765 10524",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018358-2",
@@ -11535,7 +13107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SITAMARHI",
     "sanctionedCr": 9.68,
     "disbursedCr": 9.68,
     "reconciledDisbursedCr": 9.68,
@@ -11548,7 +13120,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sunil-kumar-pintu@sansad.nic.in",
-    "phone": "+91 98765 10525"
+    "phone": "+91 98765 10525",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018359-2",
@@ -11557,7 +13132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SUPAUL",
     "sanctionedCr": 5.57,
     "disbursedCr": 5.57,
     "reconciledDisbursedCr": 5.57,
@@ -11570,7 +13145,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dileshwar-kamait@sansad.nic.in",
-    "phone": "+91 98765 10526"
+    "phone": "+91 98765 10526",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018360-2",
@@ -11579,7 +13157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "JHANJHARPUR",
     "sanctionedCr": 3.3,
     "disbursedCr": 3.3,
     "reconciledDisbursedCr": 3.3,
@@ -11592,7 +13170,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.ramprit-mandal@sansad.nic.in",
-    "phone": "+91 98765 10527"
+    "phone": "+91 98765 10527",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018361-2",
@@ -11601,7 +13182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "GAYA (SC)",
     "sanctionedCr": 6.8,
     "disbursedCr": 6.8,
     "reconciledDisbursedCr": 6.8,
@@ -11614,7 +13195,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vijay-kumar@sansad.nic.in",
-    "phone": "+91 98765 10528"
+    "phone": "+91 98765 10528",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018959-2",
@@ -11623,7 +13207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "KHAGARIA",
     "sanctionedCr": 4.76,
     "disbursedCr": 4.71,
     "reconciledDisbursedCr": 4.71,
@@ -11636,7 +13220,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.chaudhary-mehboob-ali-kaiser@sansad.nic.in",
-    "phone": "+91 98765 10529"
+    "phone": "+91 98765 10529",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018960-2",
@@ -11645,7 +13232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PASCHIM CHAMPARAN",
     "sanctionedCr": 11.13,
     "disbursedCr": 10.9,
     "reconciledDisbursedCr": 10.9,
@@ -11658,7 +13245,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.sanjay-jaiswal@sansad.nic.in",
-    "phone": "+91 98765 10530"
+    "phone": "+91 98765 10530",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018961-2",
@@ -11667,7 +13257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "DARBHANGA",
     "sanctionedCr": 11.71,
     "disbursedCr": 11.43,
     "reconciledDisbursedCr": 11.43,
@@ -11680,7 +13270,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mr-gopal-jee-thakur@sansad.nic.in",
-    "phone": "+91 98765 10531"
+    "phone": "+91 98765 10531",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018962-2",
@@ -11689,7 +13282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BUXAR",
     "sanctionedCr": 5.82,
     "disbursedCr": 5.36,
     "reconciledDisbursedCr": 5.36,
@@ -11702,7 +13295,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ashwini-kumar-choubey@sansad.nic.in",
-    "phone": "+91 98765 10532"
+    "phone": "+91 98765 10532",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018963-2",
@@ -11711,7 +13307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "NAWADA",
     "sanctionedCr": 11.62,
     "disbursedCr": 11.01,
     "reconciledDisbursedCr": 11.01,
@@ -11724,7 +13320,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.chandan-singh@sansad.nic.in",
-    "phone": "+91 98765 10533"
+    "phone": "+91 98765 10533",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018964-2",
@@ -11733,7 +13332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SASARAM(SC)",
     "sanctionedCr": 4.77,
     "disbursedCr": 4.75,
     "reconciledDisbursedCr": 4.75,
@@ -11746,7 +13345,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.chhedi-paswan@sansad.nic.in",
-    "phone": "+91 98765 10534"
+    "phone": "+91 98765 10534",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018966-2",
@@ -11755,7 +13357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BANKA",
     "sanctionedCr": 7.3,
     "disbursedCr": 7.2,
     "reconciledDisbursedCr": 7.2,
@@ -11768,7 +13370,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.giridhari-yadav@sansad.nic.in",
-    "phone": "+91 98765 10535"
+    "phone": "+91 98765 10535",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018967-2",
@@ -11777,7 +13382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "BEGUSARAI",
     "sanctionedCr": 9.2,
     "disbursedCr": 9.13,
     "reconciledDisbursedCr": 9.13,
@@ -11787,10 +13392,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 71,
     "worksRecommended": 76,
     "completionRate": 93.4,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.giriraj-singh@sansad.nic.in",
-    "phone": "+91 98765 10536"
+    "phone": "+91 98765 10536",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018968-2",
@@ -11799,7 +13407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "NALANDA",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -11812,7 +13420,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.kaushalendra-kumar@sansad.nic.in",
-    "phone": "+91 98765 10537"
+    "phone": "+91 98765 10537",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018969-2",
@@ -11821,7 +13432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PURVI CHAMPARAN",
     "sanctionedCr": 8.62,
     "disbursedCr": 8.62,
     "reconciledDisbursedCr": 8.62,
@@ -11834,7 +13445,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.radha-mohan-singh@sansad.nic.in",
-    "phone": "+91 98765 10538"
+    "phone": "+91 98765 10538",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018970-2",
@@ -11843,7 +13457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PATALIPUTRA",
     "sanctionedCr": 10.22,
     "disbursedCr": 10.13,
     "reconciledDisbursedCr": 10.13,
@@ -11856,7 +13470,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ram-kripal-yadav@sansad.nic.in",
-    "phone": "+91 98765 10539"
+    "phone": "+91 98765 10539",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018971-2",
@@ -11865,7 +13482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PURNEA",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -11878,7 +13495,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.santosh-kumar@sansad.nic.in",
-    "phone": "+91 98765 10540"
+    "phone": "+91 98765 10540",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018972-2",
@@ -11887,7 +13507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "VALMIKI NAGAR",
     "sanctionedCr": 7.32,
     "disbursedCr": 7.07,
     "reconciledDisbursedCr": 7.07,
@@ -11900,7 +13520,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sunil-kumar@sansad.nic.in",
-    "phone": "+91 98765 10541"
+    "phone": "+91 98765 10541",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018973-2",
@@ -11909,7 +13532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "AURANGABAD_BR",
     "sanctionedCr": 10.75,
     "disbursedCr": 10.23,
     "reconciledDisbursedCr": 10.23,
@@ -11922,7 +13545,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sushil-kumar-singh@sansad.nic.in",
-    "phone": "+91 98765 10542"
+    "phone": "+91 98765 10542",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018974-2",
@@ -11931,7 +13557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "JAHANABAD",
     "sanctionedCr": 9.53,
     "disbursedCr": 9.5,
     "reconciledDisbursedCr": 9.5,
@@ -11944,7 +13570,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.chandeshwar-prasad@sansad.nic.in",
-    "phone": "+91 98765 10543"
+    "phone": "+91 98765 10543",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018975-2",
@@ -11953,7 +13582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MADHEPURA",
     "sanctionedCr": 11.42,
     "disbursedCr": 11.2,
     "reconciledDisbursedCr": 11.2,
@@ -11966,7 +13595,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dinesh-chandra-yadav@sansad.nic.in",
-    "phone": "+91 98765 10544"
+    "phone": "+91 98765 10544",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018976-2",
@@ -11975,7 +13607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "HAJIPUR(SC)",
     "sanctionedCr": 6.97,
     "disbursedCr": 6.97,
     "reconciledDisbursedCr": 6.97,
@@ -11988,7 +13620,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.pashupati-kumar-paras@sansad.nic.in",
-    "phone": "+91 98765 10545"
+    "phone": "+91 98765 10545",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018978-2",
@@ -11997,7 +13632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "ARRAH",
     "sanctionedCr": 12.49,
     "disbursedCr": 11.84,
     "reconciledDisbursedCr": 11.84,
@@ -12010,7 +13645,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.raj-kumar-singh@sansad.nic.in",
-    "phone": "+91 98765 10546"
+    "phone": "+91 98765 10546",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018979-2",
@@ -12019,7 +13657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PATNA SAHIB",
     "sanctionedCr": 10.36,
     "disbursedCr": 10.28,
     "reconciledDisbursedCr": 10.28,
@@ -12032,7 +13670,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ravi-shankar-prasad@sansad.nic.in",
-    "phone": "+91 98765 10547"
+    "phone": "+91 98765 10547",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018980-2",
@@ -12041,7 +13682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SIWAN",
     "sanctionedCr": 9.67,
     "disbursedCr": 9.67,
     "reconciledDisbursedCr": 9.67,
@@ -12054,7 +13695,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-kavita-singh@sansad.nic.in",
-    "phone": "+91 98765 10548"
+    "phone": "+91 98765 10548",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018981-2",
@@ -12063,7 +13707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SHEOHAR",
     "sanctionedCr": 7.3,
     "disbursedCr": 7.3,
     "reconciledDisbursedCr": 7.3,
@@ -12076,7 +13720,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-rama-devi@sansad.nic.in",
-    "phone": "+91 98765 10549"
+    "phone": "+91 98765 10549",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018965-2",
@@ -12085,7 +13732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "JAMUI(SC)",
     "sanctionedCr": 5.93,
     "disbursedCr": 5.57,
     "reconciledDisbursedCr": 5.57,
@@ -12095,10 +13742,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 222,
     "worksRecommended": 233,
     "completionRate": 95.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "LJP(RV)",
+    "partyHi": "\u0932\u094b\u091c\u092a\u093e(\u0930\u093e)",
     "email": "mp.chirag-paswan@sansad.nic.in",
-    "phone": "+91 98765 10550"
+    "phone": "+91 98765 10550",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3021513-2",
@@ -12107,7 +13757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "UJJARPUR",
     "sanctionedCr": 9.58,
     "disbursedCr": 9.58,
     "reconciledDisbursedCr": 9.58,
@@ -12120,7 +13770,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.nityanand-rai-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10551"
+    "phone": "+91 98765 10551",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018982-2",
@@ -12142,7 +13795,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-kirron-kher@sansad.nic.in",
-    "phone": "+91 98765 10552"
+    "phone": "+91 98765 10552",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018362-2",
@@ -12151,7 +13807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "JANJGIR CHAMPA(SC)",
     "sanctionedCr": 4.87,
     "disbursedCr": 4.84,
     "reconciledDisbursedCr": 4.84,
@@ -12164,7 +13820,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.guharam-ajgalley@sansad.nic.in",
-    "phone": "+91 98765 10553"
+    "phone": "+91 98765 10553",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018363-2",
@@ -12173,7 +13832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "BILASPUR",
     "sanctionedCr": 6.84,
     "disbursedCr": 6.23,
     "reconciledDisbursedCr": 6.23,
@@ -12186,7 +13845,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.arun-sao@sansad.nic.in",
-    "phone": "+91 98765 10554"
+    "phone": "+91 98765 10554",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018364-2",
@@ -12195,7 +13857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "MAHASAMUND",
     "sanctionedCr": 4.89,
     "disbursedCr": 4.72,
     "reconciledDisbursedCr": 4.72,
@@ -12208,7 +13870,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.chunni-lal-sahu@sansad.nic.in",
-    "phone": "+91 98765 10555"
+    "phone": "+91 98765 10555",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018365-2",
@@ -12217,7 +13882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "RAJNANDGAON",
     "sanctionedCr": 5.94,
     "disbursedCr": 5.59,
     "reconciledDisbursedCr": 5.59,
@@ -12230,7 +13895,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.santosh-pandey@sansad.nic.in",
-    "phone": "+91 98765 10556"
+    "phone": "+91 98765 10556",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018366-2",
@@ -12239,7 +13907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "KORBA",
     "sanctionedCr": 4.8,
     "disbursedCr": 4.49,
     "reconciledDisbursedCr": 4.49,
@@ -12252,7 +13920,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.jyotsna-charandas-mahant@sansad.nic.in",
-    "phone": "+91 98765 10557"
+    "phone": "+91 98765 10557",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018983-2",
@@ -12261,7 +13932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "KANKER(ST)",
     "sanctionedCr": 7.26,
     "disbursedCr": 7.15,
     "reconciledDisbursedCr": 7.15,
@@ -12274,7 +13945,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mohan-mandavi@sansad.nic.in",
-    "phone": "+91 98765 10558"
+    "phone": "+91 98765 10558",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018984-2",
@@ -12283,7 +13957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "BASTAR(ST)",
     "sanctionedCr": 6.71,
     "disbursedCr": 5.95,
     "reconciledDisbursedCr": 5.95,
@@ -12296,7 +13970,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.deepak-baij@sansad.nic.in",
-    "phone": "+91 98765 10559"
+    "phone": "+91 98765 10559",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018985-2",
@@ -12305,7 +13982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "RAIPUR",
     "sanctionedCr": 9.45,
     "disbursedCr": 9.06,
     "reconciledDisbursedCr": 9.06,
@@ -12318,7 +13995,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sunil-kumar-soni@sansad.nic.in",
-    "phone": "+91 98765 10560"
+    "phone": "+91 98765 10560",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018986-2",
@@ -12327,7 +14007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "DURG",
     "sanctionedCr": 7.1,
     "disbursedCr": 6.93,
     "reconciledDisbursedCr": 6.93,
@@ -12340,7 +14020,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vijay-baghel@sansad.nic.in",
-    "phone": "+91 98765 10561"
+    "phone": "+91 98765 10561",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018987-2",
@@ -12362,7 +14045,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-gomati-sai@sansad.nic.in",
-    "phone": "+91 98765 10562"
+    "phone": "+91 98765 10562",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018988-2",
@@ -12371,7 +14057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Chhattisgarh",
-    "constituency": "RAIGARH(ST)",
+    "constituency": "SARGUJA(ST)",
     "sanctionedCr": 7.18,
     "disbursedCr": 6.78,
     "reconciledDisbursedCr": 6.78,
@@ -12384,7 +14070,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-renuka-singh-saruta@sansad.nic.in",
-    "phone": "+91 98765 10563"
+    "phone": "+91 98765 10563",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020008-2",
@@ -12393,7 +14082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "EAST DELHI",
     "sanctionedCr": 7.68,
     "disbursedCr": 6.53,
     "reconciledDisbursedCr": 6.53,
@@ -12406,7 +14095,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.gautam-gambhir-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10564"
+    "phone": "+91 98765 10564",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020007-2",
@@ -12415,7 +14107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "NORTH EAST DELHI",
     "sanctionedCr": 6.53,
     "disbursedCr": 5.67,
     "reconciledDisbursedCr": 5.67,
@@ -12425,10 +14117,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 28,
     "worksRecommended": 41,
     "completionRate": 68.3,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.manoj-tiwari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10565"
+    "phone": "+91 98765 10565",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020002-2",
@@ -12437,7 +14132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "NEW DELHI",
     "sanctionedCr": 8.75,
     "disbursedCr": 4.19,
     "reconciledDisbursedCr": 4.19,
@@ -12450,7 +14145,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.meenakshi-lekhi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10566"
+    "phone": "+91 98765 10566",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020003-2",
@@ -12459,7 +14157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "SOUTH DELHI",
     "sanctionedCr": 8.47,
     "disbursedCr": 6.71,
     "reconciledDisbursedCr": 6.71,
@@ -12472,7 +14170,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ramesh-bidhuri-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10567"
+    "phone": "+91 98765 10567",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3020004-2",
@@ -12481,7 +14182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "WEST DELHI",
     "sanctionedCr": 11.19,
     "disbursedCr": 10.95,
     "reconciledDisbursedCr": 10.95,
@@ -12494,7 +14195,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.parvesh-sahib-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10568"
+    "phone": "+91 98765 10568",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019998-2",
@@ -12503,7 +14207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Delhi",
-    "constituency": "NORTH WEST DELHI(SC)",
+    "constituency": "CHANDINI CHOWK",
     "sanctionedCr": 10.78,
     "disbursedCr": 9.11,
     "reconciledDisbursedCr": 9.11,
@@ -12516,7 +14220,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-harsh-vardhan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10569"
+    "phone": "+91 98765 10569",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019999-2",
@@ -12538,7 +14245,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.hans-raj-hans-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10570"
+    "phone": "+91 98765 10570",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018367-2",
@@ -12560,7 +14270,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.francisco-cosme-sardinha@sansad.nic.in",
-    "phone": "+91 98765 10571"
+    "phone": "+91 98765 10571",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018989-2",
@@ -12569,7 +14282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Goa",
-    "constituency": "SOUTH GOA",
+    "constituency": "NORTH GOA",
     "sanctionedCr": 11.42,
     "disbursedCr": 4.75,
     "reconciledDisbursedCr": 4.75,
@@ -12582,7 +14295,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shripad-yesso-naik@sansad.nic.in",
-    "phone": "+91 98765 10572"
+    "phone": "+91 98765 10572",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017181-2",
@@ -12591,7 +14307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "KHEDA",
     "sanctionedCr": 8.23,
     "disbursedCr": 7.1,
     "reconciledDisbursedCr": 7.1,
@@ -12604,7 +14320,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.devusinh-jesingbhai-chauhan@sansad.nic.in",
-    "phone": "+91 98765 10573"
+    "phone": "+91 98765 10573",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017386-2",
@@ -12613,7 +14332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "VALSAD(ST)",
     "sanctionedCr": 9.64,
     "disbursedCr": 9.64,
     "reconciledDisbursedCr": 9.64,
@@ -12626,7 +14345,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-k-c-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10574"
+    "phone": "+91 98765 10574",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017387-2",
@@ -12635,7 +14357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "PORBANDAR",
     "sanctionedCr": 5.7,
     "disbursedCr": 5.15,
     "reconciledDisbursedCr": 5.15,
@@ -12648,7 +14370,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-rameshbhai-lavjibhai-dhaduk-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10575"
+    "phone": "+91 98765 10575",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017388-2",
@@ -12657,7 +14382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "JUNAGADH",
     "sanctionedCr": 5.82,
     "disbursedCr": 5.63,
     "reconciledDisbursedCr": 5.63,
@@ -12670,7 +14395,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-rajeshbhai-naranbhai-chudasama-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10576"
+    "phone": "+91 98765 10576",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017390-2",
@@ -12679,7 +14407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "RAJKOT",
     "sanctionedCr": 9.77,
     "disbursedCr": 9.72,
     "reconciledDisbursedCr": 9.72,
@@ -12692,7 +14420,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-mohanbhai-kalyanji-kundariya-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10577"
+    "phone": "+91 98765 10577",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017391-2",
@@ -12701,7 +14432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "SURENDRANAGAR",
     "sanctionedCr": 8.88,
     "disbursedCr": 8.45,
     "reconciledDisbursedCr": 8.45,
@@ -12714,7 +14445,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-mahendrabhai-munjapara-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10578"
+    "phone": "+91 98765 10578",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017392-2",
@@ -12723,7 +14457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "AHMEDABAD EAST",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -12736,7 +14470,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-hasmukhbhai-somabhai-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10579"
+    "phone": "+91 98765 10579",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017393-2",
@@ -12745,7 +14482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "CHHOTA UDAIPUR(ST)",
     "sanctionedCr": 6.49,
     "disbursedCr": 5.86,
     "reconciledDisbursedCr": 5.86,
@@ -12758,7 +14495,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-gitaben-vajesingbhai-rathva-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10580"
+    "phone": "+91 98765 10580",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018990-2",
@@ -12767,7 +14507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "BHAVNAGAR",
     "sanctionedCr": 8.69,
     "disbursedCr": 7.98,
     "reconciledDisbursedCr": 7.98,
@@ -12780,7 +14520,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.bharatiben-dhirubhai-shyal@sansad.nic.in",
-    "phone": "+91 98765 10581"
+    "phone": "+91 98765 10581",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018991-2",
@@ -12789,7 +14532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "PATAN",
     "sanctionedCr": 6.88,
     "disbursedCr": 6.15,
     "reconciledDisbursedCr": 6.15,
@@ -12802,7 +14545,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.bharatsinhji-shankarji-dabhi@sansad.nic.in",
-    "phone": "+91 98765 10582"
+    "phone": "+91 98765 10582",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018992-2",
@@ -12811,7 +14557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "NAVSARI",
     "sanctionedCr": 6.68,
     "disbursedCr": 6.11,
     "reconciledDisbursedCr": 6.11,
@@ -12824,7 +14570,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.c-r-patil@sansad.nic.in",
-    "phone": "+91 98765 10583"
+    "phone": "+91 98765 10583",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018993-2",
@@ -12833,7 +14582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "SABARKANTHA",
     "sanctionedCr": 7.08,
     "disbursedCr": 6.43,
     "reconciledDisbursedCr": 6.43,
@@ -12846,7 +14595,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dipsinh-shankarsinh-rathod@sansad.nic.in",
-    "phone": "+91 98765 10584"
+    "phone": "+91 98765 10584",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018994-2",
@@ -12855,7 +14607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "DAHOD(ST)",
     "sanctionedCr": 8.16,
     "disbursedCr": 4.35,
     "reconciledDisbursedCr": 4.35,
@@ -12868,7 +14620,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jaswantsinh-sumanbhai-bhabhor@sansad.nic.in",
-    "phone": "+91 98765 10585"
+    "phone": "+91 98765 10585",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018995-2",
@@ -12877,7 +14632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "BHARUCH",
     "sanctionedCr": 6.24,
     "disbursedCr": 5.24,
     "reconciledDisbursedCr": 5.24,
@@ -12890,7 +14645,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mansukhbhai-dhanjibhai-vasava@sansad.nic.in",
-    "phone": "+91 98765 10586"
+    "phone": "+91 98765 10586",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018996-2",
@@ -12899,7 +14657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "ANAND",
     "sanctionedCr": 7.13,
     "disbursedCr": 6.42,
     "reconciledDisbursedCr": 6.42,
@@ -12912,7 +14670,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.mitesh-rameshbhai-bakabhai-patel@sansad.nic.in",
-    "phone": "+91 98765 10587"
+    "phone": "+91 98765 10587",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018998-2",
@@ -12934,7 +14695,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.parbatbhai-savabhai-patel@sansad.nic.in",
-    "phone": "+91 98765 10588"
+    "phone": "+91 98765 10588",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018999-2",
@@ -12943,7 +14707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "BARDOLI(ST)",
     "sanctionedCr": 5.09,
     "disbursedCr": 5.07,
     "reconciledDisbursedCr": 5.07,
@@ -12956,7 +14720,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.prabhubhai-nagarbhai-vasava@sansad.nic.in",
-    "phone": "+91 98765 10589"
+    "phone": "+91 98765 10589",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019000-2",
@@ -12965,7 +14732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "PANCHMAHAL",
     "sanctionedCr": 8.97,
     "disbursedCr": 7.96,
     "reconciledDisbursedCr": 7.96,
@@ -12978,7 +14745,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.ratansinh-magansinh-rathod@sansad.nic.in",
-    "phone": "+91 98765 10590"
+    "phone": "+91 98765 10590",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019002-2",
@@ -12987,7 +14757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "AHMEDABAD EAST",
     "sanctionedCr": 6.8,
     "disbursedCr": 6.38,
     "reconciledDisbursedCr": 6.38,
@@ -13000,7 +14770,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.hasmukh-bhai-soma-bhai-patel@sansad.nic.in",
-    "phone": "+91 98765 10591"
+    "phone": "+91 98765 10591",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019003-2",
@@ -13009,7 +14782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "CHHOTA UDAIPUR(ST)",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -13022,7 +14795,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.smt-gitaben-vajesingbhai-rathva@sansad.nic.in",
-    "phone": "+91 98765 10592"
+    "phone": "+91 98765 10592",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019004-2",
@@ -13031,7 +14807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "SURAT",
     "sanctionedCr": 6.91,
     "disbursedCr": 6.55,
     "reconciledDisbursedCr": 6.55,
@@ -13044,7 +14820,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-darshana-vikram-jardosh@sansad.nic.in",
-    "phone": "+91 98765 10593"
+    "phone": "+91 98765 10593",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019005-2",
@@ -13053,7 +14832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "JAMNAGAR",
     "sanctionedCr": 8.13,
     "disbursedCr": 7.9,
     "reconciledDisbursedCr": 7.9,
@@ -13066,7 +14845,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-poonamben-hematbhai-maadam@sansad.nic.in",
-    "phone": "+91 98765 10594"
+    "phone": "+91 98765 10594",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019006-2",
@@ -13075,7 +14857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "MAHESANA",
     "sanctionedCr": 9.12,
     "disbursedCr": 7.92,
     "reconciledDisbursedCr": 7.92,
@@ -13088,7 +14870,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-shardaben-anilbhai-patel@sansad.nic.in",
-    "phone": "+91 98765 10595"
+    "phone": "+91 98765 10595",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018997-2",
@@ -13097,7 +14882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "AMRELI",
     "sanctionedCr": 6.84,
     "disbursedCr": 6.07,
     "reconciledDisbursedCr": 6.07,
@@ -13110,7 +14895,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.naranbhai-bhikhabhai-kachhadiya@sansad.nic.in",
-    "phone": "+91 98765 10596"
+    "phone": "+91 98765 10596",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018977-2",
@@ -13119,7 +14907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "VADODARA",
     "sanctionedCr": 6.28,
     "disbursedCr": 6.28,
     "reconciledDisbursedCr": 6.28,
@@ -13132,7 +14920,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-ranjanben-dhananjay-bhatt-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10597"
+    "phone": "+91 98765 10597",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019240-2",
@@ -13141,7 +14932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "AHMEDABAD WEST(SC)",
     "sanctionedCr": 6.01,
     "disbursedCr": 4.48,
     "reconciledDisbursedCr": 4.48,
@@ -13154,7 +14945,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kirit-premjibhai-solanki-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10598"
+    "phone": "+91 98765 10598",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019001-2",
@@ -13163,7 +14957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "KACHCHH(SC)",
     "sanctionedCr": 6.78,
     "disbursedCr": 4.9,
     "reconciledDisbursedCr": 4.9,
@@ -13176,7 +14970,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.vinod-chavda-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10599"
+    "phone": "+91 98765 10599",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3047999-2",
@@ -13185,7 +14982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "GANDHINAGAR",
     "sanctionedCr": 6.07,
     "disbursedCr": 4.0,
     "reconciledDisbursedCr": 4.0,
@@ -13195,10 +14992,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 85,
     "worksRecommended": 142,
     "completionRate": 59.9,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.amit-shah-ex-17-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10600"
+    "phone": "+91 98765 10600",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017394-2",
@@ -13207,7 +15007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "BHIWANI MAHENDRAGARH",
     "sanctionedCr": 4.67,
     "disbursedCr": 3.97,
     "reconciledDisbursedCr": 3.97,
@@ -13220,7 +15020,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-dharambir-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10601"
+    "phone": "+91 98765 10601",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018368-2",
@@ -13229,7 +15032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "GURGAON",
     "sanctionedCr": 9.05,
     "disbursedCr": 6.99,
     "reconciledDisbursedCr": 6.99,
@@ -13242,7 +15045,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.rao-inderjit-singh@sansad.nic.in",
-    "phone": "+91 98765 10602"
+    "phone": "+91 98765 10602",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019007-2",
@@ -13251,7 +15057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "FARIDABAD",
     "sanctionedCr": 11.58,
     "disbursedCr": 7.66,
     "reconciledDisbursedCr": 7.66,
@@ -13264,7 +15070,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.krishan-pal-gurjar@sansad.nic.in",
-    "phone": "+91 98765 10603"
+    "phone": "+91 98765 10603",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019008-2",
@@ -13286,7 +15095,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ramesh-chander-kaushik@sansad.nic.in",
-    "phone": "+91 98765 10604"
+    "phone": "+91 98765 10604",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019009-2",
@@ -13295,7 +15107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "HISAR",
     "sanctionedCr": 9.16,
     "disbursedCr": 7.65,
     "reconciledDisbursedCr": 7.65,
@@ -13308,7 +15120,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.brijendra-singh@sansad.nic.in",
-    "phone": "+91 98765 10605"
+    "phone": "+91 98765 10605",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019010-2",
@@ -13317,7 +15132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "KURUKSHETRA",
     "sanctionedCr": 6.5,
     "disbursedCr": 5.34,
     "reconciledDisbursedCr": 5.34,
@@ -13330,7 +15145,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.nayab-singh@sansad.nic.in",
-    "phone": "+91 98765 10606"
+    "phone": "+91 98765 10606",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019011-2",
@@ -13339,7 +15157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "AMBALA (SC)",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -13352,7 +15170,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.rattan-lal-kataria@sansad.nic.in",
-    "phone": "+91 98765 10607"
+    "phone": "+91 98765 10607",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019012-2",
@@ -13361,7 +15182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "KARNAL",
     "sanctionedCr": 11.11,
     "disbursedCr": 9.36,
     "reconciledDisbursedCr": 9.36,
@@ -13374,7 +15195,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.sanjay-bhatia@sansad.nic.in",
-    "phone": "+91 98765 10608"
+    "phone": "+91 98765 10608",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019238-2",
@@ -13383,7 +15207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "ROHTAK",
     "sanctionedCr": 10.52,
     "disbursedCr": 8.09,
     "reconciledDisbursedCr": 8.09,
@@ -13396,7 +15220,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.arvind-kumar-sharma-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10609"
+    "phone": "+91 98765 10609",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019239-2",
@@ -13405,7 +15232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Haryana",
-    "constituency": "SONEPAT",
+    "constituency": "SIRSA(SC)",
     "sanctionedCr": 7.01,
     "disbursedCr": 5.17,
     "reconciledDisbursedCr": 5.17,
@@ -13418,7 +15245,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sunita-duggal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10610"
+    "phone": "+91 98765 10610",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018369-2",
@@ -13427,7 +15257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "HAMIRPUR",
     "sanctionedCr": 9.55,
     "disbursedCr": 8.57,
     "reconciledDisbursedCr": 8.57,
@@ -13437,10 +15267,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 337,
     "worksRecommended": 655,
     "completionRate": 51.5,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.anurag-singh-thakur@sansad.nic.in",
-    "phone": "+91 98765 10611"
+    "phone": "+91 98765 10611",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019013-2",
@@ -13449,7 +15282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "KANGRA",
     "sanctionedCr": 7.89,
     "disbursedCr": 6.19,
     "reconciledDisbursedCr": 6.19,
@@ -13462,7 +15295,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kishan-kapoor@sansad.nic.in",
-    "phone": "+91 98765 10612"
+    "phone": "+91 98765 10612",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019014-2",
@@ -13471,7 +15307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "SHIMLA (SC)",
     "sanctionedCr": 6.68,
     "disbursedCr": 6.2,
     "reconciledDisbursedCr": 6.2,
@@ -13484,7 +15320,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.suresh-kumar-kashyap@sansad.nic.in",
-    "phone": "+91 98765 10613"
+    "phone": "+91 98765 10613",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019015-2",
@@ -13493,7 +15332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Himachal Pradesh",
-    "constituency": "HAMIRPUR_HP",
+    "constituency": "MANDI",
     "sanctionedCr": 6.9,
     "disbursedCr": 5.07,
     "reconciledDisbursedCr": 5.07,
@@ -13506,7 +15345,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-pratibha-singh@sansad.nic.in",
-    "phone": "+91 98765 10614"
+    "phone": "+91 98765 10614",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017395-2",
@@ -13514,8 +15356,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-mohammad-akbar-lone-17th-lok-sabha",
     "term": "17",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "BARAMULLAH",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -13528,7 +15370,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-mohammad-akbar-lone-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10615"
+    "phone": "+91 98765 10615",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017396-2",
@@ -13536,8 +15381,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-jugal-kishore-sharma-17th-lok-sabha",
     "term": "17",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "JAMMU",
     "sanctionedCr": 5.56,
     "disbursedCr": 4.38,
     "reconciledDisbursedCr": 4.38,
@@ -13550,7 +15395,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-jugal-kishore-sharma-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10616"
+    "phone": "+91 98765 10616",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019016-2",
@@ -13558,8 +15406,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-jitendra-singh",
     "term": "17",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "UDHAMPUR",
     "sanctionedCr": 5.86,
     "disbursedCr": 3.68,
     "reconciledDisbursedCr": 3.68,
@@ -13572,7 +15420,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.jitendra-singh@sansad.nic.in",
-    "phone": "+91 98765 10617"
+    "phone": "+91 98765 10617",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019017-2",
@@ -13581,7 +15432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "constituency": "SRINAGAR",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -13591,10 +15442,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 0,
     "completionRate": 0.0,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "JKNC",
+    "partyHi": "\u0928\u0947\u0915\u093e\u0902",
     "email": "mp.farooq-abdullah@sansad.nic.in",
-    "phone": "+91 98765 10618"
+    "phone": "+91 98765 10618",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019018-2",
@@ -13602,7 +15456,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-hasnain-masoodi",
     "term": "17",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "ANANTNAG",
     "sanctionedCr": 8.11,
     "disbursedCr": 7.21,
@@ -13616,7 +15470,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.hasnain-masoodi@sansad.nic.in",
-    "phone": "+91 98765 10619"
+    "phone": "+91 98765 10619",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019019-2",
@@ -13624,8 +15481,8 @@ export const ALL_MPS_DATA = [
     "slug": "mp-mohammad-akbar-lone",
     "term": "17",
     "house": "Lok Sabha",
-    "state": "Jammu & Kashmir",
-    "constituency": "ANANTNAG",
+    "state": "Jammu And Kashmir",
+    "constituency": "BARAMULLAH",
     "sanctionedCr": 6.61,
     "disbursedCr": 5.39,
     "reconciledDisbursedCr": 5.39,
@@ -13638,7 +15495,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.mohammad-akbar-lone@sansad.nic.in",
-    "phone": "+91 98765 10620"
+    "phone": "+91 98765 10620",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3026799-2",
@@ -13660,7 +15520,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dummy-lok-sabha-mp@sansad.nic.in",
-    "phone": "+91 98765 10621"
+    "phone": "+91 98765 10621",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017397-2",
@@ -13669,7 +15532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "KHUNTI(ST)",
     "sanctionedCr": 6.42,
     "disbursedCr": 5.9,
     "reconciledDisbursedCr": 5.9,
@@ -13682,7 +15545,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-arjun-munda-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10622"
+    "phone": "+91 98765 10622",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017398-2",
@@ -13704,7 +15570,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-jayant-sinha-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10623"
+    "phone": "+91 98765 10623",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017399-2",
@@ -13713,7 +15582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "GIRIDIH",
     "sanctionedCr": 9.7,
     "disbursedCr": 8.88,
     "reconciledDisbursedCr": 8.88,
@@ -13726,7 +15595,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-chandra-prakash-choudhary-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10624"
+    "phone": "+91 98765 10624",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018370-2",
@@ -13735,7 +15607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "KODERMA",
     "sanctionedCr": 8.33,
     "disbursedCr": 5.95,
     "reconciledDisbursedCr": 5.95,
@@ -13745,10 +15617,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 197,
     "worksRecommended": 282,
     "completionRate": 69.9,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.annpurna-devi@sansad.nic.in",
-    "phone": "+91 98765 10625"
+    "phone": "+91 98765 10625",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018371-2",
@@ -13757,7 +15632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "DHANBAD",
     "sanctionedCr": 7.35,
     "disbursedCr": 7.23,
     "reconciledDisbursedCr": 7.23,
@@ -13770,7 +15645,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.pashupati-nath-singh@sansad.nic.in",
-    "phone": "+91 98765 10626"
+    "phone": "+91 98765 10626",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018372-2",
@@ -13779,7 +15657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "RANCHI",
     "sanctionedCr": 4.9,
     "disbursedCr": 4.43,
     "reconciledDisbursedCr": 4.43,
@@ -13792,7 +15670,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sanjay-seth@sansad.nic.in",
-    "phone": "+91 98765 10627"
+    "phone": "+91 98765 10627",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018373-2",
@@ -13801,7 +15682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "CHATRA",
     "sanctionedCr": 7.35,
     "disbursedCr": 0.98,
     "reconciledDisbursedCr": 0.98,
@@ -13814,7 +15695,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sunil-kumar-singh@sansad.nic.in",
-    "phone": "+91 98765 10628"
+    "phone": "+91 98765 10628",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018374-2",
@@ -13823,7 +15707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "PALAMU(SC)",
     "sanctionedCr": 6.31,
     "disbursedCr": 5.57,
     "reconciledDisbursedCr": 5.57,
@@ -13836,7 +15720,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.vishnu-dayal-ram@sansad.nic.in",
-    "phone": "+91 98765 10629"
+    "phone": "+91 98765 10629",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019020-2",
@@ -13858,7 +15745,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.nishikant-dubey@sansad.nic.in",
-    "phone": "+91 98765 10630"
+    "phone": "+91 98765 10630",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019021-2",
@@ -13867,7 +15757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "KODERMA",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -13877,10 +15767,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 0,
     "completionRate": 0.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ms-annpurna-devi@sansad.nic.in",
-    "phone": "+91 98765 10631"
+    "phone": "+91 98765 10631",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019022-2",
@@ -13889,7 +15782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "JAMSHEDPUR",
     "sanctionedCr": 7.15,
     "disbursedCr": 6.24,
     "reconciledDisbursedCr": 6.24,
@@ -13902,7 +15795,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.bidyut-baran-mahato@sansad.nic.in",
-    "phone": "+91 98765 10632"
+    "phone": "+91 98765 10632",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019023-2",
@@ -13911,7 +15807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "RAJMAHAL(ST)",
     "sanctionedCr": 12.23,
     "disbursedCr": 10.96,
     "reconciledDisbursedCr": 10.96,
@@ -13924,7 +15820,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vijay-kumar-hansdak@sansad.nic.in",
-    "phone": "+91 98765 10633"
+    "phone": "+91 98765 10633",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019024-2",
@@ -13933,7 +15832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "PALAMU(SC)",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -13946,7 +15845,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.vishnu-dayal-ram@sansad.nic.in",
-    "phone": "+91 98765 10634"
+    "phone": "+91 98765 10634",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019026-2",
@@ -13955,7 +15857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "DUMKA(ST)",
     "sanctionedCr": 9.77,
     "disbursedCr": 9.0,
     "reconciledDisbursedCr": 9.0,
@@ -13968,7 +15870,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.sunil-soren@sansad.nic.in",
-    "phone": "+91 98765 10635"
+    "phone": "+91 98765 10635",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019532-2",
@@ -13977,7 +15882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "LOHARDAGA(ST)",
     "sanctionedCr": 4.87,
     "disbursedCr": 4.73,
     "reconciledDisbursedCr": 4.73,
@@ -13990,7 +15895,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sudarshan-bhagat-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10636"
+    "phone": "+91 98765 10636",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019025-2",
@@ -13999,7 +15907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Jharkhand",
-    "constituency": "HAZARIBAGH",
+    "constituency": "SINGHBHUM(ST)",
     "sanctionedCr": 9.78,
     "disbursedCr": 8.12,
     "reconciledDisbursedCr": 8.12,
@@ -14012,7 +15920,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.geeta-kora-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10637"
+    "phone": "+91 98765 10637",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017400-2",
@@ -14021,7 +15932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BANGALORE NORTH",
     "sanctionedCr": 9.75,
     "disbursedCr": 9.48,
     "reconciledDisbursedCr": 9.48,
@@ -14034,7 +15945,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-dv-sadananda-gowda-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10638"
+    "phone": "+91 98765 10638",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017401-2",
@@ -14043,7 +15957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "DAKSHINA KANNADA",
     "sanctionedCr": 7.31,
     "disbursedCr": 6.86,
     "reconciledDisbursedCr": 6.86,
@@ -14056,7 +15970,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-nalin-kumar-kateel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10639"
+    "phone": "+91 98765 10639",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017402-2",
@@ -14065,7 +15982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "SHIMOGA",
     "sanctionedCr": 9.21,
     "disbursedCr": 8.7,
     "reconciledDisbursedCr": 8.7,
@@ -14078,7 +15995,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-b-y-raghavendra-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10640"
+    "phone": "+91 98765 10640",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017403-2",
@@ -14087,7 +16007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "UDUPI CHIKMAGALUR",
     "sanctionedCr": 9.53,
     "disbursedCr": 8.46,
     "reconciledDisbursedCr": 8.46,
@@ -14100,7 +16020,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.km-shobha-karandlaje-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10641"
+    "phone": "+91 98765 10641",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017404-2",
@@ -14109,7 +16032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "TUMKUR",
     "sanctionedCr": 9.8,
     "disbursedCr": 8.41,
     "reconciledDisbursedCr": 8.41,
@@ -14122,7 +16045,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-gangasandra-siddappa-basavaraj-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10642"
+    "phone": "+91 98765 10642",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017405-2",
@@ -14131,7 +16057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "GULBARGA(SC)",
     "sanctionedCr": 14.19,
     "disbursedCr": 11.64,
     "reconciledDisbursedCr": 11.64,
@@ -14144,7 +16070,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dr-umesh-g-jadhav-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10643"
+    "phone": "+91 98765 10643",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017406-2",
@@ -14153,7 +16082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BANGALORE SOUTH",
     "sanctionedCr": 10.07,
     "disbursedCr": 8.41,
     "reconciledDisbursedCr": 8.41,
@@ -14166,7 +16095,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-ls-tejasvi-surya-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10644"
+    "phone": "+91 98765 10644",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019027-2",
@@ -14175,7 +16107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "UTTARA KANNADA",
     "sanctionedCr": 4.9,
     "disbursedCr": 4.18,
     "reconciledDisbursedCr": 4.18,
@@ -14188,7 +16120,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.anantkumar-hegde@sansad.nic.in",
-    "phone": "+91 98765 10645"
+    "phone": "+91 98765 10645",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019028-2",
@@ -14197,7 +16132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHIKKODI",
     "sanctionedCr": 9.79,
     "disbursedCr": 7.46,
     "reconciledDisbursedCr": 7.46,
@@ -14210,7 +16145,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.annasaheb-shankar-jolle@sansad.nic.in",
-    "phone": "+91 98765 10646"
+    "phone": "+91 98765 10646",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019029-2",
@@ -14219,7 +16157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BIDAR",
     "sanctionedCr": 7.23,
     "disbursedCr": 4.4,
     "reconciledDisbursedCr": 4.4,
@@ -14232,7 +16170,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.bhagwanth-khuba@sansad.nic.in",
-    "phone": "+91 98765 10647"
+    "phone": "+91 98765 10647",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019030-2",
@@ -14254,7 +16195,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.doddaalahalli-kempegowda-suresh@sansad.nic.in",
-    "phone": "+91 98765 10648"
+    "phone": "+91 98765 10648",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019031-2",
@@ -14263,7 +16207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "DAVANAGERE",
     "sanctionedCr": 4.67,
     "disbursedCr": 4.55,
     "reconciledDisbursedCr": 4.55,
@@ -14276,7 +16220,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gowdar-mallikarjunappa-siddeshwara@sansad.nic.in",
-    "phone": "+91 98765 10649"
+    "phone": "+91 98765 10649",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019038-2",
@@ -14285,7 +16232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "RAICHUR(ST)",
     "sanctionedCr": 9.8,
     "disbursedCr": 8.92,
     "reconciledDisbursedCr": 8.92,
@@ -14298,7 +16245,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.raja-amareshwara-naik-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10650"
+    "phone": "+91 98765 10650",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019040-2",
@@ -14307,7 +16257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "KOLAR(SC)",
     "sanctionedCr": 9.75,
     "disbursedCr": 8.56,
     "reconciledDisbursedCr": 8.56,
@@ -14320,7 +16270,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.s-muniswamy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10651"
+    "phone": "+91 98765 10651",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019046-2",
@@ -14329,7 +16282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BELGAUM",
     "sanctionedCr": 9.78,
     "disbursedCr": 6.46,
     "reconciledDisbursedCr": 6.46,
@@ -14342,7 +16295,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-mangal-suresh-angadi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10652"
+    "phone": "+91 98765 10652",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019033-2",
@@ -14351,7 +16307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHITRADURGA(SC)",
     "sanctionedCr": 6.77,
     "disbursedCr": 4.5,
     "reconciledDisbursedCr": 4.5,
@@ -14364,7 +16320,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.narayana-swamy-abbaiah-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10653"
+    "phone": "+91 98765 10653",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019041-2",
@@ -14373,7 +16332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "KOPPAL",
     "sanctionedCr": 9.77,
     "disbursedCr": 7.9,
     "reconciledDisbursedCr": 7.9,
@@ -14386,7 +16345,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sanganna-amarappa-karadi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10654"
+    "phone": "+91 98765 10654",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019034-2",
@@ -14395,7 +16357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BAGALKOT",
     "sanctionedCr": 7.18,
     "disbursedCr": 6.68,
     "reconciledDisbursedCr": 6.68,
@@ -14408,7 +16370,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.parvatagouda-chandanagouda-gaddigoudar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10655"
+    "phone": "+91 98765 10655",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019045-2",
@@ -14417,7 +16382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BELLARY(ST)",
     "sanctionedCr": 9.45,
     "disbursedCr": 8.2,
     "reconciledDisbursedCr": 8.2,
@@ -14430,7 +16395,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.y-devendrappa-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10656"
+    "phone": "+91 98765 10656",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019044-2",
@@ -14439,7 +16407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHAMARAJANAGAR(SC)",
     "sanctionedCr": 7.29,
     "disbursedCr": 6.07,
     "reconciledDisbursedCr": 6.07,
@@ -14452,7 +16420,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.v-srinivas-prasad-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10657"
+    "phone": "+91 98765 10657",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019043-2",
@@ -14461,7 +16432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHIKBALLAPUR",
     "sanctionedCr": 7.35,
     "disbursedCr": 6.82,
     "reconciledDisbursedCr": 6.82,
@@ -14474,7 +16445,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bache-bn-gowda-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10658"
+    "phone": "+91 98765 10658",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019036-2",
@@ -14483,7 +16457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "DHARWAD",
     "sanctionedCr": 9.01,
     "disbursedCr": 5.86,
     "reconciledDisbursedCr": 5.86,
@@ -14496,7 +16470,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.pralhad-venkatesh-joshi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10659"
+    "phone": "+91 98765 10659",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019035-2",
@@ -14505,7 +16482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "HASSAN",
     "sanctionedCr": 8.57,
     "disbursedCr": 7.78,
     "reconciledDisbursedCr": 7.78,
@@ -14518,7 +16495,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.prajwal-revanna-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10660"
+    "phone": "+91 98765 10660",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019042-2",
@@ -14527,7 +16507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "HAVERI",
     "sanctionedCr": 9.12,
     "disbursedCr": 8.25,
     "reconciledDisbursedCr": 8.25,
@@ -14540,7 +16520,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shivkumar-chanabasappa-udasi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10661"
+    "phone": "+91 98765 10661",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019047-2",
@@ -14549,7 +16532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "MANDYA",
     "sanctionedCr": 7.35,
     "disbursedCr": 6.75,
     "reconciledDisbursedCr": 6.75,
@@ -14562,7 +16545,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-sumalatha-ambareesh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10662"
+    "phone": "+91 98765 10662",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019529-2",
@@ -14571,7 +16557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BANGALORE CENTRAL",
     "sanctionedCr": 8.51,
     "disbursedCr": 6.68,
     "reconciledDisbursedCr": 6.68,
@@ -14584,7 +16570,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.p-c-mohan-17thlok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10663"
+    "phone": "+91 98765 10663",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019039-2",
@@ -14593,7 +16582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BIJAPUR(SC)",
     "sanctionedCr": 11.19,
     "disbursedCr": 7.34,
     "reconciledDisbursedCr": 7.34,
@@ -14606,7 +16595,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ramesh-chandappa-jigajinagi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10664"
+    "phone": "+91 98765 10664",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019037-2",
@@ -14615,7 +16607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "MYSORE",
     "sanctionedCr": 4.72,
     "disbursedCr": 3.21,
     "reconciledDisbursedCr": 3.21,
@@ -14628,7 +16620,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.prathap-simha-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10665"
+    "phone": "+91 98765 10665",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017407-2",
@@ -14637,7 +16632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KOTTAYAM",
     "sanctionedCr": 8.77,
     "disbursedCr": 7.8,
     "reconciledDisbursedCr": 7.8,
@@ -14650,7 +16645,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-thomas-chazhikadan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10666"
+    "phone": "+91 98765 10666",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017408-2",
@@ -14659,7 +16657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "THIRUVANANTHAPURAM",
     "sanctionedCr": 9.02,
     "disbursedCr": 8.25,
     "reconciledDisbursedCr": 8.25,
@@ -14672,7 +16670,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-shashi-tharoor-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10667"
+    "phone": "+91 98765 10667",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017409-2",
@@ -14681,7 +16682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KOZHIKODE",
     "sanctionedCr": 7.62,
     "disbursedCr": 7.12,
     "reconciledDisbursedCr": 7.12,
@@ -14694,7 +16695,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-m-k-raghavan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10668"
+    "phone": "+91 98765 10668",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017410-2",
@@ -14703,7 +16707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KOLLAM",
     "sanctionedCr": 4.46,
     "disbursedCr": 3.88,
     "reconciledDisbursedCr": 3.88,
@@ -14716,7 +16720,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-nk-premachandran-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10669"
+    "phone": "+91 98765 10669",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017411-2",
@@ -14725,7 +16732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ATTINGAL",
     "sanctionedCr": 9.39,
     "disbursedCr": 9.11,
     "reconciledDisbursedCr": 9.11,
@@ -14738,7 +16745,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.adv-adoor-prakash-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10670"
+    "phone": "+91 98765 10670",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017412-2",
@@ -14747,7 +16757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "MAVELIKKARA(SC)",
     "sanctionedCr": 7.89,
     "disbursedCr": 5.79,
     "reconciledDisbursedCr": 5.79,
@@ -14760,7 +16770,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-suresh-kodikunnil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10671"
+    "phone": "+91 98765 10671",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017413-2",
@@ -14769,7 +16782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "CHALAKUDY",
     "sanctionedCr": 8.12,
     "disbursedCr": 5.34,
     "reconciledDisbursedCr": 5.34,
@@ -14782,7 +16795,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-benny-behanan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10672"
+    "phone": "+91 98765 10672",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017414-2",
@@ -14791,7 +16807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "VADAKARA",
     "sanctionedCr": 8.74,
     "disbursedCr": 6.44,
     "reconciledDisbursedCr": 6.44,
@@ -14804,7 +16820,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-k-muraleedharan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10673"
+    "phone": "+91 98765 10673",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017415-2",
@@ -14813,7 +16832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KASARAGOD",
     "sanctionedCr": 11.38,
     "disbursedCr": 11.19,
     "reconciledDisbursedCr": 11.19,
@@ -14826,7 +16845,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-rajmohan-unnithan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10674"
+    "phone": "+91 98765 10674",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017416-2",
@@ -14848,7 +16870,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-kumbakudi-sudhakaran-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10675"
+    "phone": "+91 98765 10675",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017417-2",
@@ -14857,7 +16882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ERNAKULAM",
     "sanctionedCr": 8.11,
     "disbursedCr": 7.0,
     "reconciledDisbursedCr": 7.0,
@@ -14870,7 +16895,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-hibi-eden-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10676"
+    "phone": "+91 98765 10676",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017418-2",
@@ -14879,7 +16907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "IDUKKI",
     "sanctionedCr": 8.8,
     "disbursedCr": 8.08,
     "reconciledDisbursedCr": 8.08,
@@ -14892,7 +16920,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.adv-dean-kuriakose-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10677"
+    "phone": "+91 98765 10677",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017419-2",
@@ -14901,7 +16932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ALATHUR(SC)",
     "sanctionedCr": 8.61,
     "disbursedCr": 8.56,
     "reconciledDisbursedCr": 8.56,
@@ -14914,7 +16945,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-ramya-haridas-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10678"
+    "phone": "+91 98765 10678",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018375-2",
@@ -14923,7 +16957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "MALAPPURAM",
     "sanctionedCr": 8.19,
     "disbursedCr": 8.17,
     "reconciledDisbursedCr": 8.17,
@@ -14936,7 +16970,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.m-p-abdussamad-samadani@sansad.nic.in",
-    "phone": "+91 98765 10679"
+    "phone": "+91 98765 10679",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018376-2",
@@ -14945,7 +16982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ALAPPUZHA",
     "sanctionedCr": 7.65,
     "disbursedCr": 4.31,
     "reconciledDisbursedCr": 4.31,
@@ -14958,7 +16995,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.abdul-majeed-ariff@sansad.nic.in",
-    "phone": "+91 98765 10680"
+    "phone": "+91 98765 10680",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018377-2",
@@ -14967,7 +17007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "PALAKKAD",
     "sanctionedCr": 8.6,
     "disbursedCr": 7.01,
     "reconciledDisbursedCr": 7.01,
@@ -14980,7 +17020,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vellalath-kochukrishnan-nair-sreekandan@sansad.nic.in",
-    "phone": "+91 98765 10681"
+    "phone": "+91 98765 10681",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019302-2",
@@ -14989,7 +17032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "PONNANI",
     "sanctionedCr": 8.74,
     "disbursedCr": 7.5,
     "reconciledDisbursedCr": 7.5,
@@ -15002,7 +17045,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.e-t-mohammed-basheer-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10682"
+    "phone": "+91 98765 10682",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3021488-2",
@@ -15011,7 +17057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "WAYANAD",
     "sanctionedCr": 8.94,
     "disbursedCr": 8.72,
     "reconciledDisbursedCr": 8.72,
@@ -15021,10 +17067,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 67,
     "worksRecommended": 71,
     "completionRate": 94.4,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rahul-gandhi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10683"
+    "phone": "+91 98765 10683",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019050-2",
@@ -15033,7 +17082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "THRISSUR",
     "sanctionedCr": 8.14,
     "disbursedCr": 7.65,
     "reconciledDisbursedCr": 7.65,
@@ -15046,7 +17095,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.t-n-prathapan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10684"
+    "phone": "+91 98765 10684",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019048-2",
@@ -15055,7 +17107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "PATHANAMTHITTA",
     "sanctionedCr": 8.61,
     "disbursedCr": 7.47,
     "reconciledDisbursedCr": 7.47,
@@ -15068,7 +17120,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.anto-antony-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10685"
+    "phone": "+91 98765 10685",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017420-2",
@@ -15090,7 +17145,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-jamyang-tsering-namgyal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10686"
+    "phone": "+91 98765 10686",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019436-2",
@@ -15112,7 +17170,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.faizal-pp-mohammed-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10687"
+    "phone": "+91 98765 10687",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017177-2",
@@ -15121,7 +17182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "GUNA",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -15134,7 +17195,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.krishna-pal-singh-yadav@sansad.nic.in",
-    "phone": "+91 98765 10688"
+    "phone": "+91 98765 10688",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017421-2",
@@ -15143,7 +17207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "MANDSOUR",
     "sanctionedCr": 10.1,
     "disbursedCr": 9.46,
     "reconciledDisbursedCr": 9.46,
@@ -15156,7 +17220,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-sudheer-gupta-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10689"
+    "phone": "+91 98765 10689",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017422-2",
@@ -15178,7 +17245,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-gajendra-umrao-singh-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10690"
+    "phone": "+91 98765 10690",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017423-2",
@@ -15187,7 +17257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SIDHI",
     "sanctionedCr": 0.22,
     "disbursedCr": 0.22,
     "reconciledDisbursedCr": 0.22,
@@ -15200,7 +17270,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.smt-riti-pathak-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10691"
+    "phone": "+91 98765 10691",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017424-2",
@@ -15209,7 +17282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "BHOPAL",
     "sanctionedCr": 7.53,
     "disbursedCr": 6.94,
     "reconciledDisbursedCr": 6.94,
@@ -15222,7 +17295,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.sadhvi-pragya-singh-thakur-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10692"
+    "phone": "+91 98765 10692",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017425-2",
@@ -15231,7 +17307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "UJJAIN(SC)",
     "sanctionedCr": 7.17,
     "disbursedCr": 6.78,
     "reconciledDisbursedCr": 6.78,
@@ -15244,7 +17320,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-anil-firojiya-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10693"
+    "phone": "+91 98765 10693",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018378-2",
@@ -15253,7 +17332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "BALAGHAT",
     "sanctionedCr": 4.9,
     "disbursedCr": 4.89,
     "reconciledDisbursedCr": 4.89,
@@ -15266,7 +17345,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dhal-singh-bisen@sansad.nic.in",
-    "phone": "+91 98765 10694"
+    "phone": "+91 98765 10694",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018379-2",
@@ -15275,7 +17357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "CHHINDWARA",
     "sanctionedCr": 7.3,
     "disbursedCr": 6.21,
     "reconciledDisbursedCr": 6.21,
@@ -15288,7 +17370,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.nakul-k-nath@sansad.nic.in",
-    "phone": "+91 98765 10695"
+    "phone": "+91 98765 10695",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018380-2",
@@ -15297,7 +17382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "RAJGARH",
     "sanctionedCr": 7.38,
     "disbursedCr": 7.24,
     "reconciledDisbursedCr": 7.24,
@@ -15310,7 +17395,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rodmal-nagar@sansad.nic.in",
-    "phone": "+91 98765 10696"
+    "phone": "+91 98765 10696",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018381-2",
@@ -15332,7 +17420,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.durga-das-uikey@sansad.nic.in",
-    "phone": "+91 98765 10697"
+    "phone": "+91 98765 10697",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018382-2",
@@ -15341,7 +17432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "RATLAM(ST)",
     "sanctionedCr": 7.33,
     "disbursedCr": 6.52,
     "reconciledDisbursedCr": 6.52,
@@ -15354,7 +17445,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.guman-singh-damor@sansad.nic.in",
-    "phone": "+91 98765 10698"
+    "phone": "+91 98765 10698",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018383-2",
@@ -15363,7 +17457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "KHAJURAHO",
     "sanctionedCr": 10.01,
     "disbursedCr": 9.16,
     "reconciledDisbursedCr": 9.16,
@@ -15376,7 +17470,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vishnu-dutt-sharma@sansad.nic.in",
-    "phone": "+91 98765 10699"
+    "phone": "+91 98765 10699",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019065-2",
@@ -15385,7 +17482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "INDORE",
     "sanctionedCr": 7.07,
     "disbursedCr": 7.07,
     "reconciledDisbursedCr": 7.07,
@@ -15398,7 +17495,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shankar-lalwani-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10700"
+    "phone": "+91 98765 10700",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019056-2",
@@ -15407,7 +17507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "KHARGONE(ST)",
     "sanctionedCr": 10.25,
     "disbursedCr": 8.35,
     "reconciledDisbursedCr": 8.35,
@@ -15420,7 +17520,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.gajendra-singh-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10701"
+    "phone": "+91 98765 10701",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019067-2",
@@ -15429,7 +17532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "GWALIOR",
     "sanctionedCr": 8.19,
     "disbursedCr": 6.78,
     "reconciledDisbursedCr": 6.78,
@@ -15442,7 +17545,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vivek-narayan-shejwalkar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10702"
+    "phone": "+91 98765 10702",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019066-2",
@@ -15451,7 +17557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "HOSHANGABAD",
     "sanctionedCr": 5.93,
     "disbursedCr": 4.64,
     "reconciledDisbursedCr": 4.64,
@@ -15464,7 +17570,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.uday-pratap-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10703"
+    "phone": "+91 98765 10703",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019052-2",
@@ -15473,7 +17582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "GUNA",
     "sanctionedCr": 9.84,
     "disbursedCr": 9.82,
     "reconciledDisbursedCr": 9.82,
@@ -15486,7 +17595,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.krishna-pal-singh-yadav-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10704"
+    "phone": "+91 98765 10704",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019058-2",
@@ -15495,7 +17607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "KHANDWA",
     "sanctionedCr": 6.94,
     "disbursedCr": 6.52,
     "reconciledDisbursedCr": 6.52,
@@ -15508,7 +17620,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gyaneshwar-patil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10705"
+    "phone": "+91 98765 10705",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019057-2",
@@ -15517,7 +17632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SATNA",
     "sanctionedCr": 7.2,
     "disbursedCr": 6.46,
     "reconciledDisbursedCr": 6.46,
@@ -15530,7 +17645,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ganesh-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10706"
+    "phone": "+91 98765 10706",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019069-2",
@@ -15539,7 +17657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SHAHDOL (ST)",
     "sanctionedCr": 7.33,
     "disbursedCr": 7.22,
     "reconciledDisbursedCr": 7.22,
@@ -15552,7 +17670,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-himadri-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10707"
+    "phone": "+91 98765 10707",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019068-2",
@@ -15561,7 +17682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "DEWAS(SC)",
     "sanctionedCr": 7.67,
     "disbursedCr": 5.96,
     "reconciledDisbursedCr": 5.96,
@@ -15574,7 +17695,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.mahendra-singh-solanky-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10708"
+    "phone": "+91 98765 10708",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019064-2",
@@ -15583,7 +17707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "VIDISHA",
     "sanctionedCr": 10.23,
     "disbursedCr": 8.84,
     "reconciledDisbursedCr": 8.84,
@@ -15596,7 +17720,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ramakant-bhargava-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10709"
+    "phone": "+91 98765 10709",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019055-2",
@@ -15605,7 +17732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "MANDLA(ST)",
     "sanctionedCr": 7.17,
     "disbursedCr": 5.53,
     "reconciledDisbursedCr": 5.53,
@@ -15618,7 +17745,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.faggan-singh-kulaste-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10710"
+    "phone": "+91 98765 10710",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019060-2",
@@ -15627,7 +17757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "MORENA",
     "sanctionedCr": 10.52,
     "disbursedCr": 7.24,
     "reconciledDisbursedCr": 7.24,
@@ -15640,7 +17770,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.narendra-singh-tomar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10711"
+    "phone": "+91 98765 10711",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019053-2",
@@ -15649,7 +17782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "TIKAMGARH(SC)",
     "sanctionedCr": 7.99,
     "disbursedCr": 6.29,
     "reconciledDisbursedCr": 6.29,
@@ -15662,7 +17795,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.virendra-kumar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10712"
+    "phone": "+91 98765 10712",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019061-2",
@@ -15671,7 +17807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "DAMOH",
     "sanctionedCr": 6.93,
     "disbursedCr": 5.97,
     "reconciledDisbursedCr": 5.97,
@@ -15684,7 +17820,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.prahlad-singh-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10713"
+    "phone": "+91 98765 10713",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019059-2",
@@ -15693,7 +17832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "REWA",
     "sanctionedCr": 7.35,
     "disbursedCr": 7.03,
     "reconciledDisbursedCr": 7.03,
@@ -15706,7 +17845,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.janardan-mishra-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10714"
+    "phone": "+91 98765 10714",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019070-2",
@@ -15715,7 +17857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "BHIND(SC)",
     "sanctionedCr": 6.84,
     "disbursedCr": 6.54,
     "reconciledDisbursedCr": 6.54,
@@ -15728,7 +17870,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-sandhya-ray-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10715"
+    "phone": "+91 98765 10715",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019063-2",
@@ -15737,7 +17882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "JABALPUR",
     "sanctionedCr": 7.15,
     "disbursedCr": 5.63,
     "reconciledDisbursedCr": 5.63,
@@ -15750,7 +17895,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.rakesh-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10716"
+    "phone": "+91 98765 10716",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019054-2",
@@ -15759,7 +17907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "DHAR(ST)",
     "sanctionedCr": 7.36,
     "disbursedCr": 7.31,
     "reconciledDisbursedCr": 7.31,
@@ -15772,7 +17920,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.chhatar-singh-darbar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10717"
+    "phone": "+91 98765 10717",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019062-2",
@@ -15781,7 +17932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SAGAR",
     "sanctionedCr": 10.12,
     "disbursedCr": 9.65,
     "reconciledDisbursedCr": 9.65,
@@ -15794,7 +17945,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.rajbahadur-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10718"
+    "phone": "+91 98765 10718",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017426-2",
@@ -15803,7 +17957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BHANDARA-GONDIYA",
     "sanctionedCr": 11.31,
     "disbursedCr": 9.17,
     "reconciledDisbursedCr": 9.17,
@@ -15816,7 +17970,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-sunil-baburao-mendhe-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10719"
+    "phone": "+91 98765 10719",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017427-2",
@@ -15825,7 +17982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH-CENTRAL",
     "sanctionedCr": 7.14,
     "disbursedCr": 6.62,
     "reconciledDisbursedCr": 6.62,
@@ -15838,7 +17995,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-poonam-mahajan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10720"
+    "phone": "+91 98765 10720",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017428-2",
@@ -15847,7 +18007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH EAST",
     "sanctionedCr": 9.73,
     "disbursedCr": 8.94,
     "reconciledDisbursedCr": 8.94,
@@ -15860,7 +18020,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-manoj-kotak-kishorbhai-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10721"
+    "phone": "+91 98765 10721",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017429-2",
@@ -15869,7 +18032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH",
     "sanctionedCr": 7.01,
     "disbursedCr": 6.7,
     "reconciledDisbursedCr": 6.7,
@@ -15882,7 +18045,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-gopal-chinayya-shetty-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10722"
+    "phone": "+91 98765 10722",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017430-2",
@@ -15891,7 +18057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH WEST",
     "sanctionedCr": 5.6,
     "disbursedCr": 4.09,
     "reconciledDisbursedCr": 4.09,
@@ -15904,7 +18070,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-gajanan-chandrakant-kirtikar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10723"
+    "phone": "+91 98765 10723",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017431-2",
@@ -15913,7 +18082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "GADCHIROLI-CHIMUR(ST)",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -15926,7 +18095,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-ashok-mahadeorao-nete@sansad.nic.in",
-    "phone": "+91 98765 10724"
+    "phone": "+91 98765 10724",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018384-2",
@@ -15935,7 +18107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SOLAPUR(SC)",
     "sanctionedCr": 11.44,
     "disbursedCr": 10.37,
     "reconciledDisbursedCr": 10.37,
@@ -15948,7 +18120,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.jaisidheshwar-shivachary-mahaswamiji@sansad.nic.in",
-    "phone": "+91 98765 10725"
+    "phone": "+91 98765 10725",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018385-2",
@@ -15957,7 +18132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "DHULE",
     "sanctionedCr": 7.0,
     "disbursedCr": 5.01,
     "reconciledDisbursedCr": 5.01,
@@ -15970,7 +18145,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.subhash-ramrao-bhamre@sansad.nic.in",
-    "phone": "+91 98765 10726"
+    "phone": "+91 98765 10726",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018386-2",
@@ -15979,7 +18157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "HINGOLI",
     "sanctionedCr": 9.64,
     "disbursedCr": 8.07,
     "reconciledDisbursedCr": 8.07,
@@ -15992,7 +18170,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.hemant-shriram-patil@sansad.nic.in",
-    "phone": "+91 98765 10727"
+    "phone": "+91 98765 10727",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018387-2",
@@ -16001,7 +18182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MADHA",
     "sanctionedCr": 7.97,
     "disbursedCr": 6.22,
     "reconciledDisbursedCr": 6.22,
@@ -16014,7 +18195,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ranjeetsinha-hindurao-naik-nimbalkar@sansad.nic.in",
-    "phone": "+91 98765 10728"
+    "phone": "+91 98765 10728",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018388-2",
@@ -16023,7 +18207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SHIRDI(SC)",
     "sanctionedCr": 7.27,
     "disbursedCr": 5.77,
     "reconciledDisbursedCr": 5.77,
@@ -16036,7 +18220,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sadashiv-kisan-lokhande@sansad.nic.in",
-    "phone": "+91 98765 10729"
+    "phone": "+91 98765 10729",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019303-2",
@@ -16045,7 +18232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SATARA",
     "sanctionedCr": 11.66,
     "disbursedCr": 10.13,
     "reconciledDisbursedCr": 10.13,
@@ -16058,7 +18245,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shriniwas-dadasaheb-patil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10730"
+    "phone": "+91 98765 10730",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019087-2",
@@ -16067,7 +18257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NAGPUR",
     "sanctionedCr": 7.69,
     "disbursedCr": 5.18,
     "reconciledDisbursedCr": 5.18,
@@ -16080,7 +18270,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.nitin-jairam-gadkari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10731"
+    "phone": "+91 98765 10731",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019100-2",
@@ -16089,7 +18282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "LATUR(SC)",
     "sanctionedCr": 7.02,
     "disbursedCr": 6.87,
     "reconciledDisbursedCr": 6.87,
@@ -16102,7 +18295,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sudhakar-tukaram-shrangre-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10732"
+    "phone": "+91 98765 10732",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019642-2",
@@ -16111,7 +18307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI SOUTH CENTRAL",
     "sanctionedCr": 9.18,
     "disbursedCr": 4.12,
     "reconciledDisbursedCr": 4.12,
@@ -16124,7 +18320,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.rahul-ramesh-shewale-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10733"
+    "phone": "+91 98765 10733",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019088-2",
@@ -16133,7 +18332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "OSMANABAD",
     "sanctionedCr": 13.98,
     "disbursedCr": 13.29,
     "reconciledDisbursedCr": 13.29,
@@ -16146,7 +18345,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.omprakash-bhupalsinh-alias-pawan-rajenimbalkar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10734"
+    "phone": "+91 98765 10734",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019097-2",
@@ -16155,7 +18357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AKOLA",
     "sanctionedCr": 7.06,
     "disbursedCr": 6.82,
     "reconciledDisbursedCr": 6.82,
@@ -16168,7 +18370,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sanjay-shamrao-dhotre-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10735"
+    "phone": "+91 98765 10735",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019071-2",
@@ -16177,7 +18382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AURANGABAD_MH",
     "sanctionedCr": 7.02,
     "disbursedCr": 5.62,
     "reconciledDisbursedCr": 5.62,
@@ -16190,7 +18395,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.syed-imtiaz-jaleel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10736"
+    "phone": "+91 98765 10736",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019079-2",
@@ -16199,7 +18407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI SOUTH",
     "sanctionedCr": 8.36,
     "disbursedCr": 6.09,
     "reconciledDisbursedCr": 6.09,
@@ -16212,7 +18420,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.arvind-ganpat-sawant-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10737"
+    "phone": "+91 98765 10737",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019093-2",
@@ -16221,7 +18432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "WARDHA",
     "sanctionedCr": 7.29,
     "disbursedCr": 7.04,
     "reconciledDisbursedCr": 7.04,
@@ -16234,7 +18445,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ramdas-chandrabhanji-tadas-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10738"
+    "phone": "+91 98765 10738",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019090-2",
@@ -16243,7 +18457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BULDHANA",
     "sanctionedCr": 11.59,
     "disbursedCr": 9.6,
     "reconciledDisbursedCr": 9.6,
@@ -16256,7 +18470,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.prataprao-jadhav-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10739"
+    "phone": "+91 98765 10739",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019073-2",
@@ -16265,7 +18482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NANDURBAR(ST)",
     "sanctionedCr": 9.71,
     "disbursedCr": 6.5,
     "reconciledDisbursedCr": 6.5,
@@ -16278,7 +18495,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.heena-vijaykumar-gavit-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10740"
+    "phone": "+91 98765 10740",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019095-2",
@@ -16287,7 +18507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "PARBHANI",
     "sanctionedCr": 9.65,
     "disbursedCr": 9.24,
     "reconciledDisbursedCr": 9.24,
@@ -16300,7 +18520,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sanjay-haribhau-jadhav-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10741"
+    "phone": "+91 98765 10741",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019103-2",
@@ -16309,7 +18532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "RATNAGIRI-SINDHUDURG",
     "sanctionedCr": 7.2,
     "disbursedCr": 6.58,
     "reconciledDisbursedCr": 6.58,
@@ -16322,7 +18545,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.vinayak-bhaurao-raut-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10742"
+    "phone": "+91 98765 10742",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019080-2",
@@ -16331,7 +18557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "GADCHIROLI-CHIMUR(ST)",
     "sanctionedCr": 7.26,
     "disbursedCr": 6.51,
     "reconciledDisbursedCr": 6.51,
@@ -16344,7 +18570,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.ashok-mahadeorao-nete@sansad.nic.in",
-    "phone": "+91 98765 10743"
+    "phone": "+91 98765 10743",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019078-2",
@@ -16353,7 +18582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "YAVATMAL-WASHIM",
     "sanctionedCr": 11.61,
     "disbursedCr": 10.72,
     "reconciledDisbursedCr": 10.72,
@@ -16366,7 +18595,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ms-bhavana-gawali-patil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10744"
+    "phone": "+91 98765 10744",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019076-2",
@@ -16375,7 +18607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SHIRUR",
     "sanctionedCr": 8.56,
     "disbursedCr": 6.33,
     "reconciledDisbursedCr": 6.33,
@@ -16388,7 +18620,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.amol-ramsing-kolhe-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10745"
+    "phone": "+91 98765 10745",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019099-2",
@@ -16397,7 +18632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MAVAL",
     "sanctionedCr": 9.08,
     "disbursedCr": 7.66,
     "reconciledDisbursedCr": 7.66,
@@ -16410,7 +18645,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shrirang-appa-barne-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10746"
+    "phone": "+91 98765 10746",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019075-2",
@@ -16419,7 +18657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AHMEDNAGAR",
     "sanctionedCr": 6.44,
     "disbursedCr": 5.48,
     "reconciledDisbursedCr": 5.48,
@@ -16432,7 +18670,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sujay-radhakrishna-vikhepatil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10747"
+    "phone": "+91 98765 10747",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019092-2",
@@ -16441,7 +18682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "PALGHAR(ST)",
     "sanctionedCr": 9.63,
     "disbursedCr": 8.3,
     "reconciledDisbursedCr": 8.3,
@@ -16454,7 +18695,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rajendra-dhedya-gavit-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10748"
+    "phone": "+91 98765 10748",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019101-2",
@@ -16463,7 +18707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "RAIGAD",
     "sanctionedCr": 9.7,
     "disbursedCr": 8.43,
     "reconciledDisbursedCr": 8.43,
@@ -16476,7 +18720,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sunil-dattatray-tatkare-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10749"
+    "phone": "+91 98765 10749",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019085-2",
@@ -16485,7 +18732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BHIWANDI",
     "sanctionedCr": 7.11,
     "disbursedCr": 6.12,
     "reconciledDisbursedCr": 6.12,
@@ -16498,7 +18745,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kapil-moreshwar-patil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10750"
+    "phone": "+91 98765 10750",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019077-2",
@@ -16507,7 +18757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "KALYAN",
     "sanctionedCr": 7.12,
     "disbursedCr": 3.48,
     "reconciledDisbursedCr": 3.48,
@@ -16520,7 +18770,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shrikant-eknath-shinde-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10751"
+    "phone": "+91 98765 10751",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019091-2",
@@ -16529,7 +18782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "THANE",
     "sanctionedCr": 9.68,
     "disbursedCr": 4.8,
     "reconciledDisbursedCr": 4.8,
@@ -16542,7 +18795,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.rajan-baburao-vichare-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10752"
+    "phone": "+91 98765 10752",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019089-2",
@@ -16551,7 +18807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NANDED",
     "sanctionedCr": 9.75,
     "disbursedCr": 8.11,
     "reconciledDisbursedCr": 8.11,
@@ -16564,7 +18820,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.prataprao-govindrao-patil-chikhalikar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10753"
+    "phone": "+91 98765 10753",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019096-2",
@@ -16573,7 +18832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "KOLHAPUR",
     "sanctionedCr": 9.73,
     "disbursedCr": 8.63,
     "reconciledDisbursedCr": 8.63,
@@ -16586,7 +18845,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sanjay-sadashivrao-mandlik-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10754"
+    "phone": "+91 98765 10754",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019104-2",
@@ -16595,7 +18857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "AMRAVATI(SC)",
     "sanctionedCr": 7.33,
     "disbursedCr": 6.65,
     "reconciledDisbursedCr": 6.65,
@@ -16608,7 +18870,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-navneet-ravi-rana-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10755"
+    "phone": "+91 98765 10755",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019082-2",
@@ -16617,7 +18882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "HATKANANGLE",
     "sanctionedCr": 10.55,
     "disbursedCr": 9.81,
     "reconciledDisbursedCr": 9.81,
@@ -16630,7 +18895,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dhairyasheel-sambhajirao-mane-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10756"
+    "phone": "+91 98765 10756",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019084-2",
@@ -16639,7 +18907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NASHIK",
     "sanctionedCr": 9.18,
     "disbursedCr": 7.53,
     "reconciledDisbursedCr": 7.53,
@@ -16652,7 +18920,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.hemant-tukaram-godse-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10757"
+    "phone": "+91 98765 10757",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019106-2",
@@ -16661,7 +18932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BARAMATI",
     "sanctionedCr": 7.32,
     "disbursedCr": 4.64,
     "reconciledDisbursedCr": 4.64,
@@ -16674,7 +18945,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-supriya-sadanand-sule-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10758"
+    "phone": "+91 98765 10758",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019102-2",
@@ -16683,7 +18957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "JALGAON",
     "sanctionedCr": 9.56,
     "disbursedCr": 9.49,
     "reconciledDisbursedCr": 9.49,
@@ -16696,7 +18970,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.unmesh-bhaiyyasaheb-patil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10759"
+    "phone": "+91 98765 10759",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019105-2",
@@ -16718,7 +18995,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-raksha-nikhil-khadse-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10760"
+    "phone": "+91 98765 10760",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019094-2",
@@ -16727,7 +19007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "JALNA",
     "sanctionedCr": 11.59,
     "disbursedCr": 10.26,
     "reconciledDisbursedCr": 10.26,
@@ -16740,7 +19020,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.raosaheb-patil-danve@sansad.nic.in",
-    "phone": "+91 98765 10761"
+    "phone": "+91 98765 10761",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019098-2",
@@ -16749,7 +19032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SANGLI",
     "sanctionedCr": 11.33,
     "disbursedCr": 10.56,
     "reconciledDisbursedCr": 10.56,
@@ -16762,7 +19045,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sanjay-kaka-ramchandra-patil-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10762"
+    "phone": "+91 98765 10762",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019072-2",
@@ -16771,7 +19057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "DINDORI(ST)",
     "sanctionedCr": 9.37,
     "disbursedCr": 9.11,
     "reconciledDisbursedCr": 9.11,
@@ -16784,7 +19070,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.bharti-pravin-pawar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10763"
+    "phone": "+91 98765 10763",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019086-2",
@@ -16793,7 +19082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "RAMTEK(SC)",
     "sanctionedCr": 9.39,
     "disbursedCr": 7.6,
     "reconciledDisbursedCr": 7.6,
@@ -16806,7 +19095,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.krupal-balaji-tumane-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10764"
+    "phone": "+91 98765 10764",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3035703-2",
@@ -16815,7 +19107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "PUNE",
     "sanctionedCr": 2.76,
     "disbursedCr": 1.51,
     "reconciledDisbursedCr": 1.51,
@@ -16828,7 +19120,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.girish-bhalchandra-bapat-ex-17-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10765"
+    "phone": "+91 98765 10765",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019074-2",
@@ -16837,7 +19132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BEED",
     "sanctionedCr": 11.56,
     "disbursedCr": 10.84,
     "reconciledDisbursedCr": 10.84,
@@ -16850,7 +19145,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pritam-gopinath-munde-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10766"
+    "phone": "+91 98765 10766",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3059947-2",
@@ -16859,7 +19157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "CHANDRAPUR",
     "sanctionedCr": 1.55,
     "disbursedCr": 0.76,
     "reconciledDisbursedCr": 0.76,
@@ -16872,7 +19170,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-balubhau-narayanrao-alias-suresh-dhanorkar-17ls@sansad.nic.in",
-    "phone": "+91 98765 10767"
+    "phone": "+91 98765 10767",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017432-2",
@@ -16894,7 +19195,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-lorho-s-pfoze-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10768"
+    "phone": "+91 98765 10768",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019107-2",
@@ -16903,7 +19207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Manipur",
-    "constituency": "OUTER MANIPUR(ST)",
+    "constituency": "INNER MANIPUR",
     "sanctionedCr": 9.8,
     "disbursedCr": 9.77,
     "reconciledDisbursedCr": 9.77,
@@ -16916,7 +19220,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ranjan-singh-rajkumar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10769"
+    "phone": "+91 98765 10769",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019108-2",
@@ -16938,7 +19245,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kum-agatha-k-sangma-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10770"
+    "phone": "+91 98765 10770",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019109-2",
@@ -16947,7 +19257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Meghalaya",
-    "constituency": "TURA",
+    "constituency": "SHILLONG",
     "sanctionedCr": 7.03,
     "disbursedCr": 6.23,
     "reconciledDisbursedCr": 6.23,
@@ -16960,7 +19270,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vincent-h-pala-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10771"
+    "phone": "+91 98765 10771",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019110-2",
@@ -16982,7 +19295,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.c-lalrosanga-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10772"
+    "phone": "+91 98765 10772",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017433-2",
@@ -17004,7 +19320,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-tokheho-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10773"
+    "phone": "+91 98765 10773",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017373-2",
@@ -17013,7 +19332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BHUBANESWAR",
     "sanctionedCr": 5.56,
     "disbursedCr": 2.81,
     "reconciledDisbursedCr": 2.81,
@@ -17026,7 +19345,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-aparajita-sarangi@sansad.nic.in",
-    "phone": "+91 98765 10774"
+    "phone": "+91 98765 10774",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017434-2",
@@ -17035,7 +19357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "JAGATSINGHPUR(SC)",
     "sanctionedCr": 9.51,
     "disbursedCr": 5.16,
     "reconciledDisbursedCr": 5.16,
@@ -17048,7 +19370,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-rajashree-mallick-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10775"
+    "phone": "+91 98765 10775",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017435-2",
@@ -17057,7 +19382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "SUNDARGARH (ST)",
     "sanctionedCr": 7.25,
     "disbursedCr": 6.29,
     "reconciledDisbursedCr": 6.29,
@@ -17070,7 +19395,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-jual-oram-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10776"
+    "phone": "+91 98765 10776",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017436-2",
@@ -17079,7 +19407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "ASKA",
     "sanctionedCr": 7.08,
     "disbursedCr": 2.84,
     "reconciledDisbursedCr": 2.84,
@@ -17092,7 +19420,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-pramila-bisoyi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10777"
+    "phone": "+91 98765 10777",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017437-2",
@@ -17114,7 +19445,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-bhartruhari-mahtab-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10778"
+    "phone": "+91 98765 10778",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017438-2",
@@ -17123,7 +19457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BOLANGIR",
     "sanctionedCr": 11.75,
     "disbursedCr": 8.44,
     "reconciledDisbursedCr": 8.44,
@@ -17136,7 +19470,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-sangeeta-kumari-singh-deo-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10779"
+    "phone": "+91 98765 10779",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017439-2",
@@ -17145,7 +19482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BERHAMPUR",
     "sanctionedCr": 7.28,
     "disbursedCr": 3.26,
     "reconciledDisbursedCr": 3.26,
@@ -17158,7 +19495,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-chandra-sekhar-sahu-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10780"
+    "phone": "+91 98765 10780",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017440-2",
@@ -17167,7 +19507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "DHENKANAL",
     "sanctionedCr": 6.34,
     "disbursedCr": 3.74,
     "reconciledDisbursedCr": 3.74,
@@ -17180,7 +19520,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-mahesh-sahoo-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10781"
+    "phone": "+91 98765 10781",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018389-2",
@@ -17189,7 +19532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BALASORE",
     "sanctionedCr": 9.8,
     "disbursedCr": 6.21,
     "reconciledDisbursedCr": 6.21,
@@ -17202,7 +19545,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.pratap-chandra-sarangi@sansad.nic.in",
-    "phone": "+91 98765 10782"
+    "phone": "+91 98765 10782",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018390-2",
@@ -17211,7 +19557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KORAPUT(ST)",
     "sanctionedCr": 7.22,
     "disbursedCr": 5.71,
     "reconciledDisbursedCr": 5.71,
@@ -17224,7 +19570,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.saptagiri-sankar-ulaka@sansad.nic.in",
-    "phone": "+91 98765 10783"
+    "phone": "+91 98765 10783",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019121-2",
@@ -17233,7 +19582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "JAJPUR(SC)",
     "sanctionedCr": 7.35,
     "disbursedCr": 4.54,
     "reconciledDisbursedCr": 4.54,
@@ -17246,7 +19595,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-sarmistha-sethi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10784"
+    "phone": "+91 98765 10784",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019118-2",
@@ -17255,7 +19607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BARGARH",
     "sanctionedCr": 7.34,
     "disbursedCr": 5.95,
     "reconciledDisbursedCr": 5.95,
@@ -17268,7 +19620,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.suresh-pujari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10785"
+    "phone": "+91 98765 10785",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019113-2",
@@ -17277,7 +19632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KENDRAPARA",
     "sanctionedCr": 9.53,
     "disbursedCr": 9.42,
     "reconciledDisbursedCr": 9.42,
@@ -17290,7 +19645,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.anubhav-mohanty-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10786"
+    "phone": "+91 98765 10786",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019120-2",
@@ -17299,7 +19657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BHADRAK(SC)",
     "sanctionedCr": 4.9,
     "disbursedCr": 3.74,
     "reconciledDisbursedCr": 3.74,
@@ -17312,7 +19670,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-manjulata-mandal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10787"
+    "phone": "+91 98765 10787",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019114-2",
@@ -17321,7 +19682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KALAHANDI",
     "sanctionedCr": 9.5,
     "disbursedCr": 7.33,
     "reconciledDisbursedCr": 7.33,
@@ -17334,7 +19695,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.basanta-kumar-panda-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10788"
+    "phone": "+91 98765 10788",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019119-2",
@@ -17343,7 +19707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "MAYURBHANJ (ST)",
     "sanctionedCr": 7.3,
     "disbursedCr": 5.31,
     "reconciledDisbursedCr": 5.31,
@@ -17356,7 +19720,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.bishweswar-tudu-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10789"
+    "phone": "+91 98765 10789",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019116-2",
@@ -17365,7 +19732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "PURI",
     "sanctionedCr": 9.6,
     "disbursedCr": 6.41,
     "reconciledDisbursedCr": 6.41,
@@ -17378,7 +19745,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.pinaki-misra-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10790"
+    "phone": "+91 98765 10790",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019117-2",
@@ -17387,7 +19757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "NABARANGPUR(ST)",
     "sanctionedCr": 7.18,
     "disbursedCr": 4.32,
     "reconciledDisbursedCr": 4.32,
@@ -17400,7 +19770,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ramesh-chandra-majhi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10791"
+    "phone": "+91 98765 10791",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019115-2",
@@ -17409,7 +19782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "SAMBALPUR",
     "sanctionedCr": 14.7,
     "disbursedCr": 12.49,
     "reconciledDisbursedCr": 12.49,
@@ -17422,7 +19795,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.nitesh-ganga-deb-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10792"
+    "phone": "+91 98765 10792",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019111-2",
@@ -17431,7 +19807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KEONJHAR(ST)",
     "sanctionedCr": 9.79,
     "disbursedCr": 8.4,
     "reconciledDisbursedCr": 8.4,
@@ -17444,7 +19820,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ms-chandrani-murmu-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10793"
+    "phone": "+91 98765 10793",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019112-2",
@@ -17453,7 +19832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KANDHAMAL",
     "sanctionedCr": 2.89,
     "disbursedCr": 0.78,
     "reconciledDisbursedCr": 0.78,
@@ -17466,7 +19845,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.achyutananda-samanta-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10794"
+    "phone": "+91 98765 10794",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019122-2",
@@ -17488,7 +19870,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vaithilingam-ve-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10795"
+    "phone": "+91 98765 10795",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017448-2",
@@ -17497,7 +19882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "RAJSAMAND",
     "sanctionedCr": 5.27,
     "disbursedCr": 4.61,
     "reconciledDisbursedCr": 4.61,
@@ -17510,7 +19895,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-kumari-diya-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10796"
+    "phone": "+91 98765 10796",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017450-2",
@@ -17519,7 +19907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BHILWARA",
     "sanctionedCr": 9.53,
     "disbursedCr": 7.79,
     "reconciledDisbursedCr": 7.79,
@@ -17532,7 +19920,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-subhash-chandra-baheria-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10797"
+    "phone": "+91 98765 10797",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017451-2",
@@ -17541,7 +19932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "NAGAUR",
     "sanctionedCr": 9.3,
     "disbursedCr": 9.03,
     "reconciledDisbursedCr": 9.03,
@@ -17554,7 +19945,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-hanuman-beniwal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10798"
+    "phone": "+91 98765 10798",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017452-2",
@@ -17563,7 +19957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "DAUSA(ST)",
     "sanctionedCr": 8.51,
     "disbursedCr": 7.06,
     "reconciledDisbursedCr": 7.06,
@@ -17576,7 +19970,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.smt-jaskaur-meena-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10799"
+    "phone": "+91 98765 10799",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017453-2",
@@ -17585,7 +19982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "GANGANAGAR(SC)",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -17598,7 +19995,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-nihal-chand-chauhan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10800"
+    "phone": "+91 98765 10800",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017454-2",
@@ -17607,7 +20007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "PALI",
     "sanctionedCr": 9.28,
     "disbursedCr": 8.37,
     "reconciledDisbursedCr": 8.37,
@@ -17620,7 +20020,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-pp-chaudhary-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10801"
+    "phone": "+91 98765 10801",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018391-2",
@@ -17629,7 +20032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "ALWAR",
     "sanctionedCr": 3.82,
     "disbursedCr": 3.72,
     "reconciledDisbursedCr": 3.72,
@@ -17642,7 +20045,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mahant-balak-nath-yogi@sansad.nic.in",
-    "phone": "+91 98765 10802"
+    "phone": "+91 98765 10802",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019137-2",
@@ -17651,7 +20057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "GANGANAGAR(SC)",
     "sanctionedCr": 8.17,
     "disbursedCr": 7.8,
     "reconciledDisbursedCr": 7.8,
@@ -17664,7 +20070,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.nihal-chand-chauhan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10803"
+    "phone": "+91 98765 10803",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019145-2",
@@ -17673,7 +20082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BHARATPUR(SC)",
     "sanctionedCr": 9.57,
     "disbursedCr": 9.24,
     "reconciledDisbursedCr": 9.24,
@@ -17686,7 +20095,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-ranjeeta-koli-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10804"
+    "phone": "+91 98765 10804",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019139-2",
@@ -17695,7 +20107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "CHURU",
     "sanctionedCr": 9.81,
     "disbursedCr": 8.87,
     "reconciledDisbursedCr": 8.87,
@@ -17708,7 +20120,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.rahul-kaswan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10805"
+    "phone": "+91 98765 10805",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019133-2",
@@ -17717,7 +20132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JHALAWAR-BARAN",
     "sanctionedCr": 11.79,
     "disbursedCr": 10.9,
     "reconciledDisbursedCr": 10.9,
@@ -17730,7 +20145,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dushyant-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10806"
+    "phone": "+91 98765 10806",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019144-2",
@@ -17739,7 +20157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BARMER",
     "sanctionedCr": 6.46,
     "disbursedCr": 5.7,
     "reconciledDisbursedCr": 5.7,
@@ -17752,7 +20170,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.kailash-choudhary-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10807"
+    "phone": "+91 98765 10807",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019131-2",
@@ -17761,7 +20182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "CHITTORGARH",
     "sanctionedCr": 5.23,
     "disbursedCr": 4.9,
     "reconciledDisbursedCr": 4.9,
@@ -17774,7 +20195,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.chandra-prakash-joshi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10808"
+    "phone": "+91 98765 10808",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019136-2",
@@ -17783,7 +20207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JHUNJHUNU",
     "sanctionedCr": 5.16,
     "disbursedCr": 4.03,
     "reconciledDisbursedCr": 4.03,
@@ -17796,7 +20220,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.narendra-kumar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10809"
+    "phone": "+91 98765 10809",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019140-2",
@@ -17805,7 +20232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JAIPUR RURAL",
     "sanctionedCr": 9.46,
     "disbursedCr": 8.04,
     "reconciledDisbursedCr": 8.04,
@@ -17818,7 +20245,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajyavardhan-singh-rathore-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10810"
+    "phone": "+91 98765 10810",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019141-2",
@@ -17827,7 +20257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JAIPUR",
     "sanctionedCr": 7.74,
     "disbursedCr": 3.5,
     "reconciledDisbursedCr": 3.5,
@@ -17840,7 +20270,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ramcharan-bohra-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10811"
+    "phone": "+91 98765 10811",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019130-2",
@@ -17862,7 +20295,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.bhagirath-chaudhary-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10812"
+    "phone": "+91 98765 10812",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019134-2",
@@ -17871,7 +20307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JODHPUR",
     "sanctionedCr": 13.14,
     "disbursedCr": 11.6,
     "reconciledDisbursedCr": 11.6,
@@ -17884,7 +20320,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.gajendra-singh-shekhawat-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10813"
+    "phone": "+91 98765 10813",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019138-2",
@@ -17893,7 +20332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "KOTA",
     "sanctionedCr": 15.88,
     "disbursedCr": 12.94,
     "reconciledDisbursedCr": 12.94,
@@ -17903,10 +20342,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 223,
     "worksRecommended": 317,
     "completionRate": 70.3,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.om-birla-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10814"
+    "phone": "+91 98765 10814",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019143-2",
@@ -17915,7 +20357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "SIKAR",
     "sanctionedCr": 5.48,
     "disbursedCr": 5.28,
     "reconciledDisbursedCr": 5.28,
@@ -17928,7 +20370,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.sumedhanand-saraswati-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10815"
+    "phone": "+91 98765 10815",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019132-2",
@@ -17937,7 +20382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JALORE",
     "sanctionedCr": 5.59,
     "disbursedCr": 5.0,
     "reconciledDisbursedCr": 5.0,
@@ -17950,7 +20395,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.devji-mansingram-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10816"
+    "phone": "+91 98765 10816",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019142-2",
@@ -17959,7 +20407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "TONK-SAWAI MADHOPUR",
     "sanctionedCr": 7.23,
     "disbursedCr": 4.78,
     "reconciledDisbursedCr": 4.78,
@@ -17972,7 +20420,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sukhbir-singh-jaunapuria-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10817"
+    "phone": "+91 98765 10817",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019135-2",
@@ -17981,7 +20432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BANSWARA(ST)",
     "sanctionedCr": 7.24,
     "disbursedCr": 6.72,
     "reconciledDisbursedCr": 6.72,
@@ -17994,7 +20445,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.kanakmal-katara-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10818"
+    "phone": "+91 98765 10818",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019129-2",
@@ -18003,7 +20457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "UDAIPUR(ST)",
     "sanctionedCr": 8.48,
     "disbursedCr": 8.06,
     "reconciledDisbursedCr": 8.06,
@@ -18016,7 +20470,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.arjunlal-meena-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10819"
+    "phone": "+91 98765 10819",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019128-2",
@@ -18025,7 +20482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "KARAULI-DHOLPUR(SC)",
     "sanctionedCr": 13.92,
     "disbursedCr": 12.87,
     "reconciledDisbursedCr": 12.87,
@@ -18038,7 +20495,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.manoj-rajoria-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10820"
+    "phone": "+91 98765 10820",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3059984-2",
@@ -18047,7 +20507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BIKANER(SC)",
     "sanctionedCr": 2.34,
     "disbursedCr": 0.71,
     "reconciledDisbursedCr": 0.71,
@@ -18060,7 +20520,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-arjun-ram-meghwal-17ls-ex@sansad.nic.in",
-    "phone": "+91 98765 10821"
+    "phone": "+91 98765 10821",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017174-2",
@@ -18082,7 +20545,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.indra-hang-subba@sansad.nic.in",
-    "phone": "+91 98765 10822"
+    "phone": "+91 98765 10822",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017175-2",
@@ -18091,7 +20557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "ARAKKONAM",
     "sanctionedCr": 9.28,
     "disbursedCr": 7.07,
     "reconciledDisbursedCr": 7.07,
@@ -18104,7 +20570,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.s-jagathrakshakan@sansad.nic.in",
-    "phone": "+91 98765 10823"
+    "phone": "+91 98765 10823",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017455-2",
@@ -18113,7 +20582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHENNAI CENTRAL",
     "sanctionedCr": 9.65,
     "disbursedCr": 8.98,
     "reconciledDisbursedCr": 8.98,
@@ -18126,7 +20595,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.thiru-dayanidhi-maran-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10824"
+    "phone": "+91 98765 10824",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017456-2",
@@ -18135,7 +20607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KALLAKURICHI",
     "sanctionedCr": 9.25,
     "disbursedCr": 8.78,
     "reconciledDisbursedCr": 8.78,
@@ -18148,7 +20620,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-gautham-sigamani-pon-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10825"
+    "phone": "+91 98765 10825",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017457-2",
@@ -18157,7 +20632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "SIVAGANGA",
     "sanctionedCr": 8.53,
     "disbursedCr": 8.37,
     "reconciledDisbursedCr": 8.37,
@@ -18170,7 +20645,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-karti-p-chidambaram-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10826"
+    "phone": "+91 98765 10826",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017458-2",
@@ -18179,7 +20657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KANNIYAKUMARI",
     "sanctionedCr": 9.75,
     "disbursedCr": 9.01,
     "reconciledDisbursedCr": 9.01,
@@ -18192,7 +20670,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.vijayakumar-vasanth@sansad.nic.in",
-    "phone": "+91 98765 10827"
+    "phone": "+91 98765 10827",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018392-2",
@@ -18201,7 +20682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KRISHNAGIRI",
     "sanctionedCr": 9.58,
     "disbursedCr": 8.56,
     "reconciledDisbursedCr": 8.56,
@@ -18214,7 +20695,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.a-chellakumar@sansad.nic.in",
-    "phone": "+91 98765 10828"
+    "phone": "+91 98765 10828",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018393-2",
@@ -18223,7 +20707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "MAYILADUTHURAI",
     "sanctionedCr": 11.74,
     "disbursedCr": 10.26,
     "reconciledDisbursedCr": 10.26,
@@ -18236,7 +20720,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.s-ramalingam@sansad.nic.in",
-    "phone": "+91 98765 10829"
+    "phone": "+91 98765 10829",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018394-2",
@@ -18245,7 +20732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "VILUPPURAM(SC)",
     "sanctionedCr": 7.24,
     "disbursedCr": 7.24,
     "reconciledDisbursedCr": 7.24,
@@ -18258,7 +20745,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.d-ravikumar@sansad.nic.in",
-    "phone": "+91 98765 10830"
+    "phone": "+91 98765 10830",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018395-2",
@@ -18267,7 +20757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "THOOTHUKKUDI",
     "sanctionedCr": 9.6,
     "disbursedCr": 9.21,
     "reconciledDisbursedCr": 9.21,
@@ -18277,10 +20767,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 60,
     "worksRecommended": 65,
     "completionRate": 92.3,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kanimozhi-karunanidhi@sansad.nic.in",
-    "phone": "+91 98765 10831"
+    "phone": "+91 98765 10831",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018396-2",
@@ -18289,7 +20782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHENNAI SOUTH",
     "sanctionedCr": 15.02,
     "disbursedCr": 12.77,
     "reconciledDisbursedCr": 12.77,
@@ -18302,7 +20795,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.t-sumathy-a-thamizhachi-thangapandian@sansad.nic.in",
-    "phone": "+91 98765 10832"
+    "phone": "+91 98765 10832",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019242-2",
@@ -18311,7 +20807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUVANNAMALAI",
     "sanctionedCr": 4.8,
     "disbursedCr": 4.64,
     "reconciledDisbursedCr": 4.64,
@@ -18324,7 +20820,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.cn-annadurai-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10833"
+    "phone": "+91 98765 10833",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019148-2",
@@ -18333,7 +20832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "ARANI",
     "sanctionedCr": 4.89,
     "disbursedCr": 4.84,
     "reconciledDisbursedCr": 4.84,
@@ -18346,7 +20845,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.mk-vishnu-prasad-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10834"
+    "phone": "+91 98765 10834",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019164-2",
@@ -18355,7 +20857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUCHIRAPPALLI",
     "sanctionedCr": 7.01,
     "disbursedCr": 6.94,
     "reconciledDisbursedCr": 6.94,
@@ -18368,7 +20870,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.su-thirunavukkarasar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10835"
+    "phone": "+91 98765 10835",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019994-2",
@@ -18377,7 +20882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "VELLORE",
     "sanctionedCr": 6.86,
     "disbursedCr": 6.24,
     "reconciledDisbursedCr": 6.24,
@@ -18390,7 +20895,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.d-m-kathir-anand-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10836"
+    "phone": "+91 98765 10836",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019168-2",
@@ -18399,7 +20907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "NAGAPATTINAM(SC)",
     "sanctionedCr": 7.27,
     "disbursedCr": 7.26,
     "reconciledDisbursedCr": 7.26,
@@ -18412,7 +20920,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.m-selvaraj-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10837"
+    "phone": "+91 98765 10837",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019163-2",
@@ -18421,7 +20932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "SALEM",
     "sanctionedCr": 6.72,
     "disbursedCr": 6.57,
     "reconciledDisbursedCr": 6.57,
@@ -18434,7 +20945,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sr-parthiban-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10838"
+    "phone": "+91 98765 10838",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019155-2",
@@ -18443,7 +20957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "POLLACHI",
     "sanctionedCr": 9.71,
     "disbursedCr": 9.52,
     "reconciledDisbursedCr": 9.52,
@@ -18456,7 +20970,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.k-shanmuga-sundaram-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10839"
+    "phone": "+91 98765 10839",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019149-2",
@@ -18465,7 +20982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "ERODE",
     "sanctionedCr": 9.53,
     "disbursedCr": 9.53,
     "reconciledDisbursedCr": 9.53,
@@ -18478,7 +20995,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.a-ganeshamurthi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10840"
+    "phone": "+91 98765 10840",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019154-2",
@@ -18487,7 +21007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KANCHEEPURAM(SC)",
     "sanctionedCr": 6.95,
     "disbursedCr": 6.01,
     "reconciledDisbursedCr": 6.01,
@@ -18500,7 +21020,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ganesan-selvam-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10841"
+    "phone": "+91 98765 10841",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019166-2",
@@ -18509,7 +21032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "SRIPERUMBUDUR",
     "sanctionedCr": 9.18,
     "disbursedCr": 8.05,
     "reconciledDisbursedCr": 8.05,
@@ -18522,7 +21045,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.thalikkottai-rajuthevar-baalu-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10842"
+    "phone": "+91 98765 10842",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019161-2",
@@ -18544,7 +21070,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.s-gnanathiraviam-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10843"
+    "phone": "+91 98765 10843",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3021882-2",
@@ -18553,7 +21082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "THANJAVUR",
     "sanctionedCr": 9.73,
     "disbursedCr": 9.53,
     "reconciledDisbursedCr": 9.53,
@@ -18566,7 +21095,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.s-s-palanimanickam-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10844"
+    "phone": "+91 98765 10844",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019169-2",
@@ -18575,7 +21107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KARUR",
     "sanctionedCr": 7.21,
     "disbursedCr": 7.09,
     "reconciledDisbursedCr": 7.09,
@@ -18588,7 +21120,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-s-jothimani-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10845"
+    "phone": "+91 98765 10845",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019643-2",
@@ -18597,7 +21132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHENNAI NORTH",
     "sanctionedCr": 11.67,
     "disbursedCr": 11.56,
     "reconciledDisbursedCr": 11.56,
@@ -18610,7 +21145,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.kalanidhi-veeraswamy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10846"
+    "phone": "+91 98765 10846",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019153-2",
@@ -18619,7 +21157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "DHARAMAPURI",
     "sanctionedCr": 9.4,
     "disbursedCr": 9.27,
     "reconciledDisbursedCr": 9.27,
@@ -18632,7 +21170,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dnv-senthilkumar-s-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10847"
+    "phone": "+91 98765 10847",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019146-2",
@@ -18641,7 +21182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUVALLUR(SC)",
     "sanctionedCr": 11.75,
     "disbursedCr": 11.45,
     "reconciledDisbursedCr": 11.45,
@@ -18654,7 +21195,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.k-jayakumar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10848"
+    "phone": "+91 98765 10848",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019160-2",
@@ -18663,7 +21207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "DINDIGUL",
     "sanctionedCr": 9.77,
     "disbursedCr": 9.22,
     "reconciledDisbursedCr": 9.22,
@@ -18676,7 +21220,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.p-velusamy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10849"
+    "phone": "+91 98765 10849",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019165-2",
@@ -18685,7 +21232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CUDDALORE",
     "sanctionedCr": 7.16,
     "disbursedCr": 6.43,
     "reconciledDisbursedCr": 6.43,
@@ -18698,7 +21245,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.trvs-ramesh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10850"
+    "phone": "+91 98765 10850",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019152-2",
@@ -18707,7 +21257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TENKASI(SC)",
     "sanctionedCr": 11.2,
     "disbursedCr": 11.09,
     "reconciledDisbursedCr": 11.09,
@@ -18720,7 +21270,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dhanush-m-kumar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10851"
+    "phone": "+91 98765 10851",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019151-2",
@@ -18729,7 +21282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "NILGIRIS(SC)",
     "sanctionedCr": 9.4,
     "disbursedCr": 8.82,
     "reconciledDisbursedCr": 8.82,
@@ -18742,7 +21295,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.andimuthu-raja-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10852"
+    "phone": "+91 98765 10852",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019157-2",
@@ -18751,7 +21307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "RAMANATHAPURAM",
     "sanctionedCr": 11.7,
     "disbursedCr": 11.56,
     "reconciledDisbursedCr": 11.56,
@@ -18764,7 +21320,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.kani-k-navas-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10853"
+    "phone": "+91 98765 10853",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019158-2",
@@ -18773,7 +21332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "VIRUDHUNAGAR",
     "sanctionedCr": 9.75,
     "disbursedCr": 8.77,
     "reconciledDisbursedCr": 8.77,
@@ -18786,7 +21345,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.manickam-tagore-b-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10854"
+    "phone": "+91 98765 10854",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019147-2",
@@ -18795,7 +21357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "PERAMBALUR",
     "sanctionedCr": 8.95,
     "disbursedCr": 7.76,
     "reconciledDisbursedCr": 7.76,
@@ -18808,7 +21370,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.t-r-paarivendhar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10855"
+    "phone": "+91 98765 10855",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019156-2",
@@ -18817,7 +21382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUPPUR",
     "sanctionedCr": 8.94,
     "disbursedCr": 8.78,
     "reconciledDisbursedCr": 8.78,
@@ -18830,7 +21395,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.k-subbarayan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10856"
+    "phone": "+91 98765 10856",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019243-2",
@@ -18839,7 +21407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "COIMBATORE",
     "sanctionedCr": 9.77,
     "disbursedCr": 9.49,
     "reconciledDisbursedCr": 9.49,
@@ -18852,7 +21420,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.pr-natarajan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10857"
+    "phone": "+91 98765 10857",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019167-2",
@@ -18861,7 +21432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "CHIDAMBARAM(SC)",
     "sanctionedCr": 7.28,
     "disbursedCr": 7.06,
     "reconciledDisbursedCr": 7.06,
@@ -18874,7 +21445,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.thirumaa-valavan-thol-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10858"
+    "phone": "+91 98765 10858",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019150-2",
@@ -18883,7 +21457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "NAMAKKAL",
     "sanctionedCr": 9.09,
     "disbursedCr": 8.89,
     "reconciledDisbursedCr": 8.89,
@@ -18896,7 +21470,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.akp-chinraj-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10859"
+    "phone": "+91 98765 10859",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019162-2",
@@ -18905,7 +21482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "MADURAI",
     "sanctionedCr": 11.43,
     "disbursedCr": 11.29,
     "reconciledDisbursedCr": 11.29,
@@ -18918,7 +21495,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.s-venkatesan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10860"
+    "phone": "+91 98765 10860",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019159-2",
@@ -18927,7 +21507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "THENI",
     "sanctionedCr": 9.75,
     "disbursedCr": 8.37,
     "reconciledDisbursedCr": 8.37,
@@ -18940,7 +21520,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.p-raveendranath-kumar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10861"
+    "phone": "+91 98765 10861",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017459-2",
@@ -18949,7 +21532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MAHABUBNAGAR",
     "sanctionedCr": 1.75,
     "disbursedCr": 0.69,
     "reconciledDisbursedCr": 0.69,
@@ -18962,7 +21545,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-manne-srinivas-reddy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10862"
+    "phone": "+91 98765 10862",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017460-2",
@@ -18971,7 +21557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "BHONGIR",
     "sanctionedCr": 8.75,
     "disbursedCr": 8.5,
     "reconciledDisbursedCr": 8.5,
@@ -18984,7 +21570,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-komati-reddy-venkat-reddy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10863"
+    "phone": "+91 98765 10863",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018397-2",
@@ -18993,7 +21582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "ZAHIRABAD",
     "sanctionedCr": 11.65,
     "disbursedCr": 7.31,
     "reconciledDisbursedCr": 7.31,
@@ -19006,7 +21595,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.bheemrao-baswanthrao-patil@sansad.nic.in",
-    "phone": "+91 98765 10864"
+    "phone": "+91 98765 10864",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018398-2",
@@ -19015,7 +21607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "PEDDAPALLE",
     "sanctionedCr": 11.02,
     "disbursedCr": 8.21,
     "reconciledDisbursedCr": 8.21,
@@ -19028,7 +21620,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.venkatesh-netha-borlakunta@sansad.nic.in",
-    "phone": "+91 98765 10865"
+    "phone": "+91 98765 10865",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018399-2",
@@ -19050,7 +21645,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.soyam-babu-rao@sansad.nic.in",
-    "phone": "+91 98765 10866"
+    "phone": "+91 98765 10866",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019178-2",
@@ -19059,7 +21657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MAHABUBNAGAR",
     "sanctionedCr": 12.15,
     "disbursedCr": 8.88,
     "reconciledDisbursedCr": 8.88,
@@ -19072,7 +21670,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.manne-srinivas-reddy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10867"
+    "phone": "+91 98765 10867",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019175-2",
@@ -19081,7 +21682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "WARANGEL(SC)",
     "sanctionedCr": 10.31,
     "disbursedCr": 9.4,
     "reconciledDisbursedCr": 9.4,
@@ -19094,7 +21695,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dayakar-pasunoori-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10868"
+    "phone": "+91 98765 10868",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019180-2",
@@ -19103,7 +21707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "NAGARKURNOOL(SC)",
     "sanctionedCr": 7.66,
     "disbursedCr": 6.18,
     "reconciledDisbursedCr": 6.18,
@@ -19116,7 +21720,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.ramulu-pothuganti-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10869"
+    "phone": "+91 98765 10869",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019183-2",
@@ -19125,7 +21732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MAHABUBABAD",
     "sanctionedCr": 9.78,
     "disbursedCr": 7.87,
     "reconciledDisbursedCr": 7.87,
@@ -19138,7 +21745,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-kavitha-malothu-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10870"
+    "phone": "+91 98765 10870",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019176-2",
@@ -19147,7 +21757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "SECUNDERABAD",
     "sanctionedCr": 10.97,
     "disbursedCr": 7.23,
     "reconciledDisbursedCr": 7.23,
@@ -19160,7 +21770,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.kishan-reddy-gangapuram-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10871"
+    "phone": "+91 98765 10871",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019173-2",
@@ -19169,7 +21782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "HYDERABAD",
     "sanctionedCr": 14.86,
     "disbursedCr": 10.7,
     "reconciledDisbursedCr": 10.7,
@@ -19179,10 +21792,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 32,
     "worksRecommended": 69,
     "completionRate": 46.4,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "AIMIM",
+    "partyHi": "\u090f\u0906\u0908\u090f\u092e\u0906\u0908\u090f\u092e",
     "email": "mp.asaduddin-owaisi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10872"
+    "phone": "+91 98765 10872",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019182-2",
@@ -19191,7 +21807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "NALGONDA",
     "sanctionedCr": 10.95,
     "disbursedCr": 10.51,
     "reconciledDisbursedCr": 10.51,
@@ -19204,7 +21820,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.uttam-kumar-nalamada-reddy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10873"
+    "phone": "+91 98765 10873",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019172-2",
@@ -19213,7 +21832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "NIZAMABAD",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -19226,7 +21845,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.arvind-dharmapuri-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10874"
+    "phone": "+91 98765 10874",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019181-2",
@@ -19235,7 +21857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "KARIMNAGAR",
     "sanctionedCr": 15.27,
     "disbursedCr": 8.82,
     "reconciledDisbursedCr": 8.82,
@@ -19248,7 +21870,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sanjay-kumar-bandi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10875"
+    "phone": "+91 98765 10875",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019179-2",
@@ -19257,7 +21882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "KHAMMAM",
     "sanctionedCr": 10.81,
     "disbursedCr": 8.48,
     "reconciledDisbursedCr": 8.48,
@@ -19270,7 +21895,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.nama-nageswara-rao-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10876"
+    "phone": "+91 98765 10876",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019170-2",
@@ -19279,7 +21907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "CHELVELLA",
     "sanctionedCr": 10.69,
     "disbursedCr": 8.71,
     "reconciledDisbursedCr": 8.71,
@@ -19292,7 +21920,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.gaddam-ranjith-reddy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10877"
+    "phone": "+91 98765 10877",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019177-2",
@@ -19301,7 +21932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MEDAK",
     "sanctionedCr": 9.32,
     "disbursedCr": 5.18,
     "reconciledDisbursedCr": 5.18,
@@ -19314,7 +21945,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kotha-prabhakar-reddy-ex-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10878"
+    "phone": "+91 98765 10878",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019171-2",
@@ -19323,7 +21957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MALKAJGIRI",
     "sanctionedCr": 2.48,
     "disbursedCr": 1.63,
     "reconciledDisbursedCr": 1.63,
@@ -19336,7 +21970,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.anumula-revanth-reddy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10879"
+    "phone": "+91 98765 10879",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3039176-2",
@@ -19358,7 +21995,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.lalubhai-b-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10880"
+    "phone": "+91 98765 10880",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018400-2",
@@ -19367,7 +22007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Tripura",
-    "constituency": "TRIPURA WEST",
+    "constituency": "TRIPURA EAST(ST)",
     "sanctionedCr": 9.8,
     "disbursedCr": 9.59,
     "reconciledDisbursedCr": 9.59,
@@ -19380,7 +22020,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.rebati-tripura@sansad.nic.in",
-    "phone": "+91 98765 10881"
+    "phone": "+91 98765 10881",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019184-2",
@@ -19402,7 +22045,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ms-pratima-bhoumik-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10882"
+    "phone": "+91 98765 10882",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017166-2",
@@ -19411,7 +22057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SITAPUR",
     "sanctionedCr": 7.35,
     "disbursedCr": 7.35,
     "reconciledDisbursedCr": 7.35,
@@ -19424,7 +22070,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rajesh-verma@sansad.nic.in",
-    "phone": "+91 98765 10883"
+    "phone": "+91 98765 10883",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017461-2",
@@ -19433,7 +22082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FAIZABAD",
     "sanctionedCr": 7.22,
     "disbursedCr": 6.94,
     "reconciledDisbursedCr": 6.94,
@@ -19446,7 +22095,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-lallu-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10884"
+    "phone": "+91 98765 10884",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017462-2",
@@ -19455,7 +22107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AMBEDKAR NAGAR",
     "sanctionedCr": 6.98,
     "disbursedCr": 6.98,
     "reconciledDisbursedCr": 6.98,
@@ -19468,7 +22120,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-ritesh-pandey-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10885"
+    "phone": "+91 98765 10885",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017463-2",
@@ -19477,7 +22132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KAUSHAMBI(SC)",
     "sanctionedCr": 4.9,
     "disbursedCr": 4.6,
     "reconciledDisbursedCr": 4.6,
@@ -19490,7 +22145,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-vinod-kumar-sonkar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10886"
+    "phone": "+91 98765 10886",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017464-2",
@@ -19499,7 +22157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GHAZIABAD",
     "sanctionedCr": 6.28,
     "disbursedCr": 6.28,
     "reconciledDisbursedCr": 6.28,
@@ -19512,7 +22170,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dr-vijay-kumar-singh-retd-general@sansad.nic.in",
-    "phone": "+91 98765 10887"
+    "phone": "+91 98765 10887",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017465-2",
@@ -19521,7 +22182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MEERUT",
     "sanctionedCr": 7.21,
     "disbursedCr": 7.07,
     "reconciledDisbursedCr": 7.07,
@@ -19534,7 +22195,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-rajendra-agrawal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10888"
+    "phone": "+91 98765 10888",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017466-2",
@@ -19553,10 +22217,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 67,
     "worksRecommended": 67,
     "completionRate": 100.0,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-satish-kumar-gautam-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10889"
+    "phone": "+91 98765 10889",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017467-2",
@@ -19565,7 +22232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SAMBHAL",
     "sanctionedCr": 4.86,
     "disbursedCr": 4.74,
     "reconciledDisbursedCr": 4.74,
@@ -19578,7 +22245,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-shafiqur-rahman-barq-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10890"
+    "phone": "+91 98765 10890",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017468-2",
@@ -19587,7 +22257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KHERI",
     "sanctionedCr": 4.75,
     "disbursedCr": 4.75,
     "reconciledDisbursedCr": 4.75,
@@ -19600,7 +22270,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-ajay-teni-misra-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10891"
+    "phone": "+91 98765 10891",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017469-2",
@@ -19609,7 +22282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "VARANASI",
     "sanctionedCr": 10.75,
     "disbursedCr": 10.75,
     "reconciledDisbursedCr": 10.75,
@@ -19619,10 +22292,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 296,
     "worksRecommended": 296,
     "completionRate": 100.0,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-narendra-modi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10892"
+    "phone": "+91 98765 10892",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017470-2",
@@ -19631,7 +22307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "DHAURAHRA",
     "sanctionedCr": 4.86,
     "disbursedCr": 4.86,
     "reconciledDisbursedCr": 4.86,
@@ -19644,7 +22320,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-rekha-arun-verma-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10893"
+    "phone": "+91 98765 10893",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017471-2",
@@ -19653,7 +22332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SHAHJAHANPUR(SC)",
     "sanctionedCr": 7.33,
     "disbursedCr": 7.33,
     "reconciledDisbursedCr": 7.33,
@@ -19666,7 +22345,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-arun-kumar-sagar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10894"
+    "phone": "+91 98765 10894",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017472-2",
@@ -19675,7 +22357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AMROHA",
     "sanctionedCr": 7.34,
     "disbursedCr": 7.17,
     "reconciledDisbursedCr": 7.17,
@@ -19688,7 +22370,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-kunwar-danish-ali-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10895"
+    "phone": "+91 98765 10895",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017473-2",
@@ -19697,7 +22382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AGRA(SC)",
     "sanctionedCr": 4.89,
     "disbursedCr": 4.89,
     "reconciledDisbursedCr": 4.89,
@@ -19710,7 +22395,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.prof-sp-singh-baghel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10896"
+    "phone": "+91 98765 10896",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017474-2",
@@ -19719,7 +22407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BASTI",
     "sanctionedCr": 6.05,
     "disbursedCr": 5.56,
     "reconciledDisbursedCr": 5.56,
@@ -19732,7 +22420,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-harish-dwivedi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10897"
+    "phone": "+91 98765 10897",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017475-2",
@@ -19741,7 +22432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SAHARANPUR",
     "sanctionedCr": 6.88,
     "disbursedCr": 6.78,
     "reconciledDisbursedCr": 6.78,
@@ -19754,7 +22445,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-haji-fazlur-rehman-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10898"
+    "phone": "+91 98765 10898",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017476-2",
@@ -19763,7 +22457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FIROZABAD",
     "sanctionedCr": 4.68,
     "disbursedCr": 4.38,
     "reconciledDisbursedCr": 4.38,
@@ -19776,7 +22470,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-chandra-sen-jadon-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10899"
+    "phone": "+91 98765 10899",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018401-2",
@@ -19785,7 +22482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MORADABAD",
     "sanctionedCr": 4.89,
     "disbursedCr": 4.79,
     "reconciledDisbursedCr": 4.79,
@@ -19798,7 +22495,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.seyed-tufail-hasan@sansad.nic.in",
-    "phone": "+91 98765 10900"
+    "phone": "+91 98765 10900",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018402-2",
@@ -19807,7 +22507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "UNNAO",
     "sanctionedCr": 9.3,
     "disbursedCr": 9.27,
     "reconciledDisbursedCr": 9.27,
@@ -19820,7 +22520,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.swami-sachchidanandhari-sakshi-ji-maharaj@sansad.nic.in",
-    "phone": "+91 98765 10901"
+    "phone": "+91 98765 10901",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018403-2",
@@ -19829,7 +22532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "HAMIRPUR_UP",
     "sanctionedCr": 9.62,
     "disbursedCr": 6.43,
     "reconciledDisbursedCr": 6.43,
@@ -19842,7 +22545,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.kunwar-pushpendra-singh-chandel@sansad.nic.in",
-    "phone": "+91 98765 10902"
+    "phone": "+91 98765 10902",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018404-2",
@@ -19851,7 +22557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BAHRAICH(SC)",
     "sanctionedCr": 9.69,
     "disbursedCr": 9.67,
     "reconciledDisbursedCr": 9.67,
@@ -19864,7 +22570,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.akshaibar-lal@sansad.nic.in",
-    "phone": "+91 98765 10903"
+    "phone": "+91 98765 10903",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018405-2",
@@ -19873,7 +22582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "JHANSI",
     "sanctionedCr": 9.31,
     "disbursedCr": 9.27,
     "reconciledDisbursedCr": 9.27,
@@ -19886,7 +22595,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.anurag-sharma@sansad.nic.in",
-    "phone": "+91 98765 10904"
+    "phone": "+91 98765 10904",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018406-2",
@@ -19895,7 +22607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MACHHLISHAHR(SC)",
     "sanctionedCr": 4.85,
     "disbursedCr": 4.83,
     "reconciledDisbursedCr": 4.83,
@@ -19908,7 +22620,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.bp-saroj-bholanath@sansad.nic.in",
-    "phone": "+91 98765 10905"
+    "phone": "+91 98765 10905",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018407-2",
@@ -19917,7 +22632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "PILIBHIT",
     "sanctionedCr": 7.34,
     "disbursedCr": 7.22,
     "reconciledDisbursedCr": 7.22,
@@ -19930,7 +22645,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.feroze-varun-gandhi@sansad.nic.in",
-    "phone": "+91 98765 10906"
+    "phone": "+91 98765 10906",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018408-2",
@@ -19939,7 +22657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MOHANLALGANJ(SC)",
     "sanctionedCr": 4.67,
     "disbursedCr": 4.51,
     "reconciledDisbursedCr": 4.51,
@@ -19952,7 +22670,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.kaushal-kishore@sansad.nic.in",
-    "phone": "+91 98765 10907"
+    "phone": "+91 98765 10907",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018409-2",
@@ -19961,7 +22682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ETAH",
     "sanctionedCr": 7.31,
     "disbursedCr": 7.28,
     "reconciledDisbursedCr": 7.28,
@@ -19974,7 +22695,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.rajveer-raju-bhaiya-singh@sansad.nic.in",
-    "phone": "+91 98765 10908"
+    "phone": "+91 98765 10908",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018410-2",
@@ -19983,7 +22707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SULTANPUR",
     "sanctionedCr": 6.93,
     "disbursedCr": 6.38,
     "reconciledDisbursedCr": 6.38,
@@ -19996,7 +22720,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.maneka-sanjay-gandhi@sansad.nic.in",
-    "phone": "+91 98765 10909"
+    "phone": "+91 98765 10909",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018411-2",
@@ -20005,7 +22732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "LALGANJ (SC)",
     "sanctionedCr": 5.21,
     "disbursedCr": 4.39,
     "reconciledDisbursedCr": 4.39,
@@ -20018,7 +22745,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sangeeta-azad@sansad.nic.in",
-    "phone": "+91 98765 10910"
+    "phone": "+91 98765 10910",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018412-2",
@@ -20027,7 +22757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AMETHI",
     "sanctionedCr": 8.69,
     "disbursedCr": 8.13,
     "reconciledDisbursedCr": 8.13,
@@ -20040,7 +22770,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smriti-irani@sansad.nic.in",
-    "phone": "+91 98765 10911"
+    "phone": "+91 98765 10911",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018413-2",
@@ -20049,7 +22782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "RAE BARELI",
     "sanctionedCr": 11.71,
     "disbursedCr": 8.8,
     "reconciledDisbursedCr": 8.8,
@@ -20062,7 +22795,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-sonia-gandhi-2019-24@sansad.nic.in",
-    "phone": "+91 98765 10912"
+    "phone": "+91 98765 10912",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019311-2",
@@ -20071,7 +22807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "LUCKNOW",
     "sanctionedCr": 4.13,
     "disbursedCr": 4.13,
     "reconciledDisbursedCr": 4.13,
@@ -20081,10 +22817,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 42,
     "worksRecommended": 42,
     "completionRate": 100.0,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajnath-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10913"
+    "phone": "+91 98765 10913",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019222-2",
@@ -20093,7 +22832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BULANDSHAHR(SC)",
     "sanctionedCr": 5.74,
     "disbursedCr": 5.74,
     "reconciledDisbursedCr": 5.74,
@@ -20106,7 +22845,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.bhola-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10914"
+    "phone": "+91 98765 10914",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019211-2",
@@ -20115,7 +22857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "HATHRAS (SC)",
     "sanctionedCr": 7.3,
     "disbursedCr": 7.3,
     "reconciledDisbursedCr": 7.3,
@@ -20128,7 +22870,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.rajvir-diler@sansad.nic.in",
-    "phone": "+91 98765 10915"
+    "phone": "+91 98765 10915",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019196-2",
@@ -20137,7 +22882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AKBARPUR",
     "sanctionedCr": 7.2,
     "disbursedCr": 7.2,
     "reconciledDisbursedCr": 7.2,
@@ -20150,7 +22895,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.devendra-alias-bhole-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10916"
+    "phone": "+91 98765 10916",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019217-2",
@@ -20159,7 +22907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KANPUR",
     "sanctionedCr": 4.75,
     "disbursedCr": 4.75,
     "reconciledDisbursedCr": 4.75,
@@ -20172,7 +22920,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.satyadev-pachauri-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10917"
+    "phone": "+91 98765 10917",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019205-2",
@@ -20181,7 +22932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FARRUKHABAD",
     "sanctionedCr": 7.11,
     "disbursedCr": 7.11,
     "reconciledDisbursedCr": 7.11,
@@ -20194,7 +22945,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.mukesh-rajput-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10918"
+    "phone": "+91 98765 10918",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019201-2",
@@ -20203,7 +22957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "HARDOI (SC)",
     "sanctionedCr": 7.33,
     "disbursedCr": 6.23,
     "reconciledDisbursedCr": 6.23,
@@ -20216,7 +22970,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jai-prakash-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10919"
+    "phone": "+91 98765 10919",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019224-2",
@@ -20225,7 +22982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FATEHPUR",
     "sanctionedCr": 7.52,
     "disbursedCr": 6.9,
     "reconciledDisbursedCr": 6.9,
@@ -20238,7 +22995,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.niranjan-jyoti-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10920"
+    "phone": "+91 98765 10920",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019528-2",
@@ -20247,7 +23007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AZAMGARH",
     "sanctionedCr": 5.14,
     "disbursedCr": 4.64,
     "reconciledDisbursedCr": 4.64,
@@ -20260,7 +23020,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dinesh-lal-yadav-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10921"
+    "phone": "+91 98765 10921",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019199-2",
@@ -20269,7 +23032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "NAGINA(SC)",
     "sanctionedCr": 7.34,
     "disbursedCr": 7.34,
     "reconciledDisbursedCr": 7.34,
@@ -20282,7 +23045,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.girish-chandra-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10922"
+    "phone": "+91 98765 10922",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019241-2",
@@ -20291,7 +23057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BAGHPAT",
     "sanctionedCr": 9.79,
     "disbursedCr": 9.36,
     "reconciledDisbursedCr": 9.36,
@@ -20304,7 +23070,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.satya-pal-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10923"
+    "phone": "+91 98765 10923",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019193-2",
@@ -20313,7 +23082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GHOSI",
     "sanctionedCr": 9.75,
     "disbursedCr": 9.2,
     "reconciledDisbursedCr": 9.2,
@@ -20326,7 +23095,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.atul-kumar-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10924"
+    "phone": "+91 98765 10924",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019220-2",
@@ -20335,7 +23107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KUSHI NAGAR",
     "sanctionedCr": 4.7,
     "disbursedCr": 4.61,
     "reconciledDisbursedCr": 4.61,
@@ -20348,7 +23120,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.vijay-kumar-dubey-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10925"
+    "phone": "+91 98765 10925",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019244-2",
@@ -20357,7 +23132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MISRIKH(SC)",
     "sanctionedCr": 7.33,
     "disbursedCr": 6.6,
     "reconciledDisbursedCr": 6.6,
@@ -20370,7 +23145,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ashok-kumar-rawat-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10926"
+    "phone": "+91 98765 10926",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019228-2",
@@ -20379,7 +23157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "PHULPUR",
     "sanctionedCr": 9.76,
     "disbursedCr": 9.16,
     "reconciledDisbursedCr": 9.16,
@@ -20392,7 +23170,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-keshari-devi-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10927"
+    "phone": "+91 98765 10927",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019198-2",
@@ -20401,7 +23182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "RAMPUR",
     "sanctionedCr": 4.89,
     "disbursedCr": 4.73,
     "reconciledDisbursedCr": 4.73,
@@ -20414,7 +23195,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ghanshyam-singh-lodhi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10928"
+    "phone": "+91 98765 10928",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019203-2",
@@ -20423,7 +23207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GONDA",
     "sanctionedCr": 9.62,
     "disbursedCr": 9.44,
     "reconciledDisbursedCr": 9.44,
@@ -20436,7 +23220,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.kirti-vardhan-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10929"
+    "phone": "+91 98765 10929",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019195-2",
@@ -20445,7 +23232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KAISERGANJ",
     "sanctionedCr": 7.34,
     "disbursedCr": 7.2,
     "reconciledDisbursedCr": 7.2,
@@ -20458,7 +23245,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.brijbhushan-sharan-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10930"
+    "phone": "+91 98765 10930",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019209-2",
@@ -20467,7 +23257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SANT KABIR NAGAR",
     "sanctionedCr": 9.55,
     "disbursedCr": 9.14,
     "reconciledDisbursedCr": 9.14,
@@ -20480,7 +23270,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.praveen-kumar-nishad-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10931"
+    "phone": "+91 98765 10931",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019640-2",
@@ -20489,7 +23282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "JAUNPUR",
     "sanctionedCr": 9.43,
     "disbursedCr": 9.4,
     "reconciledDisbursedCr": 9.4,
@@ -20502,7 +23295,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shyam-singh-yadav-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10932"
+    "phone": "+91 98765 10932",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019214-2",
@@ -20511,7 +23307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GORAKHPUR",
     "sanctionedCr": 7.41,
     "disbursedCr": 6.8,
     "reconciledDisbursedCr": 6.8,
@@ -20521,10 +23317,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 113,
     "worksRecommended": 136,
     "completionRate": 83.1,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ravindra-shyamnarayan-alias-ravi-kishan-shukla-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10933"
+    "phone": "+91 98765 10933",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019530-2",
@@ -20533,7 +23332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FATEHPUR SIKRI",
     "sanctionedCr": 4.85,
     "disbursedCr": 4.85,
     "reconciledDisbursedCr": 4.85,
@@ -20546,7 +23345,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.rajkumar-chahar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10934"
+    "phone": "+91 98765 10934",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019223-2",
@@ -20555,7 +23357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SHRAWASTI",
     "sanctionedCr": 11.39,
     "disbursedCr": 11.19,
     "reconciledDisbursedCr": 11.19,
@@ -20568,7 +23370,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ram-shiromani-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10935"
+    "phone": "+91 98765 10935",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019200-2",
@@ -20577,7 +23382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "DOMARIYAGANJ",
     "sanctionedCr": 8.44,
     "disbursedCr": 8.02,
     "reconciledDisbursedCr": 8.02,
@@ -20590,7 +23395,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jagdambika-pal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10936"
+    "phone": "+91 98765 10936",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019215-2",
@@ -20599,7 +23407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "PRATAPGARH",
     "sanctionedCr": 7.21,
     "disbursedCr": 6.98,
     "reconciledDisbursedCr": 6.98,
@@ -20612,7 +23420,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sangam-lal-gupta-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10937"
+    "phone": "+91 98765 10937",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019207-2",
@@ -20621,7 +23432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MAHARAJGANJ",
     "sanctionedCr": 7.24,
     "disbursedCr": 7.07,
     "reconciledDisbursedCr": 7.07,
@@ -20631,10 +23442,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 26,
     "worksRecommended": 53,
     "completionRate": 49.1,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pankaj-chaudhary-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10938"
+    "phone": "+91 98765 10938",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019206-2",
@@ -20643,7 +23457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ROBERTSGANJ(SC)",
     "sanctionedCr": 4.91,
     "disbursedCr": 4.76,
     "reconciledDisbursedCr": 4.76,
@@ -20656,7 +23470,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pakauri-lal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10939"
+    "phone": "+91 98765 10939",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019213-2",
@@ -20665,7 +23482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SALEMPUR",
     "sanctionedCr": 9.64,
     "disbursedCr": 9.39,
     "reconciledDisbursedCr": 9.39,
@@ -20678,7 +23495,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ravindra-kushawaha-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10940"
+    "phone": "+91 98765 10940",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019221-2",
@@ -20687,7 +23507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BALLIA",
     "sanctionedCr": 9.37,
     "disbursedCr": 8.8,
     "reconciledDisbursedCr": 8.8,
@@ -20700,7 +23520,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.virendra-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10941"
+    "phone": "+91 98765 10941",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019226-2",
@@ -20709,7 +23532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MAINPURI",
     "sanctionedCr": 3.62,
     "disbursedCr": 3.44,
     "reconciledDisbursedCr": 3.44,
@@ -20719,10 +23542,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 34,
     "worksRecommended": 55,
     "completionRate": 61.8,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-dimple-yadav-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10942"
+    "phone": "+91 98765 10942",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019190-2",
@@ -20731,7 +23557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ETAWAH(SC)",
     "sanctionedCr": 7.08,
     "disbursedCr": 6.85,
     "reconciledDisbursedCr": 6.85,
@@ -20744,7 +23570,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.prof-ram-shankar-katheria-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10943"
+    "phone": "+91 98765 10943",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019218-2",
@@ -20753,7 +23582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KANNAUJ",
     "sanctionedCr": 7.08,
     "disbursedCr": 6.46,
     "reconciledDisbursedCr": 6.46,
@@ -20766,7 +23595,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.subrata-pathak-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10944"
+    "phone": "+91 98765 10944",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019219-2",
@@ -20775,7 +23607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BARABANKI(SC)",
     "sanctionedCr": 7.24,
     "disbursedCr": 7.07,
     "reconciledDisbursedCr": 7.07,
@@ -20788,7 +23620,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.upendra-singh-rawat-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10945"
+    "phone": "+91 98765 10945",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019227-2",
@@ -20797,7 +23632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MATHURA",
     "sanctionedCr": 9.67,
     "disbursedCr": 9.64,
     "reconciledDisbursedCr": 9.64,
@@ -20807,10 +23642,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 109,
     "worksRecommended": 110,
     "completionRate": 99.1,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-hema-malini-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10946"
+    "phone": "+91 98765 10946",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019210-2",
@@ -20819,7 +23657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BANDA",
     "sanctionedCr": 7.24,
     "disbursedCr": 6.84,
     "reconciledDisbursedCr": 6.84,
@@ -20832,7 +23670,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.rk-singh-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10947"
+    "phone": "+91 98765 10947",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019208-2",
@@ -20841,7 +23682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KAIRANA",
     "sanctionedCr": 7.1,
     "disbursedCr": 7.06,
     "reconciledDisbursedCr": 7.06,
@@ -20854,7 +23695,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pradeep-kumar-chaudhary-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10948"
+    "phone": "+91 98765 10948",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019188-2",
@@ -20863,7 +23707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BADAUN",
     "sanctionedCr": 7.27,
     "disbursedCr": 6.96,
     "reconciledDisbursedCr": 6.96,
@@ -20876,7 +23720,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.sanghamitra-maurya-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10949"
+    "phone": "+91 98765 10949",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019186-2",
@@ -20885,7 +23732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "CHANDAULI",
     "sanctionedCr": 7.26,
     "disbursedCr": 7.2,
     "reconciledDisbursedCr": 7.2,
@@ -20898,7 +23745,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.mahendra-nath-pandey-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10950"
+    "phone": "+91 98765 10950",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019212-2",
@@ -20907,7 +23757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "DEORIA",
     "sanctionedCr": 7.35,
     "disbursedCr": 6.74,
     "reconciledDisbursedCr": 6.74,
@@ -20920,7 +23770,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ramapati-ram-tripathi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10951"
+    "phone": "+91 98765 10951",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019191-2",
@@ -20929,7 +23782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ALLAHABAD",
     "sanctionedCr": 7.59,
     "disbursedCr": 5.84,
     "reconciledDisbursedCr": 5.84,
@@ -20942,7 +23795,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.prof-rita-bahuguna-joshi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10952"
+    "phone": "+91 98765 10952",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019189-2",
@@ -20951,7 +23807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MUZAFFARNAGAR",
     "sanctionedCr": 4.85,
     "disbursedCr": 4.57,
     "reconciledDisbursedCr": 4.57,
@@ -20964,7 +23820,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.sanjeev-kumar-balyan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10953"
+    "phone": "+91 98765 10953",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019185-2",
@@ -20973,7 +23832,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BHADOHI",
     "sanctionedCr": 7.35,
     "disbursedCr": 7.02,
     "reconciledDisbursedCr": 7.02,
@@ -20986,7 +23845,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ramesh-chand-bind-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10954"
+    "phone": "+91 98765 10954",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019197-2",
@@ -20995,7 +23857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AONLA",
     "sanctionedCr": 7.28,
     "disbursedCr": 7.28,
     "reconciledDisbursedCr": 7.28,
@@ -21008,7 +23870,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dharmendra-kumar-kashyap-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10955"
+    "phone": "+91 98765 10955",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019216-2",
@@ -21017,7 +23882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BAREILLY",
     "sanctionedCr": 7.25,
     "disbursedCr": 7.25,
     "reconciledDisbursedCr": 7.25,
@@ -21030,7 +23895,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.santosh-kumar-gangwar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10956"
+    "phone": "+91 98765 10956",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019187-2",
@@ -21039,7 +23907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GAUTAM BUDDHA NAGAR",
     "sanctionedCr": 7.17,
     "disbursedCr": 6.96,
     "reconciledDisbursedCr": 6.96,
@@ -21052,7 +23920,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mahesh-sharma-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10957"
+    "phone": "+91 98765 10957",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019225-2",
@@ -21061,7 +23932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MIRZAPUR",
     "sanctionedCr": 9.52,
     "disbursedCr": 9.21,
     "reconciledDisbursedCr": 9.21,
@@ -21074,7 +23945,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-anupriya-patel-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10958"
+    "phone": "+91 98765 10958",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019194-2",
@@ -21083,7 +23957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "JALAUN(SC)",
     "sanctionedCr": 9.74,
     "disbursedCr": 8.85,
     "reconciledDisbursedCr": 8.85,
@@ -21096,7 +23970,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.bhanu-pratap-singh-verma-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10959"
+    "phone": "+91 98765 10959",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019204-2",
@@ -21105,7 +23982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BIJNOR",
     "sanctionedCr": 9.79,
     "disbursedCr": 9.73,
     "reconciledDisbursedCr": 9.73,
@@ -21118,7 +23995,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.malook-nagar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10960"
+    "phone": "+91 98765 10960",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019202-2",
@@ -21127,7 +24007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BANSGAON(SC)",
     "sanctionedCr": 7.67,
     "disbursedCr": 7.54,
     "reconciledDisbursedCr": 7.54,
@@ -21140,7 +24020,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.kamlesh-paswan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10961"
+    "phone": "+91 98765 10961",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019192-2",
@@ -21149,7 +24032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GHAZIPUR",
     "sanctionedCr": 0.73,
     "disbursedCr": 0.27,
     "reconciledDisbursedCr": 0.27,
@@ -21162,7 +24045,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.afzal-ansari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10962"
+    "phone": "+91 98765 10962",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3059268-2",
@@ -21171,7 +24057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AZAMGARH",
     "sanctionedCr": 0.04,
     "disbursedCr": 0.01,
     "reconciledDisbursedCr": 0.01,
@@ -21181,10 +24067,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 0,
     "worksRecommended": 3,
     "completionRate": 0.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-akhilesh-yadav-ex17ls@sansad.nic.in",
-    "phone": "+91 98765 10963"
+    "phone": "+91 98765 10963",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3060357-2",
@@ -21193,7 +24082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MAINPURI",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -21206,7 +24095,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mulayam-singh-yadav-17ls@sansad.nic.in",
-    "phone": "+91 98765 10964"
+    "phone": "+91 98765 10964",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017176-2",
@@ -21228,7 +24120,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ajay-bhatt@sansad.nic.in",
-    "phone": "+91 98765 10965"
+    "phone": "+91 98765 10965",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018414-2",
@@ -21237,7 +24132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "ALMORA(SC)",
     "sanctionedCr": 16.47,
     "disbursedCr": 15.45,
     "reconciledDisbursedCr": 15.45,
@@ -21250,7 +24145,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ajay-tamta@sansad.nic.in",
-    "phone": "+91 98765 10966"
+    "phone": "+91 98765 10966",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018415-2",
@@ -21259,7 +24157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "TEHRI GARHWAL",
     "sanctionedCr": 7.29,
     "disbursedCr": 5.18,
     "reconciledDisbursedCr": 5.18,
@@ -21272,7 +24170,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.mala-rajya-laxmi-shah@sansad.nic.in",
-    "phone": "+91 98765 10967"
+    "phone": "+91 98765 10967",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019230-2",
@@ -21281,7 +24182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "GARHWAL",
     "sanctionedCr": 9.56,
     "disbursedCr": 7.33,
     "reconciledDisbursedCr": 7.33,
@@ -21294,7 +24195,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.tirath-singh-rawat-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10968"
+    "phone": "+91 98765 10968",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019229-2",
@@ -21303,7 +24207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "Uttarakhand",
-    "constituency": "NAINITAL UDHAM SINGH NAG.",
+    "constituency": "HARDWAR",
     "sanctionedCr": 10.37,
     "disbursedCr": 8.69,
     "reconciledDisbursedCr": 8.69,
@@ -21316,7 +24220,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ramesh-pokhriyal-nishank-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10969"
+    "phone": "+91 98765 10969",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017477-2",
@@ -21325,7 +24232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BALURGHAT",
     "sanctionedCr": 6.97,
     "disbursedCr": 5.83,
     "reconciledDisbursedCr": 5.83,
@@ -21338,7 +24245,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-sukanta-majumdar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10970"
+    "phone": "+91 98765 10970",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017478-2",
@@ -21347,7 +24257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BIRBHUM",
     "sanctionedCr": 6.88,
     "disbursedCr": 6.81,
     "reconciledDisbursedCr": 6.81,
@@ -21360,7 +24270,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-satabdi-roy-banerjee-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10971"
+    "phone": "+91 98765 10971",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017479-2",
@@ -21369,7 +24282,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BANGAON(SC)",
     "sanctionedCr": 9.78,
     "disbursedCr": 9.28,
     "reconciledDisbursedCr": 9.28,
@@ -21382,7 +24295,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-shantanu-thakur-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10972"
+    "phone": "+91 98765 10972",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017480-2",
@@ -21391,7 +24307,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JHARGRAM(ST)",
     "sanctionedCr": 7.32,
     "disbursedCr": 7.31,
     "reconciledDisbursedCr": 7.31,
@@ -21404,7 +24320,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-kunar-hembram-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10973"
+    "phone": "+91 98765 10973",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017481-2",
@@ -21413,7 +24332,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "HOOGHLY",
     "sanctionedCr": 9.77,
     "disbursedCr": 9.77,
     "reconciledDisbursedCr": 9.77,
@@ -21426,7 +24345,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-locket-chatterjee-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10974"
+    "phone": "+91 98765 10974",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017482-2",
@@ -21435,7 +24357,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "TAMLUK",
     "sanctionedCr": 9.04,
     "disbursedCr": 8.92,
     "reconciledDisbursedCr": 8.92,
@@ -21448,7 +24370,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-dibyendu-adhikari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10975"
+    "phone": "+91 98765 10975",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017483-2",
@@ -21457,7 +24382,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "PURULIA",
     "sanctionedCr": 9.28,
     "disbursedCr": 3.71,
     "reconciledDisbursedCr": 3.71,
@@ -21470,7 +24395,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-jyotirmay-singh-mahato-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10976"
+    "phone": "+91 98765 10976",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017484-2",
@@ -21479,7 +24407,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KANTHI",
     "sanctionedCr": 9.6,
     "disbursedCr": 9.5,
     "reconciledDisbursedCr": 9.5,
@@ -21492,7 +24420,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-sisir-kumar-adhikari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10977"
+    "phone": "+91 98765 10977",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017485-2",
@@ -21501,7 +24432,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARASAT",
     "sanctionedCr": 7.32,
     "disbursedCr": 6.55,
     "reconciledDisbursedCr": 6.55,
@@ -21514,7 +24445,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dr-kakoli-ghosh-dastidar@sansad.nic.in",
-    "phone": "+91 98765 10978"
+    "phone": "+91 98765 10978",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017486-2",
@@ -21523,7 +24457,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JALPAIGURI(SC)",
     "sanctionedCr": 6.2,
     "disbursedCr": 4.44,
     "reconciledDisbursedCr": 4.44,
@@ -21536,7 +24470,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-jayanta-kumar-roy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10979"
+    "phone": "+91 98765 10979",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017487-2",
@@ -21545,7 +24482,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "DIAMOND HARBOUR",
     "sanctionedCr": 7.18,
     "disbursedCr": 6.99,
     "reconciledDisbursedCr": 6.99,
@@ -21555,10 +24492,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 75,
     "worksRecommended": 154,
     "completionRate": 48.7,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-abhishek-banerjee-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10980"
+    "phone": "+91 98765 10980",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017488-2",
@@ -21567,7 +24507,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MALDAHA DAKSHIN",
     "sanctionedCr": 13.08,
     "disbursedCr": 8.33,
     "reconciledDisbursedCr": 8.33,
@@ -21580,7 +24520,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-abu-hasem-khan-choudhury-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10981"
+    "phone": "+91 98765 10981",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017489-2",
@@ -21589,7 +24532,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARRACKPUR",
     "sanctionedCr": 7.96,
     "disbursedCr": 7.55,
     "reconciledDisbursedCr": 7.55,
@@ -21602,7 +24545,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-arjun-singh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10982"
+    "phone": "+91 98765 10982",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017490-2",
@@ -21611,7 +24557,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MATHURAPUR(SC)",
     "sanctionedCr": 7.33,
     "disbursedCr": 6.19,
     "reconciledDisbursedCr": 6.19,
@@ -21624,7 +24570,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-choudhury-mohan-jatua-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10983"
+    "phone": "+91 98765 10983",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017491-2",
@@ -21633,7 +24582,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "GHATAL",
     "sanctionedCr": 9.12,
     "disbursedCr": 8.36,
     "reconciledDisbursedCr": 8.36,
@@ -21646,7 +24595,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-deepak-dev-adhikari-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10984"
+    "phone": "+91 98765 10984",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017492-2",
@@ -21655,7 +24607,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MEDINIPUR",
     "sanctionedCr": 8.94,
     "disbursedCr": 6.63,
     "reconciledDisbursedCr": 6.63,
@@ -21668,7 +24620,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-dilip-ghosh-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10985"
+    "phone": "+91 98765 10985",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017493-2",
@@ -21677,7 +24632,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "DUM DUM",
     "sanctionedCr": 7.29,
     "disbursedCr": 6.08,
     "reconciledDisbursedCr": 6.08,
@@ -21690,7 +24645,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.prof-saugata-roy-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10986"
+    "phone": "+91 98765 10986",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017494-2",
@@ -21699,7 +24657,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARDHAMAN-DURGAPUR",
     "sanctionedCr": 11.52,
     "disbursedCr": 8.58,
     "reconciledDisbursedCr": 8.58,
@@ -21712,7 +24670,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-ss-ahluwalia-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10987"
+    "phone": "+91 98765 10987",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017495-2",
@@ -21721,7 +24682,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BASIRHAT",
     "sanctionedCr": 7.34,
     "disbursedCr": 7.29,
     "reconciledDisbursedCr": 7.29,
@@ -21734,7 +24695,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ms-nusrat-jahan-ruhi-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10988"
+    "phone": "+91 98765 10988",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017496-2",
@@ -21743,7 +24707,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JADAVPUR",
     "sanctionedCr": 7.02,
     "disbursedCr": 6.76,
     "reconciledDisbursedCr": 6.76,
@@ -21756,7 +24720,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ms-mimi-chakraborty-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10989"
+    "phone": "+91 98765 10989",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018416-2",
@@ -21765,7 +24732,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BISHNUPUR(SC)",
     "sanctionedCr": 9.48,
     "disbursedCr": 8.27,
     "reconciledDisbursedCr": 8.27,
@@ -21778,7 +24745,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.saumitra-khan@sansad.nic.in",
-    "phone": "+91 98765 10990"
+    "phone": "+91 98765 10990",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018417-2",
@@ -21787,7 +24757,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "ALIPURDUARS(ST)",
     "sanctionedCr": 8.62,
     "disbursedCr": 6.38,
     "reconciledDisbursedCr": 6.38,
@@ -21800,7 +24770,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.john-barla@sansad.nic.in",
-    "phone": "+91 98765 10991"
+    "phone": "+91 98765 10991",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018418-2",
@@ -21809,7 +24782,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JANGIPUR",
     "sanctionedCr": 19.26,
     "disbursedCr": 15.81,
     "reconciledDisbursedCr": 15.81,
@@ -21822,7 +24795,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.khalilur-rahaman@sansad.nic.in",
-    "phone": "+91 98765 10992"
+    "phone": "+91 98765 10992",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018419-2",
@@ -21831,7 +24807,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "COOCHBEHAR(SC)",
     "sanctionedCr": 3.15,
     "disbursedCr": 2.29,
     "reconciledDisbursedCr": 2.29,
@@ -21844,7 +24820,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.nisith-pramanik@sansad.nic.in",
-    "phone": "+91 98765 10993"
+    "phone": "+91 98765 10993",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018420-2",
@@ -21866,7 +24845,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.aparupa-poddar@sansad.nic.in",
-    "phone": "+91 98765 10994"
+    "phone": "+91 98765 10994",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018421-2",
@@ -21875,7 +24857,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KOLKATA DAKSHIN",
     "sanctionedCr": 7.05,
     "disbursedCr": 5.55,
     "reconciledDisbursedCr": 5.55,
@@ -21888,7 +24870,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.mala-roy@sansad.nic.in",
-    "phone": "+91 98765 10995"
+    "phone": "+91 98765 10995",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018422-2",
@@ -21897,7 +24882,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JOYNAGAR(SC)",
     "sanctionedCr": 7.25,
     "disbursedCr": 6.99,
     "reconciledDisbursedCr": 6.99,
@@ -21910,7 +24895,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.pratima-mondal@sansad.nic.in",
-    "phone": "+91 98765 10996"
+    "phone": "+91 98765 10996",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019300-2",
@@ -21919,7 +24907,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MURSHIDABAD",
     "sanctionedCr": 21.01,
     "disbursedCr": 17.96,
     "reconciledDisbursedCr": 17.96,
@@ -21932,7 +24920,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.abu-taher-khan-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10997"
+    "phone": "+91 98765 10997",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019301-2",
@@ -21941,7 +24932,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MALDAHA UTTAR",
     "sanctionedCr": 6.75,
     "disbursedCr": 3.44,
     "reconciledDisbursedCr": 3.44,
@@ -21954,7 +24945,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.khagen-murmu-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10998"
+    "phone": "+91 98765 10998",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019231-2",
@@ -21963,7 +24957,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KRISHNANAGAR",
     "sanctionedCr": 4.43,
     "disbursedCr": 4.43,
     "reconciledDisbursedCr": 4.43,
@@ -21973,10 +24967,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 27,
     "worksRecommended": 27,
     "completionRate": 100.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ms-mahua-moitra-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 10999"
+    "phone": "+91 98765 10999",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019237-2",
@@ -21985,7 +24982,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "ULUBERIA",
     "sanctionedCr": 7.06,
     "disbursedCr": 7.06,
     "reconciledDisbursedCr": 7.06,
@@ -21998,7 +24995,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-sajda-ahmed-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11000"
+    "phone": "+91 98765 11000",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019335-2",
@@ -22007,7 +25007,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BOLPUR(SC)",
     "sanctionedCr": 7.1,
     "disbursedCr": 6.69,
     "reconciledDisbursedCr": 6.69,
@@ -22020,7 +25020,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.asit-kumar-mal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11001"
+    "phone": "+91 98765 11001",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019233-2",
@@ -22029,7 +25032,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "HOWRAH",
     "sanctionedCr": 8.51,
     "disbursedCr": 8.37,
     "reconciledDisbursedCr": 8.37,
@@ -22042,7 +25045,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.prasun-banerjee-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11002"
+    "phone": "+91 98765 11002",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019373-2",
@@ -22051,7 +25057,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "SREERAMPUR",
     "sanctionedCr": 7.01,
     "disbursedCr": 6.87,
     "reconciledDisbursedCr": 6.87,
@@ -22064,7 +25070,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kalyan-banerjee-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11003"
+    "phone": "+91 98765 11003",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019641-2",
@@ -22073,7 +25082,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARDHAMAN PURBA(SC)",
     "sanctionedCr": 9.74,
     "disbursedCr": 8.86,
     "reconciledDisbursedCr": 8.86,
@@ -22086,7 +25095,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.sunil-kumar-mondal-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11004"
+    "phone": "+91 98765 11004",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019236-2",
@@ -22095,7 +25107,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "RANAGHAT(SC)",
     "sanctionedCr": 6.84,
     "disbursedCr": 6.13,
     "reconciledDisbursedCr": 6.13,
@@ -22108,7 +25120,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.jagannath-sarkar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11005"
+    "phone": "+91 98765 11005",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019232-2",
@@ -22117,7 +25132,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "RAIGANJ",
     "sanctionedCr": 4.42,
     "disbursedCr": 1.74,
     "reconciledDisbursedCr": 1.74,
@@ -22130,7 +25145,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ms-debasree-chaudhuri-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11006"
+    "phone": "+91 98765 11006",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019299-2",
@@ -22139,7 +25157,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BANKURA",
     "sanctionedCr": 13.98,
     "disbursedCr": 9.91,
     "reconciledDisbursedCr": 9.91,
@@ -22152,7 +25170,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.subhash-sarkar-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11007"
+    "phone": "+91 98765 11007",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019533-2",
@@ -22161,7 +25182,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KOLKATA UTTAR",
     "sanctionedCr": 8.34,
     "disbursedCr": 6.57,
     "reconciledDisbursedCr": 6.57,
@@ -22174,7 +25195,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sudip-bandyopadhyay-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11008"
+    "phone": "+91 98765 11008",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019235-2",
@@ -22183,7 +25207,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "ASANSOL",
     "sanctionedCr": 6.61,
     "disbursedCr": 4.77,
     "reconciledDisbursedCr": 4.77,
@@ -22196,7 +25220,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shatrughan-sinha-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11009"
+    "phone": "+91 98765 11009",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019531-2",
@@ -22205,7 +25232,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BAHARAMPUR",
     "sanctionedCr": 15.28,
     "disbursedCr": 13.09,
     "reconciledDisbursedCr": 13.09,
@@ -22218,7 +25245,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.adhir-ranjan-chowdhury-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11010"
+    "phone": "+91 98765 11010",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019234-2",
@@ -22227,7 +25257,7 @@ export const ALL_MPS_DATA = [
     "term": "17",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "DARJEELING",
     "sanctionedCr": 8.13,
     "disbursedCr": 6.62,
     "reconciledDisbursedCr": 6.62,
@@ -22240,7 +25270,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.raju-bista-17th-lok-sabha@sansad.nic.in",
-    "phone": "+91 98765 11011"
+    "phone": "+91 98765 11011",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042276-2",
@@ -22248,7 +25281,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-bishnu-pada-ray",
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
-    "state": "Andaman & Nicobar Islands",
+    "state": "Andaman And Nicobar Islands",
     "constituency": "ANDAMAN AND NICOBAR ISLANDS",
     "sanctionedCr": 7.96,
     "disbursedCr": 1.55,
@@ -22262,7 +25295,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.bishnu-pada-ray@sansad.nic.in",
-    "phone": "+91 98765 11012"
+    "phone": "+91 98765 11012",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042278-2",
@@ -22284,7 +25320,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.c-m-ramesh@sansad.nic.in",
-    "phone": "+91 98765 11013"
+    "phone": "+91 98765 11013",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018943-2",
@@ -22293,7 +25332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "KADAPA",
     "sanctionedCr": 13.05,
     "disbursedCr": 4.85,
     "reconciledDisbursedCr": 4.85,
@@ -22306,7 +25345,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.y-s-avinash-reddy@sansad.nic.in",
-    "phone": "+91 98765 11014"
+    "phone": "+91 98765 11014",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042279-2",
@@ -22315,7 +25357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ANANTAPUR",
     "sanctionedCr": 15.5,
     "disbursedCr": 6.94,
     "reconciledDisbursedCr": 6.94,
@@ -22328,7 +25370,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ambica-g-lakshminarayana-valmiki@sansad.nic.in",
-    "phone": "+91 98765 11015"
+    "phone": "+91 98765 11015",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042280-2",
@@ -22337,7 +25382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ARAKU(ST)",
     "sanctionedCr": 10.81,
     "disbursedCr": 8.23,
     "reconciledDisbursedCr": 8.23,
@@ -22350,7 +25395,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.gumma-thanuja-rani@sansad.nic.in",
-    "phone": "+91 98765 11016"
+    "phone": "+91 98765 11016",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042281-2",
@@ -22359,7 +25407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "BAPATLA",
     "sanctionedCr": 14.94,
     "disbursedCr": 2.31,
     "reconciledDisbursedCr": 2.31,
@@ -22372,7 +25420,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.krishna-prasad-tenneti@sansad.nic.in",
-    "phone": "+91 98765 11017"
+    "phone": "+91 98765 11017",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042282-2",
@@ -22381,7 +25432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "CHITTOOR",
     "sanctionedCr": 15.02,
     "disbursedCr": 9.25,
     "reconciledDisbursedCr": 9.25,
@@ -22394,7 +25445,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.daggumalla-prasada-rao@sansad.nic.in",
-    "phone": "+91 98765 11018"
+    "phone": "+91 98765 11018",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042283-2",
@@ -22403,7 +25457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ELURU",
     "sanctionedCr": 13.84,
     "disbursedCr": 4.51,
     "reconciledDisbursedCr": 4.51,
@@ -22416,7 +25470,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.putta-mahesh-kumar@sansad.nic.in",
-    "phone": "+91 98765 11019"
+    "phone": "+91 98765 11019",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042284-2",
@@ -22425,7 +25482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "GUNTUR",
     "sanctionedCr": 9.6,
     "disbursedCr": 5.4,
     "reconciledDisbursedCr": 5.4,
@@ -22438,7 +25495,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-chandra-sekhar-pemmasani@sansad.nic.in",
-    "phone": "+91 98765 11020"
+    "phone": "+91 98765 11020",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042285-2",
@@ -22447,7 +25507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "HINDUPUR",
     "sanctionedCr": 10.11,
     "disbursedCr": 4.93,
     "reconciledDisbursedCr": 4.93,
@@ -22460,7 +25520,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.b-k-parthasarathi@sansad.nic.in",
-    "phone": "+91 98765 11021"
+    "phone": "+91 98765 11021",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042286-2",
@@ -22469,7 +25532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "KAKINADA",
     "sanctionedCr": 3.94,
     "disbursedCr": 1.81,
     "reconciledDisbursedCr": 1.81,
@@ -22482,7 +25545,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.tangella-uday-srinivas@sansad.nic.in",
-    "phone": "+91 98765 11022"
+    "phone": "+91 98765 11022",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042287-2",
@@ -22491,7 +25557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "KURNOOL",
     "sanctionedCr": 9.25,
     "disbursedCr": 4.4,
     "reconciledDisbursedCr": 4.4,
@@ -22504,7 +25570,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.bastipati-nagaraju-panchalingala@sansad.nic.in",
-    "phone": "+91 98765 11023"
+    "phone": "+91 98765 11023",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042288-2",
@@ -22513,7 +25582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NARASAPURAM",
     "sanctionedCr": 1.2,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -22526,7 +25595,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.bhupathiraju-srinivasa-varma@sansad.nic.in",
-    "phone": "+91 98765 11024"
+    "phone": "+91 98765 11024",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042290-2",
@@ -22535,7 +25607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NELLORE(SC)",
     "sanctionedCr": 14.44,
     "disbursedCr": 8.22,
     "reconciledDisbursedCr": 8.22,
@@ -22548,7 +25620,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.prabhakar-reddy-vemireddy@sansad.nic.in",
-    "phone": "+91 98765 11025"
+    "phone": "+91 98765 11025",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042292-2",
@@ -22557,7 +25632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "VIJAYAWADA",
     "sanctionedCr": 7.08,
     "disbursedCr": 0.63,
     "reconciledDisbursedCr": 0.63,
@@ -22570,7 +25645,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.sivanath-kesineni@sansad.nic.in",
-    "phone": "+91 98765 11026"
+    "phone": "+91 98765 11026",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042293-2",
@@ -22579,7 +25657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "VISAKHAPATNAM",
     "sanctionedCr": 9.87,
     "disbursedCr": 1.91,
     "reconciledDisbursedCr": 1.91,
@@ -22592,7 +25670,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sribharat-mathukumli@sansad.nic.in",
-    "phone": "+91 98765 11027"
+    "phone": "+91 98765 11027",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042294-2",
@@ -22601,7 +25682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "VIZIANAGARAM",
     "sanctionedCr": 7.62,
     "disbursedCr": 2.45,
     "reconciledDisbursedCr": 2.45,
@@ -22614,7 +25695,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.appalanaidu-kalisetti@sansad.nic.in",
-    "phone": "+91 98765 11028"
+    "phone": "+91 98765 11028",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018941-2",
@@ -22623,7 +25707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "RAJAMPET",
     "sanctionedCr": 17.84,
     "disbursedCr": 6.42,
     "reconciledDisbursedCr": 6.42,
@@ -22636,7 +25720,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.midhun-reddy@sansad.nic.in",
-    "phone": "+91 98765 11029"
+    "phone": "+91 98765 11029",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018342-2",
@@ -22645,7 +25732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "MACHILIPATNAM",
     "sanctionedCr": 4.97,
     "disbursedCr": 2.23,
     "reconciledDisbursedCr": 2.23,
@@ -22658,7 +25745,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.balashowry-vallabbhaneni@sansad.nic.in",
-    "phone": "+91 98765 11030"
+    "phone": "+91 98765 11030",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018939-2",
@@ -22667,7 +25757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "SRIKAKULAM",
     "sanctionedCr": 15.88,
     "disbursedCr": 6.98,
     "reconciledDisbursedCr": 6.98,
@@ -22680,7 +25770,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kinjarapu-ram-mohan-naidu@sansad.nic.in",
-    "phone": "+91 98765 11031"
+    "phone": "+91 98765 11031",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018946-2",
@@ -22689,7 +25782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "TIRUPATI(SC)",
     "sanctionedCr": 17.75,
     "disbursedCr": 6.76,
     "reconciledDisbursedCr": 6.76,
@@ -22702,7 +25795,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.maddila-gurumoorthy@sansad.nic.in",
-    "phone": "+91 98765 11032"
+    "phone": "+91 98765 11032",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018945-2",
@@ -22711,7 +25807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NARASARAOPET",
     "sanctionedCr": 7.61,
     "disbursedCr": 0.26,
     "reconciledDisbursedCr": 0.26,
@@ -22724,7 +25820,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.lavu-sri-krishna-devarayalu@sansad.nic.in",
-    "phone": "+91 98765 11033"
+    "phone": "+91 98765 11033",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043486-2",
@@ -22733,7 +25832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "RAJAHMUNDRY",
     "sanctionedCr": 11.76,
     "disbursedCr": 2.07,
     "reconciledDisbursedCr": 2.07,
@@ -22746,7 +25845,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.daggubati-purandeshwari@sansad.nic.in",
-    "phone": "+91 98765 11034"
+    "phone": "+91 98765 11034",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043545-2",
@@ -22755,7 +25857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "NANDYAL",
     "sanctionedCr": 11.06,
     "disbursedCr": 6.08,
     "reconciledDisbursedCr": 6.08,
@@ -22768,7 +25870,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dr-byreddy-shabari@sansad.nic.in",
-    "phone": "+91 98765 11035"
+    "phone": "+91 98765 11035",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018340-2",
@@ -22777,7 +25882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Andhra Pradesh",
-    "constituency": "ANAKAPALLE",
+    "constituency": "ONGOLE",
     "sanctionedCr": 4.2,
     "disbursedCr": 1.61,
     "reconciledDisbursedCr": 1.61,
@@ -22790,7 +25895,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.magunta-sreenivasulu-reddy@sansad.nic.in",
-    "phone": "+91 98765 11036"
+    "phone": "+91 98765 11036",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018353-2",
@@ -22799,7 +25907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MADHUBANI",
     "sanctionedCr": 14.92,
     "disbursedCr": 14.22,
     "reconciledDisbursedCr": 14.22,
@@ -22812,7 +25920,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ashok-kumar-yadav@sansad.nic.in",
-    "phone": "+91 98765 11037"
+    "phone": "+91 98765 11037",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017381-2",
@@ -22821,7 +25932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MAHARAJGANJ_BR",
     "sanctionedCr": 9.14,
     "disbursedCr": 10.03,
     "reconciledDisbursedCr": 10.03,
@@ -22834,7 +25945,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-janardan-singh-sigriwal@sansad.nic.in",
-    "phone": "+91 98765 11038"
+    "phone": "+91 98765 11038",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018357-2",
@@ -22843,7 +25957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "MUNGER",
     "sanctionedCr": 0.1,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -22856,7 +25970,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.rajiv-ranjan-lalan-singh@sansad.nic.in",
-    "phone": "+91 98765 11039"
+    "phone": "+91 98765 11039",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018354-2",
@@ -22865,7 +25982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "NALANDA",
     "sanctionedCr": 8.42,
     "disbursedCr": 9.71,
     "reconciledDisbursedCr": 9.71,
@@ -22878,7 +25995,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kaushalendra-kumar@sansad.nic.in",
-    "phone": "+91 98765 11040"
+    "phone": "+91 98765 11040",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018969-2",
@@ -22887,7 +26007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PURVI CHAMPARAN",
     "sanctionedCr": 13.04,
     "disbursedCr": 13.96,
     "reconciledDisbursedCr": 13.96,
@@ -22900,7 +26020,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.radha-mohan-singh@sansad.nic.in",
-    "phone": "+91 98765 11041"
+    "phone": "+91 98765 11041",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018359-2",
@@ -22909,7 +26032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SUPAUL",
     "sanctionedCr": 13.1,
     "disbursedCr": 18.12,
     "reconciledDisbursedCr": 18.12,
@@ -22922,7 +26045,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dileshwar-kamait@sansad.nic.in",
-    "phone": "+91 98765 11042"
+    "phone": "+91 98765 11042",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3017382-2",
@@ -22931,7 +26057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "VAISHALI",
     "sanctionedCr": 14.69,
     "disbursedCr": 26.22,
     "reconciledDisbursedCr": 26.22,
@@ -22944,7 +26070,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-veena-devi@sansad.nic.in",
-    "phone": "+91 98765 11043"
+    "phone": "+91 98765 11043",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018350-2",
@@ -22953,7 +26082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "GOPALGANJ (SC)",
     "sanctionedCr": 15.01,
     "disbursedCr": 10.64,
     "reconciledDisbursedCr": 10.64,
@@ -22966,7 +26095,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.alok-kumar-suman@sansad.nic.in",
-    "phone": "+91 98765 11044"
+    "phone": "+91 98765 11044",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042310-2",
@@ -22975,7 +26107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "HAJIPUR(SC)",
     "sanctionedCr": 10.99,
     "disbursedCr": 11.82,
     "reconciledDisbursedCr": 11.82,
@@ -22985,10 +26117,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 50,
     "worksRecommended": 113,
     "completionRate": 44.2,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "LJP(RV)",
+    "partyHi": "\u0932\u094b\u091c\u092a\u093e(\u0930\u093e)",
     "email": "mp.chirag-paswan@sansad.nic.in",
-    "phone": "+91 98765 11045"
+    "phone": "+91 98765 11045",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3043221-2",
@@ -22997,7 +26132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "JAHANABAD",
     "sanctionedCr": 12.9,
     "disbursedCr": 15.19,
     "reconciledDisbursedCr": 15.19,
@@ -23010,7 +26145,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.surendra-prasad-yadav@sansad.nic.in",
-    "phone": "+91 98765 11046"
+    "phone": "+91 98765 11046",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018972-2",
@@ -23019,7 +26157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "VALMIKI NAGAR",
     "sanctionedCr": 14.46,
     "disbursedCr": 12.92,
     "reconciledDisbursedCr": 12.92,
@@ -23032,7 +26170,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sunil-kumar@sansad.nic.in",
-    "phone": "+91 98765 11047"
+    "phone": "+91 98765 11047",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018960-2",
@@ -23041,7 +26182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PASCHIM CHAMPARAN",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -23054,7 +26195,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.sanjay-jaiswal@sansad.nic.in",
-    "phone": "+91 98765 11048"
+    "phone": "+91 98765 11048",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3021513-2",
@@ -23063,7 +26207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "UJJARPUR",
     "sanctionedCr": 10.35,
     "disbursedCr": 6.24,
     "reconciledDisbursedCr": 6.24,
@@ -23076,7 +26220,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.nityanand-rai@sansad.nic.in",
-    "phone": "+91 98765 11049"
+    "phone": "+91 98765 11049",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018961-2",
@@ -23085,7 +26232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "DARBHANGA",
     "sanctionedCr": 8.72,
     "disbursedCr": 15.15,
     "reconciledDisbursedCr": 15.15,
@@ -23098,7 +26245,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.mr-gopal-jee-thakur@sansad.nic.in",
-    "phone": "+91 98765 11050"
+    "phone": "+91 98765 11050",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3018979-2",
@@ -23107,7 +26257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "PATNA SAHIB",
     "sanctionedCr": 7.03,
     "disbursedCr": 11.47,
     "reconciledDisbursedCr": 11.47,
@@ -23120,7 +26270,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ravi-shankar-prasad@sansad.nic.in",
-    "phone": "+91 98765 11051"
+    "phone": "+91 98765 11051",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": true
   },
   {
     "id": "MP-3044145-2",
@@ -23129,7 +26282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "NAWADA",
     "sanctionedCr": 8.64,
     "disbursedCr": 2.21,
     "reconciledDisbursedCr": 2.21,
@@ -23142,7 +26295,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.vivek-thakur@sansad.nic.in",
-    "phone": "+91 98765 11052"
+    "phone": "+91 98765 11052",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044146-2",
@@ -23151,7 +26307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SHEOHAR",
     "sanctionedCr": 11.46,
     "disbursedCr": 9.0,
     "reconciledDisbursedCr": 9.0,
@@ -23164,7 +26320,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.lovely-anand@sansad.nic.in",
-    "phone": "+91 98765 11053"
+    "phone": "+91 98765 11053",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018356-2",
@@ -23173,7 +26332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Bihar",
-    "constituency": "ARARIA",
+    "constituency": "SARAN",
     "sanctionedCr": 11.27,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -23186,7 +26345,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rajiv-pratap-rudy@sansad.nic.in",
-    "phone": "+91 98765 11054"
+    "phone": "+91 98765 11054",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042329-2",
@@ -23208,7 +26370,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.captain-viriato-fernandes@sansad.nic.in",
-    "phone": "+91 98765 11055"
+    "phone": "+91 98765 11055",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042330-2",
@@ -23217,7 +26382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "AHMEDABAD WEST(SC)",
     "sanctionedCr": 11.97,
     "disbursedCr": 3.41,
     "reconciledDisbursedCr": 3.41,
@@ -23230,7 +26395,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dineshbhai-makwana@sansad.nic.in",
-    "phone": "+91 98765 11056"
+    "phone": "+91 98765 11056",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042332-2",
@@ -23239,7 +26407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "MAHESANA",
     "sanctionedCr": 12.21,
     "disbursedCr": 5.58,
     "reconciledDisbursedCr": 5.58,
@@ -23252,7 +26420,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.haribhai-patel@sansad.nic.in",
-    "phone": "+91 98765 11057"
+    "phone": "+91 98765 11057",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042333-2",
@@ -23261,7 +26432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "PANCHMAHAL",
     "sanctionedCr": 11.01,
     "disbursedCr": 3.55,
     "reconciledDisbursedCr": 3.55,
@@ -23274,7 +26445,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.rajpalsinh-mahendrasinh-jadav@sansad.nic.in",
-    "phone": "+91 98765 11058"
+    "phone": "+91 98765 11058",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042334-2",
@@ -23283,7 +26457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "RAJKOT",
     "sanctionedCr": 15.22,
     "disbursedCr": 4.73,
     "reconciledDisbursedCr": 4.73,
@@ -23296,7 +26470,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.parshottambhai-rupala@sansad.nic.in",
-    "phone": "+91 98765 11059"
+    "phone": "+91 98765 11059",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042335-2",
@@ -23305,7 +26482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "SURAT",
     "sanctionedCr": 13.96,
     "disbursedCr": 4.2,
     "reconciledDisbursedCr": 4.2,
@@ -23318,7 +26495,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.mukeshkumar-chandrakaant-dalal@sansad.nic.in",
-    "phone": "+91 98765 11060"
+    "phone": "+91 98765 11060",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042336-2",
@@ -23327,7 +26507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "VADODARA",
     "sanctionedCr": 12.65,
     "disbursedCr": 7.54,
     "reconciledDisbursedCr": 7.54,
@@ -23340,7 +26520,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-hemang-joshi@sansad.nic.in",
-    "phone": "+91 98765 11061"
+    "phone": "+91 98765 11061",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042337-2",
@@ -23349,7 +26532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "VALSAD(ST)",
     "sanctionedCr": 12.9,
     "disbursedCr": 4.56,
     "reconciledDisbursedCr": 4.56,
@@ -23362,7 +26545,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.dhaval-laxmanbhai-patel@sansad.nic.in",
-    "phone": "+91 98765 11062"
+    "phone": "+91 98765 11062",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042331-2",
@@ -23371,7 +26557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "CHHOTA UDAIPUR(ST)",
     "sanctionedCr": 13.15,
     "disbursedCr": 4.9,
     "reconciledDisbursedCr": 4.9,
@@ -23384,7 +26570,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jashubhai-bhilubhai-rathva@sansad.nic.in",
-    "phone": "+91 98765 11063"
+    "phone": "+91 98765 11063",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019002-2",
@@ -23393,7 +26582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "AHMEDABAD EAST",
     "sanctionedCr": 13.38,
     "disbursedCr": 3.96,
     "reconciledDisbursedCr": 3.96,
@@ -23406,7 +26595,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.hasmukh-bhai-soma-bhai-patel@sansad.nic.in",
-    "phone": "+91 98765 11064"
+    "phone": "+91 98765 11064",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018995-2",
@@ -23415,7 +26607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "BHARUCH",
     "sanctionedCr": 13.09,
     "disbursedCr": 7.39,
     "reconciledDisbursedCr": 7.39,
@@ -23428,7 +26620,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mansukhbhai-dhanjibhai-vasava@sansad.nic.in",
-    "phone": "+91 98765 11065"
+    "phone": "+91 98765 11065",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018994-2",
@@ -23437,7 +26632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "DAHOD(ST)",
     "sanctionedCr": 14.78,
     "disbursedCr": 3.2,
     "reconciledDisbursedCr": 3.2,
@@ -23450,7 +26645,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.jaswantsinh-sumanbhai-bhabhor@sansad.nic.in",
-    "phone": "+91 98765 11066"
+    "phone": "+91 98765 11066",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017181-2",
@@ -23459,7 +26657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "KHEDA",
     "sanctionedCr": 14.53,
     "disbursedCr": 5.94,
     "reconciledDisbursedCr": 5.94,
@@ -23472,7 +26670,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.devusinh-jesingbhai-chauhan@sansad.nic.in",
-    "phone": "+91 98765 11067"
+    "phone": "+91 98765 11067",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018992-2",
@@ -23481,7 +26682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "NAVSARI",
     "sanctionedCr": 13.2,
     "disbursedCr": 7.38,
     "reconciledDisbursedCr": 7.38,
@@ -23494,7 +26695,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.c-r-patil@sansad.nic.in",
-    "phone": "+91 98765 11068"
+    "phone": "+91 98765 11068",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018991-2",
@@ -23503,7 +26707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "PATAN",
     "sanctionedCr": 12.77,
     "disbursedCr": 7.86,
     "reconciledDisbursedCr": 7.86,
@@ -23516,7 +26720,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.bharatsinhji-shankarji-dabhi@sansad.nic.in",
-    "phone": "+91 98765 11069"
+    "phone": "+91 98765 11069",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018996-2",
@@ -23525,7 +26732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "ANAND",
     "sanctionedCr": 12.31,
     "disbursedCr": 6.88,
     "reconciledDisbursedCr": 6.88,
@@ -23538,7 +26745,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.mitesh-rameshbhai-bakabhai-patel@sansad.nic.in",
-    "phone": "+91 98765 11070"
+    "phone": "+91 98765 11070",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018999-2",
@@ -23547,7 +26757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "BARDOLI(ST)",
     "sanctionedCr": 12.75,
     "disbursedCr": 3.33,
     "reconciledDisbursedCr": 3.33,
@@ -23560,7 +26770,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.prabhubhai-nagarbhai-vasava@sansad.nic.in",
-    "phone": "+91 98765 11071"
+    "phone": "+91 98765 11071",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043220-2",
@@ -23582,7 +26795,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.geniben-nagaji-thakor@sansad.nic.in",
-    "phone": "+91 98765 11072"
+    "phone": "+91 98765 11072",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043222-2",
@@ -23591,7 +26807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "SABARKANTHA",
     "sanctionedCr": 10.49,
     "disbursedCr": 6.08,
     "reconciledDisbursedCr": 6.08,
@@ -23604,7 +26820,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shobhanaben-mahendrasinh-baraiya@sansad.nic.in",
-    "phone": "+91 98765 11073"
+    "phone": "+91 98765 11073",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043225-2",
@@ -23613,7 +26832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "AMRELI",
     "sanctionedCr": 12.93,
     "disbursedCr": 6.64,
     "reconciledDisbursedCr": 6.64,
@@ -23626,7 +26845,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bharatbhai-manubhai-sutariya@sansad.nic.in",
-    "phone": "+91 98765 11074"
+    "phone": "+91 98765 11074",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043226-2",
@@ -23635,7 +26857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "BHAVNAGAR",
     "sanctionedCr": 8.24,
     "disbursedCr": 4.41,
     "reconciledDisbursedCr": 4.41,
@@ -23648,7 +26870,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.nimuben-jayantibhai-bambhaniya@sansad.nic.in",
-    "phone": "+91 98765 11075"
+    "phone": "+91 98765 11075",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043227-2",
@@ -23657,7 +26882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "SURENDRANAGAR",
     "sanctionedCr": 9.21,
     "disbursedCr": 6.09,
     "reconciledDisbursedCr": 6.09,
@@ -23670,7 +26895,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.chandubhai-chhaganbhai-shihora@sansad.nic.in",
-    "phone": "+91 98765 11076"
+    "phone": "+91 98765 11076",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019001-2",
@@ -23679,7 +26907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "KACHCHH(SC)",
     "sanctionedCr": 14.81,
     "disbursedCr": 5.71,
     "reconciledDisbursedCr": 5.71,
@@ -23692,7 +26920,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vinod-chavda@sansad.nic.in",
-    "phone": "+91 98765 11077"
+    "phone": "+91 98765 11077",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043487-2",
@@ -23701,7 +26932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "PORBANDAR",
     "sanctionedCr": 14.12,
     "disbursedCr": 3.96,
     "reconciledDisbursedCr": 3.96,
@@ -23714,7 +26945,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.dr-mansukh-mandaviya@sansad.nic.in",
-    "phone": "+91 98765 11078"
+    "phone": "+91 98765 11078",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019005-2",
@@ -23723,7 +26957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "JAMNAGAR",
     "sanctionedCr": 8.45,
     "disbursedCr": 2.99,
     "reconciledDisbursedCr": 2.99,
@@ -23736,7 +26970,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-poonamben-hematbhai-maadam@sansad.nic.in",
-    "phone": "+91 98765 11079"
+    "phone": "+91 98765 11079",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017388-2",
@@ -23745,7 +26982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Gujarat",
-    "constituency": "BANASKANTHA",
+    "constituency": "JUNAGADH",
     "sanctionedCr": 14.75,
     "disbursedCr": 5.77,
     "reconciledDisbursedCr": 5.77,
@@ -23758,7 +26995,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajeshbhai-naranbhai-chudasama@sansad.nic.in",
-    "phone": "+91 98765 11080"
+    "phone": "+91 98765 11080",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019034-2",
@@ -23767,7 +27007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BAGALKOT",
     "sanctionedCr": 11.92,
     "disbursedCr": 6.88,
     "reconciledDisbursedCr": 6.88,
@@ -23780,7 +27020,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.parvatagouda-chandanagouda-gaddigoudar@sansad.nic.in",
-    "phone": "+91 98765 11081"
+    "phone": "+91 98765 11081",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017406-2",
@@ -23789,7 +27032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BANGALORE SOUTH",
     "sanctionedCr": 12.67,
     "disbursedCr": 5.16,
     "reconciledDisbursedCr": 5.16,
@@ -23802,7 +27045,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-ls-tejasvi-surya@sansad.nic.in",
-    "phone": "+91 98765 11082"
+    "phone": "+91 98765 11082",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019039-2",
@@ -23811,7 +27057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BIJAPUR(SC)",
     "sanctionedCr": 14.63,
     "disbursedCr": 2.68,
     "reconciledDisbursedCr": 2.68,
@@ -23824,7 +27070,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ramesh-chandappa-jigajinagi@sansad.nic.in",
-    "phone": "+91 98765 11083"
+    "phone": "+91 98765 11083",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019036-2",
@@ -23833,7 +27082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "DHARWAD",
     "sanctionedCr": 9.62,
     "disbursedCr": 2.39,
     "reconciledDisbursedCr": 2.39,
@@ -23846,7 +27095,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.pralhad-venkatesh-joshi@sansad.nic.in",
-    "phone": "+91 98765 11084"
+    "phone": "+91 98765 11084",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017402-2",
@@ -23855,7 +27107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "SHIMOGA",
     "sanctionedCr": 14.59,
     "disbursedCr": 7.52,
     "reconciledDisbursedCr": 7.52,
@@ -23868,7 +27120,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-b-y-raghavendra@sansad.nic.in",
-    "phone": "+91 98765 11085"
+    "phone": "+91 98765 11085",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019529-2",
@@ -23877,7 +27132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BANGALORE CENTRAL",
     "sanctionedCr": 4.09,
     "disbursedCr": 0.78,
     "reconciledDisbursedCr": 0.78,
@@ -23890,7 +27145,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.p-c-mohan@sansad.nic.in",
-    "phone": "+91 98765 11086"
+    "phone": "+91 98765 11086",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043716-2",
@@ -23899,7 +27157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "BANGALORE NORTH",
     "sanctionedCr": 12.22,
     "disbursedCr": 6.21,
     "reconciledDisbursedCr": 6.21,
@@ -23912,7 +27170,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shobha-karandlaje@sansad.nic.in",
-    "phone": "+91 98765 11087"
+    "phone": "+91 98765 11087",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043717-2",
@@ -23921,7 +27182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Karnataka",
-    "constituency": "BANGALORE RURAL",
+    "constituency": "CHIKKODI",
     "sanctionedCr": 12.04,
     "disbursedCr": 2.45,
     "reconciledDisbursedCr": 2.45,
@@ -23934,7 +27195,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.priyanka-satish-jarkiholi@sansad.nic.in",
-    "phone": "+91 98765 11088"
+    "phone": "+91 98765 11088",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017412-2",
@@ -23943,7 +27207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "MAVELIKKARA(SC)",
     "sanctionedCr": 13.26,
     "disbursedCr": 4.48,
     "reconciledDisbursedCr": 4.48,
@@ -23956,7 +27220,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-suresh-kodikunnil@sansad.nic.in",
-    "phone": "+91 98765 11089"
+    "phone": "+91 98765 11089",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017415-2",
@@ -23965,7 +27232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "KASARAGOD",
     "sanctionedCr": 11.74,
     "disbursedCr": 3.21,
     "reconciledDisbursedCr": 3.21,
@@ -23978,7 +27245,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-rajmohan-unnithan@sansad.nic.in",
-    "phone": "+91 98765 11090"
+    "phone": "+91 98765 11090",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019048-2",
@@ -23987,7 +27257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "PATHANAMTHITTA",
     "sanctionedCr": 14.97,
     "disbursedCr": 2.8,
     "reconciledDisbursedCr": 2.8,
@@ -24000,7 +27270,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.anto-antony@sansad.nic.in",
-    "phone": "+91 98765 11091"
+    "phone": "+91 98765 11091",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042789-2",
@@ -24009,7 +27282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "MALAPPURAM",
     "sanctionedCr": 12.97,
     "disbursedCr": 5.85,
     "reconciledDisbursedCr": 5.85,
@@ -24022,7 +27295,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.e-t-mohammed-basheer@sansad.nic.in",
-    "phone": "+91 98765 11092"
+    "phone": "+91 98765 11092",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042790-2",
@@ -24031,7 +27307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "PONNANI",
     "sanctionedCr": 17.06,
     "disbursedCr": 2.57,
     "reconciledDisbursedCr": 2.57,
@@ -24044,7 +27320,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.dr-m-p-abdussamad-samadani@sansad.nic.in",
-    "phone": "+91 98765 11093"
+    "phone": "+91 98765 11093",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043393-2",
@@ -24053,7 +27332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "ALATHUR(SC)",
     "sanctionedCr": 14.56,
     "disbursedCr": 3.41,
     "reconciledDisbursedCr": 3.41,
@@ -24066,7 +27345,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.k-radhakrishnan@sansad.nic.in",
-    "phone": "+91 98765 11094"
+    "phone": "+91 98765 11094",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3049648-2",
@@ -24075,7 +27357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Kerala",
-    "constituency": "KANNUR",
+    "constituency": "WAYANAD",
     "sanctionedCr": 12.53,
     "disbursedCr": 5.08,
     "reconciledDisbursedCr": 5.08,
@@ -24088,7 +27370,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.priyanka-gandhi-vadra@sansad.nic.in",
-    "phone": "+91 98765 11095"
+    "phone": "+91 98765 11095",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042387-2",
@@ -24097,7 +27382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "HOSHANGABAD",
     "sanctionedCr": 7.71,
     "disbursedCr": 3.3,
     "reconciledDisbursedCr": 3.3,
@@ -24110,7 +27395,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.darshan-singh-choudhary@sansad.nic.in",
-    "phone": "+91 98765 11096"
+    "phone": "+91 98765 11096",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042388-2",
@@ -24119,7 +27407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "JABALPUR",
     "sanctionedCr": 13.02,
     "disbursedCr": 2.55,
     "reconciledDisbursedCr": 2.55,
@@ -24132,7 +27420,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ashish-dubey@sansad.nic.in",
-    "phone": "+91 98765 11097"
+    "phone": "+91 98765 11097",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042389-2",
@@ -24141,7 +27432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "MORENA",
     "sanctionedCr": 3.92,
     "disbursedCr": 2.18,
     "reconciledDisbursedCr": 2.18,
@@ -24154,7 +27445,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shivmangal-singh-tomar@sansad.nic.in",
-    "phone": "+91 98765 11098"
+    "phone": "+91 98765 11098",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042390-2",
@@ -24163,7 +27457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "RATLAM(ST)",
     "sanctionedCr": 9.16,
     "disbursedCr": 5.53,
     "reconciledDisbursedCr": 5.53,
@@ -24176,7 +27470,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.anita-nagarsingh-chouhan@sansad.nic.in",
-    "phone": "+91 98765 11099"
+    "phone": "+91 98765 11099",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042391-2",
@@ -24185,7 +27482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SAGAR",
     "sanctionedCr": 14.68,
     "disbursedCr": 10.94,
     "reconciledDisbursedCr": 10.94,
@@ -24198,7 +27495,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-lata-wankhede@sansad.nic.in",
-    "phone": "+91 98765 11100"
+    "phone": "+91 98765 11100",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042392-2",
@@ -24207,7 +27507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SIDHI",
     "sanctionedCr": 24.21,
     "disbursedCr": 18.95,
     "reconciledDisbursedCr": 18.95,
@@ -24220,7 +27520,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-rajesh-mishra@sansad.nic.in",
-    "phone": "+91 98765 11101"
+    "phone": "+91 98765 11101",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018381-2",
@@ -24242,7 +27545,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.durga-das-uikey@sansad.nic.in",
-    "phone": "+91 98765 11102"
+    "phone": "+91 98765 11102",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019070-2",
@@ -24251,7 +27557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "BHIND(SC)",
     "sanctionedCr": 6.97,
     "disbursedCr": 2.52,
     "reconciledDisbursedCr": 2.52,
@@ -24264,7 +27570,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-sandhya-ray@sansad.nic.in",
-    "phone": "+91 98765 11103"
+    "phone": "+91 98765 11103",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019068-2",
@@ -24273,7 +27582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "DEWAS(SC)",
     "sanctionedCr": 11.46,
     "disbursedCr": 4.62,
     "reconciledDisbursedCr": 4.62,
@@ -24286,7 +27595,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.mahendra-singh-solanky@sansad.nic.in",
-    "phone": "+91 98765 11104"
+    "phone": "+91 98765 11104",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019065-2",
@@ -24295,7 +27607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "INDORE",
     "sanctionedCr": 13.84,
     "disbursedCr": 8.05,
     "reconciledDisbursedCr": 8.05,
@@ -24308,7 +27620,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shankar-lalwani@sansad.nic.in",
-    "phone": "+91 98765 11105"
+    "phone": "+91 98765 11105",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019056-2",
@@ -24317,7 +27632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "KHARGONE(ST)",
     "sanctionedCr": 11.24,
     "disbursedCr": 7.13,
     "reconciledDisbursedCr": 7.13,
@@ -24330,7 +27645,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.gajendra-singh-patel@sansad.nic.in",
-    "phone": "+91 98765 11106"
+    "phone": "+91 98765 11106",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019055-2",
@@ -24339,7 +27657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "MANDLA(ST)",
     "sanctionedCr": 9.36,
     "disbursedCr": 5.83,
     "reconciledDisbursedCr": 5.83,
@@ -24352,7 +27670,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.faggan-singh-kulaste@sansad.nic.in",
-    "phone": "+91 98765 11107"
+    "phone": "+91 98765 11107",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017421-2",
@@ -24361,7 +27682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "MANDSOUR",
     "sanctionedCr": 5.67,
     "disbursedCr": 2.39,
     "reconciledDisbursedCr": 2.39,
@@ -24374,7 +27695,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-sudheer-gupta@sansad.nic.in",
-    "phone": "+91 98765 11108"
+    "phone": "+91 98765 11108",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018380-2",
@@ -24383,7 +27707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "RAJGARH",
     "sanctionedCr": 14.72,
     "disbursedCr": 9.55,
     "reconciledDisbursedCr": 9.55,
@@ -24396,7 +27720,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.rodmal-nagar@sansad.nic.in",
-    "phone": "+91 98765 11109"
+    "phone": "+91 98765 11109",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019059-2",
@@ -24405,7 +27732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "REWA",
     "sanctionedCr": 14.3,
     "disbursedCr": 8.69,
     "reconciledDisbursedCr": 8.69,
@@ -24418,7 +27745,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.janardan-mishra@sansad.nic.in",
-    "phone": "+91 98765 11110"
+    "phone": "+91 98765 11110",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019057-2",
@@ -24427,7 +27757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SATNA",
     "sanctionedCr": 7.2,
     "disbursedCr": 4.81,
     "reconciledDisbursedCr": 4.81,
@@ -24440,7 +27770,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.ganesh-singh@sansad.nic.in",
-    "phone": "+91 98765 11111"
+    "phone": "+91 98765 11111",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019069-2",
@@ -24449,7 +27782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "SHAHDOL (ST)",
     "sanctionedCr": 14.36,
     "disbursedCr": 7.29,
     "reconciledDisbursedCr": 7.29,
@@ -24462,7 +27795,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-himadri-singh@sansad.nic.in",
-    "phone": "+91 98765 11112"
+    "phone": "+91 98765 11112",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019053-2",
@@ -24471,7 +27807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "TIKAMGARH(SC)",
     "sanctionedCr": 14.49,
     "disbursedCr": 5.52,
     "reconciledDisbursedCr": 5.52,
@@ -24484,7 +27820,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.virendra-kumar@sansad.nic.in",
-    "phone": "+91 98765 11113"
+    "phone": "+91 98765 11113",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017425-2",
@@ -24493,7 +27832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "UJJAIN(SC)",
     "sanctionedCr": 10.0,
     "disbursedCr": 8.22,
     "reconciledDisbursedCr": 8.22,
@@ -24506,7 +27845,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-anil-firojiya@sansad.nic.in",
-    "phone": "+91 98765 11114"
+    "phone": "+91 98765 11114",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019058-2",
@@ -24515,7 +27857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "KHANDWA",
     "sanctionedCr": 13.25,
     "disbursedCr": 8.98,
     "reconciledDisbursedCr": 8.98,
@@ -24528,7 +27870,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.gyaneshwar-patil@sansad.nic.in",
-    "phone": "+91 98765 11115"
+    "phone": "+91 98765 11115",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018383-2",
@@ -24537,7 +27882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "KHAJURAHO",
     "sanctionedCr": 14.64,
     "disbursedCr": 2.1,
     "reconciledDisbursedCr": 2.1,
@@ -24550,7 +27895,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.vishnu-dutt-sharma@sansad.nic.in",
-    "phone": "+91 98765 11116"
+    "phone": "+91 98765 11116",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043718-2",
@@ -24559,7 +27907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "GUNA",
     "sanctionedCr": 9.09,
     "disbursedCr": 5.59,
     "reconciledDisbursedCr": 5.59,
@@ -24572,7 +27920,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jyotiraditya-m-scindia@sansad.nic.in",
-    "phone": "+91 98765 11117"
+    "phone": "+91 98765 11117",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044395-2",
@@ -24581,7 +27932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Madhya Pradesh",
-    "constituency": "BETUL(ST)",
+    "constituency": "VIDISHA",
     "sanctionedCr": 6.6,
     "disbursedCr": 3.95,
     "reconciledDisbursedCr": 3.95,
@@ -24591,10 +27942,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 10,
     "worksRecommended": 120,
     "completionRate": 8.3,
-    "party": "SP",
-    "partyHi": "\u0938\u092a\u093e",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shivraj-singh-chouhan@sansad.nic.in",
-    "phone": "+91 98765 11118"
+    "phone": "+91 98765 11118",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042419-2",
@@ -24603,7 +27957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SHIRDI(SC)",
     "sanctionedCr": 9.93,
     "disbursedCr": 2.16,
     "reconciledDisbursedCr": 2.16,
@@ -24616,7 +27970,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.bhausaheb-rajaram-wakchaure@sansad.nic.in",
-    "phone": "+91 98765 11119"
+    "phone": "+91 98765 11119",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042420-2",
@@ -24625,7 +27982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "THANE",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -24638,7 +27995,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.naresh-ganpat-mhaske@sansad.nic.in",
-    "phone": "+91 98765 11120"
+    "phone": "+91 98765 11120",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042421-2",
@@ -24647,7 +28007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "WARDHA",
     "sanctionedCr": 6.92,
     "disbursedCr": 3.63,
     "reconciledDisbursedCr": 3.63,
@@ -24660,7 +28020,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.amar-sharadrao-kale@sansad.nic.in",
-    "phone": "+91 98765 11121"
+    "phone": "+91 98765 11121",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042400-2",
@@ -24669,7 +28032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "CHANDRAPUR",
     "sanctionedCr": 11.06,
     "disbursedCr": 2.12,
     "reconciledDisbursedCr": 2.12,
@@ -24682,7 +28045,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.dhanorkar-pratibha-suresh-alias-balubhau@sansad.nic.in",
-    "phone": "+91 98765 11122"
+    "phone": "+91 98765 11122",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042408-2",
@@ -24691,7 +28057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MADHA",
     "sanctionedCr": 9.51,
     "disbursedCr": 1.07,
     "reconciledDisbursedCr": 1.07,
@@ -24704,7 +28070,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.mohite-patil-dhairyasheel-rajsinh@sansad.nic.in",
-    "phone": "+91 98765 11123"
+    "phone": "+91 98765 11123",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019082-2",
@@ -24713,7 +28082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "HATKANANGLE",
     "sanctionedCr": 2.1,
     "disbursedCr": 0.85,
     "reconciledDisbursedCr": 0.85,
@@ -24726,7 +28095,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dhairyasheel-sambhajirao-mane@sansad.nic.in",
-    "phone": "+91 98765 11124"
+    "phone": "+91 98765 11124",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019077-2",
@@ -24735,7 +28107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "KALYAN",
     "sanctionedCr": 0.28,
     "disbursedCr": 0.03,
     "reconciledDisbursedCr": 0.03,
@@ -24748,7 +28120,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shrikant-eknath-shinde@sansad.nic.in",
-    "phone": "+91 98765 11125"
+    "phone": "+91 98765 11125",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019079-2",
@@ -24757,7 +28132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI SOUTH",
     "sanctionedCr": 13.25,
     "disbursedCr": 4.81,
     "reconciledDisbursedCr": 4.81,
@@ -24770,7 +28145,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.arvind-ganpat-sawant@sansad.nic.in",
-    "phone": "+91 98765 11126"
+    "phone": "+91 98765 11126",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019088-2",
@@ -24779,7 +28157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "OSMANABAD",
     "sanctionedCr": 15.11,
     "disbursedCr": 3.29,
     "reconciledDisbursedCr": 3.29,
@@ -24792,7 +28170,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.omprakash-bhupalsinh-alias-pawan-rajenimbalkar@sansad.nic.in",
-    "phone": "+91 98765 11127"
+    "phone": "+91 98765 11127",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019101-2",
@@ -24801,7 +28182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "RAIGAD",
     "sanctionedCr": 10.93,
     "disbursedCr": 6.66,
     "reconciledDisbursedCr": 6.66,
@@ -24814,7 +28195,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.sunil-dattatray-tatkare@sansad.nic.in",
-    "phone": "+91 98765 11128"
+    "phone": "+91 98765 11128",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019105-2",
@@ -24836,7 +28220,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.smt-raksha-nikhil-khadse@sansad.nic.in",
-    "phone": "+91 98765 11129"
+    "phone": "+91 98765 11129",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019076-2",
@@ -24845,7 +28232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SHIRUR",
     "sanctionedCr": 10.71,
     "disbursedCr": 2.56,
     "reconciledDisbursedCr": 2.56,
@@ -24858,7 +28245,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.amol-ramsing-kolhe@sansad.nic.in",
-    "phone": "+91 98765 11130"
+    "phone": "+91 98765 11130",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042792-2",
@@ -24867,7 +28257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH",
     "sanctionedCr": 9.8,
     "disbursedCr": 3.08,
     "reconciledDisbursedCr": 3.08,
@@ -24880,7 +28270,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.piyush-vedprakash-goyal@sansad.nic.in",
-    "phone": "+91 98765 11131"
+    "phone": "+91 98765 11131",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042793-2",
@@ -24889,7 +28282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH WEST",
     "sanctionedCr": 14.7,
     "disbursedCr": 7.21,
     "reconciledDisbursedCr": 7.21,
@@ -24902,7 +28295,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ravindra-dattaram-waikar@sansad.nic.in",
-    "phone": "+91 98765 11132"
+    "phone": "+91 98765 11132",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019099-2",
@@ -24911,7 +28307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MAVAL",
     "sanctionedCr": 11.75,
     "disbursedCr": 3.92,
     "reconciledDisbursedCr": 3.92,
@@ -24924,7 +28320,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shrirang-appa-barne@sansad.nic.in",
-    "phone": "+91 98765 11133"
+    "phone": "+91 98765 11133",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019087-2",
@@ -24933,7 +28332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "NAGPUR",
     "sanctionedCr": 15.02,
     "disbursedCr": 4.66,
     "reconciledDisbursedCr": 4.66,
@@ -24946,7 +28345,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.nitin-jairam-gadkari@sansad.nic.in",
-    "phone": "+91 98765 11134"
+    "phone": "+91 98765 11134",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019106-2",
@@ -24955,7 +28357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BARAMATI",
     "sanctionedCr": 9.99,
     "disbursedCr": 2.98,
     "reconciledDisbursedCr": 2.98,
@@ -24968,7 +28370,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-supriya-sadanand-sule@sansad.nic.in",
-    "phone": "+91 98765 11135"
+    "phone": "+91 98765 11135",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019095-2",
@@ -24977,7 +28382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "PARBHANI",
     "sanctionedCr": 7.9,
     "disbursedCr": 4.3,
     "reconciledDisbursedCr": 4.3,
@@ -24990,7 +28395,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sanjay-haribhau-jadhav@sansad.nic.in",
-    "phone": "+91 98765 11136"
+    "phone": "+91 98765 11136",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043224-2",
@@ -24999,7 +28407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "LATUR(SC)",
     "sanctionedCr": 9.44,
     "disbursedCr": 3.08,
     "reconciledDisbursedCr": 3.08,
@@ -25012,7 +28420,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-kalge-shivaji-bandappa@sansad.nic.in",
-    "phone": "+91 98765 11137"
+    "phone": "+91 98765 11137",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043228-2",
@@ -25021,7 +28432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "SOLAPUR(SC)",
     "sanctionedCr": 11.84,
     "disbursedCr": 1.1,
     "reconciledDisbursedCr": 1.1,
@@ -25034,7 +28445,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.praniti-sushilkumar-shinde@sansad.nic.in",
-    "phone": "+91 98765 11138"
+    "phone": "+91 98765 11138",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019090-2",
@@ -25043,7 +28457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "BULDHANA",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.12,
     "reconciledDisbursedCr": 0.12,
@@ -25056,7 +28470,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.prataprao-jadhav@sansad.nic.in",
-    "phone": "+91 98765 11139"
+    "phone": "+91 98765 11139",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043915-2",
@@ -25065,7 +28482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI NORTH EAST",
     "sanctionedCr": 8.75,
     "disbursedCr": 0.6,
     "reconciledDisbursedCr": 0.6,
@@ -25078,7 +28495,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.sanjay-dina-patil@sansad.nic.in",
-    "phone": "+91 98765 11140"
+    "phone": "+91 98765 11140",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044176-2",
@@ -25087,7 +28507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "YAVATMAL-WASHIM",
     "sanctionedCr": 9.12,
     "disbursedCr": 2.69,
     "reconciledDisbursedCr": 2.69,
@@ -25100,7 +28520,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sanjay-uttamrao-deshmukh@sansad.nic.in",
-    "phone": "+91 98765 11141"
+    "phone": "+91 98765 11141",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044396-2",
@@ -25109,7 +28532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Maharashtra",
-    "constituency": "RAVER",
+    "constituency": "MUMBAI SOUTH CENTRAL",
     "sanctionedCr": 14.28,
     "disbursedCr": 7.22,
     "reconciledDisbursedCr": 7.22,
@@ -25122,7 +28545,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.anil-yeshwant-desai@sansad.nic.in",
-    "phone": "+91 98765 11142"
+    "phone": "+91 98765 11142",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3052343-2",
@@ -25144,7 +28570,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ravindra-vasantrao-chavan@sansad.nic.in",
-    "phone": "+91 98765 11143"
+    "phone": "+91 98765 11143",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042431-2",
@@ -25153,7 +28582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KEONJHAR(ST)",
     "sanctionedCr": 13.69,
     "disbursedCr": 3.47,
     "reconciledDisbursedCr": 3.47,
@@ -25166,7 +28595,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ananta-nayak@sansad.nic.in",
-    "phone": "+91 98765 11144"
+    "phone": "+91 98765 11144",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042432-2",
@@ -25175,7 +28607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "MAYURBHANJ (ST)",
     "sanctionedCr": 14.88,
     "disbursedCr": 4.5,
     "reconciledDisbursedCr": 4.5,
@@ -25188,7 +28620,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.naba-charan-majhi@sansad.nic.in",
-    "phone": "+91 98765 11145"
+    "phone": "+91 98765 11145",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042433-2",
@@ -25197,7 +28632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "NABARANGPUR(ST)",
     "sanctionedCr": 9.89,
     "disbursedCr": 2.22,
     "reconciledDisbursedCr": 2.22,
@@ -25210,7 +28645,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.balabhadra-majhi@sansad.nic.in",
-    "phone": "+91 98765 11146"
+    "phone": "+91 98765 11146",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042434-2",
@@ -25219,7 +28657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "PURI",
     "sanctionedCr": 12.5,
     "disbursedCr": 4.3,
     "reconciledDisbursedCr": 4.3,
@@ -25232,7 +28670,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.sambit-patra@sansad.nic.in",
-    "phone": "+91 98765 11147"
+    "phone": "+91 98765 11147",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042435-2",
@@ -25241,7 +28682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "SAMBALPUR",
     "sanctionedCr": 9.15,
     "disbursedCr": 1.45,
     "reconciledDisbursedCr": 1.45,
@@ -25254,7 +28695,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dharmendra-pradhan@sansad.nic.in",
-    "phone": "+91 98765 11148"
+    "phone": "+91 98765 11148",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018389-2",
@@ -25263,7 +28707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BALASORE",
     "sanctionedCr": 4.84,
     "disbursedCr": 0.43,
     "reconciledDisbursedCr": 0.43,
@@ -25276,7 +28720,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.pratap-chandra-sarangi@sansad.nic.in",
-    "phone": "+91 98765 11149"
+    "phone": "+91 98765 11149",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017438-2",
@@ -25285,7 +28732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BOLANGIR",
     "sanctionedCr": 7.95,
     "disbursedCr": 0.77,
     "reconciledDisbursedCr": 0.77,
@@ -25298,7 +28745,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.smt-sangeeta-kumari-singh-deo@sansad.nic.in",
-    "phone": "+91 98765 11150"
+    "phone": "+91 98765 11150",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017437-2",
@@ -25320,7 +28770,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-bhartruhari-mahtab@sansad.nic.in",
-    "phone": "+91 98765 11151"
+    "phone": "+91 98765 11151",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018390-2",
@@ -25329,7 +28782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KORAPUT(ST)",
     "sanctionedCr": 19.73,
     "disbursedCr": 7.59,
     "reconciledDisbursedCr": 7.59,
@@ -25342,7 +28795,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.saptagiri-sankar-ulaka@sansad.nic.in",
-    "phone": "+91 98765 11152"
+    "phone": "+91 98765 11152",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017435-2",
@@ -25351,7 +28807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "SUNDARGARH (ST)",
     "sanctionedCr": 13.61,
     "disbursedCr": 6.98,
     "reconciledDisbursedCr": 6.98,
@@ -25364,7 +28820,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-jual-oram@sansad.nic.in",
-    "phone": "+91 98765 11153"
+    "phone": "+91 98765 11153",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042795-2",
@@ -25373,7 +28832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BHADRAK(SC)",
     "sanctionedCr": 10.6,
     "disbursedCr": 2.66,
     "reconciledDisbursedCr": 2.66,
@@ -25386,7 +28845,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.avimanyu-sethi@sansad.nic.in",
-    "phone": "+91 98765 11154"
+    "phone": "+91 98765 11154",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017373-2",
@@ -25395,7 +28857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "BHUBANESWAR",
     "sanctionedCr": 10.93,
     "disbursedCr": 3.67,
     "reconciledDisbursedCr": 3.67,
@@ -25408,7 +28870,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.smt-aparajita-sarangi@sansad.nic.in",
-    "phone": "+91 98765 11155"
+    "phone": "+91 98765 11155",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043546-2",
@@ -25417,7 +28882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "KANDHAMAL",
     "sanctionedCr": 12.56,
     "disbursedCr": 6.02,
     "reconciledDisbursedCr": 6.02,
@@ -25430,7 +28895,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.sukanta-kumar-panigrahi@sansad.nic.in",
-    "phone": "+91 98765 11156"
+    "phone": "+91 98765 11156",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043719-2",
@@ -25439,7 +28907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Odisha",
-    "constituency": "CUTTACK",
+    "constituency": "ASKA",
     "sanctionedCr": 5.88,
     "disbursedCr": 1.54,
     "reconciledDisbursedCr": 1.54,
@@ -25452,7 +28920,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.anita-subhadarshini@sansad.nic.in",
-    "phone": "+91 98765 11157"
+    "phone": "+91 98765 11157",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019127-2",
@@ -25474,7 +28945,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-harsimrat-kaur-badal@sansad.nic.in",
-    "phone": "+91 98765 11158"
+    "phone": "+91 98765 11158",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042456-2",
@@ -25483,7 +28957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "TONK-SAWAI MADHOPUR",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
     "reconciledDisbursedCr": 0.0,
@@ -25496,7 +28970,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.harish-chandra-meena@sansad.nic.in",
-    "phone": "+91 98765 11159"
+    "phone": "+91 98765 11159",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042457-2",
@@ -25505,7 +28982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "UDAIPUR(ST)",
     "sanctionedCr": 8.71,
     "disbursedCr": 4.38,
     "reconciledDisbursedCr": 4.38,
@@ -25518,7 +28995,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.manna-lal-rawat@sansad.nic.in",
-    "phone": "+91 98765 11160"
+    "phone": "+91 98765 11160",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017449-2",
@@ -25527,7 +29007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BIKANER(SC)",
     "sanctionedCr": 9.79,
     "disbursedCr": 3.66,
     "reconciledDisbursedCr": 3.66,
@@ -25540,7 +29020,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-arjun-ram-meghwal@sansad.nic.in",
-    "phone": "+91 98765 11161"
+    "phone": "+91 98765 11161",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019131-2",
@@ -25549,7 +29032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "CHITTORGARH",
     "sanctionedCr": 8.64,
     "disbursedCr": 0.55,
     "reconciledDisbursedCr": 0.55,
@@ -25562,7 +29045,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.chandra-prakash-joshi@sansad.nic.in",
-    "phone": "+91 98765 11162"
+    "phone": "+91 98765 11162",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019139-2",
@@ -25571,7 +29057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "CHURU",
     "sanctionedCr": 13.01,
     "disbursedCr": 6.65,
     "reconciledDisbursedCr": 6.65,
@@ -25584,7 +29070,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.rahul-kaswan@sansad.nic.in",
-    "phone": "+91 98765 11163"
+    "phone": "+91 98765 11163",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019133-2",
@@ -25593,7 +29082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JHALAWAR-BARAN",
     "sanctionedCr": 8.05,
     "disbursedCr": 0.67,
     "reconciledDisbursedCr": 0.67,
@@ -25606,7 +29095,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dushyant-singh@sansad.nic.in",
-    "phone": "+91 98765 11164"
+    "phone": "+91 98765 11164",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019134-2",
@@ -25615,7 +29107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JODHPUR",
     "sanctionedCr": 3.57,
     "disbursedCr": 0.28,
     "reconciledDisbursedCr": 0.28,
@@ -25628,7 +29120,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.gajendra-singh-shekhawat@sansad.nic.in",
-    "phone": "+91 98765 11165"
+    "phone": "+91 98765 11165",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017454-2",
@@ -25637,7 +29132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "PALI",
     "sanctionedCr": 3.44,
     "disbursedCr": 1.76,
     "reconciledDisbursedCr": 1.76,
@@ -25650,7 +29145,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-pp-chaudhary@sansad.nic.in",
-    "phone": "+91 98765 11166"
+    "phone": "+91 98765 11166",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019130-2",
@@ -25672,7 +29170,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.bhagirath-chaudhary@sansad.nic.in",
-    "phone": "+91 98765 11167"
+    "phone": "+91 98765 11167",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019138-2",
@@ -25681,7 +29182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "KOTA",
     "sanctionedCr": 5.13,
     "disbursedCr": 2.86,
     "reconciledDisbursedCr": 2.86,
@@ -25691,10 +29192,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 21,
     "worksRecommended": 62,
     "completionRate": 33.9,
-    "party": "RJD",
-    "partyHi": "\u0930\u093e\u091c\u0926",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.om-birla@sansad.nic.in",
-    "phone": "+91 98765 11168"
+    "phone": "+91 98765 11168",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042914-2",
@@ -25703,7 +29207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "BANSWARA(ST)",
     "sanctionedCr": 13.2,
     "disbursedCr": 7.03,
     "reconciledDisbursedCr": 7.03,
@@ -25716,7 +29220,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.raj-kumar-roat@sansad.nic.in",
-    "phone": "+91 98765 11169"
+    "phone": "+91 98765 11169",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017451-2",
@@ -25725,7 +29232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "NAGAUR",
     "sanctionedCr": 9.77,
     "disbursedCr": 7.19,
     "reconciledDisbursedCr": 7.19,
@@ -25738,7 +29245,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-hanuman-beniwal@sansad.nic.in",
-    "phone": "+91 98765 11170"
+    "phone": "+91 98765 11170",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044260-2",
@@ -25747,7 +29257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Rajasthan",
-    "constituency": "AJMER",
+    "constituency": "JAIPUR RURAL",
     "sanctionedCr": 6.89,
     "disbursedCr": 2.0,
     "reconciledDisbursedCr": 2.0,
@@ -25760,7 +29270,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rao-rajendra-singh@sansad.nic.in",
-    "phone": "+91 98765 11171"
+    "phone": "+91 98765 11171",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019169-2",
@@ -25769,7 +29282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KARUR",
     "sanctionedCr": 14.52,
     "disbursedCr": 5.11,
     "reconciledDisbursedCr": 5.11,
@@ -25782,7 +29295,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-s-jothimani@sansad.nic.in",
-    "phone": "+91 98765 11172"
+    "phone": "+91 98765 11172",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019151-2",
@@ -25791,7 +29307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "NILGIRIS(SC)",
     "sanctionedCr": 9.47,
     "disbursedCr": 7.68,
     "reconciledDisbursedCr": 7.68,
@@ -25804,7 +29320,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.andimuthu-raja@sansad.nic.in",
-    "phone": "+91 98765 11173"
+    "phone": "+91 98765 11173",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017457-2",
@@ -25813,7 +29332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "SIVAGANGA",
     "sanctionedCr": 13.7,
     "disbursedCr": 10.2,
     "reconciledDisbursedCr": 10.2,
@@ -25826,7 +29345,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-karti-p-chidambaram@sansad.nic.in",
-    "phone": "+91 98765 11174"
+    "phone": "+91 98765 11174",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019156-2",
@@ -25835,7 +29357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUPPUR",
     "sanctionedCr": 13.93,
     "disbursedCr": 8.34,
     "reconciledDisbursedCr": 8.34,
@@ -25848,7 +29370,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.k-subbarayan@sansad.nic.in",
-    "phone": "+91 98765 11175"
+    "phone": "+91 98765 11175",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019994-2",
@@ -25857,7 +29382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "VELLORE",
     "sanctionedCr": 13.18,
     "disbursedCr": 4.96,
     "reconciledDisbursedCr": 4.96,
@@ -25870,7 +29395,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.d-m-kathir-anand@sansad.nic.in",
-    "phone": "+91 98765 11176"
+    "phone": "+91 98765 11176",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018394-2",
@@ -25879,7 +29407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "VILUPPURAM(SC)",
     "sanctionedCr": 16.85,
     "disbursedCr": 10.84,
     "reconciledDisbursedCr": 10.84,
@@ -25892,7 +29420,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.d-ravikumar@sansad.nic.in",
-    "phone": "+91 98765 11177"
+    "phone": "+91 98765 11177",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019158-2",
@@ -25901,7 +29432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "VIRUDHUNAGAR",
     "sanctionedCr": 9.59,
     "disbursedCr": 9.22,
     "reconciledDisbursedCr": 9.22,
@@ -25914,7 +29445,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.manickam-tagore-b@sansad.nic.in",
-    "phone": "+91 98765 11178"
+    "phone": "+91 98765 11178",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019162-2",
@@ -25923,7 +29457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "MADURAI",
     "sanctionedCr": 8.66,
     "disbursedCr": 6.14,
     "reconciledDisbursedCr": 6.14,
@@ -25936,7 +29470,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.s-venkatesan@sansad.nic.in",
-    "phone": "+91 98765 11179"
+    "phone": "+91 98765 11179",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019166-2",
@@ -25945,7 +29482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "SRIPERUMBUDUR",
     "sanctionedCr": 14.04,
     "disbursedCr": 7.55,
     "reconciledDisbursedCr": 7.55,
@@ -25958,7 +29495,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.thalikkottai-rajuthevar-baalu@sansad.nic.in",
-    "phone": "+91 98765 11180"
+    "phone": "+91 98765 11180",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019242-2",
@@ -25967,7 +29507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUVANNAMALAI",
     "sanctionedCr": 10.63,
     "disbursedCr": 9.12,
     "reconciledDisbursedCr": 9.12,
@@ -25980,7 +29520,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.cn-annadurai@sansad.nic.in",
-    "phone": "+91 98765 11181"
+    "phone": "+91 98765 11181",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042797-2",
@@ -25989,7 +29532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "TIRUCHIRAPPALLI",
     "sanctionedCr": 10.58,
     "disbursedCr": 6.92,
     "reconciledDisbursedCr": 6.92,
@@ -26002,7 +29545,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.durai-vaiko@sansad.nic.in",
-    "phone": "+91 98765 11182"
+    "phone": "+91 98765 11182",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019157-2",
@@ -26011,7 +29557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "RAMANATHAPURAM",
     "sanctionedCr": 7.59,
     "disbursedCr": 5.73,
     "reconciledDisbursedCr": 5.73,
@@ -26024,7 +29570,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kani-k-navas@sansad.nic.in",
-    "phone": "+91 98765 11183"
+    "phone": "+91 98765 11183",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017458-2",
@@ -26033,7 +29582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "KANNIYAKUMARI",
     "sanctionedCr": 12.09,
     "disbursedCr": 7.8,
     "reconciledDisbursedCr": 7.8,
@@ -26046,7 +29595,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-vijayakumar-vasanth@sansad.nic.in",
-    "phone": "+91 98765 11184"
+    "phone": "+91 98765 11184",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017175-2",
@@ -26055,7 +29607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "ARAKKONAM",
     "sanctionedCr": 15.04,
     "disbursedCr": 6.85,
     "reconciledDisbursedCr": 6.85,
@@ -26068,7 +29620,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.s-jagathrakshakan@sansad.nic.in",
-    "phone": "+91 98765 11185"
+    "phone": "+91 98765 11185",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044147-2",
@@ -26077,7 +29632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "MAYILADUTHURAI",
     "sanctionedCr": 15.06,
     "disbursedCr": 4.7,
     "reconciledDisbursedCr": 4.7,
@@ -26090,7 +29645,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sudha-r@sansad.nic.in",
-    "phone": "+91 98765 11186"
+    "phone": "+91 98765 11186",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044992-2",
@@ -26099,7 +29657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "NAGAPATTINAM(SC)",
     "sanctionedCr": 10.1,
     "disbursedCr": 6.16,
     "reconciledDisbursedCr": 6.16,
@@ -26112,7 +29670,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.selvaraj-v@sansad.nic.in",
-    "phone": "+91 98765 11187"
+    "phone": "+91 98765 11187",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045569-2",
@@ -26121,7 +29682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "NAMAKKAL",
     "sanctionedCr": 13.89,
     "disbursedCr": 9.82,
     "reconciledDisbursedCr": 9.82,
@@ -26134,7 +29695,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.v-s-matheswaran@sansad.nic.in",
-    "phone": "+91 98765 11188"
+    "phone": "+91 98765 11188",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018395-2",
@@ -26143,7 +29707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Tamil Nadu",
-    "constituency": "TIRUNELVELI",
+    "constituency": "THOOTHUKKUDI",
     "sanctionedCr": 14.72,
     "disbursedCr": 6.53,
     "reconciledDisbursedCr": 6.53,
@@ -26153,10 +29717,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 17,
     "worksRecommended": 59,
     "completionRate": 28.8,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "DMK",
+    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kanimozhi-karunanidhi@sansad.nic.in",
-    "phone": "+91 98765 11189"
+    "phone": "+91 98765 11189",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045216-2",
@@ -26165,7 +29732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "NALGONDA",
     "sanctionedCr": 3.1,
     "disbursedCr": 0.88,
     "reconciledDisbursedCr": 0.88,
@@ -26178,7 +29745,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.kunduru-raghuveer@sansad.nic.in",
-    "phone": "+91 98765 11190"
+    "phone": "+91 98765 11190",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045227-2",
@@ -26187,7 +29757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "PEDDAPALLE",
     "sanctionedCr": 5.65,
     "disbursedCr": 1.73,
     "reconciledDisbursedCr": 1.73,
@@ -26200,7 +29770,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vamsi-krishna-gaddam@sansad.nic.in",
-    "phone": "+91 98765 11191"
+    "phone": "+91 98765 11191",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045246-2",
@@ -26209,7 +29782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "WARANGEL(SC)",
     "sanctionedCr": 11.27,
     "disbursedCr": 3.36,
     "reconciledDisbursedCr": 3.36,
@@ -26222,7 +29795,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kadiyam-kavya@sansad.nic.in",
-    "phone": "+91 98765 11192"
+    "phone": "+91 98765 11192",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045387-2",
@@ -26231,7 +29807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "MEDAK",
     "sanctionedCr": 11.21,
     "disbursedCr": 3.64,
     "reconciledDisbursedCr": 3.64,
@@ -26244,7 +29820,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.madhavaneni-raghunandan-rao@sansad.nic.in",
-    "phone": "+91 98765 11193"
+    "phone": "+91 98765 11193",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019173-2",
@@ -26253,7 +29832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Telangana",
-    "constituency": "ADILABAD(ST)",
+    "constituency": "HYDERABAD",
     "sanctionedCr": 11.81,
     "disbursedCr": 1.12,
     "reconciledDisbursedCr": 1.12,
@@ -26263,10 +29842,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 29,
     "completionRate": 3.4,
-    "party": "JD(U)",
-    "partyHi": "\u091c\u0926(\u092f\u0942)",
+    "party": "AIMIM",
+    "partyHi": "\u090f\u0906\u0908\u090f\u092e\u0906\u0908\u090f\u092e",
     "email": "mp.asaduddin-owaisi@sansad.nic.in",
-    "phone": "+91 98765 11194"
+    "phone": "+91 98765 11194",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042489-2",
@@ -26275,7 +29857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AONLA",
     "sanctionedCr": 14.69,
     "disbursedCr": 13.49,
     "reconciledDisbursedCr": 13.49,
@@ -26288,7 +29870,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.neeraj-maurya@sansad.nic.in",
-    "phone": "+91 98765 11195"
+    "phone": "+91 98765 11195",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042490-2",
@@ -26297,7 +29882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AZAMGARH",
     "sanctionedCr": 12.34,
     "disbursedCr": 6.56,
     "reconciledDisbursedCr": 6.56,
@@ -26310,7 +29895,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dharmendra-yadav@sansad.nic.in",
-    "phone": "+91 98765 11196"
+    "phone": "+91 98765 11196",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042491-2",
@@ -26319,7 +29907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BADAUN",
     "sanctionedCr": 12.77,
     "disbursedCr": 9.49,
     "reconciledDisbursedCr": 9.49,
@@ -26332,7 +29920,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.aditya-yadav@sansad.nic.in",
-    "phone": "+91 98765 11197"
+    "phone": "+91 98765 11197",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042493-2",
@@ -26341,7 +29932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BAHRAICH(SC)",
     "sanctionedCr": 14.68,
     "disbursedCr": 7.79,
     "reconciledDisbursedCr": 7.79,
@@ -26354,7 +29945,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.anand-kumar@sansad.nic.in",
-    "phone": "+91 98765 11198"
+    "phone": "+91 98765 11198",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042494-2",
@@ -26363,7 +29957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BALLIA",
     "sanctionedCr": 17.94,
     "disbursedCr": 9.85,
     "reconciledDisbursedCr": 9.85,
@@ -26376,7 +29970,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.sanatan-pandey@sansad.nic.in",
-    "phone": "+91 98765 11199"
+    "phone": "+91 98765 11199",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042495-2",
@@ -26385,7 +29982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BANDA",
     "sanctionedCr": 16.61,
     "disbursedCr": 8.3,
     "reconciledDisbursedCr": 8.3,
@@ -26398,7 +29995,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.krishna-devi-shivshanker-patel@sansad.nic.in",
-    "phone": "+91 98765 11200"
+    "phone": "+91 98765 11200",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042496-2",
@@ -26407,7 +30007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BARABANKI(SC)",
     "sanctionedCr": 12.26,
     "disbursedCr": 9.26,
     "reconciledDisbursedCr": 9.26,
@@ -26420,7 +30020,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.tanuj-punia@sansad.nic.in",
-    "phone": "+91 98765 11201"
+    "phone": "+91 98765 11201",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044187-2",
@@ -26429,7 +30032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BASTI",
     "sanctionedCr": 20.23,
     "disbursedCr": 15.34,
     "reconciledDisbursedCr": 15.34,
@@ -26442,7 +30045,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.ram-prasad-chaudhary@sansad.nic.in",
-    "phone": "+91 98765 11202"
+    "phone": "+91 98765 11202",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042498-2",
@@ -26451,7 +30057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BIJNOR",
     "sanctionedCr": 12.13,
     "disbursedCr": 8.23,
     "reconciledDisbursedCr": 8.23,
@@ -26464,7 +30070,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.chandan-chauhan@sansad.nic.in",
-    "phone": "+91 98765 11203"
+    "phone": "+91 98765 11203",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042499-2",
@@ -26473,7 +30082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "CHANDAULI",
     "sanctionedCr": 10.99,
     "disbursedCr": 9.11,
     "reconciledDisbursedCr": 9.11,
@@ -26486,7 +30095,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.virendra-singh@sansad.nic.in",
-    "phone": "+91 98765 11204"
+    "phone": "+91 98765 11204",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042501-2",
@@ -26495,7 +30107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "DHAURAHRA",
     "sanctionedCr": 10.57,
     "disbursedCr": 8.91,
     "reconciledDisbursedCr": 8.91,
@@ -26508,7 +30120,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.anand-bhadauriya@sansad.nic.in",
-    "phone": "+91 98765 11205"
+    "phone": "+91 98765 11205",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042502-2",
@@ -26517,7 +30132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ETAH",
     "sanctionedCr": 9.8,
     "disbursedCr": 8.75,
     "reconciledDisbursedCr": 8.75,
@@ -26530,7 +30145,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.devesh-shakya@sansad.nic.in",
-    "phone": "+91 98765 11206"
+    "phone": "+91 98765 11206",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042503-2",
@@ -26539,7 +30157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ETAWAH(SC)",
     "sanctionedCr": 17.42,
     "disbursedCr": 12.64,
     "reconciledDisbursedCr": 12.64,
@@ -26552,7 +30170,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jitendra-kumar-dohare@sansad.nic.in",
-    "phone": "+91 98765 11207"
+    "phone": "+91 98765 11207",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042504-2",
@@ -26561,7 +30182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FAIZABAD",
     "sanctionedCr": 14.41,
     "disbursedCr": 9.56,
     "reconciledDisbursedCr": 9.56,
@@ -26574,7 +30195,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.awadhesh-prasad@sansad.nic.in",
-    "phone": "+91 98765 11208"
+    "phone": "+91 98765 11208",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042505-2",
@@ -26583,7 +30207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FATEHPUR",
     "sanctionedCr": 7.63,
     "disbursedCr": 3.98,
     "reconciledDisbursedCr": 3.98,
@@ -26596,7 +30220,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.naresh-chandra-uttam-patel@sansad.nic.in",
-    "phone": "+91 98765 11209"
+    "phone": "+91 98765 11209",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042506-2",
@@ -26605,7 +30232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FIROZABAD",
     "sanctionedCr": 9.76,
     "disbursedCr": 9.59,
     "reconciledDisbursedCr": 9.59,
@@ -26618,7 +30245,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.akshaya-yadav@sansad.nic.in",
-    "phone": "+91 98765 11210"
+    "phone": "+91 98765 11210",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042507-2",
@@ -26627,7 +30257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GHAZIABAD",
     "sanctionedCr": 8.28,
     "disbursedCr": 4.93,
     "reconciledDisbursedCr": 4.93,
@@ -26640,7 +30270,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.atul-garg@sansad.nic.in",
-    "phone": "+91 98765 11211"
+    "phone": "+91 98765 11211",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042508-2",
@@ -26649,7 +30282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "HAMIRPUR_UP",
     "sanctionedCr": 16.94,
     "disbursedCr": 6.12,
     "reconciledDisbursedCr": 6.12,
@@ -26662,7 +30295,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ajendra-singh-lodhi@sansad.nic.in",
-    "phone": "+91 98765 11212"
+    "phone": "+91 98765 11212",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042509-2",
@@ -26671,7 +30307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "HATHRAS (SC)",
     "sanctionedCr": 14.69,
     "disbursedCr": 10.83,
     "reconciledDisbursedCr": 10.83,
@@ -26684,7 +30320,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.anoop-pradhan-balmiki@sansad.nic.in",
-    "phone": "+91 98765 11213"
+    "phone": "+91 98765 11213",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042510-2",
@@ -26693,7 +30332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "JALAUN(SC)",
     "sanctionedCr": 13.57,
     "disbursedCr": 5.62,
     "reconciledDisbursedCr": 5.62,
@@ -26706,7 +30345,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.narayan-das-ahirwar@sansad.nic.in",
-    "phone": "+91 98765 11214"
+    "phone": "+91 98765 11214",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042511-2",
@@ -26715,7 +30357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "JAUNPUR",
     "sanctionedCr": 11.6,
     "disbursedCr": 5.7,
     "reconciledDisbursedCr": 5.7,
@@ -26728,7 +30370,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.babu-singh-kushwaha@sansad.nic.in",
-    "phone": "+91 98765 11215"
+    "phone": "+91 98765 11215",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042512-2",
@@ -26737,7 +30382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KAIRANA",
     "sanctionedCr": 8.9,
     "disbursedCr": 5.72,
     "reconciledDisbursedCr": 5.72,
@@ -26750,7 +30395,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.iqra-choudhary@sansad.nic.in",
-    "phone": "+91 98765 11216"
+    "phone": "+91 98765 11216",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042513-2",
@@ -26759,7 +30407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KANPUR",
     "sanctionedCr": 13.2,
     "disbursedCr": 8.34,
     "reconciledDisbursedCr": 8.34,
@@ -26772,7 +30420,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.ramesh-awasthi@sansad.nic.in",
-    "phone": "+91 98765 11217"
+    "phone": "+91 98765 11217",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042514-2",
@@ -26781,7 +30432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KAUSHAMBI(SC)",
     "sanctionedCr": 11.13,
     "disbursedCr": 6.23,
     "reconciledDisbursedCr": 6.23,
@@ -26794,7 +30445,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pushpendra-saroj@sansad.nic.in",
-    "phone": "+91 98765 11218"
+    "phone": "+91 98765 11218",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042515-2",
@@ -26803,7 +30457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KHERI",
     "sanctionedCr": 9.66,
     "disbursedCr": 7.8,
     "reconciledDisbursedCr": 7.8,
@@ -26816,7 +30470,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.utkarsh-verma-madhur@sansad.nic.in",
-    "phone": "+91 98765 11219"
+    "phone": "+91 98765 11219",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042516-2",
@@ -26825,7 +30482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "LALGANJ (SC)",
     "sanctionedCr": 9.53,
     "disbursedCr": 8.26,
     "reconciledDisbursedCr": 8.26,
@@ -26838,7 +30495,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.daroga-prasad-saroj@sansad.nic.in",
-    "phone": "+91 98765 11220"
+    "phone": "+91 98765 11220",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042517-2",
@@ -26847,7 +30507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MACHHLISHAHR(SC)",
     "sanctionedCr": 13.9,
     "disbursedCr": 7.85,
     "reconciledDisbursedCr": 7.85,
@@ -26860,7 +30520,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.priya-saroj@sansad.nic.in",
-    "phone": "+91 98765 11221"
+    "phone": "+91 98765 11221",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042518-2",
@@ -26869,7 +30532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MEERUT",
     "sanctionedCr": 10.59,
     "disbursedCr": 7.23,
     "reconciledDisbursedCr": 7.23,
@@ -26882,7 +30545,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.arun-govil@sansad.nic.in",
-    "phone": "+91 98765 11222"
+    "phone": "+91 98765 11222",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042519-2",
@@ -26891,7 +30557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MORADABAD",
     "sanctionedCr": 6.5,
     "disbursedCr": 5.68,
     "reconciledDisbursedCr": 5.68,
@@ -26904,7 +30570,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.ruchi-vira@sansad.nic.in",
-    "phone": "+91 98765 11223"
+    "phone": "+91 98765 11223",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042520-2",
@@ -26913,7 +30582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MUZAFFARNAGAR",
     "sanctionedCr": 12.89,
     "disbursedCr": 5.14,
     "reconciledDisbursedCr": 5.14,
@@ -26926,7 +30595,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.harendra-singh-malik@sansad.nic.in",
-    "phone": "+91 98765 11224"
+    "phone": "+91 98765 11224",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042521-2",
@@ -26935,7 +30607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "PHULPUR",
     "sanctionedCr": 9.77,
     "disbursedCr": 9.46,
     "reconciledDisbursedCr": 9.46,
@@ -26948,7 +30620,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.praveen-patel@sansad.nic.in",
-    "phone": "+91 98765 11225"
+    "phone": "+91 98765 11225",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042522-2",
@@ -26957,7 +30632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "PRATAPGARH",
     "sanctionedCr": 13.64,
     "disbursedCr": 5.36,
     "reconciledDisbursedCr": 5.36,
@@ -26970,7 +30645,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-s-p-singh@sansad.nic.in",
-    "phone": "+91 98765 11226"
+    "phone": "+91 98765 11226",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042523-2",
@@ -26979,7 +30657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "RAMPUR",
     "sanctionedCr": 10.1,
     "disbursedCr": 7.47,
     "reconciledDisbursedCr": 7.47,
@@ -26992,7 +30670,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mohibbullah@sansad.nic.in",
-    "phone": "+91 98765 11227"
+    "phone": "+91 98765 11227",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042524-2",
@@ -27001,7 +30682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "ROBERTSGANJ(SC)",
     "sanctionedCr": 13.72,
     "disbursedCr": 9.52,
     "reconciledDisbursedCr": 9.52,
@@ -27014,7 +30695,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.chhotelal@sansad.nic.in",
-    "phone": "+91 98765 11228"
+    "phone": "+91 98765 11228",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042525-2",
@@ -27023,7 +30707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SAHARANPUR",
     "sanctionedCr": 10.04,
     "disbursedCr": 7.99,
     "reconciledDisbursedCr": 7.99,
@@ -27036,7 +30720,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.imran-masood@sansad.nic.in",
-    "phone": "+91 98765 11229"
+    "phone": "+91 98765 11229",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042526-2",
@@ -27045,7 +30732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SALEMPUR",
     "sanctionedCr": 15.91,
     "disbursedCr": 6.75,
     "reconciledDisbursedCr": 6.75,
@@ -27058,7 +30745,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.ramashankar-rajbhar@sansad.nic.in",
-    "phone": "+91 98765 11230"
+    "phone": "+91 98765 11230",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042527-2",
@@ -27067,7 +30757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SAMBHAL",
     "sanctionedCr": 9.24,
     "disbursedCr": 6.21,
     "reconciledDisbursedCr": 6.21,
@@ -27080,7 +30770,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.zia-ur-rehman@sansad.nic.in",
-    "phone": "+91 98765 11231"
+    "phone": "+91 98765 11231",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042528-2",
@@ -27089,7 +30782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SANT KABIR NAGAR",
     "sanctionedCr": 13.31,
     "disbursedCr": 2.79,
     "reconciledDisbursedCr": 2.79,
@@ -27102,7 +30795,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.laxmikant-pappu-nishad@sansad.nic.in",
-    "phone": "+91 98765 11232"
+    "phone": "+91 98765 11232",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042529-2",
@@ -27111,7 +30807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SITAPUR",
     "sanctionedCr": 13.93,
     "disbursedCr": 9.96,
     "reconciledDisbursedCr": 9.96,
@@ -27124,7 +30820,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rakesh-rathor@sansad.nic.in",
-    "phone": "+91 98765 11233"
+    "phone": "+91 98765 11233",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042530-2",
@@ -27133,7 +30832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SULTANPUR",
     "sanctionedCr": 17.01,
     "disbursedCr": 9.31,
     "reconciledDisbursedCr": 9.31,
@@ -27146,7 +30845,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rambhual-nishad@sansad.nic.in",
-    "phone": "+91 98765 11234"
+    "phone": "+91 98765 11234",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042492-2",
@@ -27155,7 +30857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BAGHPAT",
     "sanctionedCr": 10.28,
     "disbursedCr": 4.3,
     "reconciledDisbursedCr": 4.3,
@@ -27168,7 +30870,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.dr-rajkumar-sangwan@sansad.nic.in",
-    "phone": "+91 98765 11235"
+    "phone": "+91 98765 11235",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019196-2",
@@ -27177,7 +30882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AKBARPUR",
     "sanctionedCr": 11.5,
     "disbursedCr": 7.39,
     "reconciledDisbursedCr": 7.39,
@@ -27190,7 +30895,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.devendra-alias-bhole-singh@sansad.nic.in",
-    "phone": "+91 98765 11236"
+    "phone": "+91 98765 11236",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017466-2",
@@ -27209,10 +30917,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 21,
     "worksRecommended": 103,
     "completionRate": 20.4,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-satish-kumar-gautam@sansad.nic.in",
-    "phone": "+91 98765 11237"
+    "phone": "+91 98765 11237",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019202-2",
@@ -27221,7 +30932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BANSGAON(SC)",
     "sanctionedCr": 10.84,
     "disbursedCr": 5.44,
     "reconciledDisbursedCr": 5.44,
@@ -27234,7 +30945,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.kamlesh-paswan@sansad.nic.in",
-    "phone": "+91 98765 11238"
+    "phone": "+91 98765 11238",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019222-2",
@@ -27243,7 +30957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BULANDSHAHR(SC)",
     "sanctionedCr": 14.63,
     "disbursedCr": 11.6,
     "reconciledDisbursedCr": 11.6,
@@ -27256,7 +30970,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.bhola-singh@sansad.nic.in",
-    "phone": "+91 98765 11239"
+    "phone": "+91 98765 11239",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019530-2",
@@ -27265,7 +30982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FATEHPUR SIKRI",
     "sanctionedCr": 11.72,
     "disbursedCr": 10.4,
     "reconciledDisbursedCr": 10.4,
@@ -27278,7 +30995,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.rajkumar-chahar@sansad.nic.in",
-    "phone": "+91 98765 11240"
+    "phone": "+91 98765 11240",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019187-2",
@@ -27287,7 +31007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GAUTAM BUDDHA NAGAR",
     "sanctionedCr": 14.84,
     "disbursedCr": 8.75,
     "reconciledDisbursedCr": 8.75,
@@ -27300,7 +31020,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.mahesh-sharma@sansad.nic.in",
-    "phone": "+91 98765 11241"
+    "phone": "+91 98765 11241",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019214-2",
@@ -27309,7 +31032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GORAKHPUR",
     "sanctionedCr": 10.27,
     "disbursedCr": 1.54,
     "reconciledDisbursedCr": 1.54,
@@ -27322,7 +31045,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.ravindra-shyamnarayan-alias-ravi-kishan-shukla@sansad.nic.in",
-    "phone": "+91 98765 11242"
+    "phone": "+91 98765 11242",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019201-2",
@@ -27331,7 +31057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "HARDOI (SC)",
     "sanctionedCr": 13.63,
     "disbursedCr": 8.46,
     "reconciledDisbursedCr": 8.46,
@@ -27344,7 +31070,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jai-prakash@sansad.nic.in",
-    "phone": "+91 98765 11243"
+    "phone": "+91 98765 11243",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018405-2",
@@ -27353,7 +31082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "JHANSI",
     "sanctionedCr": 10.24,
     "disbursedCr": 7.52,
     "reconciledDisbursedCr": 7.52,
@@ -27366,7 +31095,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.anurag-sharma@sansad.nic.in",
-    "phone": "+91 98765 11244"
+    "phone": "+91 98765 11244",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019220-2",
@@ -27375,7 +31107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KUSHI NAGAR",
     "sanctionedCr": 14.62,
     "disbursedCr": 8.22,
     "reconciledDisbursedCr": 8.22,
@@ -27388,7 +31120,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.vijay-kumar-dubey@sansad.nic.in",
-    "phone": "+91 98765 11245"
+    "phone": "+91 98765 11245",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019311-2",
@@ -27397,7 +31132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "LUCKNOW",
     "sanctionedCr": 10.57,
     "disbursedCr": 8.31,
     "reconciledDisbursedCr": 8.31,
@@ -27407,10 +31142,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 31,
     "worksRecommended": 102,
     "completionRate": 30.4,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.rajnath-singh@sansad.nic.in",
-    "phone": "+91 98765 11246"
+    "phone": "+91 98765 11246",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019227-2",
@@ -27419,7 +31157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MATHURA",
     "sanctionedCr": 7.69,
     "disbursedCr": 4.28,
     "reconciledDisbursedCr": 4.28,
@@ -27429,10 +31167,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 33,
     "worksRecommended": 94,
     "completionRate": 35.1,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-hema-malini@sansad.nic.in",
-    "phone": "+91 98765 11247"
+    "phone": "+91 98765 11247",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019225-2",
@@ -27441,7 +31182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MIRZAPUR",
     "sanctionedCr": 10.28,
     "disbursedCr": 5.26,
     "reconciledDisbursedCr": 5.26,
@@ -27454,7 +31195,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.smt-anupriya-patel@sansad.nic.in",
-    "phone": "+91 98765 11248"
+    "phone": "+91 98765 11248",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019244-2",
@@ -27463,7 +31207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MISRIKH(SC)",
     "sanctionedCr": 13.71,
     "disbursedCr": 12.21,
     "reconciledDisbursedCr": 12.21,
@@ -27476,7 +31220,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.ashok-kumar-rawat@sansad.nic.in",
-    "phone": "+91 98765 11249"
+    "phone": "+91 98765 11249",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017471-2",
@@ -27485,7 +31232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SHAHJAHANPUR(SC)",
     "sanctionedCr": 14.64,
     "disbursedCr": 13.79,
     "reconciledDisbursedCr": 13.79,
@@ -27498,7 +31245,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-arun-kumar-sagar@sansad.nic.in",
-    "phone": "+91 98765 11250"
+    "phone": "+91 98765 11250",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018402-2",
@@ -27507,7 +31257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "UNNAO",
     "sanctionedCr": 10.68,
     "disbursedCr": 8.99,
     "reconciledDisbursedCr": 8.99,
@@ -27520,7 +31270,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.swami-sachchidanandhari-sakshi-ji-maharaj@sansad.nic.in",
-    "phone": "+91 98765 11251"
+    "phone": "+91 98765 11251",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019205-2",
@@ -27529,7 +31282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "FARRUKHABAD",
     "sanctionedCr": 14.65,
     "disbursedCr": 13.45,
     "reconciledDisbursedCr": 13.45,
@@ -27542,7 +31295,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.mukesh-rajput@sansad.nic.in",
-    "phone": "+91 98765 11252"
+    "phone": "+91 98765 11252",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042816-2",
@@ -27551,7 +31307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MOHANLALGANJ(SC)",
     "sanctionedCr": 7.37,
     "disbursedCr": 3.65,
     "reconciledDisbursedCr": 3.65,
@@ -27564,7 +31320,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.r-k-chaudhary@sansad.nic.in",
-    "phone": "+91 98765 11253"
+    "phone": "+91 98765 11253",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017469-2",
@@ -27573,7 +31332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "VARANASI",
     "sanctionedCr": 10.02,
     "disbursedCr": 9.72,
     "reconciledDisbursedCr": 9.72,
@@ -27583,10 +31342,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 207,
     "worksRecommended": 216,
     "completionRate": 95.8,
-    "party": "TMC",
-    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-narendra-modi@sansad.nic.in",
-    "phone": "+91 98765 11254"
+    "phone": "+91 98765 11254",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019207-2",
@@ -27595,7 +31357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MAHARAJGANJ",
     "sanctionedCr": 9.75,
     "disbursedCr": 9.59,
     "reconciledDisbursedCr": 9.59,
@@ -27605,10 +31367,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 42,
     "worksRecommended": 49,
     "completionRate": 85.7,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.pankaj-chowdhary@sansad.nic.in",
-    "phone": "+91 98765 11255"
+    "phone": "+91 98765 11255",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019226-2",
@@ -27617,7 +31382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "MAINPURI",
     "sanctionedCr": 13.9,
     "disbursedCr": 7.82,
     "reconciledDisbursedCr": 7.82,
@@ -27627,10 +31392,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 54,
     "worksRecommended": 173,
     "completionRate": 31.2,
-    "party": "AAP",
-    "partyHi": "\u0906\u092a",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-dimple-yadav@sansad.nic.in",
-    "phone": "+91 98765 11256"
+    "phone": "+91 98765 11256",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043395-2",
@@ -27639,7 +31407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KAISERGANJ",
     "sanctionedCr": 14.19,
     "disbursedCr": 9.72,
     "reconciledDisbursedCr": 9.72,
@@ -27652,7 +31420,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.karan-bhushan-singh@sansad.nic.in",
-    "phone": "+91 98765 11257"
+    "phone": "+91 98765 11257",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017473-2",
@@ -27661,7 +31432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AGRA(SC)",
     "sanctionedCr": 14.69,
     "disbursedCr": 12.07,
     "reconciledDisbursedCr": 12.07,
@@ -27674,7 +31445,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.prof-sp-singh-baghel@sansad.nic.in",
-    "phone": "+91 98765 11258"
+    "phone": "+91 98765 11258",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043488-2",
@@ -27683,7 +31457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "KANNAUJ",
     "sanctionedCr": 14.14,
     "disbursedCr": 3.86,
     "reconciledDisbursedCr": 3.86,
@@ -27693,10 +31467,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 40,
     "worksRecommended": 253,
     "completionRate": 15.8,
-    "party": "IND",
-    "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+    "party": "SP",
+    "partyHi": "\u0938\u092a\u093e",
     "email": "mp.akhilesh-yadav@sansad.nic.in",
-    "phone": "+91 98765 11259"
+    "phone": "+91 98765 11259",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043489-2",
@@ -27705,7 +31482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "RAE BARELI",
     "sanctionedCr": 7.62,
     "disbursedCr": 3.35,
     "reconciledDisbursedCr": 3.35,
@@ -27715,10 +31492,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 94,
     "worksRecommended": 192,
     "completionRate": 49.0,
-    "party": "BJP",
-    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
+    "party": "INC",
+    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rahul-gandhi@sansad.nic.in",
-    "phone": "+91 98765 11260"
+    "phone": "+91 98765 11260",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019223-2",
@@ -27727,7 +31507,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "SHRAWASTI",
     "sanctionedCr": 9.26,
     "disbursedCr": 2.42,
     "reconciledDisbursedCr": 2.42,
@@ -27740,7 +31520,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ram-shiromani@sansad.nic.in",
-    "phone": "+91 98765 11261"
+    "phone": "+91 98765 11261",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043598-2",
@@ -27749,7 +31532,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GHOSI",
     "sanctionedCr": 10.59,
     "disbursedCr": 6.81,
     "reconciledDisbursedCr": 6.81,
@@ -27762,7 +31545,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.rajeev-rai@sansad.nic.in",
-    "phone": "+91 98765 11262"
+    "phone": "+91 98765 11262",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019203-2",
@@ -27771,7 +31557,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GONDA",
     "sanctionedCr": 11.14,
     "disbursedCr": 7.84,
     "reconciledDisbursedCr": 7.84,
@@ -27784,7 +31570,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kirti-vardhan-singh@sansad.nic.in",
-    "phone": "+91 98765 11263"
+    "phone": "+91 98765 11263",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043720-2",
@@ -27793,7 +31582,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "AMROHA",
     "sanctionedCr": 14.61,
     "disbursedCr": 8.36,
     "reconciledDisbursedCr": 8.36,
@@ -27806,7 +31595,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kanwar-singh-tanwar@sansad.nic.in",
-    "phone": "+91 98765 11264"
+    "phone": "+91 98765 11264",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044397-2",
@@ -27815,7 +31607,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BAREILLY",
     "sanctionedCr": 11.25,
     "disbursedCr": 9.73,
     "reconciledDisbursedCr": 9.73,
@@ -27828,7 +31620,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.chhatra-pal-singh-gangwar@sansad.nic.in",
-    "phone": "+91 98765 11265"
+    "phone": "+91 98765 11265",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044716-2",
@@ -27837,7 +31632,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "BHADOHI",
     "sanctionedCr": 11.19,
     "disbursedCr": 7.79,
     "reconciledDisbursedCr": 7.79,
@@ -27850,7 +31645,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.vinod-kumar-bind@sansad.nic.in",
-    "phone": "+91 98765 11266"
+    "phone": "+91 98765 11266",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045253-2",
@@ -27859,7 +31657,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "GHAZIPUR",
     "sanctionedCr": 20.42,
     "disbursedCr": 11.06,
     "reconciledDisbursedCr": 11.06,
@@ -27872,7 +31670,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.afzal-ansari@sansad.nic.in",
-    "phone": "+91 98765 11267"
+    "phone": "+91 98765 11267",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3045351-2",
@@ -27881,7 +31682,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "PILIBHIT",
     "sanctionedCr": 9.02,
     "disbursedCr": 4.81,
     "reconciledDisbursedCr": 4.81,
@@ -27894,7 +31695,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.jitin-prasada@sansad.nic.in",
-    "phone": "+91 98765 11268"
+    "phone": "+91 98765 11268",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3046000-2",
@@ -27903,7 +31707,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "NAGINA(SC)",
     "sanctionedCr": 12.26,
     "disbursedCr": 8.88,
     "reconciledDisbursedCr": 8.88,
@@ -27916,7 +31720,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.chandra-shekhar@sansad.nic.in",
-    "phone": "+91 98765 11269"
+    "phone": "+91 98765 11269",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019200-2",
@@ -27925,7 +31732,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "Uttar Pradesh",
-    "constituency": "ALIGARH",
+    "constituency": "DOMARIYAGANJ",
     "sanctionedCr": 9.7,
     "disbursedCr": 5.77,
     "reconciledDisbursedCr": 5.77,
@@ -27935,10 +31742,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 1,
     "worksRecommended": 75,
     "completionRate": 1.3,
-    "party": "INC",
-    "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
+    "party": "BJP",
+    "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.jagdambika-pal@sansad.nic.in",
-    "phone": "+91 98765 11270"
+    "phone": "+91 98765 11270",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042549-2",
@@ -27947,7 +31757,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "TAMLUK",
     "sanctionedCr": 9.46,
     "disbursedCr": 4.91,
     "reconciledDisbursedCr": 4.91,
@@ -27960,7 +31770,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.abhijit-gangopadhyay@sansad.nic.in",
-    "phone": "+91 98765 11271"
+    "phone": "+91 98765 11271",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042540-2",
@@ -27969,7 +31782,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "COOCHBEHAR(SC)",
     "sanctionedCr": 17.58,
     "disbursedCr": 3.83,
     "reconciledDisbursedCr": 3.83,
@@ -27982,7 +31795,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.jagadish-chandra-barma-basunia@sansad.nic.in",
-    "phone": "+91 98765 11272"
+    "phone": "+91 98765 11272",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042542-2",
@@ -27991,7 +31807,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JHARGRAM(ST)",
     "sanctionedCr": 11.96,
     "disbursedCr": 7.18,
     "reconciledDisbursedCr": 7.18,
@@ -28004,7 +31820,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.kalipada-saren@sansad.nic.in",
-    "phone": "+91 98765 11273"
+    "phone": "+91 98765 11273",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042544-2",
@@ -28013,7 +31832,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MALDAHA DAKSHIN",
     "sanctionedCr": 6.08,
     "disbursedCr": 0.96,
     "reconciledDisbursedCr": 0.96,
@@ -28026,7 +31845,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.isha-khan-choudhury@sansad.nic.in",
-    "phone": "+91 98765 11274"
+    "phone": "+91 98765 11274",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042537-2",
@@ -28035,7 +31857,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARDHAMAN-DURGAPUR",
     "sanctionedCr": 9.06,
     "disbursedCr": 3.68,
     "reconciledDisbursedCr": 3.68,
@@ -28048,7 +31870,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.azad-kirti-jha@sansad.nic.in",
-    "phone": "+91 98765 11275"
+    "phone": "+91 98765 11275",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019235-2",
@@ -28057,7 +31882,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "ASANSOL",
     "sanctionedCr": 11.48,
     "disbursedCr": 7.38,
     "reconciledDisbursedCr": 7.38,
@@ -28070,7 +31895,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shatrughan-sinha@sansad.nic.in",
-    "phone": "+91 98765 11276"
+    "phone": "+91 98765 11276",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017477-2",
@@ -28079,7 +31907,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BALURGHAT",
     "sanctionedCr": 8.73,
     "disbursedCr": 3.19,
     "reconciledDisbursedCr": 3.19,
@@ -28092,7 +31920,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-sukanta-majumdar@sansad.nic.in",
-    "phone": "+91 98765 11277"
+    "phone": "+91 98765 11277",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017479-2",
@@ -28101,7 +31932,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BANGAON(SC)",
     "sanctionedCr": 10.54,
     "disbursedCr": 0.6,
     "reconciledDisbursedCr": 0.6,
@@ -28114,7 +31945,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-shantanu-thakur@sansad.nic.in",
-    "phone": "+91 98765 11278"
+    "phone": "+91 98765 11278",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017485-2",
@@ -28123,7 +31957,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BARASAT",
     "sanctionedCr": 13.18,
     "disbursedCr": 6.39,
     "reconciledDisbursedCr": 6.39,
@@ -28136,7 +31970,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.kakoli-ghosh-dastidar@sansad.nic.in",
-    "phone": "+91 98765 11279"
+    "phone": "+91 98765 11279",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017478-2",
@@ -28145,7 +31982,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BIRBHUM",
     "sanctionedCr": 7.71,
     "disbursedCr": 4.83,
     "reconciledDisbursedCr": 4.83,
@@ -28158,7 +31995,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.smt-satabdi-roy-banerjee@sansad.nic.in",
-    "phone": "+91 98765 11280"
+    "phone": "+91 98765 11280",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018416-2",
@@ -28167,7 +32007,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BISHNUPUR(SC)",
     "sanctionedCr": 14.68,
     "disbursedCr": 6.63,
     "reconciledDisbursedCr": 6.63,
@@ -28180,7 +32020,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.saumitra-khan@sansad.nic.in",
-    "phone": "+91 98765 11281"
+    "phone": "+91 98765 11281",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019335-2",
@@ -28189,7 +32032,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "BOLPUR(SC)",
     "sanctionedCr": 24.66,
     "disbursedCr": 17.11,
     "reconciledDisbursedCr": 17.11,
@@ -28202,7 +32045,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.asit-kumar-mal@sansad.nic.in",
-    "phone": "+91 98765 11282"
+    "phone": "+91 98765 11282",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019234-2",
@@ -28211,7 +32057,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "DARJEELING",
     "sanctionedCr": 10.08,
     "disbursedCr": 4.56,
     "reconciledDisbursedCr": 4.56,
@@ -28224,7 +32070,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.raju-bista@sansad.nic.in",
-    "phone": "+91 98765 11283"
+    "phone": "+91 98765 11283",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017491-2",
@@ -28233,7 +32082,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "GHATAL",
     "sanctionedCr": 19.13,
     "disbursedCr": 11.22,
     "reconciledDisbursedCr": 11.22,
@@ -28246,7 +32095,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-deepak-dev-adhikari@sansad.nic.in",
-    "phone": "+91 98765 11284"
+    "phone": "+91 98765 11284",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019233-2",
@@ -28255,7 +32107,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "HOWRAH",
     "sanctionedCr": 10.32,
     "disbursedCr": 7.84,
     "reconciledDisbursedCr": 7.84,
@@ -28268,7 +32120,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.prasun-banerjee@sansad.nic.in",
-    "phone": "+91 98765 11285"
+    "phone": "+91 98765 11285",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017486-2",
@@ -28277,7 +32132,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JALPAIGURI(SC)",
     "sanctionedCr": 3.26,
     "disbursedCr": 1.9,
     "reconciledDisbursedCr": 1.9,
@@ -28290,7 +32145,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.dr-jayanta-kumar-roy@sansad.nic.in",
-    "phone": "+91 98765 11286"
+    "phone": "+91 98765 11286",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018418-2",
@@ -28299,7 +32157,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JANGIPUR",
     "sanctionedCr": 8.66,
     "disbursedCr": 2.56,
     "reconciledDisbursedCr": 2.56,
@@ -28312,7 +32170,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.khalilur-rahaman@sansad.nic.in",
-    "phone": "+91 98765 11287"
+    "phone": "+91 98765 11287",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018422-2",
@@ -28321,7 +32182,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "JOYNAGAR(SC)",
     "sanctionedCr": 10.09,
     "disbursedCr": 7.44,
     "reconciledDisbursedCr": 7.44,
@@ -28334,7 +32195,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.pratima-mondal@sansad.nic.in",
-    "phone": "+91 98765 11288"
+    "phone": "+91 98765 11288",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3018421-2",
@@ -28343,7 +32207,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KOLKATA DAKSHIN",
     "sanctionedCr": 9.55,
     "disbursedCr": 6.22,
     "reconciledDisbursedCr": 6.22,
@@ -28356,7 +32220,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.mala-roy@sansad.nic.in",
-    "phone": "+91 98765 11289"
+    "phone": "+91 98765 11289",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019231-2",
@@ -28365,7 +32232,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KRISHNANAGAR",
     "sanctionedCr": 11.13,
     "disbursedCr": 6.19,
     "reconciledDisbursedCr": 6.19,
@@ -28378,7 +32245,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.ms-mahua-moitra@sansad.nic.in",
-    "phone": "+91 98765 11290"
+    "phone": "+91 98765 11290",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019301-2",
@@ -28387,7 +32257,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MALDAHA UTTAR",
     "sanctionedCr": 4.65,
     "disbursedCr": 0.72,
     "reconciledDisbursedCr": 0.72,
@@ -28400,7 +32270,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.khagen-murmu@sansad.nic.in",
-    "phone": "+91 98765 11291"
+    "phone": "+91 98765 11291",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017483-2",
@@ -28409,7 +32282,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "PURULIA",
     "sanctionedCr": 7.13,
     "disbursedCr": 2.1,
     "reconciledDisbursedCr": 2.1,
@@ -28422,7 +32295,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-jyotirmay-singh-mahato@sansad.nic.in",
-    "phone": "+91 98765 11292"
+    "phone": "+91 98765 11292",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019236-2",
@@ -28431,7 +32307,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "RANAGHAT(SC)",
     "sanctionedCr": 11.3,
     "disbursedCr": 4.61,
     "reconciledDisbursedCr": 4.61,
@@ -28444,7 +32320,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.jagannath-sarkar@sansad.nic.in",
-    "phone": "+91 98765 11293"
+    "phone": "+91 98765 11293",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019533-2",
@@ -28453,7 +32332,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "KOLKATA UTTAR",
     "sanctionedCr": 8.2,
     "disbursedCr": 4.64,
     "reconciledDisbursedCr": 4.64,
@@ -28466,7 +32345,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.sudip-bandyopadhyay@sansad.nic.in",
-    "phone": "+91 98765 11294"
+    "phone": "+91 98765 11294",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019237-2",
@@ -28475,7 +32357,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "ULUBERIA",
     "sanctionedCr": 11.36,
     "disbursedCr": 5.23,
     "reconciledDisbursedCr": 5.23,
@@ -28488,7 +32370,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.smt-sajda-ahmed@sansad.nic.in",
-    "phone": "+91 98765 11295"
+    "phone": "+91 98765 11295",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019300-2",
@@ -28497,7 +32382,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "MURSHIDABAD",
     "sanctionedCr": 9.81,
     "disbursedCr": 5.18,
     "reconciledDisbursedCr": 5.18,
@@ -28510,7 +32395,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.abu-taher-khan@sansad.nic.in",
-    "phone": "+91 98765 11296"
+    "phone": "+91 98765 11296",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017493-2",
@@ -28519,7 +32407,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "DUM DUM",
     "sanctionedCr": 5.69,
     "disbursedCr": 1.75,
     "reconciledDisbursedCr": 1.75,
@@ -28532,7 +32420,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.prof-sougata-ray@sansad.nic.in",
-    "phone": "+91 98765 11297"
+    "phone": "+91 98765 11297",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3019373-2",
@@ -28541,7 +32432,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "SREERAMPUR",
     "sanctionedCr": 9.63,
     "disbursedCr": 7.78,
     "reconciledDisbursedCr": 7.78,
@@ -28554,7 +32445,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.kalyan-banerjee@sansad.nic.in",
-    "phone": "+91 98765 11298"
+    "phone": "+91 98765 11298",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3043599-2",
@@ -28563,7 +32457,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "HOOGHLY",
     "sanctionedCr": 11.65,
     "disbursedCr": 4.08,
     "reconciledDisbursedCr": 4.08,
@@ -28576,7 +32470,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.rachna-banerjee@sansad.nic.in",
-    "phone": "+91 98765 11299"
+    "phone": "+91 98765 11299",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017487-2",
@@ -28585,7 +32482,7 @@ export const ALL_MPS_DATA = [
     "term": "18th Lok Sabha",
     "house": "Lok Sabha",
     "state": "West Bengal",
-    "constituency": "ARAMBAG(SC)",
+    "constituency": "DIAMOND HARBOUR",
     "sanctionedCr": 9.55,
     "disbursedCr": 7.26,
     "reconciledDisbursedCr": 7.26,
@@ -28595,10 +32492,13 @@ export const ALL_MPS_DATA = [
     "worksCompleted": 254,
     "worksRecommended": 320,
     "completionRate": 79.4,
-    "party": "DMK",
-    "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
+    "party": "TMC",
+    "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-abhishek-banerjee@sansad.nic.in",
-    "phone": "+91 98765 11300"
+    "phone": "+91 98765 11300",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3026800-1",
@@ -28606,7 +32506,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-dummy-rajya-sabha-mp",
     "term": "Rajya Sabha",
     "house": "Rajya Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "Jammu And Kashmir (Rajya Sabha Nodal District)",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
@@ -28620,7 +32520,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.dummy-rajya-sabha-mp@sansad.nic.in",
-    "phone": "+91 98765 11301"
+    "phone": "+91 98765 11301",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3060561-1",
@@ -28628,7 +32531,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-sat-paul-sharma-2025-31",
     "term": "Rajya Sabha",
     "house": "Rajya Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "Jammu And Kashmir (Rajya Sabha Nodal District)",
     "sanctionedCr": 2.01,
     "disbursedCr": 0.0,
@@ -28642,7 +32545,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-sat-paul-sharma-2025-31@sansad.nic.in",
-    "phone": "+91 98765 11302"
+    "phone": "+91 98765 11302",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3061955-1",
@@ -28650,7 +32556,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-gurwinder-singh-oberoi-2025-31",
     "term": "Rajya Sabha",
     "house": "Rajya Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "Jammu And Kashmir (Rajya Sabha Nodal District)",
     "sanctionedCr": 5.0,
     "disbursedCr": 0.0,
@@ -28664,7 +32570,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-gurwinder-singh-oberoi-2025-31@sansad.nic.in",
-    "phone": "+91 98765 11303"
+    "phone": "+91 98765 11303",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3063548-1",
@@ -28672,7 +32581,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-sajjad-ahmad-kichloo-2025-31",
     "term": "Rajya Sabha",
     "house": "Rajya Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "Jammu And Kashmir (Rajya Sabha Nodal District)",
     "sanctionedCr": 4.79,
     "disbursedCr": 0.0,
@@ -28686,7 +32595,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-sajjad-ahmad-kichloo-2025-31@sansad.nic.in",
-    "phone": "+91 98765 11304"
+    "phone": "+91 98765 11304",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3063547-1",
@@ -28694,7 +32606,7 @@ export const ALL_MPS_DATA = [
     "slug": "mp-shri-chowdry-mohammad-ramzan-2025-31",
     "term": "Rajya Sabha",
     "house": "Rajya Sabha",
-    "state": "Jammu & Kashmir",
+    "state": "Jammu And Kashmir",
     "constituency": "Jammu And Kashmir (Rajya Sabha Nodal District)",
     "sanctionedCr": 4.29,
     "disbursedCr": 0.0,
@@ -28708,7 +32620,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-chowdry-mohammad-ramzan-2025-31@sansad.nic.in",
-    "phone": "+91 98765 11305"
+    "phone": "+91 98765 11305",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066614-1",
@@ -28730,7 +32645,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-baidyanath-ram-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11306"
+    "phone": "+91 98765 11306",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3067143-1",
@@ -28752,7 +32670,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-parimal-nathwani-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11307"
+    "phone": "+91 98765 11307",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042566-1",
@@ -28774,7 +32695,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-syed-naseer-hussain-2024-30@sansad.nic.in",
-    "phone": "+91 98765 11308"
+    "phone": "+91 98765 11308",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044066-1",
@@ -28796,7 +32720,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-narayanasa-k-bhandage-2024-30@sansad.nic.in",
-    "phone": "+91 98765 11309"
+    "phone": "+91 98765 11309",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3044073-1",
@@ -28818,7 +32745,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.smt-sudha-murty-2024-30@sansad.nic.in",
-    "phone": "+91 98765 11310"
+    "phone": "+91 98765 11310",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017237-1",
@@ -28840,7 +32770,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-g-c-chandrashekhar-2024-30@sansad.nic.in",
-    "phone": "+91 98765 11311"
+    "phone": "+91 98765 11311",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3047757-1",
@@ -28862,7 +32795,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-ajay-makan-2024-30@sansad.nic.in",
-    "phone": "+91 98765 11312"
+    "phone": "+91 98765 11312",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065897-1",
@@ -28884,7 +32820,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-mansoor-ali-khan-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11313"
+    "phone": "+91 98765 11313",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066166-1",
@@ -28906,7 +32845,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.shri-m-nagaraja-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11314"
+    "phone": "+91 98765 11314",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017242-1",
@@ -28928,7 +32870,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-mallikarjun-kharge-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11315"
+    "phone": "+91 98765 11315",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066550-1",
@@ -28950,7 +32895,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-pawan-khera-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11316"
+    "phone": "+91 98765 11316",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3042564-1",
@@ -28972,7 +32920,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-praful-patel-2024-30@sansad.nic.in",
-    "phone": "+91 98765 11317"
+    "phone": "+91 98765 11317",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3048864-1",
@@ -28994,7 +32945,10 @@ export const ALL_MPS_DATA = [
     "party": "DMK",
     "partyHi": "\u0926\u094d\u0930\u092e\u0941\u0915",
     "email": "mp.shri-nitin-laxmanrao-jadhav-patil-2024-28@sansad.nic.in",
-    "phone": "+91 98765 11318"
+    "phone": "+91 98765 11318",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3061108-1",
@@ -29016,7 +32970,10 @@ export const ALL_MPS_DATA = [
     "party": "AAP",
     "partyHi": "\u0906\u092a",
     "email": "mp.shri-ujjwal-deorao-nikam-2025-31@sansad.nic.in",
-    "phone": "+91 98765 11319"
+    "phone": "+91 98765 11319",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064688-1",
@@ -29038,7 +32995,10 @@ export const ALL_MPS_DATA = [
     "party": "JD(U)",
     "partyHi": "\u091c\u0926(\u092f\u0942)",
     "email": "mp.shri-ramrao-sakharam-wadkute-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11320"
+    "phone": "+91 98765 11320",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3064779-1",
@@ -29060,7 +33020,10 @@ export const ALL_MPS_DATA = [
     "party": "RJD",
     "partyHi": "\u0930\u093e\u091c\u0926",
     "email": "mp.shri-vinod-shridhar-tawde-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11321"
+    "phone": "+91 98765 11321",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3017272-1",
@@ -29082,7 +33045,10 @@ export const ALL_MPS_DATA = [
     "party": "IND",
     "partyHi": "\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
     "email": "mp.shri-ramdas-bandu-athawale-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11322"
+    "phone": "+91 98765 11322",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3065436-1",
@@ -29104,7 +33070,10 @@ export const ALL_MPS_DATA = [
     "party": "BJP",
     "partyHi": "\u092d\u093e\u091c\u092a\u093e",
     "email": "mp.smt-maya-chintaman-ivnate-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11323"
+    "phone": "+91 98765 11323",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066268-1",
@@ -29126,7 +33095,10 @@ export const ALL_MPS_DATA = [
     "party": "INC",
     "partyHi": "\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.dr-jyoti-nagnath-waghmare-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11324"
+    "phone": "+91 98765 11324",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3066664-1",
@@ -29148,7 +33120,10 @@ export const ALL_MPS_DATA = [
     "party": "SP",
     "partyHi": "\u0938\u092a\u093e",
     "email": "mp.shri-parth-ajit-pawar-2026-32@sansad.nic.in",
-    "phone": "+91 98765 11325"
+    "phone": "+91 98765 11325",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   },
   {
     "id": "MP-3068111-1",
@@ -29170,7 +33145,10 @@ export const ALL_MPS_DATA = [
     "party": "TMC",
     "partyHi": "\u0924\u0943\u0923\u092e\u0942\u0932 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938",
     "email": "mp.shri-rajendra-hiralal-jain-2026-28@sansad.nic.in",
-    "phone": "+91 98765 11326"
+    "phone": "+91 98765 11326",
+    "duplicateVoucherCount": 0,
+    "duplicateDisbursedCr": 0.0,
+    "reconciliationRequired": false
   }
 ];
 
@@ -29198,6 +33176,8 @@ export const getMpsSummaryStats = (mps) => {
     avgUtilizationPct: 0,
     totalWorksCompleted: 0,
     totalWorksRecommended: 0,
+    reconciliationCount: 0,
+    duplicateVouchersCount: 0,
     highCount: 0,
     avgCount: 0,
     lowCount: 0,
@@ -29208,6 +33188,8 @@ export const getMpsSummaryStats = (mps) => {
   const totalUtilized = list.reduce((sum, m) => sum + (m.spentCr || m.disbursedCr || 0), 0);
   const totalCompleted = list.reduce((sum, m) => sum + (m.worksCompleted || 0), 0);
   const totalRecommended = list.reduce((sum, m) => sum + (m.worksRecommended || 0), 0);
+  const totalDups = list.reduce((sum, m) => sum + (m.duplicateVoucherCount || 0), 0);
+  const reconciliationCount = list.filter(m => m.reconciliationRequired || (m.duplicateVoucherCount || 0) > 0 || (m.disbursedCr || 0) > (m.sanctionedCr || 0)).length;
   
   const high = list.filter(m => (m.utilizationPct || 0) >= 70).length;
   const avg = list.filter(m => (m.utilizationPct || 0) >= 40 && (m.utilizationPct || 0) < 70).length;
@@ -29224,6 +33206,8 @@ export const getMpsSummaryStats = (mps) => {
     avgUtilizationPct: roundVal((totalUtilized / (totalAllocated || 1)) * 100),
     totalWorksCompleted: totalCompleted,
     totalWorksRecommended: totalRecommended,
+    reconciliationCount: reconciliationCount,
+    duplicateVouchersCount: totalDups,
     highCount: high,
     avgCount: avg,
     lowCount: low,

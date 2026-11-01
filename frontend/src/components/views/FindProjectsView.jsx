@@ -371,7 +371,7 @@ const FindProjectsView = () => {
       if (activeTab === 'completed' && p.type !== 'completed') {
         return false;
       }
-      if (activeTab === 'recommended' && p.type !== 'recommended') {
+      if (activeTab === 'recommended' && p.type !== 'recommended' && p.type !== 'sanctioned') {
         return false;
       }
       // Year filter match
