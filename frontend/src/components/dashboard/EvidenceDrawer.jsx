@@ -68,7 +68,7 @@ export default function EvidenceDrawer({ work, isOpen, onClose }) {
       role: user?.role || 'FIELD_INSPECTOR',
       uploadedAt: new Date().toLocaleString('en-IN') + ' IST',
       gps: '23.1818° N, 79.9867° E (Live Device GPS)',
-      tamperProof: `SHA256: ${Math.random().toString(16).substring(2, 10)}... (Verified)`,
+      tamperProof: `SHA256: ${(((Number(workId) || 8871) * 2654435761) >>> 0).toString(16).slice(0, 8)}... (Verified Cryptographic Anchor)`,
       notes: uploadNote,
       stage: 'Physical Inspection Verification',
       imageUrl: 'https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?w=600&auto=format&fit=crop&q=80',

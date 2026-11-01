@@ -36,3 +36,4 @@ tdp_outside = [x for x in ls18 if x.get('party') == 'TDP' and x.get('state') != 
 print(f"\nTDP outside Andhra: {len(tdp_outside)}")
 for x in tdp_outside:
     print(f"  {x['name']} | {x.get('state')} | {x.get('constituency')}")
+

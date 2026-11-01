@@ -22,7 +22,7 @@ const StateDetailView = () => {
   const [mpSearch, setMpSearch] = useState('');
   const [isExportingPdf, setIsExportingPdf] = useState(false);
 
-  const { ministryView, mpView, unifiedProjects } = useData();
+  const { ministryView, mpView, unifiedProjects, realProjects } = useData();
 
   // Retrieve current state data
   const stateData = useMemo(() => {
@@ -180,66 +180,34 @@ const StateDetailView = () => {
     );
   }, [stateMpsList, mpSearch]);
 
-  // State-specific projects dataset
+  // State-specific projects dataset from verified real MoSPI repository
   const stateProjectsList = useMemo(() => {
     if (!stateData) return [];
 
-    // 1. If unifiedProjects has projects for this state:
-    const liveProjs = (unifiedProjects || []).filter(p =>
-      (p.state_name || p.state || '').toLowerCase() === stateData.state.toLowerCase()
+    // Prioritize realProjects (27,995 verified MoSPI works) followed by unifiedProjects
+    const sourcePool = (realProjects && realProjects.length > 0) ? realProjects : (unifiedProjects || []);
+    const liveProjs = sourcePool.filter(p =>
+      (p.state_name || p.state || "").toLowerCase() === stateData.state.toLowerCase()
     );
 
     if (liveProjs.length > 0) {
-      return liveProjs.slice(0, 50).map(p => ({
-        id: p.work_id ? `MPLADS-${p.work_id}` : (p.id || `MPLADS-${Math.floor(Math.random() * 90000 + 10000)}`),
-        title: p.activity_name || p.project_summary || p.work_description || p.title || `Development Project in ${p.const_name || stateData.state}`,
-        category: p.work_category || p.category || 'Infrastructure',
-        cost: p.sanction_amount || p.sanctionedCost || 2500000,
-        agency: p.ida_name || p.agency || 'District Rural Development Agency (DRDA)',
-        date: p.sanction_date || p.date || '2024-04-01',
-        constituency: p.const_name || p.constituency || stateData.state,
-        type: (p.total_disbursed || 0) >= (p.sanction_amount || 2500000) ? 'completed' : 'recommended',
-        disbursed: p.total_disbursed || Math.round((p.sanction_amount || 2500000) * 0.75),
-        installments: p.num_payments || 2,
-        status: (p.total_disbursed || 0) >= (p.sanction_amount || 2500000) ? 'Completed & Verified' : 'Under Execution'
+      return liveProjs.slice(0, 100).map((p, idx) => ({
+        id: p.id || (p.work_id ? `MPLADS-${p.work_id}` : `MPLADS-${(p.constituency || stateData.state).slice(0, 4).toUpperCase()}-${idx + 1}`),
+        title: p.title || p.activity_name || p.project_summary || p.work_description || `Development Project in ${p.constituency || p.const_name || stateData.state}`,
+        category: p.category || p.work_category || "Infrastructure",
+        cost: p.cost || p.sanction_amount || p.sanctionedCost || 2500000,
+        agency: p.agency || p.ida_name || "District Rural Development Agency (DRDA)",
+        date: p.date || p.sanction_date || "2024-04-01",
+        constituency: p.constituency || p.const_name || stateData.state,
+        type: p.type || ((p.disbursed || p.total_disbursed || 0) >= (p.cost || p.sanction_amount || 2500000) ? "completed" : "recommended"),
+        disbursed: p.disbursed || p.total_disbursed || Math.round((p.cost || p.sanction_amount || 2500000) * 0.75),
+        installments: p.installments || p.num_payments || 2,
+        status: p.status || ((p.disbursed || p.total_disbursed || 0) >= (p.cost || p.sanction_amount || 2500000) ? "Completed & Verified" : "Under Execution")
       }));
     }
 
-    // 2. High quality realistic projects pool for this state
-    const categories = ['Infrastructure', 'Drinking Water', 'Healthcare', 'Education', 'Solar Energy', 'Roads & Drainage'];
-    const projectTitles = [
-      'Construction of High-Yield Solar Powered Deep Tube Well & RO Plant',
-      'Paving of Interlocking Paver Block Village Approach Road',
-      'Construction of Additional Smart Classrooms and Science Laboratory',
-      'Installation of 50 High-Mast Solar Street Light Units',
-      'Upgradation of Primary Health Sub-Center & Diagnostic Center',
-      'Construction of Multi-Purpose Community Hall & Skill Center'
-    ];
-
-    const count = Math.min(30, stateData.worksRecommended || 15);
-    const list = [];
-    for (let i = 0; i < count; i++) {
-      const isComp = i < (stateData.worksCompleted || 8);
-      const costRupees = 1500000 + (i % 6) * 500000;
-      const disbursedRupees = isComp ? costRupees : Math.round(costRupees * 0.65);
-      const constName = stateData.constituencies?.[i % (stateData.constituencies?.length || 1)]?.name || `${stateData.state} District ${i + 1}`;
-
-      list.push({
-        id: `MPLADS-${stateData.state.slice(0, 3).toUpperCase()}-${1001 + i}`,
-        title: `${projectTitles[i % projectTitles.length]} at ${constName}`,
-        category: categories[i % categories.length],
-        cost: costRupees,
-        agency: 'DISTRICT RURAL DEVELOPMENT AGENCY (DRDA)',
-        date: `2024-0${(i % 9) + 1}-15`,
-        constituency: constName,
-        type: isComp ? 'completed' : 'recommended',
-        disbursed: disbursedRupees,
-        installments: isComp ? 3 : 2,
-        status: isComp ? 'Completed & Verified' : 'Under Execution'
-      });
-    }
-    return list;
-  }, [stateData, unifiedProjects]);
+    return [];
+  }, [stateData, unifiedProjects, realProjects]);
 
   // Filtered Projects
   const filteredProjects = useMemo(() => {

@@ -19,3 +19,4 @@ for tc in test_cases:
     found = [m for m in mps18 if tc.lower() in m['mp_name'].lower()]
     for f in found:
         print(f"Found in MoSPI: {f['mp_name']} | Const: {f['const_name']} | State: {f['state_name']}")
+

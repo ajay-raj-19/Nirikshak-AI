@@ -20,3 +20,4 @@ sorted_by_name = sorted(ls18, key=lambda m: m.get('name', '').lower())
 print("First 12 MPs by Name (Default page 1):")
 for m in sorted_by_name[:12]:
     print(f"  {m['name']} | Const: {m.get('constituency')}, {m.get('state')} | Party: {m.get('party')} | Actual: Rs {m.get('actualCr')} CR")
+

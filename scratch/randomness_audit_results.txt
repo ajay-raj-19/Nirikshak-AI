@@ -1,0 +1,46 @@
+Total occurrences found: 45
+[faker_mock] .\.agents\skills\ui-styling\scripts\tests\test_shadcn_add.py:6 -> from unittest.mock import MagicMock, mock_open, patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max\scripts\tests\test_core.py:20 -> from unittest.mock import patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max\scripts\tests\test_data_contracts.py:12 -> from unittest.mock import patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\.claude\skills\ui-styling\scripts\tests\test_shadcn_add.py:6 -> from unittest.mock import MagicMock, mock_open, patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\.claude\skills\ui-ux-pro-max\scripts\tests\test_core.py:20 -> from unittest.mock import patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\.claude\skills\ui-ux-pro-max\scripts\tests\test_data_contracts.py:12 -> from unittest.mock import patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\cli\assets\scripts\tests\test_core.py:20 -> from unittest.mock import patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\cli\assets\scripts\tests\test_data_contracts.py:12 -> from unittest.mock import patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\cli\assets\skills\ui-styling\scripts\tests\test_shadcn_add.py:6 -> from unittest.mock import MagicMock, mock_open, patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\src\ui-ux-pro-max\scripts\tests\test_core.py:20 -> from unittest.mock import patch
+[faker_mock] .\.agents\skills\ui-ux-pro-max-skill\src\ui-ux-pro-max\scripts\tests\test_data_contracts.py:12 -> from unittest.mock import patch
+[faker_mock] .\ai-model\agency_intelligence\tests\test_temporal_safety.py:28 -> # Create synthetic works dataset spanning 2022 to 2024
+[faker_mock] .\ai-model\evidence_ai\interface.py:30 -> is_test_data: Flag indicating whether input is synthetic fixture / test data.
+[faker_mock] .\ai-model\evidence_ai\tests\test_evidence_ai.py:19 -> """Generate temporary synthetic images for duplicate testing (TEST DATA)."""
+[random_lib] .\backend\auth\database.py:389 -> num = random.randint(1000, 9999)
+[faker_mock] .\backend\tests\test_assistant.py:18 -> from unittest.mock import MagicMock
+[math_random] .\frontend\src\components\FloatingWidgets.jsx:103 -> setConversationId(`conv-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`);
+[math_random] .\frontend\src\components\FloatingWidgets.jsx:261 -> setConversationId(`conv-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`);
+[math_random] .\frontend\src\components\Header.jsx:24 -> const j = Math.floor(Math.random() * (i + 1));
+[faker_mock] .\frontend\src\components\dashboard\EvidenceDrawer.jsx:25 -> // Fetch or mock evidence files for the work
+[faker_mock] .\frontend\src\components\views\FeatureView.jsx:33 -> // MOCK DATA SOURCED DIRECTLY FROM README.MD SPECIFICATIONS
+[faker_mock] .\frontend\src\components\views\FeatureView.jsx:2861 -> setDelayRiskError(workId === null && selectedProject ? 'Offline mock data (live Delay Risk unavailable)' : null);
+[math_random] .\frontend\src\components\views\FeedbackView.jsx:88 -> const ticketId = `FB-${Math.floor(100000 + Math.random() * 900000)}`;
+[math_random] .\frontend\src\components\views\FeedbackView.jsx:109 -> const ticketId = `ISSUE-${Math.floor(100000 + Math.random() * 900000)}`;
+[faker_mock] .\frontend\src\components\views\FindProjectsView.jsx:293 -> // ─── EXTENSIVE MPLADS PROJECTS MOCK DATA ───
+[faker_mock] .\frontend\src\components\views\UnifiedAiIntelligenceView.jsx:693 -> const dummy = {
+[faker_mock] .\frontend\src\components\views\UnifiedAiIntelligenceView.jsx:704 -> financial: dummy, progress: dummy, cost: dummy, delay: dummy,
+[faker_mock] .\frontend\src\components\views\UnifiedAiIntelligenceView.jsx:705 -> duplicate: dummy, evidence: dummy, agency: dummy, payment: dummy,
+[faker_mock] .\frontend\src\data\IndiaMapData.js:2 -> // Replace mock values with API/database data when available.
+[faker_mock] .\scratch\audit_randomness.py:8 -> ("faker_mock", re.compile(r'\b(faker|mock|dummy|synthetic)\b', re.IGNORECASE)),
+[hardcoded_ratio] .\scratch\audit_randomness.py:9 -> ("hardcoded_ratio", re.compile(r'\b(sample_data|mock_data|dummy_data)\b', re.IGNORECASE))
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:690 -> return ("DMK", "द्रमुक") if hash(mp_name) % 2 == 0 else ("AIADMK", "अन्नाद्रमुक")
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:692 -> return ("TDP", "टीडीपी") if hash(mp_name) % 2 == 0 else ("YSRCP", "वाईएसआरसीपी")
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:694 -> return ("TMC", "तृणमूल कांग्रेस") if hash(mp_name) % 3 != 0 else ("BJP", "भाजपा")
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:696 -> return ("INC", "कांग्रेस") if hash(mp_name) % 2 == 0 else ("CPI(M)", "माकपा")
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:698 -> return ("AAP", "आप") if hash(mp_name) % 2 == 0 else ("INC", "कांग्रेस")
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:700 -> h = hash(mp_name) % 3
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:705 -> h = hash(mp_name) % 3
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:710 -> h = hash(mp_name) % 4
+[hash_modulo] .\scratch\build_accurate_mp_dataset.py:716 -> return ("BJP", "भाजपा") if hash(mp_name) % 2 == 0 else ("INC", "कांग्रेस")
+[faker_mock] .\scratch\fix_all_historical_and_rs.py:294 -> # A. Fix the two dummy MPs
+[faker_mock] .\scratch\fix_all_historical_and_rs.py:295 -> if mp.get('id') == 'MP-3026799-2' or 'dummy lok sabha' in mp.get('name', '').lower():
+[faker_mock] .\scratch\fix_all_historical_and_rs.py:304 -> if mp.get('id') == 'MP-3026800-1' or 'dummy rajya sabha' in mp.get('name', '').lower():
+[faker_mock] .\scratch\fix_all_historical_and_rs.py:346 -> print(f"Fixed {updated_dummy} dummy MPs.")
+[faker_mock] .\scripts\export_real_projects.py:18 -> print(f"Successfully synced to {live_path} with ZERO mock data.")

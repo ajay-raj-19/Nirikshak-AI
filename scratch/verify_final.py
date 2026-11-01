@@ -22,3 +22,4 @@ print(f"Total Actual Cr: Rs {tot_act:.2f} CR")
 for name in ['tariq anwar', 'vijaylakshmi', 'rajesh verma', 'pradeep kumar singh']:
     m = next(x for x in ls18 if name in x['name'].lower())
     print(f"  {m['name']} | Const: {m.get('constituency')} | Party: {m.get('party')} | Actual: Rs {m.get('actualCr')} CR | Sanc: Rs {m.get('sanctionedCr')} CR | Disb: Rs {m.get('disbursedCr')} CR")
+
