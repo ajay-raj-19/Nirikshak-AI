@@ -152,6 +152,7 @@ const Header = ({ activeSection, setActiveSection, onFeatureSelect }) => {
   const location = useLocation();
   const [isScrolled, setIsScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [mobileExpandedGroup, setMobileExpandedGroup] = useState(null);
   const { t, language } = useLanguage();
   const isHi = language === 'hi';
 
