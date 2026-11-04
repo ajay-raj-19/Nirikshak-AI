@@ -19,3 +19,4 @@ ls17 = [m for m in arr if '17' in str(m.get('term', '')) and m.get('house') != '
 rs = [m for m in arr if m.get('house') == 'Rajya Sabha']
 
 print(f"Loaded {len(ls17)} 17th LS MPs and {len(rs)} Rajya Sabha MPs.")
+

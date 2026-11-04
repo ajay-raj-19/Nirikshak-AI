@@ -372,3 +372,4 @@ with open('frontend/src/data/mpPerformanceData.js', 'w', encoding='utf-8') as f:
     f.write(full_new_content)
 
 print("\nSuccessfully updated frontend/src/data/mpPerformanceData.js with zero randomized fallbacks!")
+

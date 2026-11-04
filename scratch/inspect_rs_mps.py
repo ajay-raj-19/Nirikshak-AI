@@ -15,3 +15,4 @@ for st, names in sorted(by_state.items()):
     print(f"=== {st} ({len(names)}) ===")
     for n in names:
         print(f"  {n}")
+

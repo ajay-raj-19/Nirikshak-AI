@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-30T07:42:13.835159+00:00",
+  "generated_at": "2026-11-04T17:22:37.767595+00:00",
   "index_version": "1.0.0",
   "source_artifact_hashes": {
-    "constituency_hhi.json": "2b628df628ea7edb1fd3a740d9c33583bffa5a33f468136001a43f773fe414dc",
-    "constituency_risk_heatmap.json": "d88ba207d8d8a44263a38e5a6f8b9fb32d3322216063b809882704db4d89f092",
-    "cost_and_delay_anomalies.json": "5efe6e3ff50390c6dfa4a81770760a3ecadc1ef2433d34ee69079bcb78c18713",
-    "duplicate_project_alerts.json": "d59b8103e3faa5f6110163d4a2d60f2b71c73f876ff91c3a95e13c6bac19258f",
-    "finguard_anomalies.json": "f94a2e2796637ffead93ab590a3fcc4da4927ef7f039109b18b45655ddbfd840",
-    "geointel_heatmap.geojson": "d4ab90a7a92d353dcd07b4d8ba82c3e53ab60099c28be6cc0c5a837e95d76e38",
-    "mp_scorecard_summary.json": "779eee8210ad60fd75fa7d52230fc37300ac70888849d6edf411c7be38030092",
-    "real_projects.json": "664c7869d04681928517036bc56cfd7d49cd73769ba95a29a964939cbbfc02ac",
-    "unified_project_evaluations.json": "680a97f7b73ba1ea21b8eca9cd9e6de8547a3d5a7c2435aacec571f560cfa7ac",
-    "vendor_risk_network.json": "57ff879cc3d572651a4b145df8183aae777e40fed6bdf501a08ec2054cca7f94"
+    "constituency_hhi.json": "bd6b136e8264866e07115d0df1c10f1892b9bbe103391b450d31d8e119985a46",
+    "constituency_risk_heatmap.json": "90be1438b513c4c58ca2403a714c4a0b73cdd0bb8cc916f1b919a58476b8f485",
+    "cost_and_delay_anomalies.json": "029bda3637b66647854185df9f564ab77234a441a4b0744cba76a37a9d4898c1",
+    "duplicate_project_alerts.json": "defbf3e7d2a8cada4d4ea330602c24a60944c6247fb0ed6ac19251825f61886a",
+    "finguard_anomalies.json": "72d56a1a4fc7913b16d8e9845c3281341976450338792164a9523b6deb464cda",
+    "geointel_heatmap.geojson": "096b94cc428086dfee1d111d2f933ccd205fc2be3c8eb9b958adf9462fe7d5fa",
+    "mp_scorecard_summary.json": "be7240ff25a3899650582552e07fa08d7d9e245b84511483c4d32d7f057f7d03",
+    "real_projects.json": "90da286d43b03aaa9b48bed3e616cd73fac66151f167ae4d3b6a0db8fdf7cd72",
+    "unified_project_evaluations.json": "b52205163867426062c2693f30050fd7f16aa8494a640db65c584c13fb952f4e",
+    "vendor_risk_network.json": "acdc5ecd859efb305df1a8da107afa47203e088093ad42f729856b467f5428d2"
   },
   "source_record_counts": {
     "constituency_hhi.json": 66,
@@ -21,11 +21,11 @@
     "finguard_anomalies.json": 2000,
     "geointel_heatmap.geojson": 29,
     "mp_scorecard_summary.json": 1219,
-    "real_projects.json": 4724,
+    "real_projects.json": 27995,
     "unified_project_evaluations.json": 1000,
     "vendor_risk_network.json": 25
   },
   "total_mps_indexed": 1066,
-  "total_records_analyzed": 11130,
-  "total_works_indexed": 6592
+  "total_records_analyzed": 34401,
+  "total_works_indexed": 29865
 }

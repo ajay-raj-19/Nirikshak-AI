@@ -38,3 +38,4 @@ with open('frontend/src/components/views/StateDetailView.jsx', 'w', encoding='ut
     f.writelines(lines)
 
 print('Successfully updated StateDetailView.jsx!')
+
