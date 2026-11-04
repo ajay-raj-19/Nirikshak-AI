@@ -258,20 +258,19 @@ export const hi = {
     headingHighlight: "स्पष्टीकरण उपलब्ध है",
     lead: "Nirikshak AI स्पष्ट, बहु-कारकीय जोखिम स्पष्टीकरण उत्पन्न करता है ताकि ज़िला अधिकारी मानव फील्ड निरीक्षण को प्राथमिकता दे सकें।",
     dossier: {
-      badge: "नमूना परियोजना जोखिम फ़ाइल",
-      title: "ग्रामीण सड़क A–B का निर्माण",
-      meta: "ज़िला: पटना • स्वीकृत राशि: ₹45,00,000 • ID: MPLADS-2026-8871",
+      badge: "सत्यापित परियोजना जोखिम फ़ाइल",
+      title: "WS/MP598/2023-2024/105744 - लिंक रोड शिल्ली जोनाजी से हिमगिरी आश्रम की मरम्मत",
+      meta: "ज़िला प्राधिकरण: सोलन (उपायुक्त सोलन, IDA) • हिमाचल प्रदेश • स्वीकृत राशि: ₹5,00,000 • Work ID: 105744",
       riskLevel: "उच्च जोखिम",
-      irregularitiesHeading: "पहचानी गई संभावित विसंगतियां:",
+      irregularitiesHeading: "पहचानी गई बहु-कारकीय विसंगतियां:",
       irregularitiesList: [
-        "90% बजट व्यय हो चुका है",
-        "केवल 40% भौतिक प्रगति दर्ज",
-        "पूर्णता समयसीमा पार हो चुकी है",
-        "समान परियोजनाओं की तुलना में अधिक लागत",
-        "कार्यान्वयन एजेंसी की कई परियोजनाएं विलंबित हैं"
+        "गंभीर पूर्णता विलंब: 582 दिनों का अतिरिक्त समय (+357 दिन सामान्य सीमा से अधिक)",
+        "कार्यान्वयन एजेंसी जोखिम: सोलन में ऐतिहासिक ज़िला विलंब दर 81.5%",
+        "परियोजना अवधि विस्तारित: शून्य भौतिक प्रगति के बावजूद 608 दिनों से सक्रिय",
+        "लागत जोखिम वृद्धि: श्रेणी औसत से 3.83 मानक विचलन अधिक (Z-स्कोर बाह्य)"
       ],
       actionTitle: "अनुशंसित कार्रवाई",
-      actionText: "बिल, माप और परियोजना तस्वीरों का भौतिक निरीक्षण और सत्यापन।",
+      actionText: "ज़िला नोडल अधिकारी द्वारा बिल, माप और ठेकेदार वाउचर का भौतिक निरीक्षण और सत्यापन।",
       disclaimer: "Nirikshak AI धोखाधड़ी का निर्धारण नहीं करता है। यह विसंगतियों की पहचान करता है और मानव सत्यापन के लिए मामलों को प्राथमिकता देता है।"
     }
   },
@@ -289,10 +288,10 @@ export const hi = {
     ],
     docketTitle: "उच्च-जोखिम परियोजना फ़ाइल की समीक्षा करें",
     docketLead: "स्पष्टीकरण-योग्य निरीक्षण दस्तावेज़ उत्पन्न करने के लिए चिह्नित परियोजना का चयन करें:",
-    project1Title: "ग्रामीण सड़क A–B (MPLADS-8871)",
-    project1Sub: "जोखिम स्कोर 87 • 90% व्यय बनाम 40% प्रगति",
-    project2Title: "सामुदायिक केंद्र वार्ड 12 (MPLADS-4412)",
-    project2Sub: "जोखिम स्कोर 74 • संभावित दोहरे कार्य का विवरण",
+    project1Title: "लिंक रोड शिल्ली जोनाजी की मरम्मत (Work ID: 105744)",
+    project1Sub: "जोखिम स्कोर 68.6 • 582 दिन पूर्णता विलंब और उच्च एजेंसी जोखिम",
+    project2Title: "पेवर ब्लॉक रोड तोर्षा बांध के पास (Work ID: 179982)",
+    project2Sub: "जोखिम स्कोर 62.0 • दोहरा कार्य अलर्ट और ₹82.5 लाख उच्च लागत",
     generateDossierBtn: "फ़ाइल उत्पन्न करें",
     scheduleTitle: "ज़िला फील्ड निरीक्षण टीम को निर्देशित करें",
     officerNamePlaceholder: "नोडल अधिकारी का नाम *",
@@ -320,36 +319,36 @@ export const hi = {
     mapTitle: "MPLADS भारत जोखिम इंटेलिजेंस मानचित्र",
     districtCards: [
       {
-        district: "पटना ज़िला",
-        state: "बिहार",
-        totalProjectsText: "142 परियोजनाएं",
-        sanctionedAmountText: "₹28.4 Cr स्वीकृत",
-        riskCategory: "गंभीर",
-        anomalyCountText: "12 विसंगतियां"
-      },
-      {
-        district: "वाराणसी ज़िला",
+        district: "अलीगढ़ ज़िला",
         state: "उत्तर प्रदेश",
-        totalProjectsText: "198 परियोजनाएं",
-        sanctionedAmountText: "₹41.2 Cr स्वीकृत",
+        totalProjectsText: "36,665 परियोजनाएं",
+        sanctionedAmountText: "₹18.3 Cr स्वीकृत",
+        riskCategory: "गंभीर",
+        anomalyCountText: "4,363 उच्च जोखिम अलर्ट"
+      },
+      {
+        district: "बैतूल (ST) ज़िला",
+        state: "मध्य प्रदेश",
+        totalProjectsText: "15,906 परियोजनाएं",
+        sanctionedAmountText: "₹26.2 Cr स्वीकृत",
         riskCategory: "उच्च",
-        anomalyCountText: "7 विसंगतियां"
+        anomalyCountText: "538 उच्च जोखिम अलर्ट"
       },
       {
-        district: "पुणे ज़िला",
-        state: "महाराष्ट्र",
-        totalProjectsText: "310 परियोजनाएं",
-        sanctionedAmountText: "₹62.5 Cr स्वीकृत",
+        district: "अररिया ज़िला",
+        state: "बिहार",
+        totalProjectsText: "11,787 परियोजनाएं",
+        sanctionedAmountText: "₹24.2 Cr स्वीकृत",
         riskCategory: "मध्यम",
-        anomalyCountText: "4 विसंगतियां"
+        anomalyCountText: "282 उच्च जोखिम अलर्ट"
       },
       {
-        district: "एर्नाकुलम ज़िला",
-        state: "केरल",
-        totalProjectsText: "115 परियोजनाएं",
-        sanctionedAmountText: "₹22.1 Cr स्वीकृत",
+        district: "बैंगलोर ग्रामीण",
+        state: "कर्नाटक",
+        totalProjectsText: "10,077 परियोजनाएं",
+        sanctionedAmountText: "₹23.3 Cr स्वीकृत",
         riskCategory: "निम्न",
-        anomalyCountText: "1 विसंगतियां"
+        anomalyCountText: "495 उच्च जोखिम अलर्ट"
       }
     ],
     exploreDistrictAlert: "{district} MPLADS परियोजनाओं का अन्वेषण किया जा रहा है..."

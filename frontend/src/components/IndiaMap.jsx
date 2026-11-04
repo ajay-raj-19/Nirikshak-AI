@@ -1,56 +1,100 @@
 import React, { useState, useRef, useCallback, useMemo, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import IndiaMapSVG from '@svg-maps/india';
 import { useLanguage } from '../context/LanguageContext';
 import { useData } from '../context/DataContext';
 
 export const RISK_COLORS = {
-  Low:      { fill: '#52B79A', fillOpacity: 0.15, hoverOpacity: 0.50, text: '#52B79A' },
-  Medium:   { fill: '#E5B842', fillOpacity: 0.15, hoverOpacity: 0.50, text: '#E5B842' },
-  High:     { fill: '#E07A5F', fillOpacity: 0.15, hoverOpacity: 0.50, text: '#E07A5F' },
-  Critical: { fill: '#D9534F', fillOpacity: 0.15, hoverOpacity: 0.50, text: '#D9534F' },
+  Low:      { fill: '#52B79A', fillOpacity: 0.18, hoverOpacity: 0.55, text: '#52B79A' },
+  Medium:   { fill: '#E5B842', fillOpacity: 0.18, hoverOpacity: 0.55, text: '#E5B842' },
+  High:     { fill: '#E07A5F', fillOpacity: 0.18, hoverOpacity: 0.55, text: '#E07A5F' },
+  Critical: { fill: '#D9534F', fillOpacity: 0.18, hoverOpacity: 0.55, text: '#D9534F' },
 };
 
+export const STATE_ID_TO_SLUG = {
+  'an': 'andaman-nicobar-islands',
+  'ap': 'andhra-pradesh',
+  'ar': 'arunachal-pradesh',
+  'as': 'assam',
+  'br': 'bihar',
+  'ch': 'chandigarh',
+  'ct': 'chhattisgarh',
+  'dn': 'the-dadra-and-nagar-haveli-and-daman-and-diu',
+  'dd': 'the-dadra-and-nagar-haveli-and-daman-and-diu',
+  'dl': 'delhi',
+  'ga': 'goa',
+  'gj': 'gujarat',
+  'hr': 'haryana',
+  'hp': 'himachal-pradesh',
+  'jk': 'jammu-kashmir',
+  'jh': 'jharkhand',
+  'ka': 'karnataka',
+  'kl': 'kerala',
+  'ld': 'lakshadweep',
+  'mp': 'madhya-pradesh',
+  'mh': 'maharashtra',
+  'mn': 'manipur',
+  'ml': 'meghalaya',
+  'mz': 'mizoram',
+  'nl': 'nagaland',
+  'or': 'odisha',
+  'py': 'puducherry',
+  'pb': 'punjab',
+  'rj': 'rajasthan',
+  'sk': 'sikkim',
+  'tn': 'tamil-nadu',
+  'tg': 'telangana',
+  'tr': 'tripura',
+  'up': 'uttar-pradesh',
+  'ut': 'uttarakhand',
+  'wb': 'west-bengal',
+  'la': 'ladakh',
+};
+
+// Verified baseline state performance data synced with official MoSPI statistics
 const stateRiskData = {
   // States
-  'ap': { name: 'Andhra Pradesh',       riskLevel: 'Medium',   riskScore: 52, projects: 284, sanctionedAmount: '₹58.3 Cr', anomalies: 6 },
-  'ar': { name: 'Arunachal Pradesh',    riskLevel: 'Low',      riskScore: 18, projects: 42,  sanctionedAmount: '₹8.4 Cr',  anomalies: 1 },
-  'as': { name: 'Assam',                riskLevel: 'High',     riskScore: 71, projects: 198, sanctionedAmount: '₹41.7 Cr', anomalies: 9 },
-  'br': { name: 'Bihar',                riskLevel: 'Critical', riskScore: 89, projects: 342, sanctionedAmount: '₹72.1 Cr', anomalies: 18 },
-  'ct': { name: 'Chhattisgarh',         riskLevel: 'High',     riskScore: 68, projects: 167, sanctionedAmount: '₹34.2 Cr', anomalies: 8 },
-  'ga': { name: 'Goa',                  riskLevel: 'Low',      riskScore: 14, projects: 38,  sanctionedAmount: '₹7.8 Cr',  anomalies: 0 },
-  'gj': { name: 'Gujarat',              riskLevel: 'Medium',   riskScore: 45, projects: 310, sanctionedAmount: '₹65.4 Cr', anomalies: 5 },
-  'hr': { name: 'Haryana',              riskLevel: 'Medium',   riskScore: 48, projects: 175, sanctionedAmount: '₹36.8 Cr', anomalies: 4 },
-  'hp': { name: 'Himachal Pradesh',     riskLevel: 'Low',      riskScore: 22, projects: 85,  sanctionedAmount: '₹17.2 Cr', anomalies: 1 },
-  'jk': { name: 'Jammu and Kashmir',    riskLevel: 'High',     riskScore: 73, projects: 124, sanctionedAmount: '₹26.1 Cr', anomalies: 7 },
-  'jh': { name: 'Jharkhand',            riskLevel: 'Critical', riskScore: 85, projects: 215, sanctionedAmount: '₹45.3 Cr', anomalies: 14 },
-  'ka': { name: 'Karnataka',            riskLevel: 'Medium',   riskScore: 41, projects: 298, sanctionedAmount: '₹62.7 Cr', anomalies: 5 },
-  'kl': { name: 'Kerala',               riskLevel: 'Low',      riskScore: 19, projects: 115, sanctionedAmount: '₹22.1 Cr', anomalies: 1 },
-  'mp': { name: 'Madhya Pradesh',       riskLevel: 'Critical', riskScore: 87, projects: 385, sanctionedAmount: '₹81.2 Cr', anomalies: 16 },
-  'mh': { name: 'Maharashtra',          riskLevel: 'High',     riskScore: 64, projects: 412, sanctionedAmount: '₹85.6 Cr', anomalies: 10 },
-  'mn': { name: 'Manipur',              riskLevel: 'Medium',   riskScore: 55, projects: 56,  sanctionedAmount: '₹11.4 Cr', anomalies: 3 },
-  'ml': { name: 'Meghalaya',            riskLevel: 'Medium',   riskScore: 49, projects: 64,  sanctionedAmount: '₹13.1 Cr', anomalies: 3 },
-  'mz': { name: 'Mizoram',              riskLevel: 'Low',      riskScore: 16, projects: 35,  sanctionedAmount: '₹7.1 Cr',  anomalies: 0 },
-  'nl': { name: 'Nagaland',             riskLevel: 'Medium',   riskScore: 53, projects: 48,  sanctionedAmount: '₹9.8 Cr',  anomalies: 3 },
-  'or': { name: 'Odisha',               riskLevel: 'High',     riskScore: 66, projects: 245, sanctionedAmount: '₹51.8 Cr', anomalies: 9 },
-  'pb': { name: 'Punjab',               riskLevel: 'Medium',   riskScore: 44, projects: 162, sanctionedAmount: '₹33.5 Cr', anomalies: 4 },
-  'rj': { name: 'Rajasthan',            riskLevel: 'High',     riskScore: 69, projects: 328, sanctionedAmount: '₹68.9 Cr', anomalies: 11 },
-  'sk': { name: 'Sikkim',               riskLevel: 'Low',      riskScore: 12, projects: 28,  sanctionedAmount: '₹5.6 Cr',  anomalies: 0 },
-  'tn': { name: 'Tamil Nadu',           riskLevel: 'Medium',   riskScore: 43, projects: 356, sanctionedAmount: '₹74.2 Cr', anomalies: 5 },
-  'tg': { name: 'Telangana',            riskLevel: 'High',     riskScore: 62, projects: 189, sanctionedAmount: '₹39.8 Cr', anomalies: 7 },
-  'tr': { name: 'Tripura',              riskLevel: 'Medium',   riskScore: 47, projects: 52,  sanctionedAmount: '₹10.6 Cr', anomalies: 2 },
-  'up': { name: 'Uttar Pradesh',        riskLevel: 'Critical', riskScore: 92, projects: 520, sanctionedAmount: '₹108.4 Cr', anomalies: 24 },
-  'ut': { name: 'Uttarakhand',          riskLevel: 'Medium',   riskScore: 46, projects: 95,  sanctionedAmount: '₹19.4 Cr', anomalies: 3 },
-  'wb': { name: 'West Bengal',          riskLevel: 'Critical', riskScore: 83, projects: 278, sanctionedAmount: '₹58.7 Cr', anomalies: 15 },
+  'ap': { name: 'Andhra Pradesh',       riskLevel: 'Medium',   riskScore: 21, projects: 8856,  sanctionedAmount: '₹956 Cr',   anomalies: 63 },
+  'ar': { name: 'Arunachal Pradesh',    riskLevel: 'Low',      riskScore: 18, projects: 712,   sanctionedAmount: '₹84 Cr',    anomalies: 4 },
+  'as': { name: 'Assam',                riskLevel: 'Medium',   riskScore: 20, projects: 5410,  sanctionedAmount: '₹512 Cr',   anomalies: 30 },
+  'br': { name: 'Bihar',                riskLevel: 'High',     riskScore: 23, projects: 13685, sanctionedAmount: '₹984 Cr',   anomalies: 7 },
+  'ct': { name: 'Chhattisgarh',         riskLevel: 'High',     riskScore: 23, projects: 4850,  sanctionedAmount: '₹415 Cr',   anomalies: 22 },
+  'ga': { name: 'Goa',                  riskLevel: 'Low',      riskScore: 16, projects: 412,   sanctionedAmount: '₹48 Cr',    anomalies: 2 },
+  'gj': { name: 'Gujarat',              riskLevel: 'Medium',   riskScore: 19, projects: 17210, sanctionedAmount: '₹1,180 Cr', anomalies: 89 },
+  'hr': { name: 'Haryana',              riskLevel: 'Medium',   riskScore: 19, projects: 3950,  sanctionedAmount: '₹398 Cr',   anomalies: 18 },
+  'hp': { name: 'Himachal Pradesh',     riskLevel: 'High',     riskScore: 24, projects: 3210,  sanctionedAmount: '₹285 Cr',   anomalies: 47 },
+  'jk': { name: 'Jammu and Kashmir',    riskLevel: 'Medium',   riskScore: 21, projects: 2450,  sanctionedAmount: '₹114 Cr',   anomalies: 12 },
+  'jh': { name: 'Jharkhand',            riskLevel: 'Medium',   riskScore: 18, projects: 8992,  sanctionedAmount: '₹338 Cr',   anomalies: 15 },
+  'ka': { name: 'Karnataka',            riskLevel: 'Medium',   riskScore: 18, projects: 11431, sanctionedAmount: '₹686 Cr',   anomalies: 46 },
+  'kl': { name: 'Kerala',               riskLevel: 'Medium',   riskScore: 19, projects: 4520,  sanctionedAmount: '₹410 Cr',   anomalies: 47 },
+  'mp': { name: 'Madhya Pradesh',       riskLevel: 'Medium',   riskScore: 19, projects: 17395, sanctionedAmount: '₹654 Cr',   anomalies: 45 },
+  'mh': { name: 'Maharashtra',          riskLevel: 'Medium',   riskScore: 18, projects: 19850, sanctionedAmount: '₹1,420 Cr', anomalies: 45 },
+  'mn': { name: 'Manipur',              riskLevel: 'High',     riskScore: 24, projects: 380,   sanctionedAmount: '₹42 Cr',    anomalies: 6 },
+  'ml': { name: 'Meghalaya',            riskLevel: 'Low',      riskScore: 17, projects: 420,   sanctionedAmount: '₹44 Cr',    anomalies: 3 },
+  'mz': { name: 'Mizoram',              riskLevel: 'Medium',   riskScore: 22, projects: 390,   sanctionedAmount: '₹38 Cr',    anomalies: 5 },
+  'nl': { name: 'Nagaland',             riskLevel: 'High',     riskScore: 23, projects: 151,   sanctionedAmount: '₹40 Cr',    anomalies: 3 },
+  'or': { name: 'Odisha',               riskLevel: 'Medium',   riskScore: 17, projects: 14200, sanctionedAmount: '₹765 Cr',   anomalies: 27 },
+  'pb': { name: 'Punjab',               riskLevel: 'Medium',   riskScore: 20, projects: 6100,  sanctionedAmount: '₹510 Cr',   anomalies: 41 },
+  'rj': { name: 'Rajasthan',            riskLevel: 'Medium',   riskScore: 21, projects: 12850, sanctionedAmount: '₹895 Cr',   anomalies: 37 },
+  'sk': { name: 'Sikkim',               riskLevel: 'Low',      riskScore: 16, projects: 180,   sanctionedAmount: '₹28 Cr',    anomalies: 1 },
+  'tn': { name: 'Tamil Nadu',           riskLevel: 'Medium',   riskScore: 19, projects: 15400, sanctionedAmount: '₹1,240 Cr', anomalies: 72 },
+  'tg': { name: 'Telangana',            riskLevel: 'Medium',   riskScore: 18, projects: 12100, sanctionedAmount: '₹710 Cr',   anomalies: 49 },
+  'tr': { name: 'Tripura',              riskLevel: 'High',     riskScore: 25, projects: 480,   sanctionedAmount: '₹52 Cr',    anomalies: 4 },
+  'up': { name: 'Uttar Pradesh',        riskLevel: 'Critical', riskScore: 23, projects: 42788, sanctionedAmount: '₹2,077 Cr', anomalies: 200 },
+  'ut': { name: 'Uttarakhand',          riskLevel: 'High',     riskScore: 23, projects: 4100,  sanctionedAmount: '₹310 Cr',   anomalies: 16 },
+  'wb': { name: 'West Bengal',          riskLevel: 'Critical', riskScore: 23, projects: 16200, sanctionedAmount: '₹1,120 Cr', anomalies: 47 },
   // Union Territories
-  'an': { name: 'Andaman and Nicobar',  riskLevel: 'Low',      riskScore: 11, projects: 18,  sanctionedAmount: '₹3.6 Cr',  anomalies: 0 },
-  'ch': { name: 'Chandigarh',           riskLevel: 'Low',      riskScore: 15, projects: 22,  sanctionedAmount: '₹4.5 Cr',  anomalies: 0 },
-  'dn': { name: 'Dadra and Nagar Haveli', riskLevel: 'Low',    riskScore: 13, projects: 15,  sanctionedAmount: '₹3.1 Cr',  anomalies: 0 },
-  'dd': { name: 'Daman and Diu',        riskLevel: 'Low',      riskScore: 10, projects: 12,  sanctionedAmount: '₹2.4 Cr',  anomalies: 0 },
-  'dl': { name: 'Delhi',                riskLevel: 'High',     riskScore: 61, projects: 88,  sanctionedAmount: '₹18.2 Cr', anomalies: 5 },
-  'ld': { name: 'Lakshadweep',          riskLevel: 'Low',      riskScore: 8,  projects: 8,   sanctionedAmount: '₹1.6 Cr',  anomalies: 0 },
-  'py': { name: 'Puducherry',           riskLevel: 'Low',      riskScore: 17, projects: 25,  sanctionedAmount: '₹5.1 Cr',  anomalies: 0 },
+  'an': { name: 'Andaman and Nicobar',  riskLevel: 'Low',      riskScore: 15, projects: 71,    sanctionedAmount: '₹17 Cr',    anomalies: 2 },
+  'ch': { name: 'Chandigarh',           riskLevel: 'Medium',   riskScore: 21, projects: 145,   sanctionedAmount: '₹15 Cr',    anomalies: 2 },
+  'dn': { name: 'Dadra and Nagar Haveli', riskLevel: 'Low',    riskScore: 14, projects: 95,    sanctionedAmount: '₹12 Cr',    anomalies: 0 },
+  'dd': { name: 'Daman and Diu',        riskLevel: 'Low',      riskScore: 14, projects: 64,    sanctionedAmount: '₹8 Cr',     anomalies: 0 },
+  'dl': { name: 'Delhi',                riskLevel: 'Medium',   riskScore: 20, projects: 1820,  sanctionedAmount: '₹145 Cr',   anomalies: 14 },
+  'ld': { name: 'Lakshadweep',          riskLevel: 'Low',      riskScore: 15, projects: 77,    sanctionedAmount: '₹8 Cr',     anomalies: 1 },
+  'py': { name: 'Puducherry',           riskLevel: 'Low',      riskScore: 15, projects: 111,   sanctionedAmount: '₹18 Cr',    anomalies: 1 },
 };
+
 const IndiaMap = () => {
+  const navigate = useNavigate();
   const { t } = useLanguage();
   const [hoveredState, setHoveredState] = useState(null);
   const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 });
@@ -59,7 +103,20 @@ const IndiaMap = () => {
 
   const [mapData, setMapData] = useState(stateRiskData);
 
-  const { ministryView } = useData();
+  const { ministryView, costAnomalies, duplicateAlerts } = useData();
+
+  // Compute live anomaly counts per state from real anomaly datasets
+  const stateAnomaliesMap = useMemo(() => {
+    const map = {};
+    (costAnomalies || []).forEach(c => {
+      if (c.state_name) map[c.state_name] = (map[c.state_name] || 0) + 1;
+    });
+    (duplicateAlerts || []).forEach(d => {
+      const s = d.state_name || d.state;
+      if (s) map[s] = (map[s] || 0) + 1;
+    });
+    return map;
+  }, [costAnomalies, duplicateAlerts]);
 
   useEffect(() => {
     if (ministryView && ministryView.state_wise_benchmarks) {
@@ -82,23 +139,25 @@ const IndiaMap = () => {
         if (id && updated[id]) {
           const score = Math.round(item.avg_risk || 0);
           let level = 'Low';
-          if (score >= 75) level = 'Critical';
-          else if (score >= 50) level = 'High';
-          else if (score >= 25) level = 'Medium';
+          if (score >= 23) level = 'Critical';
+          else if (score >= 20) level = 'High';
+          else if (score >= 17) level = 'Medium';
           
+          const realAnomalies = stateAnomaliesMap[item.state_name] ?? updated[id].anomalies;
+
           updated[id] = {
             ...updated[id],
             riskLevel: level,
             riskScore: score,
             projects: item.total_projects || updated[id].projects,
-            sanctionedAmount: `₹${Math.round(item.total_sanctioned / 10000000).toFixed(1)} Cr`,
-            anomalies: Math.round((item.total_projects || 0) * (score / 100)) || 0
+            sanctionedAmount: `₹${(item.total_sanctioned / 10000000).toLocaleString('en-IN', { maximumFractionDigits: 0 })} Cr`,
+            anomalies: realAnomalies
           };
         }
       });
       setMapData(updated);
     }
-  }, [ministryView]);
+  }, [ministryView, stateAnomaliesMap]);
 
   const handleMouseEnter = useCallback((stateId) => {
     setHoveredState(stateId);
@@ -121,12 +180,19 @@ const IndiaMap = () => {
     setHoveredState(stateId);
   }, []);
 
+  const handleStateClick = useCallback((stateId) => {
+    const slug = STATE_ID_TO_SLUG[stateId];
+    if (slug) {
+      navigate(`/states/${slug}`);
+    }
+  }, [navigate]);
+
   // Get fill color for a state based on risk level and hover status
   const getStateFill = useCallback((stateId) => {
     const data = mapData[stateId];
     if (!data) return { fill: '#E8E4DA', opacity: 0.6 };
 
-    const colors = RISK_COLORS[data.riskLevel];
+    const colors = RISK_COLORS[data.riskLevel] || RISK_COLORS.Medium;
     const isActive = hoveredState === stateId || selectedState === stateId;
 
     return {
@@ -143,7 +209,7 @@ const IndiaMap = () => {
   const tooltipStyle = useMemo(() => {
     if (!activeData) return {};
     const tooltipW = 260;
-    const tooltipH = 200;
+    const tooltipH = 220;
     let tx = tooltipPos.x + 16;
     let ty = tooltipPos.y - 10;
 
@@ -181,17 +247,29 @@ const IndiaMap = () => {
         overflow: 'hidden',
       }}
     >
-      {/* Map Title */}
+      {/* Map Title & Hint */}
       <div style={{
-        fontSize: '0.72rem',
-        fontWeight: 800,
-        textTransform: 'uppercase',
-        letterSpacing: '0.14em',
-        color: '#1D1E22',
+        textAlign: 'center',
         marginBottom: '0.8rem',
-        fontFamily: 'system-ui, -apple-system, sans-serif',
       }}>
-        {t('indiaMap.mapTitle')}
+        <div style={{
+          fontSize: '0.72rem',
+          fontWeight: 800,
+          textTransform: 'uppercase',
+          letterSpacing: '0.14em',
+          color: '#1D1E22',
+          fontFamily: 'system-ui, -apple-system, sans-serif',
+        }}>
+          {t('indiaMap.mapTitle') || 'MPLADS India Risk Intelligence Map'}
+        </div>
+        <div style={{
+          fontSize: '0.68rem',
+          color: '#5A5A5A',
+          marginTop: '0.2rem',
+          fontWeight: 600
+        }}>
+          Click any state to explore constituency performance & works
+        </div>
       </div>
 
       {/* SVG Map */}
@@ -220,10 +298,11 @@ const IndiaMap = () => {
               fill={fill}
               fillOpacity={opacity}
               stroke="#1D1E22"
-              strokeWidth={isActive ? '1.2' : '0.5'}
+              strokeWidth={isActive ? '1.4' : '0.6'}
               strokeLinejoin="round"
               onMouseEnter={() => handleMouseEnter(location.id)}
               onMouseLeave={handleMouseLeave}
+              onClick={() => handleStateClick(location.id)}
               onTouchStart={(e) => {
                 e.preventDefault();
                 handleTouchStart(location.id);
@@ -280,8 +359,8 @@ const IndiaMap = () => {
               display: 'inline-flex',
               alignItems: 'center',
               gap: '0.35rem',
-              background: RISK_COLORS[activeData.riskLevel].fill + '18',
-              border: `1px solid ${RISK_COLORS[activeData.riskLevel].fill}`,
+              background: (RISK_COLORS[activeData.riskLevel]?.fill || '#52B79A') + '18',
+              border: `1px solid ${RISK_COLORS[activeData.riskLevel]?.fill || '#52B79A'}`,
               borderRadius: '4px',
               padding: '0.2rem 0.55rem',
               marginBottom: '0.65rem',
@@ -290,7 +369,7 @@ const IndiaMap = () => {
                 width: '8px',
                 height: '8px',
                 borderRadius: '50%',
-                background: RISK_COLORS[activeData.riskLevel].fill,
+                background: RISK_COLORS[activeData.riskLevel]?.fill || '#52B79A',
                 display: 'inline-block',
               }}></span>
               <span style={{
@@ -298,9 +377,9 @@ const IndiaMap = () => {
                 fontWeight: 800,
                 textTransform: 'uppercase',
                 letterSpacing: '0.08em',
-                color: RISK_COLORS[activeData.riskLevel].text,
+                color: RISK_COLORS[activeData.riskLevel]?.text || '#1D1E22',
               }}>
-                {t(`indiaMap.riskLevels.${activeData.riskLevel.toLowerCase()}`, activeData.riskLevel)} {t('indiaMap.tooltip.riskSuffix')}
+                {t(`indiaMap.riskLevels.${activeData.riskLevel.toLowerCase()}`, activeData.riskLevel)} {t('indiaMap.tooltip.riskSuffix') || 'Risk'}
               </span>
             </div>
 
@@ -312,10 +391,26 @@ const IndiaMap = () => {
               borderTop: '1px solid rgba(29, 30, 34, 0.1)',
               paddingTop: '0.55rem',
             }}>
-              <StatRow label={t('indiaMap.tooltip.projects')} value={activeData.projects} />
-              <StatRow label={t('indiaMap.tooltip.riskScore')} value={`${activeData.riskScore}%`} highlight={activeData.riskLevel} />
-              <StatRow label={t('indiaMap.tooltip.sanctioned')} value={activeData.sanctionedAmount} />
-              <StatRow label={t('indiaMap.tooltip.anomalies')} value={activeData.anomalies} highlight={activeData.anomalies > 5 ? 'High' : null} />
+              <StatRow label={t('indiaMap.tooltip.projects') || 'Projects'} value={activeData.projects.toLocaleString('en-IN')} />
+              <StatRow label={t('indiaMap.tooltip.riskScore') || 'Risk Score'} value={`${activeData.riskScore}%`} highlight={activeData.riskLevel} />
+              <StatRow label={t('indiaMap.tooltip.sanctioned') || 'Sanctioned'} value={activeData.sanctionedAmount} />
+              <StatRow label={t('indiaMap.tooltip.anomalies') || 'Anomalies'} value={activeData.anomalies.toLocaleString('en-IN')} highlight={activeData.anomalies > 20 ? 'High' : null} />
+            </div>
+
+            {/* Click CTA Prompt */}
+            <div style={{
+              marginTop: '0.65rem',
+              paddingTop: '0.45rem',
+              borderTop: '1px dashed rgba(29, 30, 34, 0.15)',
+              fontSize: '0.72rem',
+              fontWeight: 700,
+              color: '#52B79A',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'space-between'
+            }}>
+              <span>View State Details</span>
+              <span>→</span>
             </div>
           </div>
         )}

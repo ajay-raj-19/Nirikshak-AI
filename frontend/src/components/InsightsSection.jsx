@@ -1,16 +1,19 @@
-import React, { useState } from 'react';
-import { Layers } from 'lucide-react';
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
+import { Layers, ArrowRight } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 import IndiaMap from './IndiaMap';
 
 const InsightsSection = () => {
   const { t } = useLanguage();
+  const navigate = useNavigate();
 
   const districtRiskData = [
     {
       id: 1,
       district: t('geospatial.districtCards.0.district'),
       state: t('geospatial.districtCards.0.state'),
+      stateSlug: 'uttar-pradesh',
       totalProjectsText: t('geospatial.districtCards.0.totalProjectsText'),
       sanctionedAmountText: t('geospatial.districtCards.0.sanctionedAmountText'),
       riskCategory: t('geospatial.districtCards.0.riskCategory'),
@@ -21,6 +24,7 @@ const InsightsSection = () => {
       id: 2,
       district: t('geospatial.districtCards.1.district'),
       state: t('geospatial.districtCards.1.state'),
+      stateSlug: 'madhya-pradesh',
       totalProjectsText: t('geospatial.districtCards.1.totalProjectsText'),
       sanctionedAmountText: t('geospatial.districtCards.1.sanctionedAmountText'),
       riskCategory: t('geospatial.districtCards.1.riskCategory'),
@@ -31,6 +35,7 @@ const InsightsSection = () => {
       id: 3,
       district: t('geospatial.districtCards.2.district'),
       state: t('geospatial.districtCards.2.state'),
+      stateSlug: 'bihar',
       totalProjectsText: t('geospatial.districtCards.2.totalProjectsText'),
       sanctionedAmountText: t('geospatial.districtCards.2.sanctionedAmountText'),
       riskCategory: t('geospatial.districtCards.2.riskCategory'),
@@ -41,6 +46,7 @@ const InsightsSection = () => {
       id: 4,
       district: t('geospatial.districtCards.3.district'),
       state: t('geospatial.districtCards.3.state'),
+      stateSlug: 'karnataka',
       totalProjectsText: t('geospatial.districtCards.3.totalProjectsText'),
       sanctionedAmountText: t('geospatial.districtCards.3.sanctionedAmountText'),
       riskCategory: t('geospatial.districtCards.3.riskCategory'),
@@ -129,8 +135,21 @@ const InsightsSection = () => {
               <div
                 key={d.id}
                 className="card-light"
-                style={{ padding: '1.4rem 1.6rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', cursor: 'pointer' }}
-                onClick={() => alert(t('geospatial.exploreDistrictAlert').replace('{district}', d.district))}
+                style={{
+                  padding: '1.4rem 1.6rem',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  cursor: 'pointer',
+                  transition: 'transform 0.2s ease, box-shadow 0.2s ease'
+                }}
+                onClick={() => {
+                  if (d.stateSlug) {
+                    navigate(`/states/${d.stateSlug}`);
+                  } else {
+                    navigate('/features/geospatial');
+                  }
+                }}
               >
                 <div>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '0.3rem' }}>
@@ -148,12 +167,16 @@ const InsightsSection = () => {
                   </div>
                 </div>
 
-                <div style={{ textAlign: 'right' }}>
+                <div style={{ textAlign: 'right', display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: '0.2rem' }}>
                   <div style={{ fontSize: '0.8rem', fontWeight: 800, color: d.color, textTransform: 'uppercase', letterSpacing: '0.08em' }}>
-                    {d.riskCategory} {t('common.risk')}
+                    {d.riskCategory} {t('common.risk') || 'Risk'}
                   </div>
                   <div style={{ fontSize: '0.78rem', color: '#1D1E22', fontWeight: 600 }}>
                     {d.anomalyCountText}
+                  </div>
+                  <div style={{ fontSize: '0.72rem', color: '#52B79A', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.2rem', marginTop: '0.2rem' }}>
+                    <span>View State</span>
+                    <ArrowRight size={12} />
                   </div>
                 </div>
               </div>
@@ -168,5 +191,3 @@ const InsightsSection = () => {
 };
 
 export default InsightsSection;
-
-

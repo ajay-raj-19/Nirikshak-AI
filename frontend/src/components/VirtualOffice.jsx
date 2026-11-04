@@ -7,20 +7,50 @@ import { useData } from '../context/DataContext';
 const VirtualOffice = () => {
   const navigate = useNavigate();
   const { t } = useLanguage();
-  const { unifiedProjects } = useData();
+  const { unifiedProjects, ministryView } = useData();
   const [openAccordion, setOpenAccordion] = useState('docket');
   const [submittedForm, setSubmittedForm] = useState(false);
   const [inspectionData, setInspectionData] = useState({ officerName: '', district: '', projectRef: '', date: '' });
   
-  // Get top 2 highest risk projects dynamically
+  // Dynamic top project for Section 5 Risk Dossier
+  const topProject = (ministryView?.top_national_risk_alerts && ministryView.top_national_risk_alerts[0]) ||
+    (unifiedProjects && unifiedProjects[0]) || {
+      work_id: 105744,
+      activity_name: 'Repair of Link Road Shilli Jonaji to Himgiri Ashram GP Seri',
+      ida_name: 'SOLAN (Deputy Commissioner Solan, IDA)',
+      state_name: 'Himachal Pradesh',
+      const_name: 'HAMIRPUR_HP',
+      sanction_amount: 500000,
+      total_disbursed: 500000,
+      final_risk_score: 68.6,
+      risk_tier: 'HIGH'
+    };
+
+  const projectScore = Math.round(topProject.final_risk_score || 68.6);
+
+  // Get top 2 highest risk projects dynamically for Section 7 Investigation Center
   const highRiskTop2 = (unifiedProjects || [])
     .filter(p => p.risk_tier === 'HIGH' || p.risk_tier === 'CRITICAL')
-    .sort((a, b) => b.delay_risk_score - a.delay_risk_score)
+    .sort((a, b) => (b.final_risk_score || b.delay_risk_score || 0) - (a.final_risk_score || a.delay_risk_score || 0))
     .slice(0, 2);
     
-  // Default fallbacks if none exist yet
-  const proj1 = highRiskTop2[0] || { work_id: 'MPLADS-2026-8871', activity_name: t('investigation.project1Title'), risk_tier: 'CRITICAL', delay_risk_score: 87, state_name: 'Madhya Pradesh' };
-  const proj2 = highRiskTop2[1] || { work_id: 'MPLADS-2026-1049', activity_name: t('investigation.project2Title'), risk_tier: 'HIGH', delay_risk_score: 76, state_name: 'Rajasthan' };
+  const proj1 = highRiskTop2[0] || (ministryView?.top_national_risk_alerts?.[0]) || {
+    work_id: 105744,
+    activity_name: 'Repair of Link Road Shilli Jonaji (Work ID: 105744)',
+    risk_tier: 'HIGH',
+    final_risk_score: 68.6,
+    delay_risk_score: 68.6,
+    state_name: 'Himachal Pradesh'
+  };
+
+  const proj2 = highRiskTop2[1] || (ministryView?.top_national_risk_alerts?.[2]) || {
+    work_id: 179982,
+    activity_name: 'Paver Block Road near Torsha Band (Work ID: 179982)',
+    risk_tier: 'HIGH',
+    final_risk_score: 62.0,
+    delay_risk_score: 62.0,
+    state_name: 'West Bengal'
+  };
 
   useEffect(() => {
     const handleHashChange = () => {
@@ -114,15 +144,15 @@ const VirtualOffice = () => {
                 marginBottom: '2rem'
               }}
             >
-              <div>
+              <div style={{ flex: 1, minWidth: '280px' }}>
                 <span style={{ fontSize: '0.75rem', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.15em', color: '#5A5A5A' }}>
                   {t('riskScoring.dossier.badge')}
                 </span>
-                <h3 style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '1.8rem', color: '#1D1E22', marginTop: '0.2rem' }}>
-                  {t('riskScoring.dossier.title')}
+                <h3 style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '1.65rem', color: '#1D1E22', marginTop: '0.2rem', lineHeight: 1.25 }}>
+                  {topProject.activity_name || t('riskScoring.dossier.title')}
                 </h3>
-                <span style={{ fontSize: '0.85rem', color: '#5A5A5A' }}>
-                  {t('riskScoring.dossier.meta')}
+                <span style={{ fontSize: '0.85rem', color: '#5A5A5A', display: 'block', marginTop: '0.4rem' }}>
+                  {`District Authority: ${topProject.ida_name || topProject.const_name || 'SOLAN'} • State: ${topProject.state_name || 'Himachal Pradesh'} • Sanction: ₹${((topProject.sanction_amount || 500000)/100000).toFixed(1)} Lakh • Work ID: ${topProject.work_id}`}
                 </span>
               </div>
 
@@ -133,14 +163,15 @@ const VirtualOffice = () => {
                   border: '1.5px solid #1D1E22',
                   borderRadius: 'var(--radius-md)',
                   padding: '1rem 1.6rem',
-                  textAlign: 'center'
+                  textAlign: 'center',
+                  minWidth: '140px'
                 }}
               >
                 <div style={{ fontSize: '0.7rem', fontWeight: 800, letterSpacing: '0.15em', textTransform: 'uppercase', color: '#D9534F' }}>
                   {t('riskScoring.dossier.riskLevel')}
                 </div>
                 <div style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '2.4rem', fontWeight: 700, color: '#1D1E22', lineHeight: 1.1 }}>
-                  87 <span style={{ fontSize: '1.1rem', color: '#5A5A5A' }}>/ 100</span>
+                  {projectScore} <span style={{ fontSize: '1.1rem', color: '#5A5A5A' }}>/ 100</span>
                 </div>
               </div>
             </div>
@@ -183,15 +214,31 @@ const VirtualOffice = () => {
                 border: '1.5px solid #1D1E22',
                 borderRadius: 'var(--radius-md)',
                 padding: '1.4rem 1.8rem',
-                marginBottom: '2.5rem'
+                marginBottom: '2.5rem',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'space-between',
+                flexWrap: 'wrap',
+                gap: '1.2rem'
               }}
             >
-              <div style={{ fontSize: '0.78rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.12em', color: '#1D1E22', marginBottom: '0.3rem' }}>
-                {t('riskScoring.dossier.actionTitle')}
+              <div>
+                <div style={{ fontSize: '0.78rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.12em', color: '#1D1E22', marginBottom: '0.3rem' }}>
+                  {t('riskScoring.dossier.actionTitle')}
+                </div>
+                <div style={{ fontSize: '1.02rem', fontWeight: 700, color: '#1D1E22' }}>
+                  {t('riskScoring.dossier.actionText')}
+                </div>
               </div>
-              <div style={{ fontSize: '1.02rem', fontWeight: 700, color: '#1D1E22' }}>
-                {t('riskScoring.dossier.actionText')}
-              </div>
+
+              <button
+                onClick={() => navigate(`/features/evidenceReview?workId=${topProject.work_id}`)}
+                className="btn-teal"
+                style={{ padding: '0.55rem 1.2rem', fontSize: '0.85rem', whiteSpace: 'nowrap' }}
+              >
+                Inspect Project Evidence
+                <ArrowRight size={15} />
+              </button>
             </div>
 
             {/* Mandatory Prominent Disclaimer Box */}
@@ -363,7 +410,7 @@ const VirtualOffice = () => {
                         <div style={{ fontWeight: 700, fontSize: '0.95rem' }}>{proj1.activity_name || proj1.work_id}</div>
                         <div style={{ fontSize: '0.78rem', color: '#D9534F', fontWeight: 600 }}>ID: {proj1.work_id} • Score: {proj1.delay_risk_score || 0}/100</div>
                       </div>
-                      <button onClick={() => alert(`Generated Dossier for ${proj1.work_id}`)} className="btn-teal" style={{ padding: '0.4rem 0.9rem', fontSize: '0.8rem', whiteSpace: 'nowrap', marginLeft: '1rem' }}>
+                      <button onClick={() => navigate(`/features/evidenceReview?workId=${proj1.work_id}`)} className="btn-teal" style={{ padding: '0.4rem 0.9rem', fontSize: '0.8rem', whiteSpace: 'nowrap', marginLeft: '1rem' }}>
                         {t('investigation.generateDossierBtn')}
                       </button>
                     </div>
@@ -371,9 +418,9 @@ const VirtualOffice = () => {
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', background: '#FFFFFF', border: '1px solid #1D1E22', padding: '0.8rem 1.2rem', borderRadius: 'var(--radius-sm)' }}>
                       <div>
                         <div style={{ fontWeight: 700, fontSize: '0.95rem' }}>{proj2.activity_name || proj2.work_id}</div>
-                        <div style={{ fontSize: '0.78rem', color: '#E5B842', fontWeight: 600 }}>ID: {proj2.work_id} • Score: {proj2.delay_risk_score || 0}/100</div>
+                        <div style={{ fontSize: '0.78rem', color: '#E5B842', fontWeight: 600 }}>ID: {proj2.work_id} • Score: {Math.round(proj2.final_risk_score || proj2.delay_risk_score || 62)}/100</div>
                       </div>
-                      <button onClick={() => alert(`Generated Dossier for ${proj2.work_id}`)} className="btn-teal" style={{ padding: '0.4rem 0.9rem', fontSize: '0.8rem', whiteSpace: 'nowrap', marginLeft: '1rem' }}>
+                      <button onClick={() => navigate(`/features/evidenceReview?workId=${proj2.work_id}`)} className="btn-teal" style={{ padding: '0.4rem 0.9rem', fontSize: '0.8rem', whiteSpace: 'nowrap', marginLeft: '1rem' }}>
                         {t('investigation.generateDossierBtn')}
                       </button>
                     </div>

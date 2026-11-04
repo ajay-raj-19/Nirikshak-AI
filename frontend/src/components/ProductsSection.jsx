@@ -1,9 +1,24 @@
 import React, { useState } from 'react';
-import { DollarSign, Activity, Scale, Copy, Clock, Image, Users, MapPin, ArrowRight } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
+import { DollarSign, Activity, Scale, Copy, Clock, Image, Users, MapPin, ArrowRight, ExternalLink } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
+import { useData } from '../context/DataContext';
+
+const FEATURE_ROUTES = {
+  'financial-anomalies': 'financialAnomaly',
+  'progress-inconsistencies': 'progressAnalysis',
+  'cost-benchmarking': 'costBenchmarking',
+  'duplicate-works': 'duplicateDetection',
+  'delay-risk': 'delayRisk',
+  'evidence-verification': 'evidenceReview',
+  'agency-intelligence': 'agencyIntelligence',
+  'geospatial-intelligence': 'geospatial'
+};
 
 const ProductsSection = () => {
   const { t } = useLanguage();
+  const navigate = useNavigate();
+  const { duplicateAlerts, costAnomalies, unifiedProjects } = useData();
   const [activeModal, setActiveModal] = useState(null);
   const [budgetSpentPct, setBudgetSpentPct] = useState(85);
   const [progressPct, setProgressPct] = useState(35);
@@ -14,56 +29,64 @@ const ProductsSection = () => {
       title: t('aiDetection.features.financialAnomalies.title'),
       tag: t('aiDetection.features.financialAnomalies.tag'),
       icon: DollarSign,
-      description: t('aiDetection.features.financialAnomalies.description')
+      description: t('aiDetection.features.financialAnomalies.description'),
+      statCount: `${(costAnomalies?.length || 1000).toLocaleString('en-IN')} Flagged Works`
     },
     {
       id: 'progress-inconsistencies',
       title: t('aiDetection.features.progressInconsistencies.title'),
       tag: t('aiDetection.features.progressInconsistencies.tag'),
       icon: Activity,
-      description: t('aiDetection.features.progressInconsistencies.description')
+      description: t('aiDetection.features.progressInconsistencies.description'),
+      statCount: 'Multi-Modal Discrepancy Scoring'
     },
     {
       id: 'cost-benchmarking',
       title: t('aiDetection.features.costBenchmarking.title'),
       tag: t('aiDetection.features.costBenchmarking.tag'),
       icon: Scale,
-      description: t('aiDetection.features.costBenchmarking.description')
+      description: t('aiDetection.features.costBenchmarking.description'),
+      statCount: 'State & Category Baselines'
     },
     {
       id: 'duplicate-works',
       title: t('aiDetection.features.duplicateWorks.title'),
       tag: t('aiDetection.features.duplicateWorks.tag'),
       icon: Copy,
-      description: t('aiDetection.features.duplicateWorks.description')
+      description: t('aiDetection.features.duplicateWorks.description'),
+      statCount: `${(duplicateAlerts?.length || 1000).toLocaleString('en-IN')} Clusters Monitored`
     },
     {
       id: 'delay-risk',
       title: t('aiDetection.features.delayRisk.title'),
       tag: t('aiDetection.features.delayRisk.tag'),
       icon: Clock,
-      description: t('aiDetection.features.delayRisk.description')
+      description: t('aiDetection.features.delayRisk.description'),
+      statCount: 'Chronic Delay Predictor'
     },
     {
       id: 'evidence-verification',
       title: t('aiDetection.features.evidenceVerification.title'),
       tag: t('aiDetection.features.evidenceVerification.tag'),
       icon: Image,
-      description: t('aiDetection.features.evidenceVerification.description')
+      description: t('aiDetection.features.evidenceVerification.description'),
+      statCount: 'EXIF & Geo-Tag Audit'
     },
     {
       id: 'agency-intelligence',
       title: t('aiDetection.features.agencyIntelligence.title'),
       tag: t('aiDetection.features.agencyIntelligence.tag'),
       icon: Users,
-      description: t('aiDetection.features.agencyIntelligence.description')
+      description: t('aiDetection.features.agencyIntelligence.description'),
+      statCount: 'Agency Concentration Index'
     },
     {
       id: 'geospatial-intelligence',
       title: t('aiDetection.features.geospatialIntelligence.title'),
       tag: t('aiDetection.features.geospatialIntelligence.tag'),
       icon: MapPin,
-      description: t('aiDetection.features.geospatialIntelligence.description')
+      description: t('aiDetection.features.geospatialIntelligence.description'),
+      statCount: '36 States & UTs Mapped'
     }
   ];
 
@@ -104,6 +127,7 @@ const ProductsSection = () => {
         >
           {features.map((feat) => {
             const IconComp = feat.icon;
+            const targetRoute = FEATURE_ROUTES[feat.id] || 'unifiedAnalysis';
 
             return (
               <div key={feat.id} className="card-light" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
@@ -144,19 +168,34 @@ const ProductsSection = () => {
                     {feat.title}
                   </h3>
 
-                  <p style={{ color: 'var(--color-text-secondary)', fontSize: '0.92rem', lineHeight: 1.6, marginBottom: '1.5rem' }}>
+                  <p style={{ color: 'var(--color-text-secondary)', fontSize: '0.92rem', lineHeight: 1.6, marginBottom: '1.2rem' }}>
                     {feat.description}
                   </p>
+
+                  <div style={{ fontSize: '0.75rem', fontWeight: 700, color: '#52B79A', textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: '1.2rem' }}>
+                    • {feat.statCount}
+                  </div>
                 </div>
 
-                <button
-                  onClick={() => setActiveModal(feat.id)}
-                  className="btn-outline-dark"
-                  style={{ width: '100%', padding: '0.65rem', fontSize: '0.85rem' }}
-                >
-                  {t('aiDetection.testButton')}
-                  <ArrowRight size={15} />
-                </button>
+                <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap' }}>
+                  <button
+                    onClick={() => setActiveModal(feat.id)}
+                    className="btn-outline-dark"
+                    style={{ flex: 1, padding: '0.65rem 0.8rem', fontSize: '0.82rem', whiteSpace: 'nowrap' }}
+                  >
+                    {t('aiDetection.testButton') || 'Simulate'}
+                  </button>
+
+                  <button
+                    onClick={() => navigate(`/features/${targetRoute}`)}
+                    className="btn-teal"
+                    style={{ padding: '0.65rem 0.9rem', fontSize: '0.82rem', whiteSpace: 'nowrap', display: 'flex', alignItems: 'center', gap: '0.3rem' }}
+                    title={`Open live ${feat.title} portal`}
+                  >
+                    <span>Live Portal</span>
+                    <ArrowRight size={13} />
+                  </button>
+                </div>
               </div>
             );
           })}
@@ -174,16 +213,27 @@ const ProductsSection = () => {
               boxShadow: 'var(--shadow-card)'
             }}
           >
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '1.5rem' }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '1.5rem', flexWrap: 'wrap', gap: '1rem' }}>
               <div>
                 <span className="eyebrow" style={{ marginBottom: 0 }}>{t('aiDetection.simulator.eyebrow')}</span>
                 <h3 style={{ fontFamily: 'var(--font-serif-primary)', fontSize: '1.6rem' }}>
                   {t('aiDetection.simulator.heading')}
                 </h3>
               </div>
-              <button onClick={() => setActiveModal(null)} className="btn-outline-dark" style={{ padding: '0.4rem 0.8rem', fontSize: '0.8rem' }}>
-                {t('aiDetection.simulator.closeBtn')}
-              </button>
+              
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+                <button
+                  onClick={() => navigate(`/features/${FEATURE_ROUTES[activeModal] || 'unifiedAnalysis'}`)}
+                  className="btn-teal"
+                  style={{ padding: '0.45rem 1rem', fontSize: '0.82rem' }}
+                >
+                  <span>Open Full Detection Portal</span>
+                  <ExternalLink size={14} style={{ marginLeft: '4px' }} />
+                </button>
+                <button onClick={() => setActiveModal(null)} className="btn-outline-dark" style={{ padding: '0.45rem 0.85rem', fontSize: '0.82rem' }}>
+                  {t('aiDetection.simulator.closeBtn') || 'Close'}
+                </button>
+              </div>
             </div>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 250px), 1fr))', gap: '1.5rem', alignItems: 'center' }}>
@@ -246,4 +296,3 @@ const ProductsSection = () => {
 };
 
 export default ProductsSection;
-

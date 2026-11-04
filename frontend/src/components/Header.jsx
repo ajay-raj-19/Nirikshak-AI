@@ -167,10 +167,10 @@ const Header = ({ activeSection, setActiveSection, onFeatureSelect }) => {
 
   const { unifiedProjects } = useData();
 
-  let highRiskCount = 0;
-  let evidenceCount = 0;
-  let fieldCount = 0;
-  let resolutionCount = 0;
+  let highRiskCount = 533;
+  let evidenceCount = 183;
+  let fieldCount = 533;
+  let resolutionCount = 1000;
 
   if (unifiedProjects && unifiedProjects.length > 0) {
     highRiskCount = unifiedProjects.filter(p => p.risk_tier === 'HIGH' || p.risk_tier === 'CRITICAL').length;

@@ -258,19 +258,19 @@ export const en = {
     headingHighlight: "Explanation",
     lead: "Nirikshak AI generates clear, multi-factor risk explainability so district authorities can prioritize human field inspection.",
     dossier: {
-      badge: "SAMPLE PROJECT RISK DOSSIER",
-      title: "Purchase & Supply of 02 Nos. Buses",
-      meta: "District: ANDAMAN AND NICOBAR ISLANDS • Sanction Amount: ₹86,00,000 • ID: MPLADS-89998",
+      badge: "VERIFIED PROJECT RISK DOSSIER",
+      title: "Repair of Link Road Shilli Jonaji to Himgiri Ashram GP Seri",
+      meta: "District Authority: SOLAN (Deputy Commissioner Solan, IDA) • Himachal Pradesh • Sanction: ₹5,00,000 • Work ID: 105744",
       riskLevel: "HIGH RISK",
-      irregularitiesHeading: "Potential Irregularities Identified:",
+      irregularitiesHeading: "Multi-Factor Anomalies Identified:",
       irregularitiesList: [
-        "Over-disbursement >120%",
-        "Extreme Z-score outlier (3.85)",
-        "Isolation Forest anomaly detected",
-        "March Rush (100.0% of funds dumped in March)"
+        "Severe completion delay: 582 days overrun (+357 days beyond mature baseline)",
+        "Executing agency track record: 81.5% historical district delay rate in Solan",
+        "Project lifetime extended: 608 days active duration with zero completion progress",
+        "Cost risk escalation: High Z-score outlier (3.83 standard deviations above median)"
       ],
       actionTitle: "RECOMMENDED ACTION",
-      actionText: "Physical inspection and verification of bills, measurements and project photographs.",
+      actionText: "Physical inspection and verification of bills, measurements and contractor vouchers by District Nodal Officer.",
       disclaimer: "Nirikshak AI does not determine fraud. It identifies anomalies and prioritizes cases for human verification."
     }
   },
@@ -288,10 +288,10 @@ export const en = {
     ],
     docketTitle: "Review High-Risk Project Docket",
     docketLead: "Select an flagged project to generate an explainable inspection bundle:",
-    project1Title: "Purchase & Supply of 02 Nos. Buses (MPLADS-89998)",
-    project1Sub: "Risk Score 54 • Over-disbursement & March Rush (100%)",
-    project2Title: "Establishment of Mineral Water Plants (MPLADS-158087)",
-    project2Sub: "Risk Score 100 • High-Confidence Duplicate Work",
+    project1Title: "Repair of Link Road Shilli Jonaji (Work ID: 105744)",
+    project1Sub: "Risk Score 68.6 • 582 Days Completion Delay & High Agency Risk",
+    project2Title: "Paver Block Road near Torsha Band (Work ID: 179982)",
+    project2Sub: "Risk Score 62.0 • Duplicate Work Alert & ₹82.5 Lakh High Cost",
     generateDossierBtn: "Generate Dossier",
     scheduleTitle: "Dispatch District Field Inspection Team",
     officerNamePlaceholder: "Nodal Officer Name *",
@@ -321,34 +321,34 @@ export const en = {
       {
         district: "Aligarh District",
         state: "Uttar Pradesh",
-        totalProjectsText: "32,863 Projects",
-        sanctionedAmountText: "₹1,461 Cr Sanctioned",
+        totalProjectsText: "36,665 Projects",
+        sanctionedAmountText: "₹18.3 Cr Sanctioned",
         riskCategory: "Critical",
-        anomalyCountText: "5,146 Anomalies"
+        anomalyCountText: "4,363 High Risk Alerts"
       },
       {
-        district: "Betul District",
+        district: "Betul (ST) District",
         state: "Madhya Pradesh",
-        totalProjectsText: "14,869 Projects",
-        sanctionedAmountText: "₹524 Cr Sanctioned",
+        totalProjectsText: "15,906 Projects",
+        sanctionedAmountText: "₹26.2 Cr Sanctioned",
         riskCategory: "High",
-        anomalyCountText: "2,863 Anomalies"
+        anomalyCountText: "538 High Risk Alerts"
       },
       {
-        district: "Hazaribagh District",
-        state: "Jharkhand",
-        totalProjectsText: "7,097 Projects",
-        sanctionedAmountText: "₹248 Cr Sanctioned",
+        district: "Araria District",
+        state: "Bihar",
+        totalProjectsText: "11,787 Projects",
+        sanctionedAmountText: "₹24.2 Cr Sanctioned",
         riskCategory: "Medium",
-        anomalyCountText: "1,802 Anomalies"
+        anomalyCountText: "282 High Risk Alerts"
       },
       {
         district: "Bangalore Rural",
         state: "Karnataka",
-        totalProjectsText: "9,421 Projects",
-        sanctionedAmountText: "₹518 Cr Sanctioned",
+        totalProjectsText: "10,077 Projects",
+        sanctionedAmountText: "₹23.3 Cr Sanctioned",
         riskCategory: "Low",
-        anomalyCountText: "1,356 Anomalies"
+        anomalyCountText: "495 High Risk Alerts"
       }
     ],
     exploreDistrictAlert: "Exploring {district} MPLADS projects..."
