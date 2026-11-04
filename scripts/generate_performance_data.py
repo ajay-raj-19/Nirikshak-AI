@@ -4,10 +4,11 @@ import re
 import json
 
 # File paths
-csv_path = r"d:\code\Nirakshak AI\Nirikshak-AI\frontend\src\assets\india_constituencies_list.csv"
-states_js_path = r"d:\code\Nirakshak AI\Nirikshak-AI\frontend\src\data\statePerformanceData.js"
-mps_js_path = r"d:\code\Nirakshak AI\Nirikshak-AI\frontend\src\data\mpPerformanceData.js"
-consts_js_path = r"d:\code\Nirakshak AI\Nirikshak-AI\frontend\src\data\indiaConstituencies.js"
+csv_path = os.path.join(BASE_DIR, "frontend", "src", "assets", "india_constituencies_list.csv")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+states_js_path = os.path.join(BASE_DIR, "frontend", "src", "data", "statePerformanceData.js")
+mps_js_path = os.path.join(BASE_DIR, "frontend", "src", "data", "mpPerformanceData.js")
+consts_js_path = os.path.join(BASE_DIR, "frontend", "src", "data", "indiaConstituencies.js")
 
 # Helper to create slugs
 def slugify(text):

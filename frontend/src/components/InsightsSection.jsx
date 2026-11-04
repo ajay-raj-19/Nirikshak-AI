@@ -1,59 +1,106 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Layers, ArrowRight } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
+import { useData } from '../context/DataContext';
 import IndiaMap from './IndiaMap';
 
 const InsightsSection = () => {
   const { t } = useLanguage();
   const navigate = useNavigate();
+  const { districtAuthorityView } = useData();
 
-  const districtRiskData = [
-    {
-      id: 1,
-      district: t('geospatial.districtCards.0.district'),
-      state: t('geospatial.districtCards.0.state'),
-      stateSlug: 'uttar-pradesh',
-      totalProjectsText: t('geospatial.districtCards.0.totalProjectsText'),
-      sanctionedAmountText: t('geospatial.districtCards.0.sanctionedAmountText'),
-      riskCategory: t('geospatial.districtCards.0.riskCategory'),
-      anomalyCountText: t('geospatial.districtCards.0.anomalyCountText'),
-      color: '#D9534F'
-    },
-    {
-      id: 2,
-      district: t('geospatial.districtCards.1.district'),
-      state: t('geospatial.districtCards.1.state'),
-      stateSlug: 'madhya-pradesh',
-      totalProjectsText: t('geospatial.districtCards.1.totalProjectsText'),
-      sanctionedAmountText: t('geospatial.districtCards.1.sanctionedAmountText'),
-      riskCategory: t('geospatial.districtCards.1.riskCategory'),
-      anomalyCountText: t('geospatial.districtCards.1.anomalyCountText'),
-      color: '#E07A5F'
-    },
-    {
-      id: 3,
-      district: t('geospatial.districtCards.2.district'),
-      state: t('geospatial.districtCards.2.state'),
-      stateSlug: 'bihar',
-      totalProjectsText: t('geospatial.districtCards.2.totalProjectsText'),
-      sanctionedAmountText: t('geospatial.districtCards.2.sanctionedAmountText'),
-      riskCategory: t('geospatial.districtCards.2.riskCategory'),
-      anomalyCountText: t('geospatial.districtCards.2.anomalyCountText'),
-      color: '#E5B842'
-    },
-    {
-      id: 4,
-      district: t('geospatial.districtCards.3.district'),
-      state: t('geospatial.districtCards.3.state'),
-      stateSlug: 'karnataka',
-      totalProjectsText: t('geospatial.districtCards.3.totalProjectsText'),
-      sanctionedAmountText: t('geospatial.districtCards.3.sanctionedAmountText'),
-      riskCategory: t('geospatial.districtCards.3.riskCategory'),
-      anomalyCountText: t('geospatial.districtCards.3.anomalyCountText'),
-      color: '#52B79A'
+  // Dynamic district risk cards automatically synced with live District Authority registry
+  const districtRiskData = useMemo(() => {
+    const defaultDistricts = [
+      {
+        id: 1,
+        matchKey: 'ALIGARH',
+        district: t('geospatial.districtCards.0.district') || 'Aligarh District',
+        state: t('geospatial.districtCards.0.state') || 'Uttar Pradesh',
+        stateSlug: 'uttar-pradesh',
+        totalProjects: 36665,
+        sanctionedAmountText: '₹18.3 Cr Sanctioned',
+        riskCategory: 'Critical',
+        anomalyCount: 4363,
+        color: '#D9534F'
+      },
+      {
+        id: 2,
+        matchKey: 'BETUL',
+        district: t('geospatial.districtCards.1.district') || 'Betul (ST) District',
+        state: t('geospatial.districtCards.1.state') || 'Madhya Pradesh',
+        stateSlug: 'madhya-pradesh',
+        totalProjects: 15906,
+        sanctionedAmountText: '₹26.2 Cr Sanctioned',
+        riskCategory: 'High',
+        anomalyCount: 538,
+        color: '#E07A5F'
+      },
+      {
+        id: 3,
+        matchKey: 'ARARIA',
+        district: t('geospatial.districtCards.2.district') || 'Araria District',
+        state: t('geospatial.districtCards.2.state') || 'Bihar',
+        stateSlug: 'bihar',
+        totalProjects: 11787,
+        sanctionedAmountText: '₹24.2 Cr Sanctioned',
+        riskCategory: 'Medium',
+        anomalyCount: 282,
+        color: '#E5B842'
+      },
+      {
+        id: 4,
+        matchKey: 'BANGALORE',
+        district: t('geospatial.districtCards.3.district') || 'Bangalore Rural',
+        state: t('geospatial.districtCards.3.state') || 'Karnataka',
+        stateSlug: 'karnataka',
+        totalProjects: 10077,
+        sanctionedAmountText: '₹23.3 Cr Sanctioned',
+        riskCategory: 'Low',
+        anomalyCount: 495,
+        color: '#52B79A'
+      }
+    ];
+
+    if (Array.isArray(districtAuthorityView) && districtAuthorityView.length > 0) {
+      return defaultDistricts.map(item => {
+        const live = districtAuthorityView.find(d => 
+          d.constituency_name && d.constituency_name.toUpperCase().includes(item.matchKey)
+        );
+        if (!live) {
+          return {
+            ...item,
+            totalProjectsText: `${item.totalProjects.toLocaleString('en-IN')} Projects`,
+            anomalyCountText: `${item.anomalyCount.toLocaleString('en-IN')} High Risk Alerts`
+          };
+        }
+
+        const liveProjects = live.total_projects || item.totalProjects;
+        const liveAnomalies = live.high_risk_count ?? item.anomalyCount;
+        let category = item.riskCategory;
+        if (live.avg_risk >= 23) category = 'Critical';
+        else if (live.avg_risk >= 20) category = 'High';
+        else if (live.avg_risk >= 17) category = 'Medium';
+        else category = 'Low';
+
+        return {
+          ...item,
+          totalProjects: liveProjects,
+          totalProjectsText: `${liveProjects.toLocaleString('en-IN')} Projects`,
+          anomalyCount: liveAnomalies,
+          anomalyCountText: `${liveAnomalies.toLocaleString('en-IN')} High Risk Alerts`,
+          riskCategory: category
+        };
+      });
     }
-  ];
+
+    return defaultDistricts.map(i => ({
+      ...i,
+      totalProjectsText: `${i.totalProjects.toLocaleString('en-IN')} Projects`,
+      anomalyCountText: `${i.anomalyCount.toLocaleString('en-IN')} High Risk Alerts`
+    }));
+  }, [districtAuthorityView, t]);
 
   return (
     <section

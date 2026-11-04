@@ -7,9 +7,10 @@ from collections import defaultdict
 from backend.database import get_connection
 
 # File paths
-states_js_path = r"d:\code\Nirakshak AI\Nirikshak-AI\frontend\src\data\statePerformanceData.js"
-mps_js_path = r"d:\code\Nirakshak AI\Nirikshak-AI\frontend\src\data\mpPerformanceData.js"
-consts_js_path = r"d:\code\Nirakshak AI\Nirikshak-AI\frontend\src\data\indiaConstituencies.js"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+states_js_path = os.path.join(BASE_DIR, "frontend", "src", "data", "statePerformanceData.js")
+mps_js_path = os.path.join(BASE_DIR, "frontend", "src", "data", "mpPerformanceData.js")
+consts_js_path = os.path.join(BASE_DIR, "frontend", "src", "data", "indiaConstituencies.js")
 
 # Helper to create slugs
 def slugify(text):
