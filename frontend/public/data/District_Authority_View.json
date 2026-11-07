@@ -305,9 +305,9 @@
     "constituency_id": -36,
     "constituency_name": "Kerala (Rajya Sabha Nodal District)",
     "state_name": "Kerala",
-    "total_projects": 1717,
+    "total_projects": 1718,
     "high_risk_count": 38,
-    "avg_risk": 16.567612114152592,
+    "avg_risk": 16.58558789289872,
     "top_local_alerts": [
       {
         "work_id": 149258,
@@ -344,9 +344,9 @@
         "activity_name": "WS/MP095/2025-2026/180254-Construction of rooms and halls in school and colleges",
         "sanction_amount": 3894224.0,
         "total_disbursed": 4467395.0,
-        "final_risk_score": 49.13,
+        "final_risk_score": 49.14,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (49.13/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (49.14/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -357,7 +357,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 88.11626679957317,
+            "score": 88.14197782996256,
             "pillar": "cost_risk_score"
           }
         ],
@@ -500,7 +500,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 62.68728623898794,
+            "score": 62.70557746693096,
             "pillar": "cost_risk_score"
           }
         ],
@@ -901,7 +901,7 @@
     "state_name": "Uttar Pradesh",
     "total_projects": 6133,
     "high_risk_count": 85,
-    "avg_risk": 19.190123919778248,
+    "avg_risk": 19.188552095222565,
     "top_local_alerts": [
       {
         "work_id": 173988,
@@ -1200,7 +1200,7 @@
     "state_name": "Uttarakhand",
     "total_projects": 621,
     "high_risk_count": 36,
-    "avg_risk": 22.472818035426734,
+    "avg_risk": 22.472721417069245,
     "top_local_alerts": [
       {
         "work_id": 186821,
@@ -1220,7 +1220,7 @@
             "pillar": "evidence_risk_score"
           },
           {
-            "score": 77.83060016838729,
+            "score": 77.83171775026898,
             "pillar": "cost_risk_score"
           }
         ],
@@ -1278,7 +1278,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 79.6165838752882,
+            "score": 79.61772710239202,
             "pillar": "cost_risk_score"
           }
         ],
@@ -1334,7 +1334,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 73.09157612202591,
+            "score": 73.09262565551276,
             "pillar": "cost_risk_score"
           }
         ],
@@ -1363,7 +1363,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 84.87623913666789,
+            "score": 84.87745788799243,
             "pillar": "cost_risk_score"
           }
         ],
@@ -1421,7 +1421,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 74.15647855312093,
+            "score": 74.15754337770998,
             "pillar": "cost_risk_score"
           }
         ],
@@ -1446,7 +1446,7 @@
             "pillar": "progress_risk_score"
           },
           {
-            "score": 97.98964169266239,
+            "score": 97.99104874140558,
             "pillar": "cost_risk_score"
           },
           {
@@ -1795,9 +1795,9 @@
     "constituency_id": -30,
     "constituency_name": "Tamil Nadu (Rajya Sabha Nodal District)",
     "state_name": "Tamil Nadu",
-    "total_projects": 1438,
+    "total_projects": 1439,
     "high_risk_count": 5,
-    "avg_risk": 19.062906815020863,
+    "avg_risk": 19.06205698401668,
     "top_local_alerts": [
       {
         "work_id": 201931,
@@ -1817,7 +1817,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 85.24405694227787,
+            "score": 85.24659602565504,
             "pillar": "cost_risk_score"
           }
         ],
@@ -1889,7 +1889,7 @@
         "work_id": 227724,
         "activity_name": "WS/MP165/2025-2026/227724-Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers",
         "sanction_amount": 6216699.0,
-        "total_disbursed": 9603905.0,
+        "total_disbursed": 2829493.0,
         "final_risk_score": 50.32,
         "risk_tier": "HIGH",
         "project_summary": "Flagged HIGH Risk (50.32/100) primarily driven by project stall probability, severe cost escalation, chronic completion delays.",
@@ -1946,7 +1946,7 @@
         "work_id": 65656,
         "activity_name": "WS/MP162/2023-2024/65656-Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers",
         "sanction_amount": 39955654.0,
-        "total_disbursed": 40334796.0,
+        "total_disbursed": 39576512.0,
         "final_risk_score": 39.37,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (39.37/100) primarily driven by project stall probability, severe cost escalation, high cartel or micro-payment fragmentation.",
@@ -2386,7 +2386,7 @@
     "state_name": "Rajasthan",
     "total_projects": 1033,
     "high_risk_count": 17,
-    "avg_risk": 20.682187802516946,
+    "avg_risk": 20.681732817037755,
     "top_local_alerts": [
       {
         "work_id": 221974,
@@ -2567,7 +2567,7 @@
         "work_id": 242887,
         "activity_name": "WS/MP147/2025-2026/242887-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 999960.0,
-        "total_disbursed": 1197474.0,
+        "total_disbursed": 802446.0,
         "final_risk_score": 44.02,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (44.02/100) primarily driven by project stall probability, prohibited asset guidelines violation, chronic completion delays.",
@@ -2596,7 +2596,7 @@
         "work_id": 190484,
         "activity_name": "WS/MP18285/2025-2026/190484-Street lights",
         "sanction_amount": 4969990.0,
-        "total_disbursed": 6225987.0,
+        "total_disbursed": 3713993.0,
         "final_risk_score": 43.81,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (43.81/100) primarily driven by project stall probability, severe cost escalation, duplicate/split-work alerts.",
@@ -3272,9 +3272,9 @@
     "constituency_id": -25,
     "constituency_name": "Odisha (Rajya Sabha Nodal District)",
     "state_name": "Odisha",
-    "total_projects": 1235,
+    "total_projects": 1255,
     "high_risk_count": 7,
-    "avg_risk": 16.86518218623482,
+    "avg_risk": 16.797458167330674,
     "top_local_alerts": [
       {
         "work_id": 201780,
@@ -3389,7 +3389,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -3397,9 +3397,9 @@
         "activity_name": "WS/MP18283/2025-2026/238325-Construction of community centers and community halls",
         "sanction_amount": 300000.0,
         "total_disbursed": 300000.0,
-        "final_risk_score": 42.75,
+        "final_risk_score": 42.74,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (42.75/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
+        "project_summary": "Flagged MODERATE Risk (42.74/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -3418,7 +3418,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -3426,9 +3426,9 @@
         "activity_name": "WS/MP18283/2025-2026/238324-Construction of community centers and community halls",
         "sanction_amount": 200000.0,
         "total_disbursed": 200000.0,
-        "final_risk_score": 42.49,
+        "final_risk_score": 42.5,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (42.49/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
+        "project_summary": "Flagged MODERATE Risk (42.5/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -3447,7 +3447,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -3476,7 +3476,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -3497,14 +3497,14 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 60.25,
+            "score": 60.24,
             "pillar": "agency_risk_score"
           }
         ],
         "recommended_actions": [
           "Initiate immediate physical ground audit by District Nodal Officer."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -3534,7 +3534,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 50.96,
+        "agency_risk_score": 50.95,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -3916,7 +3916,7 @@
             "pillar": "cost_risk_score"
           },
           {
-            "score": 34.27374688541741,
+            "score": 34.2737468854174,
             "pillar": "progress_risk_score"
           }
         ],
@@ -3944,7 +3944,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 37.1489959331842,
+            "score": 37.14899593318421,
             "pillar": "progress_risk_score"
           }
         ],
@@ -3972,7 +3972,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 36.65068643106759,
+            "score": 36.6506864310676,
             "pillar": "progress_risk_score"
           }
         ],
@@ -4000,7 +4000,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 37.1489959331842,
+            "score": 37.14899593318421,
             "pillar": "progress_risk_score"
           }
         ],
@@ -4028,7 +4028,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 37.1489959331842,
+            "score": 37.14899593318421,
             "pillar": "progress_risk_score"
           }
         ],
@@ -4056,7 +4056,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 37.1489959331842,
+            "score": 37.14899593318421,
             "pillar": "progress_risk_score"
           }
         ],
@@ -4084,7 +4084,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 37.1489959331842,
+            "score": 37.14899593318421,
             "pillar": "progress_risk_score"
           }
         ],
@@ -4108,7 +4108,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 37.17503699270727,
+            "score": 37.17503699270728,
             "pillar": "progress_risk_score"
           },
           {
@@ -4136,7 +4136,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 37.1489959331842,
+            "score": 37.14899593318421,
             "pillar": "progress_risk_score"
           },
           {
@@ -4458,7 +4458,7 @@
     "state_name": "Maharashtra",
     "total_projects": 1127,
     "high_risk_count": 11,
-    "avg_risk": 15.864560780834074,
+    "avg_risk": 15.864906832298137,
     "top_local_alerts": [
       {
         "work_id": 145117,
@@ -4763,7 +4763,7 @@
     "state_name": "Madhya Pradesh",
     "total_projects": 1526,
     "high_risk_count": 4,
-    "avg_risk": 16.906992136304062,
+    "avg_risk": 16.907640891218875,
     "top_local_alerts": [
       {
         "work_id": 139537,
@@ -4808,7 +4808,7 @@
             "pillar": "progress_risk_score"
           },
           {
-            "score": 93.13103023873873,
+            "score": 93.14494215679777,
             "pillar": "cost_risk_score"
           },
           {
@@ -4841,7 +4841,7 @@
             "pillar": "evidence_risk_score"
           },
           {
-            "score": 72.79096381935713,
+            "score": 72.8018373372544,
             "pillar": "cost_risk_score"
           }
         ],
@@ -4856,10 +4856,10 @@
         "work_id": 147532,
         "activity_name": "WS/MP103/2024-2025/147532-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 1500000.0,
-        "total_disbursed": 1488087.0,
-        "final_risk_score": 40.13,
+        "total_disbursed": 1436650.0,
+        "final_risk_score": 40.14,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (40.13/100) primarily driven by project stall probability, prohibited asset guidelines violation, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (40.14/100) primarily driven by project stall probability, prohibited asset guidelines violation, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -4870,7 +4870,7 @@
             "pillar": "evidence_risk_score"
           },
           {
-            "score": 52.50436209525235,
+            "score": 52.51220519954679,
             "pillar": "cost_risk_score"
           }
         ],
@@ -5058,7 +5058,7 @@
     "state_name": "Karnataka",
     "total_projects": 1385,
     "high_risk_count": 8,
-    "avg_risk": 19.635776173285198,
+    "avg_risk": 19.638808664259926,
     "top_local_alerts": [
       {
         "work_id": 155279,
@@ -5122,7 +5122,7 @@
         "work_id": 201271,
         "activity_name": "WS/MP18364/2025-2026/201271-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 4995360.0,
-        "total_disbursed": 5217893.0,
+        "total_disbursed": 4772827.0,
         "final_risk_score": 44.36,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (44.36/100) primarily driven by project stall probability, severe cost escalation, duplicate/split-work alerts.",
@@ -5151,7 +5151,7 @@
         "work_id": 201272,
         "activity_name": "WS/MP18364/2025-2026/201272-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 4995360.0,
-        "total_disbursed": 5217893.0,
+        "total_disbursed": 4772827.0,
         "final_risk_score": 44.36,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (44.36/100) primarily driven by project stall probability, severe cost escalation, duplicate/split-work alerts.",
@@ -5180,7 +5180,7 @@
         "work_id": 204268,
         "activity_name": "WS/MP18364/2025-2026/204268-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 4995360.0,
-        "total_disbursed": 5217893.0,
+        "total_disbursed": 4772827.0,
         "final_risk_score": 44.36,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (44.36/100) primarily driven by project stall probability, severe cost escalation, duplicate/split-work alerts.",
@@ -5209,7 +5209,7 @@
         "work_id": 204269,
         "activity_name": "WS/MP18364/2025-2026/204269-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 4995360.0,
-        "total_disbursed": 5217893.0,
+        "total_disbursed": 4772827.0,
         "final_risk_score": 44.36,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (44.36/100) primarily driven by project stall probability, severe cost escalation, duplicate/split-work alerts.",
@@ -5260,7 +5260,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 37.63,
+        "agency_risk_score": 37.58,
         "agency_risk_tier": "MODERATE"
       },
       {
@@ -5289,7 +5289,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 37.63,
+        "agency_risk_score": 37.58,
         "agency_risk_tier": "MODERATE"
       },
       {
@@ -5660,15 +5660,15 @@
     "constituency_id": -16,
     "constituency_name": "Jammu And Kashmir (Rajya Sabha Nodal District)",
     "state_name": "Jammu And Kashmir",
-    "total_projects": 304,
+    "total_projects": 309,
     "high_risk_count": 1,
-    "avg_risk": 19.900855263157897,
+    "avg_risk": 19.78339805825243,
     "top_local_alerts": [
       {
         "work_id": 222781,
         "activity_name": "WS/MP839/2025-2026/222781-Lighting of public spaces",
         "sanction_amount": 12505000.0,
-        "total_disbursed": 11865824.0,
+        "total_disbursed": 12824588.0,
         "final_risk_score": 41.0,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (41.0/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
@@ -5697,7 +5697,7 @@
         "work_id": 147849,
         "activity_name": "WS/MP839/2024-2025/147849-Lighting of public spaces",
         "sanction_amount": 20496000.0,
-        "total_disbursed": 20496000.0,
+        "total_disbursed": 18788000.0,
         "final_risk_score": 39.38,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (39.38/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
@@ -5813,7 +5813,7 @@
         "work_id": 191381,
         "activity_name": "WS/MP839/2025-2026/191381-Lighting of public spaces",
         "sanction_amount": 21870000.0,
-        "total_disbursed": 21141000.0,
+        "total_disbursed": 18954000.0,
         "final_risk_score": 35.51,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (35.51/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
@@ -5841,7 +5841,7 @@
         "work_id": 134187,
         "activity_name": "WS/MP839/2024-2025/134187-Lighting of public spaces",
         "sanction_amount": 19925990.0,
-        "total_disbursed": 17252996.0,
+        "total_disbursed": 24785984.0,
         "final_risk_score": 35.51,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (35.51/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
@@ -5870,16 +5870,16 @@
         "activity_name": "WS/MP839/2024-2025/174297-Lighting of public spaces",
         "sanction_amount": 4374000.0,
         "total_disbursed": 4374000.0,
-        "final_risk_score": 34.45,
+        "final_risk_score": 34.39,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (34.45/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (34.39/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
             "pillar": "progress_risk_score"
           },
           {
-            "score": 92.89616129927191,
+            "score": 92.50467475505964,
             "pillar": "cost_risk_score"
           },
           {
@@ -5927,16 +5927,16 @@
         "activity_name": "WS/MP839/2023-2024/101991-Lighting of public spaces",
         "sanction_amount": 3395993.0,
         "total_disbursed": 3395993.0,
-        "final_risk_score": 31.44,
+        "final_risk_score": 31.4,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (31.44/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (31.4/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
             "pillar": "progress_risk_score"
           },
           {
-            "score": 70.89341643261054,
+            "score": 70.5937473045458,
             "pillar": "cost_risk_score"
           },
           {
@@ -5958,7 +5958,7 @@
     "state_name": "Himachal Pradesh",
     "total_projects": 985,
     "high_risk_count": 30,
-    "avg_risk": 20.989076142131978,
+    "avg_risk": 20.988923857868016,
     "top_local_alerts": [
       {
         "work_id": 220892,
@@ -6560,7 +6560,7 @@
         "project_summary": "Flagged LOW Risk (23.2/100) primarily driven by poor executing agency track record, duplicate/split-work alerts, severe cost escalation.",
         "anomaly_reasons": [
           {
-            "score": 75.52,
+            "score": 75.51,
             "pillar": "agency_risk_score"
           },
           {
@@ -6575,7 +6575,7 @@
         "recommended_actions": [
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -6588,7 +6588,7 @@
         "project_summary": "Flagged LOW Risk (21.92/100) primarily driven by poor executing agency track record, duplicate/split-work alerts, project stall probability.",
         "anomaly_reasons": [
           {
-            "score": 75.52,
+            "score": 75.51,
             "pillar": "agency_risk_score"
           },
           {
@@ -6596,14 +6596,14 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 33.890912037908784,
+            "score": 33.89091203790878,
             "pillar": "progress_risk_score"
           }
         ],
         "recommended_actions": [
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -6616,7 +6616,7 @@
         "project_summary": "Flagged LOW Risk (20.65/100) primarily driven by poor executing agency track record, severe cost escalation, project stall probability.",
         "anomaly_reasons": [
           {
-            "score": 75.52,
+            "score": 75.51,
             "pillar": "agency_risk_score"
           },
           {
@@ -6629,7 +6629,7 @@
           }
         ],
         "recommended_actions": [],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -6650,7 +6650,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 34.21678338002424,
+            "score": 34.216783380024246,
             "pillar": "progress_risk_score"
           }
         ],
@@ -6694,7 +6694,7 @@
         "project_summary": "Flagged LOW Risk (16.16/100) primarily driven by poor executing agency track record, severe cost escalation, project stall probability.",
         "anomaly_reasons": [
           {
-            "score": 75.52,
+            "score": 75.51,
             "pillar": "agency_risk_score"
           },
           {
@@ -6707,7 +6707,7 @@
           }
         ],
         "recommended_actions": [],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -7429,7 +7429,7 @@
     "state_name": "Chhattisgarh",
     "total_projects": 469,
     "high_risk_count": 5,
-    "avg_risk": 19.200895522388063,
+    "avg_risk": 19.200874200426437,
     "top_local_alerts": [
       {
         "work_id": 157012,
@@ -7791,7 +7791,7 @@
         "work_id": 182591,
         "activity_name": "WS/MP18365/2025-2026/182591-Construction of rooms and halls in school and colleges",
         "sanction_amount": 1200000.0,
-        "total_disbursed": 1050220.0,
+        "total_disbursed": 1244890.0,
         "final_risk_score": 27.18,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (27.18/100) primarily driven by project stall probability, high cartel or micro-payment fragmentation, poor executing agency track record.",
@@ -7888,7 +7888,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 35.926441938602,
+            "score": 35.926441938602004,
             "pillar": "progress_risk_score"
           }
         ],
@@ -7944,7 +7944,7 @@
             "pillar": "cost_risk_score"
           },
           {
-            "score": 37.840723736616475,
+            "score": 37.84072373661648,
             "pillar": "progress_risk_score"
           }
         ],
@@ -7956,7 +7956,7 @@
         "work_id": 206910,
         "activity_name": "WS/MP18365/2025-2026/206910-Construction of additional rooms and halls in the existing public and community building",
         "sanction_amount": 1000000.0,
-        "total_disbursed": 971980.0,
+        "total_disbursed": 971558.0,
         "final_risk_score": 16.75,
         "risk_tier": "LOW",
         "project_summary": "Flagged LOW Risk (16.75/100) primarily driven by prohibited asset guidelines violation, poor executing agency track record, project stall probability.",
@@ -7970,7 +7970,7 @@
             "pillar": "agency_risk_score"
           },
           {
-            "score": 32.55465063569368,
+            "score": 32.55465063569369,
             "pillar": "progress_risk_score"
           }
         ],
@@ -8014,9 +8014,9 @@
     "constituency_id": -6,
     "constituency_name": "Bihar (Rajya Sabha Nodal District)",
     "state_name": "Bihar",
-    "total_projects": 1917,
+    "total_projects": 1924,
     "high_risk_count": 2,
-    "avg_risk": 20.265555555555554,
+    "avg_risk": 20.23553534303534,
     "top_local_alerts": [
       {
         "work_id": 196983,
@@ -8123,7 +8123,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 17.779199330140685,
+            "score": 17.779848893275805,
             "pillar": "cost_risk_score"
           }
         ],
@@ -8292,7 +8292,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 18.870908465691972,
+            "score": 18.87173099583788,
             "pillar": "cost_risk_score"
           }
         ],
@@ -8310,7 +8310,7 @@
     "state_name": "Assam",
     "total_projects": 562,
     "high_risk_count": 1,
-    "avg_risk": 16.728985765124555,
+    "avg_risk": 16.72896797153025,
     "top_local_alerts": [
       {
         "work_id": 132565,
@@ -8429,7 +8429,7 @@
         "work_id": 165181,
         "activity_name": "WS/MP831/2024-2025/165181-Construction of community centers and community halls",
         "sanction_amount": 2000000.0,
-        "total_disbursed": 1898380.0,
+        "total_disbursed": 2456160.0,
         "final_risk_score": 32.64,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (32.64/100) primarily driven by project stall probability, severe cost escalation, poor executing agency track record.",
@@ -8601,13 +8601,13 @@
     "state_name": "Andhra Pradesh",
     "total_projects": 956,
     "high_risk_count": 8,
-    "avg_risk": 17.562008368200836,
+    "avg_risk": 17.56225941422594,
     "top_local_alerts": [
       {
         "work_id": 159541,
         "activity_name": "WS/MP840/2024-2025/159541-8.1 Construction of rooms and facilities for hospitals, FWC, PHC and ANM centers",
         "sanction_amount": 4852103.0,
-        "total_disbursed": 7096862.0,
+        "total_disbursed": 2607344.0,
         "final_risk_score": 53.78,
         "risk_tier": "HIGH",
         "project_summary": "Flagged HIGH Risk (53.78/100) primarily driven by project stall probability, severe cost escalation, chronic completion delays.",
@@ -8790,7 +8790,7 @@
             "pillar": "progress_risk_score"
           },
           {
-            "score": 91.65077682548576,
+            "score": 91.65421325738367,
             "pillar": "cost_risk_score"
           },
           {
@@ -8838,9 +8838,9 @@
         "activity_name": "WS/MP840/2025-2026/242710-Purchase of hospital equipment",
         "sanction_amount": 2500000.0,
         "total_disbursed": 2500000.0,
-        "final_risk_score": 39.8,
+        "final_risk_score": 39.81,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (39.8/100) primarily driven by project stall probability, duplicate/split-work alerts, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (39.81/100) primarily driven by project stall probability, duplicate/split-work alerts, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -8898,7 +8898,7 @@
     "state_name": "Punjab",
     "total_projects": 1060,
     "high_risk_count": 7,
-    "avg_risk": 18.5768679245283,
+    "avg_risk": 18.59011320754717,
     "top_local_alerts": [
       {
         "work_id": 233586,
@@ -8934,9 +8934,9 @@
         "activity_name": "WS/MP844/2025-2026/238954-Installing tube-wells and borewells",
         "sanction_amount": 2314839.0,
         "total_disbursed": 2314839.0,
-        "final_risk_score": 43.59,
+        "final_risk_score": 43.62,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (43.59/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (43.62/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -8947,7 +8947,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 58.8124361952993,
+            "score": 59.0420350345026,
             "pillar": "cost_risk_score"
           }
         ],
@@ -8961,10 +8961,10 @@
         "work_id": 286152,
         "activity_name": "WS/MP235/2026-2027/286152-Renovation of ponds and lakes",
         "sanction_amount": 950000.0,
-        "total_disbursed": 933817.0,
-        "final_risk_score": 42.87,
+        "total_disbursed": 958683.0,
+        "final_risk_score": 42.99,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (42.87/100) primarily driven by project stall probability, duplicate/split-work alerts, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (42.99/100) primarily driven by project stall probability, duplicate/split-work alerts, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -8975,7 +8975,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 51.681610352966146,
+            "score": 52.46596494125664,
             "pillar": "cost_risk_score"
           }
         ],
@@ -8991,10 +8991,10 @@
         "work_id": 267405,
         "activity_name": "WS/MP235/2025-2026/267405-Construction of boundary walls of existing public and community buildings",
         "sanction_amount": 2400000.0,
-        "total_disbursed": 2319065.0,
-        "final_risk_score": 42.46,
+        "total_disbursed": 2348810.0,
+        "final_risk_score": 42.49,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (42.46/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (42.49/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -9005,7 +9005,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 61.26990764948973,
+            "score": 61.50214991907681,
             "pillar": "cost_risk_score"
           }
         ],
@@ -9020,10 +9020,10 @@
         "work_id": 246895,
         "activity_name": "WS/MP141/2025-2026/246895-Purchase of hospital equipment",
         "sanction_amount": 2518700.0,
-        "total_disbursed": 2099850.0,
-        "final_risk_score": 42.4,
+        "total_disbursed": 2729550.0,
+        "final_risk_score": 42.43,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (42.4/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (42.43/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -9034,7 +9034,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 64.69520633800212,
+            "score": 64.93113310150726,
             "pillar": "cost_risk_score"
           }
         ],
@@ -9048,10 +9048,10 @@
         "work_id": 286145,
         "activity_name": "WS/MP235/2026-2027/286145-Renovation of ponds and lakes",
         "sanction_amount": 700000.0,
-        "total_disbursed": 685600.0,
-        "final_risk_score": 40.36,
+        "total_disbursed": 714400.0,
+        "final_risk_score": 40.44,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (40.36/100) primarily driven by project stall probability, duplicate/split-work alerts, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (40.44/100) primarily driven by project stall probability, duplicate/split-work alerts, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -9062,7 +9062,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 34.45440690197743,
+            "score": 34.97730996083776,
             "pillar": "cost_risk_score"
           }
         ],
@@ -9077,10 +9077,10 @@
         "work_id": 286147,
         "activity_name": "WS/MP235/2026-2027/286147-Renovation of ponds and lakes",
         "sanction_amount": 700000.0,
-        "total_disbursed": 763000.0,
-        "final_risk_score": 40.36,
+        "total_disbursed": 637000.0,
+        "final_risk_score": 40.44,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (40.36/100) primarily driven by project stall probability, duplicate/split-work alerts, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (40.44/100) primarily driven by project stall probability, duplicate/split-work alerts, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -9091,7 +9091,7 @@
             "pillar": "duplicate_risk_score"
           },
           {
-            "score": 34.45440690197743,
+            "score": 34.97730996083776,
             "pillar": "cost_risk_score"
           }
         ],
@@ -9490,7 +9490,7 @@
     "state_name": "Andhra Pradesh",
     "total_projects": 7805,
     "high_risk_count": 434,
-    "avg_risk": 21.926708520179375,
+    "avg_risk": 21.92375144138373,
     "top_local_alerts": [
       {
         "work_id": 54418,
@@ -9569,7 +9569,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 89.14193702039468,
+            "score": 89.14527938372674,
             "pillar": "cost_risk_score"
           }
         ],
@@ -9794,7 +9794,7 @@
     "state_name": "Arunachal Pradesh",
     "total_projects": 707,
     "high_risk_count": 42,
-    "avg_risk": 26.518104667609613,
+    "avg_risk": 26.520834512022624,
     "top_local_alerts": [
       {
         "work_id": 88201,
@@ -10094,7 +10094,7 @@
     "state_name": "Assam",
     "total_projects": 4157,
     "high_risk_count": 392,
-    "avg_risk": 18.632124127976905,
+    "avg_risk": 18.632097666586482,
     "top_local_alerts": [
       {
         "work_id": 47925,
@@ -10396,7 +10396,7 @@
     "state_name": "Bihar",
     "total_projects": 11797,
     "high_risk_count": 288,
-    "avg_risk": 23.781176570314486,
+    "avg_risk": 23.781339323556832,
     "top_local_alerts": [
       {
         "work_id": 36983,
@@ -10502,7 +10502,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 89.49342309320518,
+            "score": 89.50543483561624,
             "pillar": "cost_risk_score"
           }
         ],
@@ -10990,7 +10990,7 @@
     "state_name": "Chhattisgarh",
     "total_projects": 4142,
     "high_risk_count": 371,
-    "avg_risk": 23.210335586673107,
+    "avg_risk": 23.210260743602124,
     "top_local_alerts": [
       {
         "work_id": 25682,
@@ -11018,7 +11018,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 78.44,
+        "agency_risk_score": 78.43,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -11288,18 +11288,18 @@
     "constituency_id": 97,
     "constituency_name": "DAMAN and DIU",
     "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
-    "total_projects": 64,
+    "total_projects": 67,
     "high_risk_count": 0,
-    "avg_risk": 16.135781249999997,
+    "avg_risk": 16.043731343283586,
     "top_local_alerts": [
       {
         "work_id": 288055,
         "activity_name": "WS/MP18195/2026-2027/288055-6.13 Purchase of vans and buses for educational institutions",
         "sanction_amount": 7026633.0,
         "total_disbursed": 7026633.0,
-        "final_risk_score": 29.19,
+        "final_risk_score": 29.12,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (29.19/100) primarily driven by project stall probability, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (29.12/100) primarily driven by project stall probability, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -11326,12 +11326,12 @@
         "activity_name": "NA-Purchase of IT systems, including hardware and software for educational purposes",
         "sanction_amount": 23470200.0,
         "total_disbursed": 0.0,
-        "final_risk_score": 27.16,
+        "final_risk_score": 27.32,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (27.16/100) primarily driven by severe cost escalation, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (27.32/100) primarily driven by severe cost escalation, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
-            "score": 97.96822733604155,
+            "score": 99.01198400623544,
             "pillar": "cost_risk_score"
           },
           {
@@ -11382,9 +11382,9 @@
         "activity_name": "WS/MP18195/2026-2027/265332-Purchase of prosthetics, wheel chairs, tricycles (manual or motorized), elect scooties, hearing aids",
         "sanction_amount": 2400000.0,
         "total_disbursed": 2400000.0,
-        "final_risk_score": 24.81,
+        "final_risk_score": 24.67,
         "risk_tier": "LOW",
-        "project_summary": "Flagged LOW Risk (24.81/100) primarily driven by project stall probability, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged LOW Risk (24.67/100) primarily driven by project stall probability, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -11411,12 +11411,12 @@
         "activity_name": "NA-Purchase of stubble clearing and super seeder machines for community use",
         "sanction_amount": 17840000.0,
         "total_disbursed": 0.0,
-        "final_risk_score": 23.74,
+        "final_risk_score": 23.81,
         "risk_tier": "LOW",
-        "project_summary": "Flagged LOW Risk (23.74/100) primarily driven by severe cost escalation, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged LOW Risk (23.81/100) primarily driven by severe cost escalation, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
-            "score": 72.03613861344462,
+            "score": 72.55484205447861,
             "pillar": "cost_risk_score"
           },
           {
@@ -11439,9 +11439,9 @@
         "activity_name": "NA-Construction of community centers and community halls",
         "sanction_amount": 7350000.0,
         "total_disbursed": 0.0,
-        "final_risk_score": 23.71,
+        "final_risk_score": 23.64,
         "risk_tier": "LOW",
-        "project_summary": "Flagged LOW Risk (23.71/100) primarily driven by duplicate/split-work alerts, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged LOW Risk (23.64/100) primarily driven by duplicate/split-work alerts, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 80.0,
@@ -11468,9 +11468,9 @@
         "activity_name": "NA-Construction of community centers and community halls",
         "sanction_amount": 7350000.0,
         "total_disbursed": 0.0,
-        "final_risk_score": 23.71,
+        "final_risk_score": 23.64,
         "risk_tier": "LOW",
-        "project_summary": "Flagged LOW Risk (23.71/100) primarily driven by duplicate/split-work alerts, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged LOW Risk (23.64/100) primarily driven by duplicate/split-work alerts, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 80.0,
@@ -11497,9 +11497,9 @@
         "activity_name": "NA-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 5000000.0,
         "total_disbursed": 0.0,
-        "final_risk_score": 22.49,
+        "final_risk_score": 22.39,
         "risk_tier": "LOW",
-        "project_summary": "Flagged LOW Risk (22.49/100) primarily driven by prohibited asset guidelines violation, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged LOW Risk (22.39/100) primarily driven by prohibited asset guidelines violation, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 80.0,
@@ -11526,12 +11526,12 @@
         "activity_name": "NA-Purchase of IT systems, including hardware and software for educational purposes",
         "sanction_amount": 15576000.0,
         "total_disbursed": 0.0,
-        "final_risk_score": 21.62,
+        "final_risk_score": 21.67,
         "risk_tier": "LOW",
-        "project_summary": "Flagged LOW Risk (21.62/100) primarily driven by severe cost escalation, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged LOW Risk (21.67/100) primarily driven by severe cost escalation, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
-            "score": 61.60840090111479,
+            "score": 61.91597143198252,
             "pillar": "cost_risk_score"
           },
           {
@@ -11554,9 +11554,9 @@
         "activity_name": "NA-Providing drains and gutters for public drainage",
         "sanction_amount": 1500000.0,
         "total_disbursed": 0.0,
-        "final_risk_score": 20.75,
+        "final_risk_score": 20.9,
         "risk_tier": "LOW",
-        "project_summary": "Flagged LOW Risk (20.75/100) primarily driven by prohibited asset guidelines violation, high cartel or micro-payment fragmentation, poor executing agency track record.",
+        "project_summary": "Flagged LOW Risk (20.9/100) primarily driven by prohibited asset guidelines violation, high cartel or micro-payment fragmentation, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 80.0,
@@ -12185,7 +12185,7 @@
     "state_name": "Gujarat",
     "total_projects": 15939,
     "high_risk_count": 516,
-    "avg_risk": 21.12446828533785,
+    "avg_risk": 21.12431394692264,
     "top_local_alerts": [
       {
         "work_id": 46210,
@@ -12479,7 +12479,7 @@
     "state_name": "Haryana",
     "total_projects": 3666,
     "high_risk_count": 217,
-    "avg_risk": 19.818794326241132,
+    "avg_risk": 19.818788870703763,
     "top_local_alerts": [
       {
         "work_id": 89604,
@@ -12774,7 +12774,7 @@
     "state_name": "Himachal Pradesh",
     "total_projects": 3668,
     "high_risk_count": 332,
-    "avg_risk": 20.425749727371862,
+    "avg_risk": 20.425616139585607,
     "top_local_alerts": [
       {
         "work_id": 105744,
@@ -13033,7 +13033,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 76.9,
+        "agency_risk_score": 76.89,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -13062,7 +13062,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 76.9,
+        "agency_risk_score": 76.89,
         "agency_risk_tier": "CRITICAL"
       }
     ]
@@ -13073,7 +13073,7 @@
     "state_name": "Jammu And Kashmir",
     "total_projects": 2210,
     "high_risk_count": 201,
-    "avg_risk": 22.036398190045247,
+    "avg_risk": 22.032828054298644,
     "top_local_alerts": [
       {
         "work_id": 101651,
@@ -13109,9 +13109,9 @@
         "activity_name": "WS/MP331/2023-2024/7979-Construction of rooms and halls in school and colleges",
         "sanction_amount": 2361237.0,
         "total_disbursed": 2361237.0,
-        "final_risk_score": 52.56,
+        "final_risk_score": 52.53,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (52.56/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
+        "project_summary": "Flagged HIGH Risk (52.53/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13138,9 +13138,9 @@
         "activity_name": "WS/MP602/2023-2024/77446-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13167,9 +13167,9 @@
         "activity_name": "WS/MP602/2023-2024/77452-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13196,9 +13196,9 @@
         "activity_name": "WS/MP602/2023-2024/77457-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13225,9 +13225,9 @@
         "activity_name": "WS/MP602/2023-2024/77496-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13254,9 +13254,9 @@
         "activity_name": "WS/MP602/2023-2024/77507-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13283,9 +13283,9 @@
         "activity_name": "WS/MP602/2023-2024/77523-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13312,9 +13312,9 @@
         "activity_name": "WS/MP602/2023-2024/77524-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13341,9 +13341,9 @@
         "activity_name": "WS/MP602/2023-2024/77525-Street lights",
         "sanction_amount": 16660.0,
         "total_disbursed": 16660.0,
-        "final_risk_score": 50.41,
+        "final_risk_score": 50.4,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13373,7 +13373,7 @@
     "state_name": "Jharkhand",
     "total_projects": 7544,
     "high_risk_count": 283,
-    "avg_risk": 18.19370227995758,
+    "avg_risk": 18.19369962884412,
     "top_local_alerts": [
       {
         "work_id": 45154,
@@ -13671,9 +13671,9 @@
     "constituency_id": 166,
     "constituency_name": "BANGALORE RURAL",
     "state_name": "Karnataka",
-    "total_projects": 10138,
+    "total_projects": 10206,
     "high_risk_count": 499,
-    "avg_risk": 18.277134543302427,
+    "avg_risk": 18.235134234763866,
     "top_local_alerts": [
       {
         "work_id": 110645,
@@ -13886,9 +13886,9 @@
         "activity_name": "WS/MP614/2023-2024/100185-Construction of bus-sheds or bus-stops",
         "sanction_amount": 1200000.0,
         "total_disbursed": 1199662.0,
-        "final_risk_score": 48.44,
+        "final_risk_score": 48.45,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (48.44/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged MODERATE Risk (48.45/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13915,9 +13915,9 @@
         "activity_name": "WS/MP614/2023-2024/100188-Construction of bus-sheds or bus-stops",
         "sanction_amount": 1200000.0,
         "total_disbursed": 1199662.0,
-        "final_risk_score": 48.44,
+        "final_risk_score": 48.45,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (48.44/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged MODERATE Risk (48.45/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13944,9 +13944,9 @@
         "activity_name": "WS/MP614/2023-2024/100191-Construction of bus-sheds or bus-stops",
         "sanction_amount": 1200000.0,
         "total_disbursed": 1199662.0,
-        "final_risk_score": 48.44,
+        "final_risk_score": 48.45,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (48.44/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged MODERATE Risk (48.45/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -13975,8 +13975,8 @@
     "constituency_name": "KANNUR",
     "state_name": "Kerala",
     "total_projects": 7948,
-    "high_risk_count": 171,
-    "avg_risk": 18.432653497735277,
+    "high_risk_count": 173,
+    "avg_risk": 18.451094614997487,
     "top_local_alerts": [
       {
         "work_id": 125383,
@@ -14012,9 +14012,9 @@
         "activity_name": "WS/MP854/2024-2025/131913-Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers",
         "sanction_amount": 4830809.0,
         "total_disbursed": 4830809.0,
-        "final_risk_score": 51.38,
+        "final_risk_score": 51.37,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (51.38/100) primarily driven by project stall probability, severe cost escalation, chronic completion delays.",
+        "project_summary": "Flagged HIGH Risk (51.37/100) primarily driven by project stall probability, severe cost escalation, chronic completion delays.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -14032,7 +14032,7 @@
         "recommended_actions": [
           "Initiate immediate physical ground audit by District Nodal Officer."
         ],
-        "agency_risk_score": 27.5,
+        "agency_risk_score": 27.49,
         "agency_risk_tier": "LOW"
       },
       {
@@ -14096,9 +14096,9 @@
         "activity_name": "WS/MP440/2024-2025/131469-Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers",
         "sanction_amount": 8112735.0,
         "total_disbursed": 8112735.0,
-        "final_risk_score": 50.71,
+        "final_risk_score": 50.72,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.71/100) primarily driven by project stall probability, severe cost escalation, chronic completion delays.",
+        "project_summary": "Flagged HIGH Risk (50.72/100) primarily driven by project stall probability, severe cost escalation, chronic completion delays.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -14116,7 +14116,7 @@
         "recommended_actions": [
           "Initiate immediate physical ground audit by District Nodal Officer."
         ],
-        "agency_risk_score": 14.25,
+        "agency_risk_score": 14.46,
         "agency_risk_tier": "LOW"
       },
       {
@@ -14193,7 +14193,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 85.80626410554993,
+            "score": 85.83130111113523,
             "pillar": "cost_risk_score"
           }
         ],
@@ -14221,7 +14221,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 77.00033496152922,
+            "score": 77.02280252653276,
             "pillar": "cost_risk_score"
           }
         ],
@@ -14851,9 +14851,9 @@
     "constituency_id": 216,
     "constituency_name": "BETUL(ST)",
     "state_name": "Madhya Pradesh",
-    "total_projects": 16083,
+    "total_projects": 16091,
     "high_risk_count": 538,
-    "avg_risk": 19.541465522601506,
+    "avg_risk": 19.538763905288672,
     "top_local_alerts": [
       {
         "work_id": 82715,
@@ -14882,7 +14882,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 57.93,
+        "agency_risk_score": 57.92,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -14912,7 +14912,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 57.93,
+        "agency_risk_score": 57.92,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -14933,7 +14933,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 82.09,
+            "score": 82.08,
             "pillar": "agency_risk_score"
           }
         ],
@@ -14942,7 +14942,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 82.09,
+        "agency_risk_score": 82.08,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -15038,7 +15038,7 @@
         "work_id": 163126,
         "activity_name": "WS/MP18101/2025-2026/163126-Construction of rooms and halls in school and colleges",
         "sanction_amount": 500000.0,
-        "total_disbursed": 639364.0,
+        "total_disbursed": 360636.0,
         "final_risk_score": 52.02,
         "risk_tier": "HIGH",
         "project_summary": "Flagged HIGH Risk (52.02/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
@@ -15140,7 +15140,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 93.13103023873873,
+            "score": 93.14494215679777,
             "pillar": "cost_risk_score"
           }
         ],
@@ -15156,9 +15156,9 @@
     "constituency_id": 245,
     "constituency_name": "RAVER",
     "state_name": "Maharashtra",
-    "total_projects": 10787,
+    "total_projects": 10793,
     "high_risk_count": 64,
-    "avg_risk": 17.53454065078335,
+    "avg_risk": 17.531970721764107,
     "top_local_alerts": [
       {
         "work_id": 118540,
@@ -15350,7 +15350,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 76.20792404105998,
+            "score": 76.21786029554676,
             "pillar": "cost_risk_score"
           }
         ],
@@ -15753,7 +15753,7 @@
     "state_name": "Meghalaya",
     "total_projects": 1132,
     "high_risk_count": 24,
-    "avg_risk": 23.224920494699646,
+    "avg_risk": 23.22482332155477,
     "top_local_alerts": [
       {
         "work_id": 82484,
@@ -15892,7 +15892,7 @@
         "recommended_actions": [
           "Initiate immediate physical ground audit by District Nodal Officer."
         ],
-        "agency_risk_score": 39.1,
+        "agency_risk_score": 39.09,
         "agency_risk_tier": "MODERATE"
       },
       {
@@ -16044,7 +16044,7 @@
     "state_name": "Mizoram",
     "total_projects": 363,
     "high_risk_count": 55,
-    "avg_risk": 25.973415977961434,
+    "avg_risk": 25.972947658402205,
     "top_local_alerts": [
       {
         "work_id": 98303,
@@ -16072,7 +16072,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16101,7 +16101,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16130,7 +16130,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16159,7 +16159,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16188,7 +16188,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16217,7 +16217,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16225,9 +16225,9 @@
         "activity_name": "WS/MP696/2023-2024/91940-Providing drains and gutters for public drainage",
         "sanction_amount": 1000000.0,
         "total_disbursed": 1000000.0,
-        "final_risk_score": 54.03,
+        "final_risk_score": 54.02,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (54.03/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (54.02/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16246,7 +16246,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16254,9 +16254,9 @@
         "activity_name": "WS/MP696/2023-2024/92017-Providing drains and gutters for public drainage",
         "sanction_amount": 1000000.0,
         "total_disbursed": 1000000.0,
-        "final_risk_score": 54.03,
+        "final_risk_score": 54.02,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (54.03/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (54.02/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16275,7 +16275,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16283,9 +16283,9 @@
         "activity_name": "WS/MP696/2023-2024/62425-Construction of boundary walls of existing public and community buildings",
         "sanction_amount": 1000000.0,
         "total_disbursed": 1000000.0,
-        "final_risk_score": 53.83,
+        "final_risk_score": 53.82,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (53.83/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (53.82/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16304,7 +16304,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       },
       {
@@ -16312,9 +16312,9 @@
         "activity_name": "WS/MP696/2023-2024/62218-Construction of boundary walls of existing public and community buildings",
         "sanction_amount": 1000000.0,
         "total_disbursed": 1000000.0,
-        "final_risk_score": 53.83,
+        "final_risk_score": 53.82,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (53.83/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (53.82/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16333,7 +16333,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 75.52,
+        "agency_risk_score": 75.51,
         "agency_risk_tier": "CRITICAL"
       }
     ]
@@ -16642,18 +16642,18 @@
     "constituency_id": 299,
     "constituency_name": "CUTTACK",
     "state_name": "Odisha",
-    "total_projects": 12358,
+    "total_projects": 12366,
     "high_risk_count": 656,
-    "avg_risk": 19.55046528564493,
+    "avg_risk": 19.54790797347566,
     "top_local_alerts": [
       {
         "work_id": 243,
         "activity_name": "WS/MP300/2023-2024/243-Street lights",
         "sanction_amount": 1640000.0,
         "total_disbursed": 41276.0,
-        "final_risk_score": 57.55,
+        "final_risk_score": 57.56,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (57.55/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (57.56/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16702,7 +16702,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -16710,9 +16710,9 @@
         "activity_name": "WS/MP699/2024-2025/127348-Purchase of hearse van (Four, three and two wheelers)",
         "sanction_amount": 2000000.0,
         "total_disbursed": 2000000.0,
-        "final_risk_score": 53.41,
+        "final_risk_score": 53.42,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (53.41/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
+        "project_summary": "Flagged HIGH Risk (53.42/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16759,7 +16759,7 @@
         "recommended_actions": [
           "Initiate immediate physical ground audit by District Nodal Officer."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -16789,7 +16789,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Audit vendor bidding records and voucher disbursements for potential structuring/cartel behavior."
         ],
-        "agency_risk_score": 44.04,
+        "agency_risk_score": 44.03,
         "agency_risk_tier": "MODERATE"
       },
       {
@@ -16797,9 +16797,9 @@
         "activity_name": "WS/MP300/2023-2024/269-Street lights",
         "sanction_amount": 74500.0,
         "total_disbursed": 61915.0,
-        "final_risk_score": 50.58,
+        "final_risk_score": 50.59,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.58/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.59/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16826,9 +16826,9 @@
         "activity_name": "WS/MP300/2023-2024/355-Street lights",
         "sanction_amount": 74500.0,
         "total_disbursed": 61915.0,
-        "final_risk_score": 50.58,
+        "final_risk_score": 50.59,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.58/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.59/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16876,7 +16876,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines."
         ],
-        "agency_risk_score": 60.25,
+        "agency_risk_score": 60.24,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -16905,7 +16905,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines."
         ],
-        "agency_risk_score": 53.46,
+        "agency_risk_score": 53.45,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -16913,9 +16913,9 @@
         "activity_name": "WS/MP704/2023-2024/102100-Construction of community centers and community halls",
         "sanction_amount": 500000.0,
         "total_disbursed": 500000.0,
-        "final_risk_score": 50.02,
+        "final_risk_score": 50.03,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (50.02/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged HIGH Risk (50.03/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -16944,15 +16944,44 @@
     "constituency_id": 321,
     "constituency_name": "BHATINDA",
     "state_name": "Punjab",
-    "total_projects": 5147,
+    "total_projects": 5180,
     "high_risk_count": 19,
-    "avg_risk": 15.026190013600155,
+    "avg_risk": 14.97275868725869,
     "top_local_alerts": [
+      {
+        "work_id": 193123,
+        "activity_name": "WS/MP380/2025-2026/193123-Providing drains and gutters for public drainage",
+        "sanction_amount": 500000.0,
+        "total_disbursed": 500000.0,
+        "final_risk_score": 47.22,
+        "risk_tier": "MODERATE",
+        "project_summary": "Flagged MODERATE Risk (47.22/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "anomaly_reasons": [
+          {
+            "score": 100.0,
+            "pillar": "progress_risk_score"
+          },
+          {
+            "score": 100.0,
+            "pillar": "delay_risk_score"
+          },
+          {
+            "score": 80.0,
+            "pillar": "duplicate_risk_score"
+          }
+        ],
+        "recommended_actions": [
+          "Initiate immediate physical ground audit by District Nodal Officer.",
+          "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
+        ],
+        "agency_risk_score": 64.46,
+        "agency_risk_tier": "HIGH"
+      },
       {
         "work_id": 190985,
         "activity_name": "WS/MP18314/2025-2026/190985-Construction of additional rooms and halls in the existing public and community building",
         "sanction_amount": 200000.0,
-        "total_disbursed": 206201.0,
+        "total_disbursed": 193799.0,
         "final_risk_score": 47.22,
         "risk_tier": "MODERATE",
         "project_summary": "Flagged MODERATE Risk (47.22/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
@@ -16975,35 +17004,6 @@
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
         "agency_risk_score": 50.42,
-        "agency_risk_tier": "HIGH"
-      },
-      {
-        "work_id": 193123,
-        "activity_name": "WS/MP380/2025-2026/193123-Providing drains and gutters for public drainage",
-        "sanction_amount": 500000.0,
-        "total_disbursed": 500000.0,
-        "final_risk_score": 47.19,
-        "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (47.19/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
-        "anomaly_reasons": [
-          {
-            "score": 100.0,
-            "pillar": "progress_risk_score"
-          },
-          {
-            "score": 100.0,
-            "pillar": "delay_risk_score"
-          },
-          {
-            "score": 80.0,
-            "pillar": "duplicate_risk_score"
-          }
-        ],
-        "recommended_actions": [
-          "Initiate immediate physical ground audit by District Nodal Officer.",
-          "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
-        ],
-        "agency_risk_score": 64.46,
         "agency_risk_tier": "HIGH"
       },
       {
@@ -17039,10 +17039,10 @@
         "work_id": 210355,
         "activity_name": "WS/MP716/2025-2026/210355-Providing drains and gutters for public drainage",
         "sanction_amount": 900000.0,
-        "total_disbursed": 920670.0,
-        "final_risk_score": 43.25,
+        "total_disbursed": 879330.0,
+        "final_risk_score": 43.28,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (43.25/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (43.28/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -17069,9 +17069,9 @@
         "activity_name": "WS/MP18152/2025-2026/241145-Street lights",
         "sanction_amount": 150000.0,
         "total_disbursed": 150000.0,
-        "final_risk_score": 43.14,
+        "final_risk_score": 43.12,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (43.14/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
+        "project_summary": "Flagged MODERATE Risk (43.12/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -17098,9 +17098,9 @@
         "activity_name": "WS/MP18154/2025-2026/261123-Construction of roads, link roads, pathways or any other road with or without drainage system",
         "sanction_amount": 821801.0,
         "total_disbursed": 821801.0,
-        "final_risk_score": 42.71,
+        "final_risk_score": 42.74,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (42.71/100) primarily driven by project stall probability, prohibited asset guidelines violation, chronic completion delays.",
+        "project_summary": "Flagged MODERATE Risk (42.74/100) primarily driven by project stall probability, prohibited asset guidelines violation, chronic completion delays.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -17126,10 +17126,10 @@
         "work_id": 193121,
         "activity_name": "WS/MP380/2025-2026/193121-Development of public parks",
         "sanction_amount": 600000.0,
-        "total_disbursed": 602001.0,
-        "final_risk_score": 42.12,
+        "total_disbursed": 597999.0,
+        "final_risk_score": 42.15,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (42.12/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (42.15/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -17155,10 +17155,10 @@
         "work_id": 193119,
         "activity_name": "WS/MP380/2025-2026/193119-Construction of community centers and community halls",
         "sanction_amount": 500000.0,
-        "total_disbursed": 515966.0,
-        "final_risk_score": 41.69,
+        "total_disbursed": 535170.0,
+        "final_risk_score": 41.72,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (41.69/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (41.72/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -17185,9 +17185,9 @@
         "activity_name": "WS/MP18152/2025-2026/232099-2.7 Providing CCTV camera system for security of public areas",
         "sanction_amount": 1888683.0,
         "total_disbursed": 1888683.0,
-        "final_risk_score": 41.22,
+        "final_risk_score": 41.25,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (41.22/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
+        "project_summary": "Flagged MODERATE Risk (41.25/100) primarily driven by project stall probability, chronic completion delays, severe cost escalation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -17198,7 +17198,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 46.51495019781247,
+            "score": 46.73132098992105,
             "pillar": "cost_risk_score"
           }
         ],
@@ -17213,9 +17213,9 @@
         "activity_name": "WS/MP716/2025-2026/203951-Construction of additional rooms and halls in the existing public and community building",
         "sanction_amount": 398600.0,
         "total_disbursed": 398600.0,
-        "final_risk_score": 41.07,
+        "final_risk_score": 41.1,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (41.07/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
+        "project_summary": "Flagged MODERATE Risk (41.1/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -17243,9 +17243,9 @@
     "constituency_id": 334,
     "constituency_name": "AJMER",
     "state_name": "Rajasthan",
-    "total_projects": 7674,
+    "total_projects": 7675,
     "high_risk_count": 1054,
-    "avg_risk": 24.58611154547824,
+    "avg_risk": 24.58505667752443,
     "top_local_alerts": [
       {
         "work_id": 111622,
@@ -17845,7 +17845,7 @@
     "state_name": "Tamil Nadu",
     "total_projects": 10580,
     "high_risk_count": 140,
-    "avg_risk": 20.481781663516067,
+    "avg_risk": 20.48178449905482,
     "top_local_alerts": [
       {
         "work_id": 111007,
@@ -17865,7 +17865,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 86.80888319536187,
+            "score": 86.8114784873831,
             "pillar": "cost_risk_score"
           }
         ],
@@ -17922,7 +17922,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 88.62744168557074,
+            "score": 88.63010230031178,
             "pillar": "cost_risk_score"
           }
         ],
@@ -17950,7 +17950,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 88.55049950127656,
+            "score": 88.55315735225014,
             "pillar": "cost_risk_score"
           }
         ],
@@ -17978,7 +17978,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 88.4499477706255,
+            "score": 88.45260200977546,
             "pillar": "cost_risk_score"
           }
         ],
@@ -18006,7 +18006,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 88.03696170249549,
+            "score": 88.03960110716343,
             "pillar": "cost_risk_score"
           }
         ],
@@ -18034,14 +18034,14 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 88.63162463756584,
+            "score": 88.63428540255872,
             "pillar": "cost_risk_score"
           }
         ],
         "recommended_actions": [
           "Initiate immediate physical ground audit by District Nodal Officer."
         ],
-        "agency_risk_score": 27.76,
+        "agency_risk_score": 27.75,
         "agency_risk_tier": "LOW"
       },
       {
@@ -18049,9 +18049,9 @@
         "activity_name": "WS/MP737/2023-2024/104298-Street lights",
         "sanction_amount": 120000.0,
         "total_disbursed": 120000.0,
-        "final_risk_score": 49.4,
+        "final_risk_score": 49.41,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (49.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged MODERATE Risk (49.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -18078,9 +18078,9 @@
         "activity_name": "WS/MP737/2023-2024/104299-Street lights",
         "sanction_amount": 120000.0,
         "total_disbursed": 120000.0,
-        "final_risk_score": 49.4,
+        "final_risk_score": 49.41,
         "risk_tier": "MODERATE",
-        "project_summary": "Flagged MODERATE Risk (49.4/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+        "project_summary": "Flagged MODERATE Risk (49.41/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -18120,14 +18120,14 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 88.04820338598228,
+            "score": 88.0508431944521,
             "pillar": "cost_risk_score"
           }
         ],
         "recommended_actions": [
           "Initiate immediate physical ground audit by District Nodal Officer."
         ],
-        "agency_risk_score": 18.92,
+        "agency_risk_score": 18.91,
         "agency_risk_tier": "LOW"
       }
     ]
@@ -18138,7 +18138,7 @@
     "state_name": "Telangana",
     "total_projects": 10091,
     "high_risk_count": 163,
-    "avg_risk": 18.08460707561193,
+    "avg_risk": 18.083867802992767,
     "top_local_alerts": [
       {
         "work_id": 71828,
@@ -18355,7 +18355,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 98.3636979354251,
+            "score": 98.36369793542514,
             "pillar": "cost_risk_score"
           }
         ],
@@ -18383,7 +18383,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 93.17816477110736,
+            "score": 93.17816477110742,
             "pillar": "cost_risk_score"
           }
         ],
@@ -18722,9 +18722,9 @@
     "constituency_id": 418,
     "constituency_name": "ALIGARH",
     "state_name": "Uttar Pradesh",
-    "total_projects": 37001,
+    "total_projects": 37009,
     "high_risk_count": 4364,
-    "avg_risk": 23.579843517742766,
+    "avg_risk": 23.577316868869733,
     "top_local_alerts": [
       {
         "work_id": 95056,
@@ -18744,7 +18744,7 @@
             "pillar": "delay_risk_score"
           },
           {
-            "score": 96.86414487822066,
+            "score": 96.87091095150049,
             "pillar": "cost_risk_score"
           }
         ],
@@ -18995,9 +18995,9 @@
         "activity_name": "WS/MP802/2023-2024/85187-Construction of rooms and halls in school and colleges",
         "sanction_amount": 594087.0,
         "total_disbursed": 594087.0,
-        "final_risk_score": 54.63,
+        "final_risk_score": 54.71,
         "risk_tier": "HIGH",
-        "project_summary": "Flagged HIGH Risk (54.63/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
+        "project_summary": "Flagged HIGH Risk (54.71/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
         "anomaly_reasons": [
           {
             "score": 100.0,
@@ -19028,7 +19028,7 @@
     "state_name": "Uttarakhand",
     "total_projects": 3646,
     "high_risk_count": 565,
-    "avg_risk": 25.725798134942405,
+    "avg_risk": 25.73148107515085,
     "top_local_alerts": [
       {
         "work_id": 22588,
@@ -19296,7 +19296,7 @@
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
           "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
         ],
-        "agency_risk_score": 38.26,
+        "agency_risk_score": 38.25,
         "agency_risk_tier": "MODERATE"
       },
       {
@@ -19337,7 +19337,7 @@
     "state_name": "West Bengal",
     "total_projects": 12078,
     "high_risk_count": 951,
-    "avg_risk": 24.177613843351548,
+    "avg_risk": 24.1775956284153,
     "top_local_alerts": [
       {
         "work_id": 167573,
@@ -19423,7 +19423,7 @@
           "Initiate immediate physical ground audit by District Nodal Officer.",
           "Review compliance with MPLADS Para 5.1 durable community asset guidelines."
         ],
-        "agency_risk_score": 50.28,
+        "agency_risk_score": 50.27,
         "agency_risk_tier": "HIGH"
       },
       {

@@ -1,16 +1,16 @@
 {
   "view_type": "Ministry / Central Nodal Authority",
   "national_stats": {
-    "total_sanctioned": 131102027447.56999,
-    "total_disbursed": 86007065004.29,
-    "total_projects": 237656,
-    "avg_national_risk": 20.753000050493153
+    "total_sanctioned": 131200935666.56999,
+    "total_disbursed": 86013237335.29,
+    "total_projects": 237825,
+    "avg_national_risk": 20.74710602333649
   },
   "house_stats": {
     "both": {
       "subtitleEn": "Monitoring MPLADS works, fund utilization, and anomaly verification across 543 Lok Sabha and 245 Rajya Sabha constituencies.",
       "subtitleHi": "543 \u0932\u094b\u0915\u0938\u092d\u093e \u0914\u0930 245 \u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e \u0928\u093f\u0930\u094d\u0935\u093e\u091a\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u094b\u0902 \u092e\u0947\u0902 \u090f\u092e\u092a\u0940\u0932\u0948\u0921\u094d\u0938 \u0935\u093f\u0915\u093e\u0938 \u0915\u093e\u0930\u094d\u092f\u094b\u0902, \u0928\u093f\u0927\u093f \u0909\u092a\u092f\u094b\u0917 \u0914\u0930 \u0935\u093f\u0938\u0902\u0917\u0924\u093f \u0938\u0924\u094d\u092f\u093e\u092a\u0928 \u0915\u0940 \u0928\u093f\u0917\u0930\u093e\u0928\u0940\u0964",
-      "allocated": "\u20b913,110 Cr",
+      "allocated": "\u20b913,120 Cr",
       "allocatedSub": "National (Lok Sabha + Rajya Sabha)",
       "allocatedSubHi": "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f (\u0932\u094b\u0915\u0938\u092d\u093e + \u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e)",
       "spent": "\u20b98,601 Cr",
@@ -19,64 +19,64 @@
       "utilization": "65.6%",
       "utilizationSub": "National Average",
       "utilizationSubHi": "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0914\u0938\u0924",
-      "completed": "116,764",
+      "completed": "116,772",
       "completedSub": "Verified Finish (49.1%)",
       "completedSubHi": "\u0938\u0924\u094d\u092f\u093e\u092a\u093f\u0924 \u092a\u0942\u0930\u094d\u0923 (49.1%)",
       "riskCritical": "0",
       "riskCriticalPct": "0.00%",
       "riskHigh": "8",
       "riskHighPct": "0.00%",
-      "riskMedium": "54,027",
+      "riskMedium": "54,033",
       "riskMediumPct": "22.7%",
-      "riskLow": "183,621",
+      "riskLow": "183,784",
       "riskLowPct": "77.3%"
     },
     "lok-sabha": {
       "subtitleEn": "Monitoring MPLADS works, fund utilization, and anomaly verification across 543 Lok Sabha constituencies.",
       "subtitleHi": "543 \u0932\u094b\u0915\u0938\u092d\u093e \u0928\u093f\u0930\u094d\u0935\u093e\u091a\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u094b\u0902 \u092e\u0947\u0902 \u090f\u092e\u092a\u0940\u0932\u0948\u0921\u094d\u0938 \u0935\u093f\u0915\u093e\u0938 \u0915\u093e\u0930\u094d\u092f\u094b\u0902, \u0928\u093f\u0927\u093f \u0909\u092a\u092f\u094b\u0917 \u0914\u0930 \u0935\u093f\u0938\u0902\u0917\u0924\u093f \u0938\u0924\u094d\u092f\u093e\u092a\u0928 \u0915\u0940 \u0928\u093f\u0917\u0930\u093e\u0928\u0940\u0964",
-      "allocated": "\u20b910,656 Cr",
+      "allocated": "\u20b910,663 Cr",
       "allocatedSub": "18th & 17th Lok Sabha (543 MPs)",
       "allocatedSubHi": "18\u0935\u0940\u0902 \u0914\u0930 17\u0935\u0940\u0902 \u0932\u094b\u0915\u0938\u092d\u093e (543 \u0938\u093e\u0902\u0938\u0926)",
-      "spent": "\u20b97,227 Cr",
+      "spent": "\u20b97,233 Cr",
       "spentSub": "Disbursed Vouchers",
       "spentSubHi": "\u0938\u0902\u0935\u093f\u0924\u0930\u093f\u0924 \u0935\u093e\u0909\u091a\u0930",
       "utilization": "67.8%",
       "utilizationSub": "Lok Sabha Average",
       "utilizationSubHi": "\u0932\u094b\u0915\u0938\u092d\u093e \u0914\u0938\u0924",
-      "completed": "106,104",
+      "completed": "106,112",
       "completedSub": "Verified Finish (50.6%)",
       "completedSubHi": "\u0938\u0924\u094d\u092f\u093e\u092a\u093f\u0924 \u092a\u0942\u0930\u094d\u0923 (50.6%)",
       "riskCritical": "0",
       "riskCriticalPct": "0.00%",
       "riskHigh": "5",
       "riskHighPct": "0.00%",
-      "riskMedium": "51,223",
+      "riskMedium": "51,229",
       "riskMediumPct": "24.4%",
-      "riskLow": "158,497",
+      "riskLow": "158,626",
       "riskLowPct": "75.6%"
     },
     "rajya-sabha": {
       "subtitleEn": "Monitoring MPLADS works, fund utilization, and anomaly verification across 245 Rajya Sabha nodal districts.",
       "subtitleHi": "245 \u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e \u0928\u094b\u0921\u0932 \u091c\u093f\u0932\u094b\u0902 \u092e\u0947\u0902 \u090f\u092e\u092a\u0940\u0932\u0948\u0921\u094d\u0938 \u0935\u093f\u0915\u093e\u0938 \u0915\u093e\u0930\u094d\u092f\u094b\u0902, \u0928\u093f\u0927\u093f \u0909\u092a\u092f\u094b\u0917 \u0914\u0930 \u0935\u093f\u0938\u0902\u0917\u0924\u093f \u0938\u0924\u094d\u092f\u093e\u092a\u0928 \u0915\u0940 \u0928\u093f\u0917\u0930\u093e\u0928\u0940\u0964",
-      "allocated": "\u20b92,454 Cr",
+      "allocated": "\u20b92,457 Cr",
       "allocatedSub": "Rajya Sabha Nodal Districts (245 MPs)",
       "allocatedSubHi": "\u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e \u0928\u094b\u0921\u0932 \u091c\u093f\u0932\u0947 (245 \u0938\u093e\u0902\u0938\u0926)",
-      "spent": "\u20b91,374 Cr",
+      "spent": "\u20b91,368 Cr",
       "spentSub": "Disbursed Vouchers",
       "spentSubHi": "\u0938\u0902\u0935\u093f\u0924\u0930\u093f\u0924 \u0935\u093e\u0909\u091a\u0930",
-      "utilization": "56.0%",
+      "utilization": "55.7%",
       "utilizationSub": "Rajya Sabha Average",
       "utilizationSubHi": "\u0930\u093e\u091c\u094d\u092f\u0938\u092d\u093e \u0914\u0938\u0924",
       "completed": "10,660",
-      "completedSub": "Verified Finish (38.2%)",
-      "completedSubHi": "\u0938\u0924\u094d\u092f\u093e\u092a\u093f\u0924 \u092a\u0942\u0930\u094d\u0923 (38.2%)",
+      "completedSub": "Verified Finish (38.1%)",
+      "completedSubHi": "\u0938\u0924\u094d\u092f\u093e\u092a\u093f\u0924 \u092a\u0942\u0930\u094d\u0923 (38.1%)",
       "riskCritical": "0",
       "riskCriticalPct": "0.00%",
       "riskHigh": "3",
       "riskHighPct": "0.01%",
       "riskMedium": "2,804",
       "riskMediumPct": "10.0%",
-      "riskLow": "25,124",
+      "riskLow": "25,158",
       "riskLowPct": "90.0%"
     }
   },
@@ -91,56 +91,56 @@
     },
     {
       "state_name": "Andhra Pradesh",
-      "total_sanctioned": 6023315799.22,
-      "total_spent": 3421916199.22,
+      "total_sanctioned": 6022718095.22,
+      "total_spent": 3419002560.22,
       "avg_risk": 21.45,
       "total_projects": 8761,
-      "utilization_rate": 0.5681
+      "utilization_rate": 0.5677
     },
     {
       "state_name": "Arunachal Pradesh",
       "total_sanctioned": 465239692.0,
-      "total_spent": 398552066.0,
+      "total_spent": 401933366.0,
       "avg_risk": 26.52,
       "total_projects": 707,
-      "utilization_rate": 0.8567
+      "utilization_rate": 0.8639
     },
     {
       "state_name": "Assam",
       "total_sanctioned": 3139584360.62,
-      "total_spent": 1968556798.33,
+      "total_spent": 1965403353.33,
       "avg_risk": 18.41,
       "total_projects": 4719,
-      "utilization_rate": 0.627
+      "utilization_rate": 0.626
     },
     {
       "state_name": "Bihar",
-      "total_sanctioned": 9869787674.0,
-      "total_spent": 10208392867.72,
-      "avg_risk": 23.29,
-      "total_projects": 13714,
-      "utilization_rate": 1.0343
+      "total_sanctioned": 9879785674.0,
+      "total_spent": 10211077816.72,
+      "avg_risk": 23.28,
+      "total_projects": 13721,
+      "utilization_rate": 1.0335
     },
     {
       "state_name": "Chandigarh",
       "total_sanctioned": 161445119.82,
-      "total_spent": 96452717.97,
+      "total_spent": 96268179.97,
       "avg_risk": 23.8,
       "total_projects": 177,
-      "utilization_rate": 0.5974
+      "utilization_rate": 0.5963
     },
     {
       "state_name": "Chhattisgarh",
       "total_sanctioned": 2430508776.23,
-      "total_spent": 1758571675.13,
+      "total_spent": 1759766553.13,
       "avg_risk": 22.8,
       "total_projects": 4611,
-      "utilization_rate": 0.7235
+      "utilization_rate": 0.724
     },
     {
       "state_name": "Delhi",
       "total_sanctioned": 1595585365.3,
-      "total_spent": 793254729.0,
+      "total_spent": 793254663.0,
       "avg_risk": 19.72,
       "total_projects": 1383,
       "utilization_rate": 0.4972
@@ -156,7 +156,7 @@
     {
       "state_name": "Gujarat",
       "total_sanctioned": 6118390594.88,
-      "total_spent": 3426437132.22,
+      "total_spent": 3426346725.22,
       "avg_risk": 20.64,
       "total_projects": 17397,
       "utilization_rate": 0.56
@@ -164,50 +164,50 @@
     {
       "state_name": "Haryana",
       "total_sanctioned": 2146405540.38,
-      "total_spent": 1140499082.5,
+      "total_spent": 1136518730.5,
       "avg_risk": 19.42,
       "total_projects": 4022,
-      "utilization_rate": 0.5314
+      "utilization_rate": 0.5295
     },
     {
       "state_name": "Himachal Pradesh",
       "total_sanctioned": 1109615010.04,
-      "total_spent": 761783098.04,
-      "avg_risk": 20.55,
+      "total_spent": 761982142.04,
+      "avg_risk": 20.54,
       "total_projects": 4653,
-      "utilization_rate": 0.6865
+      "utilization_rate": 0.6867
     },
     {
       "state_name": "Jammu And Kashmir",
-      "total_sanctioned": 1161397369.89,
-      "total_spent": 525174744.0,
-      "avg_risk": 21.78,
-      "total_projects": 2514,
-      "utilization_rate": 0.4522
+      "total_sanctioned": 1169530866.89,
+      "total_spent": 532507779.0,
+      "avg_risk": 21.76,
+      "total_projects": 2519,
+      "utilization_rate": 0.4553
     },
     {
       "state_name": "Jharkhand",
       "total_sanctioned": 3386325651.0,
-      "total_spent": 2281390870.23,
+      "total_spent": 2279444874.23,
       "avg_risk": 18.29,
       "total_projects": 9020,
-      "utilization_rate": 0.6737
+      "utilization_rate": 0.6731
     },
     {
       "state_name": "Karnataka",
-      "total_sanctioned": 6941107889.0,
-      "total_spent": 4088003311.95,
-      "avg_risk": 18.44,
-      "total_projects": 11523,
-      "utilization_rate": 0.589
+      "total_sanctioned": 6978907889.0,
+      "total_spent": 4064723077.95,
+      "avg_risk": 18.4,
+      "total_projects": 11591,
+      "utilization_rate": 0.5824
     },
     {
       "state_name": "Kerala",
-      "total_sanctioned": 6132122862.75,
-      "total_spent": 2772783644.41,
-      "avg_risk": 18.1,
-      "total_projects": 9665,
-      "utilization_rate": 0.4522
+      "total_sanctioned": 6131644256.75,
+      "total_spent": 2773907319.41,
+      "avg_risk": 18.12,
+      "total_projects": 9666,
+      "utilization_rate": 0.4524
     },
     {
       "state_name": "Ladakh",
@@ -227,19 +227,19 @@
     },
     {
       "state_name": "Madhya Pradesh",
-      "total_sanctioned": 6630844657.38,
-      "total_spent": 4586926927.53,
+      "total_sanctioned": 6634269657.38,
+      "total_spent": 4589247381.53,
       "avg_risk": 19.31,
-      "total_projects": 17609,
-      "utilization_rate": 0.6918
+      "total_projects": 17617,
+      "utilization_rate": 0.6917
     },
     {
       "state_name": "Maharashtra",
-      "total_sanctioned": 10485086827.02,
-      "total_spent": 5899601681.03,
-      "avg_risk": 17.38,
-      "total_projects": 11914,
-      "utilization_rate": 0.5627
+      "total_sanctioned": 10490486827.02,
+      "total_spent": 5899605917.03,
+      "avg_risk": 17.37,
+      "total_projects": 11920,
+      "utilization_rate": 0.5624
     },
     {
       "state_name": "Manipur",
@@ -275,67 +275,67 @@
     },
     {
       "state_name": "Odisha",
-      "total_sanctioned": 4840480707.0,
-      "total_spent": 2100138467.0,
-      "avg_risk": 19.31,
-      "total_projects": 13593,
-      "utilization_rate": 0.4339
+      "total_sanctioned": 4849120707.0,
+      "total_spent": 2101193874.0,
+      "avg_risk": 19.29,
+      "total_projects": 13621,
+      "utilization_rate": 0.4333
     },
     {
       "state_name": "Puducherry",
       "total_sanctioned": 527591576.0,
-      "total_spent": 235384885.0,
+      "total_spent": 234869130.0,
       "avg_risk": 18.06,
       "total_projects": 260,
-      "utilization_rate": 0.4461
+      "utilization_rate": 0.4452
     },
     {
       "state_name": "Punjab",
-      "total_sanctioned": 2497714196.26,
-      "total_spent": 1530550339.96,
-      "avg_risk": 15.63,
-      "total_projects": 6207,
-      "utilization_rate": 0.6128
+      "total_sanctioned": 2508014196.26,
+      "total_spent": 1538552829.96,
+      "avg_risk": 15.59,
+      "total_projects": 6240,
+      "utilization_rate": 0.6135
     },
     {
       "state_name": "Rajasthan",
-      "total_sanctioned": 5221399769.01,
-      "total_spent": 3400939518.24,
+      "total_sanctioned": 5222899769.01,
+      "total_spent": 3417503447.46,
       "avg_risk": 24.12,
-      "total_projects": 8707,
-      "utilization_rate": 0.6513
+      "total_projects": 8708,
+      "utilization_rate": 0.6543
     },
     {
       "state_name": "Sikkim",
       "total_sanctioned": 394427194.0,
-      "total_spent": 364055281.0,
+      "total_spent": 356600775.0,
       "avg_risk": 23.49,
       "total_projects": 307,
-      "utilization_rate": 0.923
+      "utilization_rate": 0.9041
     },
     {
       "state_name": "Tamil Nadu",
-      "total_sanctioned": 10220972386.5,
-      "total_spent": 7470131920.34,
+      "total_sanctioned": 10222345386.5,
+      "total_spent": 7463226588.34,
       "avg_risk": 20.31,
-      "total_projects": 12018,
-      "utilization_rate": 0.7309
+      "total_projects": 12019,
+      "utilization_rate": 0.7301
     },
     {
       "state_name": "Telangana",
       "total_sanctioned": 4538185203.1,
-      "total_spent": 2376750237.38,
-      "avg_risk": 17.83,
+      "total_spent": 2383041495.38,
+      "avg_risk": 17.82,
       "total_projects": 11209,
-      "utilization_rate": 0.5237
+      "utilization_rate": 0.5251
     },
     {
       "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
-      "total_sanctioned": 253524977.0,
+      "total_sanctioned": 264224977.0,
       "total_spent": 9576633.0,
-      "avg_risk": 16.14,
-      "total_projects": 64,
-      "utilization_rate": 0.0378
+      "avg_risk": 16.04,
+      "total_projects": 67,
+      "utilization_rate": 0.0362
     },
     {
       "state_name": "Tripura",
@@ -347,27 +347,27 @@
     },
     {
       "state_name": "Uttar Pradesh",
-      "total_sanctioned": 21085862692.24,
-      "total_spent": 15537925229.43,
-      "avg_risk": 22.96,
-      "total_projects": 43134,
-      "utilization_rate": 0.7369
+      "total_sanctioned": 21088423484.24,
+      "total_spent": 15533643601.21,
+      "avg_risk": 22.95,
+      "total_projects": 43142,
+      "utilization_rate": 0.7366
     },
     {
       "state_name": "Uttarakhand",
-      "total_sanctioned": 1408501389.31,
-      "total_spent": 859309198.44,
-      "avg_risk": 25.25,
+      "total_sanctioned": 1408655629.31,
+      "total_spent": 862620448.44,
+      "avg_risk": 25.26,
       "total_projects": 4267,
-      "utilization_rate": 0.6101
+      "utilization_rate": 0.6124
     },
     {
       "state_name": "West Bengal",
       "total_sanctioned": 9048700946.32,
-      "total_spent": 5726194917.15,
+      "total_spent": 5733607241.15,
       "avg_risk": 24.12,
       "total_projects": 12398,
-      "utilization_rate": 0.6328
+      "utilization_rate": 0.6336
     }
   ],
   "top_national_risk_alerts": [
@@ -497,7 +497,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -586,7 +586,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 96.86414487822066,
+          "score": 96.87091095150049,
           "pillar": "cost_risk_score"
         }
       ],
@@ -650,7 +650,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 89.14193702039468,
+          "score": 89.14527938372674,
           "pillar": "cost_risk_score"
         }
       ],
@@ -690,7 +690,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -1038,7 +1038,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 86.80888319536187,
+          "score": 86.8114784873831,
           "pillar": "cost_risk_score"
         }
       ],
@@ -1078,7 +1078,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Review compliance with MPLADS Para 5.1 durable community asset guidelines."
       ],
-      "agency_risk_score": 50.28,
+      "agency_risk_score": 50.27,
       "agency_risk_tier": "HIGH"
     },
     {
@@ -1202,7 +1202,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 85.24405694227787,
+          "score": 85.24659602565504,
           "pillar": "cost_risk_score"
         }
       ],
@@ -1254,9 +1254,9 @@
       "mp_name": "Smt Aparajita  Sarangi",
       "sanction_amount": 1640000.0,
       "total_disbursed": 41276.0,
-      "final_risk_score": 57.55,
+      "final_risk_score": 57.56,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (57.55/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "project_summary": "Flagged HIGH Risk (57.56/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -1630,7 +1630,7 @@
         "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 57.93,
+      "agency_risk_score": 57.92,
       "agency_risk_tier": "HIGH"
     },
     {
@@ -1663,7 +1663,7 @@
         "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 57.93,
+      "agency_risk_score": 57.92,
       "agency_risk_tier": "HIGH"
     },
     {
@@ -1860,7 +1860,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 78.44,
+      "agency_risk_score": 78.43,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -1893,7 +1893,7 @@
         "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 60.25,
+      "agency_risk_score": 60.24,
       "agency_risk_tier": "HIGH"
     },
     {
@@ -2014,7 +2014,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 82.09,
+          "score": 82.08,
           "pillar": "agency_risk_score"
         }
       ],
@@ -2023,7 +2023,7 @@
         "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 82.09,
+      "agency_risk_score": 82.08,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -2087,7 +2087,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -2119,7 +2119,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -2151,7 +2151,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -2999,6 +2999,39 @@
       "agency_risk_tier": "HIGH"
     },
     {
+      "work_id": 85187,
+      "activity_name": "WS/MP802/2023-2024/85187-Construction of rooms and halls in school and colleges",
+      "state_name": "Uttar Pradesh",
+      "const_name": "ALIGARH",
+      "mp_name": "RK Singh Patel(17th Lok Sabha)",
+      "sanction_amount": 594087.0,
+      "total_disbursed": 594087.0,
+      "final_risk_score": 54.71,
+      "risk_tier": "HIGH",
+      "project_summary": "Flagged HIGH Risk (54.71/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
+      "anomaly_reasons": [
+        {
+          "score": 100.0,
+          "pillar": "progress_risk_score"
+        },
+        {
+          "score": 100.0,
+          "pillar": "delay_risk_score"
+        },
+        {
+          "score": 80.0,
+          "pillar": "evidence_risk_score"
+        }
+      ],
+      "recommended_actions": [
+        "Initiate immediate physical ground audit by District Nodal Officer.",
+        "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
+        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
+      ],
+      "agency_risk_score": 76.13,
+      "agency_risk_tier": "CRITICAL"
+    },
+    {
       "work_id": 53665,
       "activity_name": "WS/MP408/2023-2024/53665-Construction of roads, link roads, pathways or any other road with or without drainage system",
       "state_name": "Andhra Pradesh",
@@ -3130,39 +3163,6 @@
       "agency_risk_tier": "MODERATE"
     },
     {
-      "work_id": 85187,
-      "activity_name": "WS/MP802/2023-2024/85187-Construction of rooms and halls in school and colleges",
-      "state_name": "Uttar Pradesh",
-      "const_name": "ALIGARH",
-      "mp_name": "RK Singh Patel(17th Lok Sabha)",
-      "sanction_amount": 594087.0,
-      "total_disbursed": 594087.0,
-      "final_risk_score": 54.63,
-      "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (54.63/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
-      "anomaly_reasons": [
-        {
-          "score": 100.0,
-          "pillar": "progress_risk_score"
-        },
-        {
-          "score": 100.0,
-          "pillar": "delay_risk_score"
-        },
-        {
-          "score": 80.0,
-          "pillar": "evidence_risk_score"
-        }
-      ],
-      "recommended_actions": [
-        "Initiate immediate physical ground audit by District Nodal Officer.",
-        "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
-        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
-      ],
-      "agency_risk_score": 76.13,
-      "agency_risk_tier": "CRITICAL"
-    },
-    {
       "work_id": 71828,
       "activity_name": "WS/MP762/2023-2024/71828-Providing drains and gutters for public drainage",
       "state_name": "Telangana",
@@ -3223,7 +3223,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -3339,7 +3339,7 @@
           "pillar": "progress_risk_score"
         },
         {
-          "score": 94.46971189530409,
+          "score": 94.47325402274247,
           "pillar": "cost_risk_score"
         },
         {
@@ -3714,9 +3714,9 @@
       "mp_name": "C Lalrosanga(17th Lok Sabha)",
       "sanction_amount": 1000000.0,
       "total_disbursed": 1000000.0,
-      "final_risk_score": 54.03,
+      "final_risk_score": 54.02,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (54.03/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "project_summary": "Flagged HIGH Risk (54.02/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -3735,7 +3735,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -3746,9 +3746,9 @@
       "mp_name": "C Lalrosanga(17th Lok Sabha)",
       "sanction_amount": 1000000.0,
       "total_disbursed": 1000000.0,
-      "final_risk_score": 54.03,
+      "final_risk_score": 54.02,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (54.03/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "project_summary": "Flagged HIGH Risk (54.02/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -3767,7 +3767,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -3905,9 +3905,9 @@
       "mp_name": "C Lalrosanga(17th Lok Sabha)",
       "sanction_amount": 1000000.0,
       "total_disbursed": 1000000.0,
-      "final_risk_score": 53.83,
+      "final_risk_score": 53.82,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.83/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "project_summary": "Flagged HIGH Risk (53.82/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -3926,7 +3926,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -3937,9 +3937,9 @@
       "mp_name": "C Lalrosanga(17th Lok Sabha)",
       "sanction_amount": 1000000.0,
       "total_disbursed": 1000000.0,
-      "final_risk_score": 53.83,
+      "final_risk_score": 53.82,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.83/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "project_summary": "Flagged HIGH Risk (53.82/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -3958,7 +3958,7 @@
         "Initiate immediate physical ground audit by District Nodal Officer.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -4020,7 +4020,7 @@
       "recommended_actions": [
         "Initiate immediate physical ground audit by District Nodal Officer."
       ],
-      "agency_risk_score": 75.52,
+      "agency_risk_score": 75.51,
       "agency_risk_tier": "CRITICAL"
     },
     {
@@ -4030,7 +4030,7 @@
       "const_name": "Andhra Pradesh (Rajya Sabha Nodal District)",
       "mp_name": "Shri V. Vijayendra Prasad (2022-28)",
       "sanction_amount": 4852103.0,
-      "total_disbursed": 7096862.0,
+      "total_disbursed": 2607344.0,
       "final_risk_score": 53.78,
       "risk_tier": "HIGH",
       "project_summary": "Flagged HIGH Risk (53.78/100) primarily driven by project stall probability, severe cost escalation, chronic completion delays.",
@@ -4118,102 +4118,6 @@
       "agency_risk_tier": "CRITICAL"
     },
     {
-      "work_id": 89419,
-      "activity_name": "WS/MP696/2023-2024/89419-Construction of roads, link roads, pathways or any other road with or without drainage system",
-      "state_name": "Mizoram",
-      "const_name": "MIZORAM (ST)",
-      "mp_name": "C Lalrosanga(17th Lok Sabha)",
-      "sanction_amount": 1000000.0,
-      "total_disbursed": 1000000.0,
-      "final_risk_score": 53.73,
-      "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.73/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
-      "anomaly_reasons": [
-        {
-          "score": 100.0,
-          "pillar": "progress_risk_score"
-        },
-        {
-          "score": 100.0,
-          "pillar": "delay_risk_score"
-        },
-        {
-          "score": 94.0,
-          "pillar": "duplicate_risk_score"
-        }
-      ],
-      "recommended_actions": [
-        "Initiate immediate physical ground audit by District Nodal Officer.",
-        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
-      ],
-      "agency_risk_score": 75.52,
-      "agency_risk_tier": "CRITICAL"
-    },
-    {
-      "work_id": 98304,
-      "activity_name": "WS/MP696/2023-2024/98304-Construction of roads, link roads, pathways or any other road with or without drainage system",
-      "state_name": "Mizoram",
-      "const_name": "MIZORAM (ST)",
-      "mp_name": "C Lalrosanga(17th Lok Sabha)",
-      "sanction_amount": 1000000.0,
-      "total_disbursed": 1000000.0,
-      "final_risk_score": 53.73,
-      "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.73/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
-      "anomaly_reasons": [
-        {
-          "score": 100.0,
-          "pillar": "progress_risk_score"
-        },
-        {
-          "score": 100.0,
-          "pillar": "delay_risk_score"
-        },
-        {
-          "score": 94.0,
-          "pillar": "duplicate_risk_score"
-        }
-      ],
-      "recommended_actions": [
-        "Initiate immediate physical ground audit by District Nodal Officer.",
-        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
-      ],
-      "agency_risk_score": 75.52,
-      "agency_risk_tier": "CRITICAL"
-    },
-    {
-      "work_id": 89213,
-      "activity_name": "WS/MP696/2023-2024/89213-Construction of roads, link roads, pathways or any other road with or without drainage system",
-      "state_name": "Mizoram",
-      "const_name": "MIZORAM (ST)",
-      "mp_name": "C Lalrosanga(17th Lok Sabha)",
-      "sanction_amount": 1000000.0,
-      "total_disbursed": 1000000.0,
-      "final_risk_score": 53.73,
-      "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.73/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
-      "anomaly_reasons": [
-        {
-          "score": 100.0,
-          "pillar": "progress_risk_score"
-        },
-        {
-          "score": 100.0,
-          "pillar": "delay_risk_score"
-        },
-        {
-          "score": 94.0,
-          "pillar": "duplicate_risk_score"
-        }
-      ],
-      "recommended_actions": [
-        "Initiate immediate physical ground audit by District Nodal Officer.",
-        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
-      ],
-      "agency_risk_score": 75.52,
-      "agency_risk_tier": "CRITICAL"
-    },
-    {
       "work_id": 7973,
       "activity_name": "WS/MP430/2023-2024/7973-Crematoriums/energy efficient crematoriums or structures on burial/cremation ground",
       "state_name": "Goa",
@@ -4244,6 +4148,102 @@
       ],
       "agency_risk_score": 48.3,
       "agency_risk_tier": "MODERATE"
+    },
+    {
+      "work_id": 89419,
+      "activity_name": "WS/MP696/2023-2024/89419-Construction of roads, link roads, pathways or any other road with or without drainage system",
+      "state_name": "Mizoram",
+      "const_name": "MIZORAM (ST)",
+      "mp_name": "C Lalrosanga(17th Lok Sabha)",
+      "sanction_amount": 1000000.0,
+      "total_disbursed": 1000000.0,
+      "final_risk_score": 53.72,
+      "risk_tier": "HIGH",
+      "project_summary": "Flagged HIGH Risk (53.72/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "anomaly_reasons": [
+        {
+          "score": 100.0,
+          "pillar": "progress_risk_score"
+        },
+        {
+          "score": 100.0,
+          "pillar": "delay_risk_score"
+        },
+        {
+          "score": 94.0,
+          "pillar": "duplicate_risk_score"
+        }
+      ],
+      "recommended_actions": [
+        "Initiate immediate physical ground audit by District Nodal Officer.",
+        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
+      ],
+      "agency_risk_score": 75.51,
+      "agency_risk_tier": "CRITICAL"
+    },
+    {
+      "work_id": 98304,
+      "activity_name": "WS/MP696/2023-2024/98304-Construction of roads, link roads, pathways or any other road with or without drainage system",
+      "state_name": "Mizoram",
+      "const_name": "MIZORAM (ST)",
+      "mp_name": "C Lalrosanga(17th Lok Sabha)",
+      "sanction_amount": 1000000.0,
+      "total_disbursed": 1000000.0,
+      "final_risk_score": 53.72,
+      "risk_tier": "HIGH",
+      "project_summary": "Flagged HIGH Risk (53.72/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "anomaly_reasons": [
+        {
+          "score": 100.0,
+          "pillar": "progress_risk_score"
+        },
+        {
+          "score": 100.0,
+          "pillar": "delay_risk_score"
+        },
+        {
+          "score": 94.0,
+          "pillar": "duplicate_risk_score"
+        }
+      ],
+      "recommended_actions": [
+        "Initiate immediate physical ground audit by District Nodal Officer.",
+        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
+      ],
+      "agency_risk_score": 75.51,
+      "agency_risk_tier": "CRITICAL"
+    },
+    {
+      "work_id": 89213,
+      "activity_name": "WS/MP696/2023-2024/89213-Construction of roads, link roads, pathways or any other road with or without drainage system",
+      "state_name": "Mizoram",
+      "const_name": "MIZORAM (ST)",
+      "mp_name": "C Lalrosanga(17th Lok Sabha)",
+      "sanction_amount": 1000000.0,
+      "total_disbursed": 1000000.0,
+      "final_risk_score": 53.72,
+      "risk_tier": "HIGH",
+      "project_summary": "Flagged HIGH Risk (53.72/100) primarily driven by project stall probability, chronic completion delays, duplicate/split-work alerts.",
+      "anomaly_reasons": [
+        {
+          "score": 100.0,
+          "pillar": "progress_risk_score"
+        },
+        {
+          "score": 100.0,
+          "pillar": "delay_risk_score"
+        },
+        {
+          "score": 94.0,
+          "pillar": "duplicate_risk_score"
+        }
+      ],
+      "recommended_actions": [
+        "Initiate immediate physical ground audit by District Nodal Officer.",
+        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
+      ],
+      "agency_risk_score": 75.51,
+      "agency_risk_tier": "CRITICAL"
     },
     {
       "work_id": 120594,
@@ -4642,7 +4642,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 97.25353884115648,
+          "score": 97.26033476217295,
           "pillar": "cost_risk_score"
         }
       ],
@@ -4820,9 +4820,9 @@
       "mp_name": "Anubhav Mohanty(17th Lok Sabha)",
       "sanction_amount": 2000000.0,
       "total_disbursed": 2000000.0,
-      "final_risk_score": 53.41,
+      "final_risk_score": 53.42,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.41/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
+      "project_summary": "Flagged HIGH Risk (53.42/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -4945,9 +4945,9 @@
       "mp_name": "Sumedhanand Saraswati(17th Lok Sabha)",
       "sanction_amount": 1500000.0,
       "total_disbursed": 1500000.0,
-      "final_risk_score": 53.33,
+      "final_risk_score": 53.32,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.33/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
+      "project_summary": "Flagged HIGH Risk (53.32/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -5185,7 +5185,7 @@
         "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
         "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
       ],
-      "agency_risk_score": 38.26,
+      "agency_risk_score": 38.25,
       "agency_risk_tier": "MODERATE"
     },
     {
@@ -5252,39 +5252,6 @@
       "agency_risk_tier": "HIGH"
     },
     {
-      "work_id": 80856,
-      "activity_name": "WS/MP491/2024-2025/80856-Construction of rooms and halls in school and colleges",
-      "state_name": "Uttar Pradesh",
-      "const_name": "ALIGARH",
-      "mp_name": "Smt Rekha Arun Verma (17th Lok Sabha)",
-      "sanction_amount": 960688.0,
-      "total_disbursed": 960688.0,
-      "final_risk_score": 53.27,
-      "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (53.27/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
-      "anomaly_reasons": [
-        {
-          "score": 100.0,
-          "pillar": "progress_risk_score"
-        },
-        {
-          "score": 98.0,
-          "pillar": "duplicate_risk_score"
-        },
-        {
-          "score": 81.36986301369863,
-          "pillar": "delay_risk_score"
-        }
-      ],
-      "recommended_actions": [
-        "Initiate immediate physical ground audit by District Nodal Officer.",
-        "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
-        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
-      ],
-      "agency_risk_score": 32.44,
-      "agency_risk_tier": "MODERATE"
-    },
-    {
       "work_id": 53710,
       "activity_name": "WS/MP465/2023-2024/53710-Construction of roads, link roads, pathways or any other road with or without drainage system",
       "state_name": "Uttar Pradesh",
@@ -5346,6 +5313,39 @@
       ],
       "agency_risk_score": 70.62,
       "agency_risk_tier": "CRITICAL"
+    },
+    {
+      "work_id": 80856,
+      "activity_name": "WS/MP491/2024-2025/80856-Construction of rooms and halls in school and colleges",
+      "state_name": "Uttar Pradesh",
+      "const_name": "ALIGARH",
+      "mp_name": "Smt Rekha Arun Verma (17th Lok Sabha)",
+      "sanction_amount": 960688.0,
+      "total_disbursed": 960688.0,
+      "final_risk_score": 53.19,
+      "risk_tier": "HIGH",
+      "project_summary": "Flagged HIGH Risk (53.19/100) primarily driven by project stall probability, duplicate/split-work alerts, chronic completion delays.",
+      "anomaly_reasons": [
+        {
+          "score": 100.0,
+          "pillar": "progress_risk_score"
+        },
+        {
+          "score": 98.0,
+          "pillar": "duplicate_risk_score"
+        },
+        {
+          "score": 81.36986301369863,
+          "pillar": "delay_risk_score"
+        }
+      ],
+      "recommended_actions": [
+        "Initiate immediate physical ground audit by District Nodal Officer.",
+        "Review compliance with MPLADS Para 5.1 durable community asset guidelines.",
+        "Cross-verify tender specification against Work ID matched to confirm distinct asset creation."
+      ],
+      "agency_risk_score": 32.44,
+      "agency_risk_tier": "MODERATE"
     },
     {
       "work_id": 53704,
@@ -5558,7 +5558,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 98.3636979354251,
+          "score": 98.36369793542514,
           "pillar": "cost_risk_score"
         }
       ],
@@ -5659,7 +5659,7 @@
       "recommended_actions": [
         "Initiate immediate physical ground audit by District Nodal Officer."
       ],
-      "agency_risk_score": 60.25,
+      "agency_risk_score": 60.24,
       "agency_risk_tier": "HIGH"
     },
     {
@@ -5906,7 +5906,7 @@
           "pillar": "delay_risk_score"
         },
         {
-          "score": 94.5310458634688,
+          "score": 94.53459029061496,
           "pillar": "cost_risk_score"
         }
       ],
@@ -6234,38 +6234,6 @@
       "agency_risk_tier": "HIGH"
     },
     {
-      "work_id": 7979,
-      "activity_name": "WS/MP331/2023-2024/7979-Construction of rooms and halls in school and colleges",
-      "state_name": "Jammu And Kashmir",
-      "const_name": "ANANTNAG",
-      "mp_name": "Shri Jugal Kishore Sharma (17th Lok Sabha)",
-      "sanction_amount": 2361237.0,
-      "total_disbursed": 2361237.0,
-      "final_risk_score": 52.56,
-      "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (52.56/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
-      "anomaly_reasons": [
-        {
-          "score": 100.0,
-          "pillar": "progress_risk_score"
-        },
-        {
-          "score": 100.0,
-          "pillar": "delay_risk_score"
-        },
-        {
-          "score": 80.0,
-          "pillar": "evidence_risk_score"
-        }
-      ],
-      "recommended_actions": [
-        "Initiate immediate physical ground audit by District Nodal Officer.",
-        "Review compliance with MPLADS Para 5.1 durable community asset guidelines."
-      ],
-      "agency_risk_score": 48.32,
-      "agency_risk_tier": "MODERATE"
-    },
-    {
       "work_id": 122866,
       "activity_name": "WS/MP312/2023-2024/122866-Construction of common work sheds/ common covered sitting area",
       "state_name": "Andhra Pradesh",
@@ -6483,6 +6451,38 @@
       "agency_risk_tier": "HIGH"
     },
     {
+      "work_id": 7979,
+      "activity_name": "WS/MP331/2023-2024/7979-Construction of rooms and halls in school and colleges",
+      "state_name": "Jammu And Kashmir",
+      "const_name": "ANANTNAG",
+      "mp_name": "Shri Jugal Kishore Sharma (17th Lok Sabha)",
+      "sanction_amount": 2361237.0,
+      "total_disbursed": 2361237.0,
+      "final_risk_score": 52.53,
+      "risk_tier": "HIGH",
+      "project_summary": "Flagged HIGH Risk (52.53/100) primarily driven by project stall probability, chronic completion delays, prohibited asset guidelines violation.",
+      "anomaly_reasons": [
+        {
+          "score": 100.0,
+          "pillar": "progress_risk_score"
+        },
+        {
+          "score": 100.0,
+          "pillar": "delay_risk_score"
+        },
+        {
+          "score": 80.0,
+          "pillar": "evidence_risk_score"
+        }
+      ],
+      "recommended_actions": [
+        "Initiate immediate physical ground audit by District Nodal Officer.",
+        "Review compliance with MPLADS Para 5.1 durable community asset guidelines."
+      ],
+      "agency_risk_score": 48.32,
+      "agency_risk_tier": "MODERATE"
+    },
+    {
       "work_id": 40867,
       "activity_name": "WS/MP467/2023-2024/40867-Construction of roads, link roads, pathways or any other road with or without drainage system",
       "state_name": "Uttar Pradesh",
@@ -6490,9 +6490,9 @@
       "mp_name": "Akshaibar Lal",
       "sanction_amount": 1891270.0,
       "total_disbursed": 1891270.0,
-      "final_risk_score": 52.5,
+      "final_risk_score": 52.51,
       "risk_tier": "HIGH",
-      "project_summary": "Flagged HIGH Risk (52.5/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
+      "project_summary": "Flagged HIGH Risk (52.51/100) primarily driven by project stall probability, chronic completion delays, poor executing agency track record.",
       "anomaly_reasons": [
         {
           "score": 100.0,
@@ -6535,7 +6535,7 @@
           "pillar": "evidence_risk_score"
         },
         {
-          "score": 77.83060016838729,
+          "score": 77.83171775026898,
           "pillar": "cost_risk_score"
         }
       ],
