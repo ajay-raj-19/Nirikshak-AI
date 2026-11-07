@@ -8,8 +8,8 @@ export const INDIA_STATES_AND_UT = [
     "rank": 1,
     "performanceCategory": "High",
     "mpCount": 3,
-    "totalAllocatedCr": 40.2,
-    "totalUtilizedCr": 39.2,
+    "totalAllocatedCr": 40.3,
+    "totalUtilizedCr": 39.3,
     "utilizationPct": 97.6,
     "worksRecommended": 151,
     "worksCompleted": 127,
@@ -35,12 +35,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 2,
     "performanceCategory": "High",
     "mpCount": 91,
-    "totalAllocatedCr": 980.5,
-    "totalUtilizedCr": 1012.3,
+    "totalAllocatedCr": 987.0,
+    "totalUtilizedCr": 1020.8,
     "utilizationPct": 95.2,
-    "worksRecommended": 13651,
-    "worksCompleted": 9522,
-    "completionPct": 69.8,
+    "worksRecommended": 13714,
+    "worksCompleted": 9664,
+    "completionPct": 70.5,
     "constituencies": [
       {
         "id": "araria",
@@ -250,19 +250,46 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "sikkim",
+    "state": "Sikkim",
+    "stateHi": "\u0938\u093f\u0915\u094d\u0915\u093f\u092e",
+    "type": "State",
+    "rank": 3,
+    "performanceCategory": "High",
+    "mpCount": 3,
+    "totalAllocatedCr": 39.4,
+    "totalUtilizedCr": 36.4,
+    "utilizationPct": 92.3,
+    "worksRecommended": 307,
+    "worksCompleted": 173,
+    "completionPct": 56.4,
+    "constituencies": [
+      {
+        "id": "sikkim",
+        "name": "SIKKIM",
+        "nameHi": "SIKKIM"
+      },
+      {
+        "id": "sikkim-rajya-sabha-nodal-district",
+        "name": "Sikkim (Rajya Sabha Nodal District)",
+        "nameHi": "Sikkim (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
     "slug": "arunachal-pradesh",
     "state": "Arunachal Pradesh",
     "stateHi": "\u0905\u0930\u0941\u0923\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936",
     "type": "State",
-    "rank": 3,
+    "rank": 4,
     "performanceCategory": "High",
     "mpCount": 4,
-    "totalAllocatedCr": 44.0,
-    "totalUtilizedCr": 38.6,
-    "utilizationPct": 87.7,
-    "worksRecommended": 663,
+    "totalAllocatedCr": 46.5,
+    "totalUtilizedCr": 39.9,
+    "utilizationPct": 85.7,
+    "worksRecommended": 707,
     "worksCompleted": 560,
-    "completionPct": 84.5,
+    "completionPct": 79.2,
     "constituencies": [
       {
         "id": "arunachal-east",
@@ -282,33 +309,6 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "sikkim",
-    "state": "Sikkim",
-    "stateHi": "\u0938\u093f\u0915\u094d\u0915\u093f\u092e",
-    "type": "State",
-    "rank": 4,
-    "performanceCategory": "High",
-    "mpCount": 3,
-    "totalAllocatedCr": 39.4,
-    "totalUtilizedCr": 33.7,
-    "utilizationPct": 85.7,
-    "worksRecommended": 305,
-    "worksCompleted": 173,
-    "completionPct": 56.7,
-    "constituencies": [
-      {
-        "id": "sikkim",
-        "name": "SIKKIM",
-        "nameHi": "SIKKIM"
-      },
-      {
-        "id": "sikkim-rajya-sabha-nodal-district",
-        "name": "Sikkim (Rajya Sabha Nodal District)",
-        "nameHi": "Sikkim (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
     "slug": "manipur",
     "state": "Manipur",
     "stateHi": "\u092e\u0923\u093f\u092a\u0941\u0930",
@@ -316,12 +316,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 5,
     "performanceCategory": "High",
     "mpCount": 5,
-    "totalAllocatedCr": 45.6,
-    "totalUtilizedCr": 38.0,
-    "utilizationPct": 83.4,
-    "worksRecommended": 236,
+    "totalAllocatedCr": 45.9,
+    "totalUtilizedCr": 38.5,
+    "utilizationPct": 84.0,
+    "worksRecommended": 238,
     "worksCompleted": 137,
-    "completionPct": 58.1,
+    "completionPct": 57.6,
     "constituencies": [
       {
         "id": "inner-manipur",
@@ -346,14 +346,14 @@ export const INDIA_STATES_AND_UT = [
     "stateHi": "\u092e\u0947\u0918\u093e\u0932\u092f",
     "type": "State",
     "rank": 6,
-    "performanceCategory": "High",
+    "performanceCategory": "Average",
     "mpCount": 5,
-    "totalAllocatedCr": 41.0,
-    "totalUtilizedCr": 33.0,
-    "utilizationPct": 80.5,
-    "worksRecommended": 1143,
-    "worksCompleted": 717,
-    "completionPct": 62.7,
+    "totalAllocatedCr": 42.0,
+    "totalUtilizedCr": 33.2,
+    "utilizationPct": 79.0,
+    "worksRecommended": 1164,
+    "worksCompleted": 723,
+    "completionPct": 62.1,
     "constituencies": [
       {
         "id": "meghalaya-rajya-sabha-nodal-district",
@@ -373,38 +373,11 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "mizoram",
-    "state": "Mizoram",
-    "stateHi": "\u092e\u093f\u091c\u094b\u0930\u092e",
-    "type": "State",
-    "rank": 7,
-    "performanceCategory": "Average",
-    "mpCount": 3,
-    "totalAllocatedCr": 21.6,
-    "totalUtilizedCr": 17.2,
-    "utilizationPct": 79.8,
-    "worksRecommended": 357,
-    "worksCompleted": 202,
-    "completionPct": 56.6,
-    "constituencies": [
-      {
-        "id": "mizoram-st",
-        "name": "MIZORAM (ST)",
-        "nameHi": "MIZORAM (ST)"
-      },
-      {
-        "id": "mizoram-rajya-sabha-nodal-district",
-        "name": "Mizoram (Rajya Sabha Nodal District)",
-        "nameHi": "Mizoram (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
     "slug": "lakshadweep",
     "state": "Lakshadweep",
     "stateHi": "\u0932\u0915\u094d\u0937\u0926\u094d\u0935\u0940\u092a",
     "type": "Union Territory",
-    "rank": 8,
+    "rank": 7,
     "performanceCategory": "Average",
     "mpCount": 2,
     "totalAllocatedCr": 29.7,
@@ -427,29 +400,29 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "andaman-nicobar-islands",
-    "state": "Andaman & Nicobar Islands",
-    "stateHi": "\u0905\u0902\u0921\u092e\u093e\u0928 \u0914\u0930 \u0928\u093f\u0915\u094b\u092c\u093e\u0930 \u0926\u094d\u0935\u0940\u092a \u0938\u092e\u0942\u0939",
-    "type": "Union Territory",
-    "rank": 9,
+    "slug": "mizoram",
+    "state": "Mizoram",
+    "stateHi": "\u092e\u093f\u091c\u094b\u0930\u092e",
+    "type": "State",
+    "rank": 8,
     "performanceCategory": "Average",
-    "mpCount": 2,
-    "totalAllocatedCr": 16.9,
-    "totalUtilizedCr": 12.6,
-    "utilizationPct": 74.9,
-    "worksRecommended": 71,
-    "worksCompleted": 20,
-    "completionPct": 28.2,
+    "mpCount": 3,
+    "totalAllocatedCr": 22.9,
+    "totalUtilizedCr": 17.9,
+    "utilizationPct": 78.2,
+    "worksRecommended": 378,
+    "worksCompleted": 202,
+    "completionPct": 53.4,
     "constituencies": [
       {
-        "id": "andaman-and-nicobar-islands",
-        "name": "ANDAMAN AND NICOBAR ISLANDS",
-        "nameHi": "ANDAMAN AND NICOBAR ISLANDS"
+        "id": "mizoram-st",
+        "name": "MIZORAM (ST)",
+        "nameHi": "MIZORAM (ST)"
       },
       {
-        "id": "andaman-and-nicobar-islands-rajya-sabha-nodal-district",
-        "name": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)",
-        "nameHi": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)"
+        "id": "mizoram-rajya-sabha-nodal-district",
+        "name": "Mizoram (Rajya Sabha Nodal District)",
+        "nameHi": "Mizoram (Rajya Sabha Nodal District)"
       }
     ]
   },
@@ -458,15 +431,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Uttar Pradesh",
     "stateHi": "\u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
     "type": "State",
-    "rank": 10,
+    "rank": 9,
     "performanceCategory": "Average",
     "mpCount": 192,
-    "totalAllocatedCr": 2048.9,
-    "totalUtilizedCr": 1526.1,
-    "utilizationPct": 74.5,
-    "worksRecommended": 42448,
-    "worksCompleted": 23104,
-    "completionPct": 54.4,
+    "totalAllocatedCr": 2108.6,
+    "totalUtilizedCr": 1553.8,
+    "utilizationPct": 73.7,
+    "worksRecommended": 43134,
+    "worksCompleted": 23191,
+    "completionPct": 53.8,
     "constituencies": [
       {
         "id": "agra-sc",
@@ -880,15 +853,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Tamil Nadu",
     "stateHi": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941",
     "type": "State",
-    "rank": 11,
+    "rank": 10,
     "performanceCategory": "Average",
     "mpCount": 95,
-    "totalAllocatedCr": 1003.4,
-    "totalUtilizedCr": 730.7,
-    "utilizationPct": 72.8,
-    "worksRecommended": 11746,
-    "worksCompleted": 7787,
-    "completionPct": 66.3,
+    "totalAllocatedCr": 1022.1,
+    "totalUtilizedCr": 747.0,
+    "utilizationPct": 73.1,
+    "worksRecommended": 12018,
+    "worksCompleted": 7815,
+    "completionPct": 65.0,
     "constituencies": [
       {
         "id": "arakkonam",
@@ -1097,15 +1070,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Chhattisgarh",
     "stateHi": "\u091b\u0924\u094d\u0924\u0940\u0938\u0917\u0922\u093c",
     "type": "State",
-    "rank": 12,
+    "rank": 11,
     "performanceCategory": "Average",
     "mpCount": 27,
-    "totalAllocatedCr": 238.2,
-    "totalUtilizedCr": 170.9,
-    "utilizationPct": 71.8,
-    "worksRecommended": 4552,
-    "worksCompleted": 2456,
-    "completionPct": 54.0,
+    "totalAllocatedCr": 243.1,
+    "totalUtilizedCr": 175.9,
+    "utilizationPct": 72.4,
+    "worksRecommended": 4611,
+    "worksCompleted": 2466,
+    "completionPct": 53.5,
     "constituencies": [
       {
         "id": "bastar-st",
@@ -1170,6 +1143,33 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "andaman-nicobar-islands",
+    "state": "Andaman & Nicobar Islands",
+    "stateHi": "\u0905\u0902\u0921\u092e\u093e\u0928 \u0914\u0930 \u0928\u093f\u0915\u094b\u092c\u093e\u0930 \u0926\u094d\u0935\u0940\u092a \u0938\u092e\u0942\u0939",
+    "type": "Union Territory",
+    "rank": 12,
+    "performanceCategory": "Average",
+    "mpCount": 2,
+    "totalAllocatedCr": 18.1,
+    "totalUtilizedCr": 12.7,
+    "utilizationPct": 70.4,
+    "worksRecommended": 75,
+    "worksCompleted": 20,
+    "completionPct": 26.7,
+    "constituencies": [
+      {
+        "id": "andaman-and-nicobar-islands",
+        "name": "ANDAMAN AND NICOBAR ISLANDS",
+        "nameHi": "ANDAMAN AND NICOBAR ISLANDS"
+      },
+      {
+        "id": "andaman-and-nicobar-islands-rajya-sabha-nodal-district",
+        "name": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)",
+        "nameHi": "Andaman And Nicobar Islands (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
     "slug": "madhya-pradesh",
     "state": "Madhya Pradesh",
     "stateHi": "\u092e\u0927\u094d\u092f \u092a\u094d\u0930\u0926\u0947\u0936",
@@ -1177,12 +1177,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 13,
     "performanceCategory": "Needs Improvement",
     "mpCount": 67,
-    "totalAllocatedCr": 650.1,
-    "totalUtilizedCr": 447.8,
-    "utilizationPct": 68.9,
-    "worksRecommended": 17326,
-    "worksCompleted": 7431,
-    "completionPct": 42.9,
+    "totalAllocatedCr": 663.1,
+    "totalUtilizedCr": 458.7,
+    "utilizationPct": 69.2,
+    "worksRecommended": 17609,
+    "worksCompleted": 7501,
+    "completionPct": 42.6,
     "constituencies": [
       {
         "id": "balaghat",
@@ -1344,12 +1344,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 14,
     "performanceCategory": "Needs Improvement",
     "mpCount": 11,
-    "totalAllocatedCr": 109.2,
-    "totalUtilizedCr": 74.9,
-    "utilizationPct": 68.6,
-    "worksRecommended": 4558,
-    "worksCompleted": 1605,
-    "completionPct": 35.2,
+    "totalAllocatedCr": 111.0,
+    "totalUtilizedCr": 76.2,
+    "utilizationPct": 68.7,
+    "worksRecommended": 4653,
+    "worksCompleted": 1621,
+    "completionPct": 34.8,
     "constituencies": [
       {
         "id": "hamirpur-hp",
@@ -1386,12 +1386,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 15,
     "performanceCategory": "Needs Improvement",
     "mpCount": 32,
-    "totalAllocatedCr": 332.3,
-    "totalUtilizedCr": 227.2,
-    "utilizationPct": 68.4,
-    "worksRecommended": 8780,
-    "worksCompleted": 2599,
-    "completionPct": 29.6,
+    "totalAllocatedCr": 338.6,
+    "totalUtilizedCr": 228.1,
+    "utilizationPct": 67.4,
+    "worksRecommended": 9020,
+    "worksCompleted": 2616,
+    "completionPct": 29.0,
     "constituencies": [
       {
         "id": "chatra",
@@ -1471,51 +1471,19 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "tripura",
-    "state": "Tripura",
-    "stateHi": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e",
-    "type": "State",
-    "rank": 16,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 5,
-    "totalAllocatedCr": 52.8,
-    "totalUtilizedCr": 34.2,
-    "utilizationPct": 64.8,
-    "worksRecommended": 363,
-    "worksCompleted": 227,
-    "completionPct": 62.5,
-    "constituencies": [
-      {
-        "id": "tripura-east-st",
-        "name": "TRIPURA EAST(ST)",
-        "nameHi": "TRIPURA EAST(ST)"
-      },
-      {
-        "id": "tripura-west",
-        "name": "TRIPURA WEST",
-        "nameHi": "TRIPURA WEST"
-      },
-      {
-        "id": "tripura-rajya-sabha-nodal-district",
-        "name": "Tripura (Rajya Sabha Nodal District)",
-        "nameHi": "Tripura (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
     "slug": "rajasthan",
     "state": "Rajasthan",
     "stateHi": "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928",
     "type": "State",
-    "rank": 17,
+    "rank": 16,
     "performanceCategory": "Needs Improvement",
     "mpCount": 57,
-    "totalAllocatedCr": 521.2,
-    "totalUtilizedCr": 335.5,
-    "utilizationPct": 64.4,
-    "worksRecommended": 8699,
-    "worksCompleted": 4506,
-    "completionPct": 51.8,
+    "totalAllocatedCr": 522.1,
+    "totalUtilizedCr": 340.1,
+    "utilizationPct": 65.1,
+    "worksRecommended": 8707,
+    "worksCompleted": 4525,
+    "completionPct": 52.0,
     "constituencies": [
       {
         "id": "ajmer",
@@ -1650,6 +1618,38 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "tripura",
+    "state": "Tripura",
+    "stateHi": "\u0924\u094d\u0930\u093f\u092a\u0941\u0930\u093e",
+    "type": "State",
+    "rank": 17,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 5,
+    "totalAllocatedCr": 53.2,
+    "totalUtilizedCr": 34.4,
+    "utilizationPct": 64.6,
+    "worksRecommended": 365,
+    "worksCompleted": 227,
+    "completionPct": 62.2,
+    "constituencies": [
+      {
+        "id": "tripura-east-st",
+        "name": "TRIPURA EAST(ST)",
+        "nameHi": "TRIPURA EAST(ST)"
+      },
+      {
+        "id": "tripura-west",
+        "name": "TRIPURA WEST",
+        "nameHi": "TRIPURA WEST"
+      },
+      {
+        "id": "tripura-rajya-sabha-nodal-district",
+        "name": "Tripura (Rajya Sabha Nodal District)",
+        "nameHi": "Tripura (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
     "slug": "west-bengal",
     "state": "West Bengal",
     "stateHi": "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932",
@@ -1657,12 +1657,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 18,
     "performanceCategory": "Needs Improvement",
     "mpCount": 95,
-    "totalAllocatedCr": 893.1,
-    "totalUtilizedCr": 566.7,
-    "utilizationPct": 63.5,
-    "worksRecommended": 12294,
-    "worksCompleted": 7376,
-    "completionPct": 60.0,
+    "totalAllocatedCr": 904.9,
+    "totalUtilizedCr": 572.6,
+    "utilizationPct": 63.3,
+    "worksRecommended": 12398,
+    "worksCompleted": 7416,
+    "completionPct": 59.8,
     "constituencies": [
       {
         "id": "alipurduars-st",
@@ -1882,65 +1882,18 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "uttarakhand",
-    "state": "Uttarakhand",
-    "stateHi": "\u0909\u0924\u094d\u0924\u0930\u093e\u0916\u0902\u0921",
-    "type": "State",
-    "rank": 19,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 13,
-    "totalAllocatedCr": 135.4,
-    "totalUtilizedCr": 83.8,
-    "utilizationPct": 61.9,
-    "worksRecommended": 4183,
-    "worksCompleted": 2278,
-    "completionPct": 54.5,
-    "constituencies": [
-      {
-        "id": "almora-sc",
-        "name": "ALMORA(SC)",
-        "nameHi": "ALMORA(SC)"
-      },
-      {
-        "id": "garhwal",
-        "name": "GARHWAL",
-        "nameHi": "GARHWAL"
-      },
-      {
-        "id": "hardwar",
-        "name": "HARDWAR",
-        "nameHi": "HARDWAR"
-      },
-      {
-        "id": "nainital-udham-singh-nag",
-        "name": "NAINITAL UDHAM SINGH NAG.",
-        "nameHi": "NAINITAL UDHAM SINGH NAG."
-      },
-      {
-        "id": "tehri-garhwal",
-        "name": "TEHRI GARHWAL",
-        "nameHi": "TEHRI GARHWAL"
-      },
-      {
-        "id": "uttarakhand-rajya-sabha-nodal-district",
-        "name": "Uttarakhand (Rajya Sabha Nodal District)",
-        "nameHi": "Uttarakhand (Rajya Sabha Nodal District)"
-      }
-    ]
-  },
-  {
     "slug": "assam",
     "state": "Assam",
     "stateHi": "\u0905\u0938\u092e",
     "type": "State",
-    "rank": 20,
+    "rank": 19,
     "performanceCategory": "Needs Improvement",
     "mpCount": 34,
-    "totalAllocatedCr": 310.0,
-    "totalUtilizedCr": 191.9,
-    "utilizationPct": 61.9,
-    "worksRecommended": 4664,
-    "worksCompleted": 1007,
+    "totalAllocatedCr": 314.0,
+    "totalUtilizedCr": 196.9,
+    "utilizationPct": 62.7,
+    "worksRecommended": 4719,
+    "worksCompleted": 1019,
     "completionPct": 21.6,
     "constituencies": [
       {
@@ -2025,15 +1978,15 @@ export const INDIA_STATES_AND_UT = [
     "state": "Punjab",
     "stateHi": "\u092a\u0902\u091c\u093e\u092c",
     "type": "State",
-    "rank": 21,
+    "rank": 20,
     "performanceCategory": "Needs Improvement",
     "mpCount": 18,
-    "totalAllocatedCr": 241.8,
-    "totalUtilizedCr": 147.8,
-    "utilizationPct": 61.1,
-    "worksRecommended": 5882,
-    "worksCompleted": 2179,
-    "completionPct": 37.0,
+    "totalAllocatedCr": 249.8,
+    "totalUtilizedCr": 153.1,
+    "utilizationPct": 61.3,
+    "worksRecommended": 6207,
+    "worksCompleted": 2194,
+    "completionPct": 35.3,
     "constituencies": [
       {
         "id": "amritsar",
@@ -2108,6 +2061,53 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "uttarakhand",
+    "state": "Uttarakhand",
+    "stateHi": "\u0909\u0924\u094d\u0924\u0930\u093e\u0916\u0902\u0921",
+    "type": "State",
+    "rank": 21,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 13,
+    "totalAllocatedCr": 140.9,
+    "totalUtilizedCr": 85.9,
+    "utilizationPct": 61.0,
+    "worksRecommended": 4267,
+    "worksCompleted": 2287,
+    "completionPct": 53.6,
+    "constituencies": [
+      {
+        "id": "almora-sc",
+        "name": "ALMORA(SC)",
+        "nameHi": "ALMORA(SC)"
+      },
+      {
+        "id": "garhwal",
+        "name": "GARHWAL",
+        "nameHi": "GARHWAL"
+      },
+      {
+        "id": "hardwar",
+        "name": "HARDWAR",
+        "nameHi": "HARDWAR"
+      },
+      {
+        "id": "nainital-udham-singh-nag",
+        "name": "NAINITAL UDHAM SINGH NAG.",
+        "nameHi": "NAINITAL UDHAM SINGH NAG."
+      },
+      {
+        "id": "tehri-garhwal",
+        "name": "TEHRI GARHWAL",
+        "nameHi": "TEHRI GARHWAL"
+      },
+      {
+        "id": "uttarakhand-rajya-sabha-nodal-district",
+        "name": "Uttarakhand (Rajya Sabha Nodal District)",
+        "nameHi": "Uttarakhand (Rajya Sabha Nodal District)"
+      }
+    ]
+  },
+  {
     "slug": "chandigarh",
     "state": "Chandigarh",
     "stateHi": "\u091a\u0902\u0921\u0940\u0917\u0922\u093c",
@@ -2115,12 +2115,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 22,
     "performanceCategory": "Needs Improvement",
     "mpCount": 3,
-    "totalAllocatedCr": 15.9,
+    "totalAllocatedCr": 16.1,
     "totalUtilizedCr": 9.6,
-    "utilizationPct": 60.5,
-    "worksRecommended": 175,
+    "utilizationPct": 59.7,
+    "worksRecommended": 177,
     "worksCompleted": 78,
-    "completionPct": 44.6,
+    "completionPct": 44.1,
     "constituencies": [
       {
         "id": "chandigarh",
@@ -2142,12 +2142,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 23,
     "performanceCategory": "Needs Improvement",
     "mpCount": 68,
-    "totalAllocatedCr": 677.4,
-    "totalUtilizedCr": 402.3,
-    "utilizationPct": 59.4,
-    "worksRecommended": 11243,
-    "worksCompleted": 4253,
-    "completionPct": 37.8,
+    "totalAllocatedCr": 694.1,
+    "totalUtilizedCr": 408.8,
+    "utilizationPct": 58.9,
+    "worksRecommended": 11523,
+    "worksCompleted": 4332,
+    "completionPct": 37.6,
     "constituencies": [
       {
         "id": "bagalkot",
@@ -2304,12 +2304,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 24,
     "performanceCategory": "Needs Improvement",
     "mpCount": 62,
-    "totalAllocatedCr": 601.8,
-    "totalUtilizedCr": 338.1,
-    "utilizationPct": 56.2,
-    "worksRecommended": 8749,
-    "worksCompleted": 4589,
-    "completionPct": 52.5,
+    "totalAllocatedCr": 602.3,
+    "totalUtilizedCr": 342.2,
+    "utilizationPct": 56.8,
+    "worksRecommended": 8761,
+    "worksCompleted": 4633,
+    "completionPct": 52.9,
     "constituencies": [
       {
         "id": "amalapuram-sc",
@@ -2451,12 +2451,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 25,
     "performanceCategory": "Needs Improvement",
     "mpCount": 108,
-    "totalAllocatedCr": 1035.8,
-    "totalUtilizedCr": 574.8,
-    "utilizationPct": 55.5,
-    "worksRecommended": 11811,
-    "worksCompleted": 5805,
-    "completionPct": 49.1,
+    "totalAllocatedCr": 1048.5,
+    "totalUtilizedCr": 590.0,
+    "utilizationPct": 56.3,
+    "worksRecommended": 11914,
+    "worksCompleted": 5816,
+    "completionPct": 48.8,
     "constituencies": [
       {
         "id": "ahmednagar",
@@ -2713,12 +2713,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 26,
     "performanceCategory": "Needs Improvement",
     "mpCount": 59,
-    "totalAllocatedCr": 595.7,
-    "totalUtilizedCr": 323.7,
-    "utilizationPct": 54.3,
-    "worksRecommended": 17007,
-    "worksCompleted": 8948,
-    "completionPct": 52.6,
+    "totalAllocatedCr": 611.8,
+    "totalUtilizedCr": 342.6,
+    "utilizationPct": 56.0,
+    "worksRecommended": 17397,
+    "worksCompleted": 9043,
+    "completionPct": 52.0,
     "constituencies": [
       {
         "id": "ahmedabad-east",
@@ -2858,19 +2858,91 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "haryana",
+    "state": "Haryana",
+    "stateHi": "\u0939\u0930\u093f\u092f\u093e\u0923\u093e",
+    "type": "State",
+    "rank": 27,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 24,
+    "totalAllocatedCr": 214.6,
+    "totalUtilizedCr": 114.0,
+    "utilizationPct": 53.1,
+    "worksRecommended": 4022,
+    "worksCompleted": 1426,
+    "completionPct": 35.5,
+    "constituencies": [
+      {
+        "id": "ambala-sc",
+        "name": "AMBALA (SC)",
+        "nameHi": "AMBALA (SC)"
+      },
+      {
+        "id": "bhiwani-mahendragarh",
+        "name": "BHIWANI MAHENDRAGARH",
+        "nameHi": "BHIWANI MAHENDRAGARH"
+      },
+      {
+        "id": "faridabad",
+        "name": "FARIDABAD",
+        "nameHi": "FARIDABAD"
+      },
+      {
+        "id": "gurgaon",
+        "name": "GURGAON",
+        "nameHi": "GURGAON"
+      },
+      {
+        "id": "hisar",
+        "name": "HISAR",
+        "nameHi": "HISAR"
+      },
+      {
+        "id": "haryana-rajya-sabha-nodal-district",
+        "name": "Haryana (Rajya Sabha Nodal District)",
+        "nameHi": "Haryana (Rajya Sabha Nodal District)"
+      },
+      {
+        "id": "karnal",
+        "name": "KARNAL",
+        "nameHi": "KARNAL"
+      },
+      {
+        "id": "kurukshetra",
+        "name": "KURUKSHETRA",
+        "nameHi": "KURUKSHETRA"
+      },
+      {
+        "id": "rohtak",
+        "name": "ROHTAK",
+        "nameHi": "ROHTAK"
+      },
+      {
+        "id": "sirsa-sc",
+        "name": "SIRSA(SC)",
+        "nameHi": "SIRSA(SC)"
+      },
+      {
+        "id": "sonepat",
+        "name": "SONEPAT",
+        "nameHi": "SONEPAT"
+      }
+    ]
+  },
+  {
     "slug": "telangana",
     "state": "Telangana",
     "stateHi": "\u0924\u0947\u0932\u0902\u0917\u093e\u0928\u093e",
     "type": "State",
-    "rank": 27,
+    "rank": 28,
     "performanceCategory": "Needs Improvement",
     "mpCount": 40,
-    "totalAllocatedCr": 444.5,
-    "totalUtilizedCr": 233.1,
+    "totalAllocatedCr": 453.8,
+    "totalUtilizedCr": 237.7,
     "utilizationPct": 52.4,
-    "worksRecommended": 10961,
-    "worksCompleted": 5362,
-    "completionPct": 48.9,
+    "worksRecommended": 11209,
+    "worksCompleted": 5366,
+    "completionPct": 47.9,
     "constituencies": [
       {
         "id": "adilabad-st",
@@ -2965,78 +3037,6 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "haryana",
-    "state": "Haryana",
-    "stateHi": "\u0939\u0930\u093f\u092f\u093e\u0923\u093e",
-    "type": "State",
-    "rank": 28,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 24,
-    "totalAllocatedCr": 211.6,
-    "totalUtilizedCr": 110.8,
-    "utilizationPct": 52.4,
-    "worksRecommended": 3981,
-    "worksCompleted": 1410,
-    "completionPct": 35.4,
-    "constituencies": [
-      {
-        "id": "ambala-sc",
-        "name": "AMBALA (SC)",
-        "nameHi": "AMBALA (SC)"
-      },
-      {
-        "id": "bhiwani-mahendragarh",
-        "name": "BHIWANI MAHENDRAGARH",
-        "nameHi": "BHIWANI MAHENDRAGARH"
-      },
-      {
-        "id": "faridabad",
-        "name": "FARIDABAD",
-        "nameHi": "FARIDABAD"
-      },
-      {
-        "id": "gurgaon",
-        "name": "GURGAON",
-        "nameHi": "GURGAON"
-      },
-      {
-        "id": "hisar",
-        "name": "HISAR",
-        "nameHi": "HISAR"
-      },
-      {
-        "id": "haryana-rajya-sabha-nodal-district",
-        "name": "Haryana (Rajya Sabha Nodal District)",
-        "nameHi": "Haryana (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "karnal",
-        "name": "KARNAL",
-        "nameHi": "KARNAL"
-      },
-      {
-        "id": "kurukshetra",
-        "name": "KURUKSHETRA",
-        "nameHi": "KURUKSHETRA"
-      },
-      {
-        "id": "rohtak",
-        "name": "ROHTAK",
-        "nameHi": "ROHTAK"
-      },
-      {
-        "id": "sirsa-sc",
-        "name": "SIRSA(SC)",
-        "nameHi": "SIRSA(SC)"
-      },
-      {
-        "id": "sonepat",
-        "name": "SONEPAT",
-        "nameHi": "SONEPAT"
-      }
-    ]
-  },
-  {
     "slug": "delhi",
     "state": "Delhi",
     "stateHi": "\u0926\u093f\u0932\u094d\u0932\u0940",
@@ -3044,12 +3044,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 29,
     "performanceCategory": "Needs Improvement",
     "mpCount": 18,
-    "totalAllocatedCr": 158.3,
-    "totalUtilizedCr": 76.0,
-    "utilizationPct": 48.0,
-    "worksRecommended": 1370,
-    "worksCompleted": 710,
-    "completionPct": 51.8,
+    "totalAllocatedCr": 159.6,
+    "totalUtilizedCr": 79.3,
+    "utilizationPct": 49.7,
+    "worksRecommended": 1383,
+    "worksCompleted": 731,
+    "completionPct": 52.9,
     "constituencies": [
       {
         "id": "chandini-chowk",
@@ -3094,19 +3094,66 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
+    "slug": "jammu-kashmir",
+    "state": "Jammu & Kashmir",
+    "stateHi": "\u091c\u092e\u094d\u092e\u0942 \u0914\u0930 \u0915\u0936\u094d\u092e\u0940\u0930",
+    "type": "Union Territory",
+    "rank": 30,
+    "performanceCategory": "Needs Improvement",
+    "mpCount": 13,
+    "totalAllocatedCr": 116.1,
+    "totalUtilizedCr": 52.5,
+    "utilizationPct": 45.2,
+    "worksRecommended": 2514,
+    "worksCompleted": 1274,
+    "completionPct": 50.7,
+    "constituencies": [
+      {
+        "id": "anantnag",
+        "name": "ANANTNAG",
+        "nameHi": "ANANTNAG"
+      },
+      {
+        "id": "baramullah",
+        "name": "BARAMULLAH",
+        "nameHi": "BARAMULLAH"
+      },
+      {
+        "id": "jammu",
+        "name": "JAMMU",
+        "nameHi": "JAMMU"
+      },
+      {
+        "id": "jammu-and-kashmir-rajya-sabha-nodal-district",
+        "name": "Jammu And Kashmir (Rajya Sabha Nodal District)",
+        "nameHi": "Jammu And Kashmir (Rajya Sabha Nodal District)"
+      },
+      {
+        "id": "srinagar",
+        "name": "SRINAGAR",
+        "nameHi": "SRINAGAR"
+      },
+      {
+        "id": "udhampur",
+        "name": "UDHAMPUR",
+        "nameHi": "UDHAMPUR"
+      }
+    ]
+  },
+  {
     "slug": "kerala",
     "state": "Kerala",
     "stateHi": "\u0915\u0947\u0930\u0932",
     "type": "State",
-    "rank": 30,
+    "rank": 31,
     "performanceCategory": "Needs Improvement",
     "mpCount": 51,
-    "totalAllocatedCr": 598.2,
-    "totalUtilizedCr": 273.1,
-    "utilizationPct": 45.6,
-    "worksRecommended": 9469,
-    "worksCompleted": 4415,
-    "completionPct": 46.6,
+    "totalAllocatedCr": 613.2,
+    "totalUtilizedCr": 277.3,
+    "utilizationPct": 45.2,
+    "worksRecommended": 9665,
+    "worksCompleted": 4477,
+    "completionPct": 46.3,
     "constituencies": [
       {
         "id": "alappuzha",
@@ -3216,53 +3263,6 @@ export const INDIA_STATES_AND_UT = [
     ]
   },
   {
-    "slug": "jammu-kashmir",
-    "state": "Jammu & Kashmir",
-    "stateHi": "\u091c\u092e\u094d\u092e\u0942 \u0914\u0930 \u0915\u0936\u094d\u092e\u0940\u0930",
-    "type": "Union Territory",
-    "rank": 31,
-    "performanceCategory": "Needs Improvement",
-    "mpCount": 13,
-    "totalAllocatedCr": 113.9,
-    "totalUtilizedCr": 51.0,
-    "utilizationPct": 44.8,
-    "worksRecommended": 2450,
-    "worksCompleted": 1269,
-    "completionPct": 51.8,
-    "constituencies": [
-      {
-        "id": "anantnag",
-        "name": "ANANTNAG",
-        "nameHi": "ANANTNAG"
-      },
-      {
-        "id": "baramullah",
-        "name": "BARAMULLAH",
-        "nameHi": "BARAMULLAH"
-      },
-      {
-        "id": "jammu",
-        "name": "JAMMU",
-        "nameHi": "JAMMU"
-      },
-      {
-        "id": "jammu-and-kashmir-rajya-sabha-nodal-district",
-        "name": "Jammu And Kashmir (Rajya Sabha Nodal District)",
-        "nameHi": "Jammu And Kashmir (Rajya Sabha Nodal District)"
-      },
-      {
-        "id": "srinagar",
-        "name": "SRINAGAR",
-        "nameHi": "SRINAGAR"
-      },
-      {
-        "id": "udhampur",
-        "name": "UDHAMPUR",
-        "nameHi": "UDHAMPUR"
-      }
-    ]
-  },
-  {
     "slug": "puducherry",
     "state": "Puducherry",
     "stateHi": "\u092a\u0941\u0921\u0941\u091a\u0947\u0930\u0940",
@@ -3270,12 +3270,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 32,
     "performanceCategory": "Needs Improvement",
     "mpCount": 3,
-    "totalAllocatedCr": 51.8,
-    "totalUtilizedCr": 22.1,
-    "utilizationPct": 42.7,
-    "worksRecommended": 258,
+    "totalAllocatedCr": 52.8,
+    "totalUtilizedCr": 23.5,
+    "utilizationPct": 44.6,
+    "worksRecommended": 260,
     "worksCompleted": 92,
-    "completionPct": 35.7,
+    "completionPct": 35.4,
     "constituencies": [
       {
         "id": "puducherry",
@@ -3297,12 +3297,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 33,
     "performanceCategory": "Needs Improvement",
     "mpCount": 51,
-    "totalAllocatedCr": 475.0,
-    "totalUtilizedCr": 202.0,
-    "utilizationPct": 42.5,
-    "worksRecommended": 13379,
-    "worksCompleted": 4801,
-    "completionPct": 35.9,
+    "totalAllocatedCr": 484.0,
+    "totalUtilizedCr": 210.0,
+    "utilizationPct": 43.4,
+    "worksRecommended": 13593,
+    "worksCompleted": 4839,
+    "completionPct": 35.6,
     "constituencies": [
       {
         "id": "aska",
@@ -3424,12 +3424,12 @@ export const INDIA_STATES_AND_UT = [
     "rank": 34,
     "performanceCategory": "Needs Improvement",
     "mpCount": 5,
-    "totalAllocatedCr": 59.9,
-    "totalUtilizedCr": 24.8,
-    "utilizationPct": 41.4,
-    "worksRecommended": 427,
+    "totalAllocatedCr": 60.1,
+    "totalUtilizedCr": 25.6,
+    "utilizationPct": 42.7,
+    "worksRecommended": 430,
     "worksCompleted": 122,
-    "completionPct": 28.6,
+    "completionPct": 28.4,
     "constituencies": [
       {
         "id": "goa-rajya-sabha-nodal-district",
@@ -3457,11 +3457,11 @@ export const INDIA_STATES_AND_UT = [
     "performanceCategory": "Needs Improvement",
     "mpCount": 2,
     "totalAllocatedCr": 14.6,
-    "totalUtilizedCr": 1.6,
-    "utilizationPct": 11.1,
+    "totalUtilizedCr": 1.8,
+    "utilizationPct": 12.4,
     "worksRecommended": 225,
-    "worksCompleted": 6,
-    "completionPct": 2.7,
+    "worksCompleted": 7,
+    "completionPct": 3.1,
     "constituencies": [
       {
         "id": "ladakh",
@@ -3484,11 +3484,11 @@ export const INDIA_STATES_AND_UT = [
     "performanceCategory": "Needs Improvement",
     "mpCount": 2,
     "totalAllocatedCr": 25.4,
-    "totalUtilizedCr": 0.3,
-    "utilizationPct": 1.0,
+    "totalUtilizedCr": 1.0,
+    "utilizationPct": 3.8,
     "worksRecommended": 64,
-    "worksCompleted": 1,
-    "completionPct": 1.6,
+    "worksCompleted": 2,
+    "completionPct": 3.1,
     "constituencies": [
       {
         "id": "dadra-nagar-haveli-st",

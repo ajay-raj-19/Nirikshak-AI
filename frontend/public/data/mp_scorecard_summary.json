@@ -62,7 +62,7 @@
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 0,
-    "total_works": 9,
+    "total_works": 11,
     "composite_integrity_score": 100.0
   },
   {
@@ -110,39 +110,6 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3059272,
-    "mp_name": "Shri I.S. Inbadurai (2025-31)",
-    "state_name": "Tamil Nadu",
-    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 111.75,
-    "is_anomaly": 0,
-    "total_works": 98,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3059268,
-    "mp_name": "Shri Akhilesh Yadav (EX17LS)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": 0.0,
-    "completion_delay_days": null,
-    "is_anomaly": 0,
-    "total_works": 3,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3052343,
-    "mp_name": "Ravindra Vasantrao Chavan",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 0,
-    "total_works": 155,
-    "composite_integrity_score": 100.0
-  },
-  {
     "mp_id": 3018388,
     "mp_name": "Sadashiv Kisan Lokhande",
     "state_name": "Maharashtra",
@@ -154,17 +121,6 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3019001,
-    "mp_name": "Vinod Chavda",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
-    "utilization_rate": null,
-    "completion_delay_days": 315.3333333333333,
-    "is_anomaly": 0,
-    "total_works": 372,
-    "composite_integrity_score": 100.0
-  },
-  {
     "mp_id": 3018353,
     "mp_name": "Ashok Kumar Yadav ",
     "state_name": "Bihar",
@@ -173,6 +129,17 @@
     "completion_delay_days": 115.0,
     "is_anomaly": 0,
     "total_works": 288,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3019001,
+    "mp_name": "Vinod Chavda",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
+    "utilization_rate": null,
+    "completion_delay_days": 315.3333333333333,
+    "is_anomaly": 0,
+    "total_works": 372,
     "composite_integrity_score": 100.0
   },
   {
@@ -228,17 +195,6 @@
     "completion_delay_days": 12.5125,
     "is_anomaly": 0,
     "total_works": 165,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3043223,
-    "mp_name": "NALIN SOREN",
-    "state_name": "Jharkhand",
-    "const_name": "HAZARIBAGH",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 0,
-    "total_works": 425,
     "composite_integrity_score": 100.0
   },
   {
@@ -341,25 +297,14 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3042525,
-    "mp_name": "IMRAN MASOOD",
+    "mp_id": 3043720,
+    "mp_name": "KANWAR SINGH TANWAR",
     "state_name": "Uttar Pradesh",
     "const_name": "ALIGARH",
     "utilization_rate": null,
-    "completion_delay_days": null,
+    "completion_delay_days": 210.8,
     "is_anomaly": 0,
-    "total_works": 115,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3042527,
-    "mp_name": "ZIA UR REHMAN",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 87.0,
-    "is_anomaly": 0,
-    "total_works": 325,
+    "total_works": 125,
     "composite_integrity_score": 100.0
   },
   {
@@ -390,7 +335,7 @@
     "state_name": "Odisha",
     "const_name": "Odisha (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 229.4,
+    "completion_delay_days": 228.54545454545453,
     "is_anomaly": 0,
     "total_works": 268,
     "composite_integrity_score": 100.0
@@ -414,7 +359,18 @@
     "utilization_rate": null,
     "completion_delay_days": 224.5,
     "is_anomaly": 0,
-    "total_works": 144,
+    "total_works": 145,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3043223,
+    "mp_name": "NALIN SOREN",
+    "state_name": "Jharkhand",
+    "const_name": "HAZARIBAGH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 0,
+    "total_works": 425,
     "composite_integrity_score": 100.0
   },
   {
@@ -491,7 +447,7 @@
     "utilization_rate": null,
     "completion_delay_days": 77.0,
     "is_anomaly": 0,
-    "total_works": 219,
+    "total_works": 220,
     "composite_integrity_score": 100.0
   },
   {
@@ -513,7 +469,7 @@
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 0,
-    "total_works": 68,
+    "total_works": 69,
     "composite_integrity_score": 100.0
   },
   {
@@ -547,28 +503,6 @@
     "completion_delay_days": 16.467391304347824,
     "is_anomaly": 0,
     "total_works": 105,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3042498,
-    "mp_name": "CHANDAN CHAUHAN",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 259.0,
-    "is_anomaly": 0,
-    "total_works": 140,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3042502,
-    "mp_name": "DEVESH SHAKYA",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 296.75,
-    "is_anomaly": 0,
-    "total_works": 339,
     "composite_integrity_score": 100.0
   },
   {
@@ -634,7 +568,7 @@
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 0,
-    "total_works": 286,
+    "total_works": 287,
     "composite_integrity_score": 100.0
   },
   {
@@ -645,7 +579,29 @@
     "utilization_rate": null,
     "completion_delay_days": 215.64705882352942,
     "is_anomaly": 0,
-    "total_works": 677,
+    "total_works": 696,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3042525,
+    "mp_name": "IMRAN MASOOD",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 0,
+    "total_works": 115,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3042527,
+    "mp_name": "ZIA UR REHMAN",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 87.0,
+    "is_anomaly": 0,
+    "total_works": 325,
     "composite_integrity_score": 100.0
   },
   {
@@ -731,7 +687,7 @@
     "state_name": "Tamil Nadu",
     "const_name": "TIRUNELVELI",
     "utilization_rate": null,
-    "completion_delay_days": 26.0,
+    "completion_delay_days": 14.5,
     "is_anomaly": 0,
     "total_works": 81,
     "composite_integrity_score": 100.0
@@ -803,6 +759,28 @@
     "composite_integrity_score": 100.0
   },
   {
+    "mp_id": 3042498,
+    "mp_name": "CHANDAN CHAUHAN",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 259.0,
+    "is_anomaly": 0,
+    "total_works": 140,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3042502,
+    "mp_name": "DEVESH SHAKYA",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 296.75,
+    "is_anomaly": 0,
+    "total_works": 339,
+    "composite_integrity_score": 100.0
+  },
+  {
     "mp_id": 3019171,
     "mp_name": "Anumula Revanth Reddy(17th Lok Sabha)",
     "state_name": "Telangana",
@@ -847,6 +825,17 @@
     "composite_integrity_score": 100.0
   },
   {
+    "mp_id": 3017483,
+    "mp_name": "Shri Jyotirmay Singh Mahato ",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": null,
+    "completion_delay_days": 206.07142857142858,
+    "is_anomaly": 0,
+    "total_works": 107,
+    "composite_integrity_score": 100.0
+  },
+  {
     "mp_id": 3019203,
     "mp_name": "Kirti Vardhan Singh",
     "state_name": "Uttar Pradesh",
@@ -854,7 +843,7 @@
     "utilization_rate": null,
     "completion_delay_days": 306.2,
     "is_anomaly": 0,
-    "total_works": 164,
+    "total_works": 198,
     "composite_integrity_score": 100.0
   },
   {
@@ -866,17 +855,6 @@
     "completion_delay_days": null,
     "is_anomaly": 0,
     "total_works": 306,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3017483,
-    "mp_name": "Shri Jyotirmay Singh Mahato ",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 202.72,
-    "is_anomaly": 0,
-    "total_works": 107,
     "composite_integrity_score": 100.0
   },
   {
@@ -910,17 +888,6 @@
     "completion_delay_days": null,
     "is_anomaly": 0,
     "total_works": 1360,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3042421,
-    "mp_name": "AMAR SHARADRAO KALE",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 0,
-    "total_works": 112,
     "composite_integrity_score": 100.0
   },
   {
@@ -968,17 +935,6 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3019998,
-    "mp_name": "Dr Harsh Vardhan (17th Lok Sabha)",
-    "state_name": "Delhi",
-    "const_name": "NORTH WEST DELHI(SC)",
-    "utilization_rate": 3.199875451360696e-08,
-    "completion_delay_days": 36.02808988764045,
-    "is_anomaly": 0,
-    "total_works": 196,
-    "composite_integrity_score": 100.0
-  },
-  {
     "mp_id": 3017466,
     "mp_name": "Shri Satish Kumar Gautam ",
     "state_name": "Uttar Pradesh",
@@ -998,6 +954,17 @@
     "completion_delay_days": 156.8955223880597,
     "is_anomaly": 0,
     "total_works": 67,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3019998,
+    "mp_name": "Dr Harsh Vardhan (17th Lok Sabha)",
+    "state_name": "Delhi",
+    "const_name": "NORTH WEST DELHI(SC)",
+    "utilization_rate": 3.199875451360696e-08,
+    "completion_delay_days": 36.02808988764045,
+    "is_anomaly": 0,
+    "total_works": 196,
     "composite_integrity_score": 100.0
   },
   {
@@ -1053,17 +1020,6 @@
     "completion_delay_days": null,
     "is_anomaly": 0,
     "total_works": 153,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3042394,
-    "mp_name": "ANUP SANJAY DHOTRE",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 0,
-    "total_works": 100,
     "composite_integrity_score": 100.0
   },
   {
@@ -1151,7 +1107,18 @@
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 0,
-    "total_works": 138,
+    "total_works": 172,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3042421,
+    "mp_name": "AMAR SHARADRAO KALE",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 0,
+    "total_works": 112,
     "composite_integrity_score": 100.0
   },
   {
@@ -1232,14 +1199,14 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3042371,
-    "mp_name": "H.D. KUMARASWAMY",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
+    "mp_id": 3017435,
+    "mp_name": "Shri Jual Oram",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 0,
-    "total_works": 150,
+    "total_works": 252,
     "composite_integrity_score": 100.0
   },
   {
@@ -1281,7 +1248,7 @@
     "state_name": "Karnataka",
     "const_name": "BANGALORE RURAL",
     "utilization_rate": null,
-    "completion_delay_days": 125.0,
+    "completion_delay_days": 95.0,
     "is_anomaly": 0,
     "total_works": 378,
     "composite_integrity_score": 100.0
@@ -1309,25 +1276,14 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3042352,
-    "mp_name": "MANISH JAISWAL",
-    "state_name": "Jharkhand",
-    "const_name": "HAZARIBAGH",
+    "mp_id": 3042394,
+    "mp_name": "ANUP SANJAY DHOTRE",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 0,
-    "total_works": 267,
-    "composite_integrity_score": 100.0
-  },
-  {
-    "mp_id": 3017435,
-    "mp_name": "Shri Jual Oram",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 0,
-    "total_works": 252,
+    "total_works": 100,
     "composite_integrity_score": 100.0
   },
   {
@@ -1342,6 +1298,17 @@
     "composite_integrity_score": 100.0
   },
   {
+    "mp_id": 3042352,
+    "mp_name": "MANISH JAISWAL",
+    "state_name": "Jharkhand",
+    "const_name": "HAZARIBAGH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 0,
+    "total_works": 267,
+    "composite_integrity_score": 100.0
+  },
+  {
     "mp_id": 3042358,
     "mp_name": "JAGADISH SHETTAR",
     "state_name": "Karnataka",
@@ -1353,14 +1320,25 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3046285,
-    "mp_name": "Shri Upendra Kushwaha (2026-32)",
-    "state_name": "Bihar",
-    "const_name": "Bihar (Rajya Sabha Nodal District)",
+    "mp_id": 3042371,
+    "mp_name": "H.D. KUMARASWAMY",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 0,
-    "total_works": 16,
+    "total_works": 150,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3059272,
+    "mp_name": "Shri I.S. Inbadurai (2025-31)",
+    "state_name": "Tamil Nadu",
+    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 111.75,
+    "is_anomaly": 0,
+    "total_works": 98,
     "composite_integrity_score": 100.0
   },
   {
@@ -1452,17 +1430,6 @@
     "composite_integrity_score": 100.0
   },
   {
-    "mp_id": 3043720,
-    "mp_name": "KANWAR SINGH TANWAR",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 210.8,
-    "is_anomaly": 0,
-    "total_works": 125,
-    "composite_integrity_score": 100.0
-  },
-  {
     "mp_id": 3044397,
     "mp_name": "CHHATRA PAL SINGH GANGWAR",
     "state_name": "Uttar Pradesh",
@@ -1551,6 +1518,39 @@
     "composite_integrity_score": 100.0
   },
   {
+    "mp_id": 3046285,
+    "mp_name": "Shri Upendra Kushwaha (2026-32)",
+    "state_name": "Bihar",
+    "const_name": "Bihar (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 0,
+    "total_works": 16,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3052343,
+    "mp_name": "Ravindra Vasantrao Chavan",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 0,
+    "total_works": 155,
+    "composite_integrity_score": 100.0
+  },
+  {
+    "mp_id": 3059268,
+    "mp_name": "Shri Akhilesh Yadav (EX17LS)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": 0.0,
+    "completion_delay_days": null,
+    "is_anomaly": 0,
+    "total_works": 3,
+    "composite_integrity_score": 100.0
+  },
+  {
     "mp_id": 3042350,
     "mp_name": "KALI CHARAN SINGH",
     "state_name": "Jharkhand",
@@ -1606,17 +1606,6 @@
     "composite_integrity_score": 99.76
   },
   {
-    "mp_id": 3042464,
-    "mp_name": "MALAIYARASAN D",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 386,
-    "composite_integrity_score": 99.74
-  },
-  {
     "mp_id": 3019053,
     "mp_name": "Virendra Kumar",
     "state_name": "Madhya Pradesh",
@@ -1625,6 +1614,17 @@
     "completion_delay_days": null,
     "is_anomaly": 1,
     "total_works": 380,
+    "composite_integrity_score": 99.74
+  },
+  {
+    "mp_id": 3042464,
+    "mp_name": "MALAIYARASAN D",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 386,
     "composite_integrity_score": 99.74
   },
   {
@@ -1661,17 +1661,6 @@
     "composite_integrity_score": 99.71
   },
   {
-    "mp_id": 3019300,
-    "mp_name": "Abu Taher Khan",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 300.0,
-    "is_anomaly": 1,
-    "total_works": 328,
-    "composite_integrity_score": 99.7
-  },
-  {
     "mp_id": 3042312,
     "mp_name": "RAJA RAM SINGH",
     "state_name": "Bihar",
@@ -1705,17 +1694,6 @@
     "composite_integrity_score": 99.69
   },
   {
-    "mp_id": 3017167,
-    "mp_name": "Shri Shambhu Sharan Patel (2022-28)",
-    "state_name": "Bihar",
-    "const_name": "Bihar (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 190.25,
-    "is_anomaly": 1,
-    "total_works": 308,
-    "composite_integrity_score": 99.68
-  },
-  {
     "mp_id": 3042463,
     "mp_name": "K E PRAKASH",
     "state_name": "Tamil Nadu",
@@ -1723,8 +1701,19 @@
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 1,
-    "total_works": 302,
-    "composite_integrity_score": 99.67
+    "total_works": 309,
+    "composite_integrity_score": 99.68
+  },
+  {
+    "mp_id": 3017167,
+    "mp_name": "Shri Shambhu Sharan Patel (2022-28)",
+    "state_name": "Bihar",
+    "const_name": "Bihar (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 155.0,
+    "is_anomaly": 1,
+    "total_works": 308,
+    "composite_integrity_score": 99.68
   },
   {
     "mp_id": 3017373,
@@ -1749,17 +1738,6 @@
     "composite_integrity_score": 99.65
   },
   {
-    "mp_id": 3042549,
-    "mp_name": "ABHIJIT GANGOPADHYAY",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 255.8,
-    "is_anomaly": 1,
-    "total_works": 265,
-    "composite_integrity_score": 99.62
-  },
-  {
     "mp_id": 3042478,
     "mp_name": "RAMASAHAYAM RAGHURAM REDDY",
     "state_name": "Telangana",
@@ -1771,14 +1749,25 @@
     "composite_integrity_score": 99.62
   },
   {
-    "mp_id": 3042380,
-    "mp_name": "SHAFI PARAMBIL",
-    "state_name": "Kerala",
-    "const_name": "KANNUR",
+    "mp_id": 3042549,
+    "mp_name": "ABHIJIT GANGOPADHYAY",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
     "utilization_rate": null,
-    "completion_delay_days": 218.10526315789474,
+    "completion_delay_days": 255.8,
     "is_anomaly": 1,
-    "total_works": 258,
+    "total_works": 265,
+    "composite_integrity_score": 99.62
+  },
+  {
+    "mp_id": 3042367,
+    "mp_name": "SHREYAS. M. PATEL",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": null,
+    "completion_delay_days": 239.3548387096774,
+    "is_anomaly": 1,
+    "total_works": 255,
     "composite_integrity_score": 99.61
   },
   {
@@ -1793,15 +1782,15 @@
     "composite_integrity_score": 99.61
   },
   {
-    "mp_id": 3042367,
-    "mp_name": "SHREYAS. M. PATEL",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
+    "mp_id": 3019242,
+    "mp_name": "CN Annadurai",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
     "utilization_rate": null,
-    "completion_delay_days": 245.79310344827587,
+    "completion_delay_days": 272.5,
     "is_anomaly": 1,
-    "total_works": 255,
-    "composite_integrity_score": 99.61
+    "total_works": 253,
+    "composite_integrity_score": 99.6
   },
   {
     "mp_id": 3042508,
@@ -1812,17 +1801,6 @@
     "completion_delay_days": null,
     "is_anomaly": 1,
     "total_works": 250,
-    "composite_integrity_score": 99.6
-  },
-  {
-    "mp_id": 3019242,
-    "mp_name": "CN Annadurai",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": null,
-    "completion_delay_days": 272.5,
-    "is_anomaly": 1,
-    "total_works": 253,
     "composite_integrity_score": 99.6
   },
   {
@@ -1859,23 +1837,23 @@
     "composite_integrity_score": 99.55
   },
   {
-    "mp_id": 3043717,
-    "mp_name": "PRIYANKA SATISH JARKIHOLI",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 219,
-    "composite_integrity_score": 99.54
-  },
-  {
     "mp_id": 3042504,
     "mp_name": "AWADHESH PRASAD",
     "state_name": "Uttar Pradesh",
     "const_name": "ALIGARH",
     "utilization_rate": null,
     "completion_delay_days": 264.0,
+    "is_anomaly": 1,
+    "total_works": 219,
+    "composite_integrity_score": 99.54
+  },
+  {
+    "mp_id": 3043717,
+    "mp_name": "PRIYANKA SATISH JARKIHOLI",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": null,
+    "completion_delay_days": null,
     "is_anomaly": 1,
     "total_works": 219,
     "composite_integrity_score": 99.54
@@ -1892,17 +1870,6 @@
     "composite_integrity_score": 99.53
   },
   {
-    "mp_id": 3017198,
-    "mp_name": "Prof. Manoj Kumar Jha (2024-30)",
-    "state_name": "Bihar",
-    "const_name": "Bihar (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 209,
-    "composite_integrity_score": 99.52
-  },
-  {
     "mp_id": 3019237,
     "mp_name": "Smt Sajda Ahmed",
     "state_name": "West Bengal",
@@ -1911,6 +1878,17 @@
     "completion_delay_days": 264.2,
     "is_anomaly": 1,
     "total_works": 208,
+    "composite_integrity_score": 99.52
+  },
+  {
+    "mp_id": 3017198,
+    "mp_name": "Prof. Manoj Kumar Jha (2024-30)",
+    "state_name": "Bihar",
+    "const_name": "Bihar (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 209,
     "composite_integrity_score": 99.52
   },
   {
@@ -1947,17 +1925,6 @@
     "composite_integrity_score": 99.5
   },
   {
-    "mp_id": 3042479,
-    "mp_name": "BALRAM NAIK PORIKA",
-    "state_name": "Telangana",
-    "const_name": "ADILABAD(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 393,
-    "composite_integrity_score": 99.49
-  },
-  {
     "mp_id": 3042319,
     "mp_name": "MANOJ KUMAR",
     "state_name": "Bihar",
@@ -1966,6 +1933,17 @@
     "completion_delay_days": null,
     "is_anomaly": 1,
     "total_works": 195,
+    "composite_integrity_score": 99.49
+  },
+  {
+    "mp_id": 3042479,
+    "mp_name": "BALRAM NAIK PORIKA",
+    "state_name": "Telangana",
+    "const_name": "ADILABAD(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 393,
     "composite_integrity_score": 99.49
   },
   {
@@ -2042,8 +2020,8 @@
     "utilization_rate": null,
     "completion_delay_days": 323.2857142857143,
     "is_anomaly": 4,
-    "total_works": 665,
-    "composite_integrity_score": 99.4
+    "total_works": 674,
+    "composite_integrity_score": 99.41
   },
   {
     "mp_id": 3017409,
@@ -2079,15 +2057,15 @@
     "composite_integrity_score": 99.39
   },
   {
-    "mp_id": 3019082,
-    "mp_name": "Dhairyasheel Sambhajirao Mane(17th Lok Sabha)",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": 5.560775762284209e-08,
-    "completion_delay_days": 12.354609929078014,
-    "is_anomaly": 1,
-    "total_works": 160,
-    "composite_integrity_score": 99.38
+    "mp_id": 3019300,
+    "mp_name": "Abu Taher Khan",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": null,
+    "completion_delay_days": 342.0,
+    "is_anomaly": 2,
+    "total_works": 328,
+    "composite_integrity_score": 99.39
   },
   {
     "mp_id": 3019057,
@@ -2098,6 +2076,17 @@
     "completion_delay_days": null,
     "is_anomaly": 2,
     "total_works": 320,
+    "composite_integrity_score": 99.38
+  },
+  {
+    "mp_id": 3019082,
+    "mp_name": "Dhairyasheel Sambhajirao Mane(17th Lok Sabha)",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": 5.560775762284209e-08,
+    "completion_delay_days": 12.354609929078014,
+    "is_anomaly": 1,
+    "total_works": 160,
     "composite_integrity_score": 99.38
   },
   {
@@ -2139,7 +2128,7 @@
     "state_name": "Odisha",
     "const_name": "CUTTACK",
     "utilization_rate": null,
-    "completion_delay_days": 385.0,
+    "completion_delay_days": 353.4,
     "is_anomaly": 5,
     "total_works": 754,
     "composite_integrity_score": 99.34
@@ -2163,8 +2152,19 @@
     "utilization_rate": null,
     "completion_delay_days": 92.0,
     "is_anomaly": 2,
-    "total_works": 300,
+    "total_works": 299,
     "composite_integrity_score": 99.33
+  },
+  {
+    "mp_id": 3042373,
+    "mp_name": "G. KUMAR NAIK",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 145,
+    "composite_integrity_score": 99.31
   },
   {
     "mp_id": 3017184,
@@ -2189,14 +2189,14 @@
     "composite_integrity_score": 99.29
   },
   {
-    "mp_id": 3042547,
-    "mp_name": "KARTICK CHANDRA PAUL",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
+    "mp_id": 3042332,
+    "mp_name": "HARIBHAI PATEL",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
     "utilization_rate": null,
-    "completion_delay_days": 351.5,
-    "is_anomaly": 3,
-    "total_works": 410,
+    "completion_delay_days": null,
+    "is_anomaly": 5,
+    "total_works": 686,
     "composite_integrity_score": 99.27
   },
   {
@@ -2209,6 +2209,28 @@
     "is_anomaly": 2,
     "total_works": 275,
     "composite_integrity_score": 99.27
+  },
+  {
+    "mp_id": 3044682,
+    "mp_name": "ABDUL RASHID SHEIKH",
+    "state_name": "Jammu And Kashmir",
+    "const_name": "ANANTNAG",
+    "utilization_rate": null,
+    "completion_delay_days": 161.16666666666666,
+    "is_anomaly": 2,
+    "total_works": 269,
+    "composite_integrity_score": 99.26
+  },
+  {
+    "mp_id": 3042402,
+    "mp_name": "BHASKAR MURLIDHAR BHAGARE",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 134,
+    "composite_integrity_score": 99.25
   },
   {
     "mp_id": 3042418,
@@ -2233,17 +2255,6 @@
     "composite_integrity_score": 99.25
   },
   {
-    "mp_id": 3044682,
-    "mp_name": "ABDUL RASHID SHEIKH",
-    "state_name": "Jammu And Kashmir",
-    "const_name": "ANANTNAG",
-    "utilization_rate": null,
-    "completion_delay_days": 161.16666666666666,
-    "is_anomaly": 2,
-    "total_works": 268,
-    "composite_integrity_score": 99.25
-  },
-  {
     "mp_id": 3044176,
     "mp_name": "Sanjay Uttamrao Deshmukh",
     "state_name": "Maharashtra",
@@ -2255,25 +2266,14 @@
     "composite_integrity_score": 99.25
   },
   {
-    "mp_id": 3042402,
-    "mp_name": "BHASKAR MURLIDHAR BHAGARE",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
+    "mp_id": 3019162,
+    "mp_name": "S Venkatesan",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
     "utilization_rate": null,
     "completion_delay_days": null,
     "is_anomaly": 1,
-    "total_works": 134,
-    "composite_integrity_score": 99.25
-  },
-  {
-    "mp_id": 3042332,
-    "mp_name": "HARIBHAI PATEL",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 5,
-    "total_works": 660,
+    "total_works": 131,
     "composite_integrity_score": 99.24
   },
   {
@@ -2288,17 +2288,6 @@
     "composite_integrity_score": 99.24
   },
   {
-    "mp_id": 3019162,
-    "mp_name": "S Venkatesan",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 131,
-    "composite_integrity_score": 99.24
-  },
-  {
     "mp_id": 3044146,
     "mp_name": "LOVELY ANAND",
     "state_name": "Bihar",
@@ -2310,28 +2299,6 @@
     "composite_integrity_score": 99.23
   },
   {
-    "mp_id": 3043036,
-    "mp_name": "Dr. Sangeeta Balwant (2024-30)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 544.3333333333334,
-    "is_anomaly": 3,
-    "total_works": 385,
-    "composite_integrity_score": 99.22
-  },
-  {
-    "mp_id": 3042373,
-    "mp_name": "G. KUMAR NAIK",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 128,
-    "composite_integrity_score": 99.22
-  },
-  {
     "mp_id": 3017394,
     "mp_name": "Shri  Dharambir Singh",
     "state_name": "Haryana",
@@ -2340,6 +2307,28 @@
     "completion_delay_days": 79.0,
     "is_anomaly": 2,
     "total_works": 258,
+    "composite_integrity_score": 99.22
+  },
+  {
+    "mp_id": 3042380,
+    "mp_name": "SHAFI PARAMBIL",
+    "state_name": "Kerala",
+    "const_name": "KANNUR",
+    "utilization_rate": null,
+    "completion_delay_days": 229.0952380952381,
+    "is_anomaly": 2,
+    "total_works": 258,
+    "composite_integrity_score": 99.22
+  },
+  {
+    "mp_id": 3043036,
+    "mp_name": "Dr. Sangeeta Balwant (2024-30)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 544.3333333333334,
+    "is_anomaly": 3,
+    "total_works": 385,
     "composite_integrity_score": 99.22
   },
   {
@@ -2387,17 +2376,6 @@
     "composite_integrity_score": 99.17
   },
   {
-    "mp_id": 3019303,
-    "mp_name": "Shriniwas Dadasaheb Patil(17th Lok Sabha)",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": 3.548054950255634e-08,
-    "completion_delay_days": 69.315,
-    "is_anomaly": 2,
-    "total_works": 235,
-    "composite_integrity_score": 99.15
-  },
-  {
     "mp_id": 3042790,
     "mp_name": "DR. M.P ABDUSSAMAD SAMADANI",
     "state_name": "Kerala",
@@ -2406,6 +2384,17 @@
     "completion_delay_days": 217.84615384615384,
     "is_anomaly": 3,
     "total_works": 354,
+    "composite_integrity_score": 99.15
+  },
+  {
+    "mp_id": 3019303,
+    "mp_name": "Shriniwas Dadasaheb Patil(17th Lok Sabha)",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": 3.548054950255634e-08,
+    "completion_delay_days": 69.315,
+    "is_anomaly": 2,
+    "total_works": 235,
     "composite_integrity_score": 99.15
   },
   {
@@ -2420,25 +2409,14 @@
     "composite_integrity_score": 99.12
   },
   {
-    "mp_id": 3018392,
-    "mp_name": "A Chellakumar",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": 7.099496459679023e-08,
-    "completion_delay_days": 24.767676767676768,
-    "is_anomaly": 1,
-    "total_works": 114,
-    "composite_integrity_score": 99.12
-  },
-  {
-    "mp_id": 3042310,
-    "mp_name": "CHIRAG PASWAN",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
+    "mp_id": 3042370,
+    "mp_name": "K. RAJASHEKAR BASAVARAJ HITNAL",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
     "utilization_rate": null,
-    "completion_delay_days": 242.4375,
-    "is_anomaly": 1,
-    "total_works": 113,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 226,
     "composite_integrity_score": 99.12
   },
   {
@@ -2453,14 +2431,14 @@
     "composite_integrity_score": 99.12
   },
   {
-    "mp_id": 3042370,
-    "mp_name": "K. RAJASHEKAR BASAVARAJ HITNAL",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 226,
+    "mp_id": 3018392,
+    "mp_name": "A Chellakumar",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": 7.099496459679023e-08,
+    "completion_delay_days": 24.767676767676768,
+    "is_anomaly": 1,
+    "total_works": 114,
     "composite_integrity_score": 99.12
   },
   {
@@ -2486,17 +2464,6 @@
     "composite_integrity_score": 99.09
   },
   {
-    "mp_id": 3018942,
-    "mp_name": "Raghu Ramakrishna Raju Kanumuru",
-    "state_name": "Andhra Pradesh",
-    "const_name": "ANAKAPALLE",
-    "utilization_rate": 5.509166813402697e-08,
-    "completion_delay_days": 68.27272727272727,
-    "is_anomaly": 1,
-    "total_works": 104,
-    "composite_integrity_score": 99.04
-  },
-  {
     "mp_id": 3017337,
     "mp_name": "Shri B.L. Verma (2020-26)",
     "state_name": "Uttar Pradesh",
@@ -2508,14 +2475,25 @@
     "composite_integrity_score": 99.04
   },
   {
-    "mp_id": 3042795,
-    "mp_name": "AVIMANYU SETHI",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
+    "mp_id": 3018942,
+    "mp_name": "Raghu Ramakrishna Raju Kanumuru",
+    "state_name": "Andhra Pradesh",
+    "const_name": "ANAKAPALLE",
+    "utilization_rate": 5.509166813402697e-08,
+    "completion_delay_days": 68.27272727272727,
+    "is_anomaly": 1,
+    "total_works": 104,
+    "composite_integrity_score": 99.04
+  },
+  {
+    "mp_id": 3042547,
+    "mp_name": "KARTICK CHANDRA PAUL",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 3,
-    "total_works": 308,
+    "completion_delay_days": 351.5,
+    "is_anomaly": 4,
+    "total_works": 412,
     "composite_integrity_score": 99.03
   },
   {
@@ -2530,23 +2508,23 @@
     "composite_integrity_score": 99.02
   },
   {
-    "mp_id": 3019311,
-    "mp_name": "Rajnath Singh",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 102,
-    "composite_integrity_score": 99.02
-  },
-  {
     "mp_id": 3019149,
     "mp_name": "A Ganeshamurthi(17th Lok Sabha)",
     "state_name": "Tamil Nadu",
     "const_name": "TIRUNELVELI",
     "utilization_rate": 9.427757809350983e-08,
     "completion_delay_days": 57.15841584158416,
+    "is_anomaly": 1,
+    "total_works": 102,
+    "composite_integrity_score": 99.02
+  },
+  {
+    "mp_id": 3019311,
+    "mp_name": "Rajnath Singh",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
     "is_anomaly": 1,
     "total_works": 102,
     "composite_integrity_score": 99.02
@@ -2579,21 +2557,10 @@
     "state_name": "Kerala",
     "const_name": "KANNUR",
     "utilization_rate": null,
-    "completion_delay_days": 196.6818181818182,
+    "completion_delay_days": 190.48,
     "is_anomaly": 3,
     "total_works": 299,
     "composite_integrity_score": 99.0
-  },
-  {
-    "mp_id": 3017437,
-    "mp_name": "Shri Bhartruhari Mahtab",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": null,
-    "completion_delay_days": 283.3333333333333,
-    "is_anomaly": 5,
-    "total_works": 493,
-    "composite_integrity_score": 98.99
   },
   {
     "mp_id": 3019076,
@@ -2607,23 +2574,23 @@
     "composite_integrity_score": 98.99
   },
   {
-    "mp_id": 3044145,
-    "mp_name": "VIVEK THAKUR",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
-    "utilization_rate": null,
-    "completion_delay_days": 94.2,
-    "is_anomaly": 1,
-    "total_works": 98,
-    "composite_integrity_score": 98.98
-  },
-  {
     "mp_id": 3020004,
     "mp_name": "Parvesh Sahib Singh (17th Lok Sabha)",
     "state_name": "Delhi",
     "const_name": "NORTH WEST DELHI(SC)",
     "utilization_rate": 4.293844738101659e-08,
     "completion_delay_days": 33.175,
+    "is_anomaly": 1,
+    "total_works": 98,
+    "composite_integrity_score": 98.98
+  },
+  {
+    "mp_id": 3044145,
+    "mp_name": "VIVEK THAKUR",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": null,
+    "completion_delay_days": 94.2,
     "is_anomaly": 1,
     "total_works": 98,
     "composite_integrity_score": 98.98
@@ -2640,17 +2607,6 @@
     "composite_integrity_score": 98.98
   },
   {
-    "mp_id": 3045387,
-    "mp_name": "MADHAVANENI RAGHUNANDAN RAO",
-    "state_name": "Telangana",
-    "const_name": "ADILABAD(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 193,
-    "composite_integrity_score": 98.96
-  },
-  {
     "mp_id": 3042416,
     "mp_name": "NARAYAN TATU RANE",
     "state_name": "Maharashtra",
@@ -2659,6 +2615,17 @@
     "completion_delay_days": 244.5,
     "is_anomaly": 1,
     "total_works": 96,
+    "composite_integrity_score": 98.96
+  },
+  {
+    "mp_id": 3045387,
+    "mp_name": "MADHAVANENI RAGHUNANDAN RAO",
+    "state_name": "Telangana",
+    "const_name": "ADILABAD(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 193,
     "composite_integrity_score": 98.96
   },
   {
@@ -2706,6 +2673,17 @@
     "composite_integrity_score": 98.93
   },
   {
+    "mp_id": 3017388,
+    "mp_name": "Rajeshbhai Naranbhai Chudasama",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
+    "utilization_rate": null,
+    "completion_delay_days": 391.5,
+    "is_anomaly": 5,
+    "total_works": 461,
+    "composite_integrity_score": 98.92
+  },
+  {
     "mp_id": 3042437,
     "mp_name": "SARABJEET SINGH KHALSA",
     "state_name": "Punjab",
@@ -2726,17 +2704,6 @@
     "is_anomaly": 2,
     "total_works": 182,
     "composite_integrity_score": 98.9
-  },
-  {
-    "mp_id": 3017388,
-    "mp_name": "Rajeshbhai Naranbhai Chudasama",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
-    "utilization_rate": null,
-    "completion_delay_days": 391.5,
-    "is_anomaly": 5,
-    "total_works": 452,
-    "composite_integrity_score": 98.89
   },
   {
     "mp_id": 3019092,
@@ -2772,23 +2739,23 @@
     "composite_integrity_score": 98.88
   },
   {
-    "mp_id": 3019169,
-    "mp_name": "Smt S Jothimani(17th Lok Sabha)",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": 5.316686323031006e-08,
-    "completion_delay_days": 35.68072289156626,
-    "is_anomaly": 2,
-    "total_works": 178,
-    "composite_integrity_score": 98.88
-  },
-  {
     "mp_id": 3042471,
     "mp_name": "DR RANI SRI KUMAR",
     "state_name": "Tamil Nadu",
     "const_name": "TIRUNELVELI",
     "utilization_rate": null,
     "completion_delay_days": 110.2,
+    "is_anomaly": 2,
+    "total_works": 178,
+    "composite_integrity_score": 98.88
+  },
+  {
+    "mp_id": 3019169,
+    "mp_name": "Smt S Jothimani(17th Lok Sabha)",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": 5.316686323031006e-08,
+    "completion_delay_days": 35.68072289156626,
     "is_anomaly": 2,
     "total_works": 178,
     "composite_integrity_score": 98.88
@@ -2816,6 +2783,17 @@
     "composite_integrity_score": 98.84
   },
   {
+    "mp_id": 3017437,
+    "mp_name": "Shri Bhartruhari Mahtab",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
+    "utilization_rate": null,
+    "completion_delay_days": 313.0,
+    "is_anomaly": 6,
+    "total_works": 517,
+    "composite_integrity_score": 98.84
+  },
+  {
     "mp_id": 3019146,
     "mp_name": "K Jayakumar(17th Lok Sabha)",
     "state_name": "Tamil Nadu",
@@ -2825,17 +2803,6 @@
     "is_anomaly": 2,
     "total_works": 171,
     "composite_integrity_score": 98.83
-  },
-  {
-    "mp_id": 3042363,
-    "mp_name": "GOVIND MAKTHAPPA KARJOL",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": 380.25,
-    "is_anomaly": 3,
-    "total_works": 255,
-    "composite_integrity_score": 98.82
   },
   {
     "mp_id": 3042417,
@@ -2909,7 +2876,7 @@
     "state_name": "Karnataka",
     "const_name": "BANGALORE RURAL",
     "utilization_rate": null,
-    "completion_delay_days": 231.0,
+    "completion_delay_days": 259.0,
     "is_anomaly": 2,
     "total_works": 165,
     "composite_integrity_score": 98.79
@@ -2957,6 +2924,17 @@
     "is_anomaly": 6,
     "total_works": 478,
     "composite_integrity_score": 98.74
+  },
+  {
+    "mp_id": 3042795,
+    "mp_name": "AVIMANYU SETHI",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 4,
+    "total_works": 308,
+    "composite_integrity_score": 98.7
   },
   {
     "mp_id": 3042441,
@@ -3010,7 +2988,7 @@
     "utilization_rate": null,
     "completion_delay_days": 309.57142857142856,
     "is_anomaly": 5,
-    "total_works": 373,
+    "total_works": 374,
     "composite_integrity_score": 98.66
   },
   {
@@ -3047,17 +3025,6 @@
     "composite_integrity_score": 98.63
   },
   {
-    "mp_id": 3042528,
-    "mp_name": "LAXMIKANT PAPPU NISHAD",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 435.0,
-    "is_anomaly": 7,
-    "total_works": 508,
-    "composite_integrity_score": 98.62
-  },
-  {
     "mp_id": 3042440,
     "mp_name": "DR. RAJ KUMAR CHABBEWAL",
     "state_name": "Punjab",
@@ -3069,26 +3036,26 @@
     "composite_integrity_score": 98.62
   },
   {
+    "mp_id": 3042528,
+    "mp_name": "LAXMIKANT PAPPU NISHAD",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 435.0,
+    "is_anomaly": 7,
+    "total_works": 508,
+    "composite_integrity_score": 98.62
+  },
+  {
     "mp_id": 3042534,
     "mp_name": "PATHAN YUSUF",
     "state_name": "West Bengal",
     "const_name": "ARAMBAG(SC)",
     "utilization_rate": null,
-    "completion_delay_days": 201.0,
+    "completion_delay_days": 166.33333333333334,
     "is_anomaly": 2,
     "total_works": 145,
     "composite_integrity_score": 98.62
-  },
-  {
-    "mp_id": 3042307,
-    "mp_name": "ABHAY KUMAR SINHA",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
-    "utilization_rate": null,
-    "completion_delay_days": 299.4074074074074,
-    "is_anomaly": 4,
-    "total_works": 288,
-    "composite_integrity_score": 98.61
   },
   {
     "mp_id": 3017503,
@@ -3100,6 +3067,28 @@
     "is_anomaly": 1,
     "total_works": 72,
     "composite_integrity_score": 98.61
+  },
+  {
+    "mp_id": 3042307,
+    "mp_name": "ABHAY KUMAR SINHA",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": null,
+    "completion_delay_days": 292.2142857142857,
+    "is_anomaly": 4,
+    "total_works": 288,
+    "composite_integrity_score": 98.61
+  },
+  {
+    "mp_id": 3042363,
+    "mp_name": "GOVIND MAKTHAPPA KARJOL",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": null,
+    "completion_delay_days": 380.25,
+    "is_anomaly": 4,
+    "total_works": 285,
+    "composite_integrity_score": 98.6
   },
   {
     "mp_id": 3042503,
@@ -3146,6 +3135,17 @@
     "composite_integrity_score": 98.56
   },
   {
+    "mp_id": 3019220,
+    "mp_name": "Vijay Kumar Dubey",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 495.0,
+    "is_anomaly": 4,
+    "total_works": 276,
+    "composite_integrity_score": 98.55
+  },
+  {
     "mp_id": 3046918,
     "mp_name": "Shri Rajib Bhattacharjee (2024-28)",
     "state_name": "Tripura",
@@ -3155,17 +3155,6 @@
     "is_anomaly": 1,
     "total_works": 69,
     "composite_integrity_score": 98.55
-  },
-  {
-    "mp_id": 3019220,
-    "mp_name": "Vijay Kumar Dubey",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 495.0,
-    "is_anomaly": 4,
-    "total_works": 274,
-    "composite_integrity_score": 98.54
   },
   {
     "mp_id": 3042500,
@@ -3190,17 +3179,6 @@
     "composite_integrity_score": 98.51
   },
   {
-    "mp_id": 3019202,
-    "mp_name": "Kamlesh Paswan",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 551.5,
-    "is_anomaly": 2,
-    "total_works": 132,
-    "composite_integrity_score": 98.48
-  },
-  {
     "mp_id": 3017208,
     "mp_name": "Shri Satish Chandra Dubey (2022-28)",
     "state_name": "Bihar",
@@ -3212,15 +3190,15 @@
     "composite_integrity_score": 98.48
   },
   {
-    "mp_id": 3018972,
-    "mp_name": "Sunil Kumar ",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
+    "mp_id": 3019202,
+    "mp_name": "Kamlesh Paswan",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
     "utilization_rate": null,
-    "completion_delay_days": 399.6666666666667,
-    "is_anomaly": 4,
-    "total_works": 259,
-    "composite_integrity_score": 98.46
+    "completion_delay_days": 551.5,
+    "is_anomaly": 2,
+    "total_works": 132,
+    "composite_integrity_score": 98.48
   },
   {
     "mp_id": 3019154,
@@ -3230,7 +3208,18 @@
     "utilization_rate": null,
     "completion_delay_days": 246.0,
     "is_anomaly": 7,
-    "total_works": 456,
+    "total_works": 458,
+    "composite_integrity_score": 98.47
+  },
+  {
+    "mp_id": 3018972,
+    "mp_name": "Sunil Kumar ",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": null,
+    "completion_delay_days": 399.6666666666667,
+    "is_anomaly": 4,
+    "total_works": 259,
     "composite_integrity_score": 98.46
   },
   {
@@ -3256,17 +3245,6 @@
     "composite_integrity_score": 98.41
   },
   {
-    "mp_id": 3017200,
-    "mp_name": "Shri Akhilesh Prasad Singh (2024-30)",
-    "state_name": "Bihar",
-    "const_name": "Bihar (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 218.33333333333334,
-    "is_anomaly": 1,
-    "total_works": 62,
-    "composite_integrity_score": 98.39
-  },
-  {
     "mp_id": 3043221,
     "mp_name": "SURENDRA PRASAD YADAV",
     "state_name": "Bihar",
@@ -3275,6 +3253,17 @@
     "completion_delay_days": 212.14285714285714,
     "is_anomaly": 5,
     "total_works": 310,
+    "composite_integrity_score": 98.39
+  },
+  {
+    "mp_id": 3017200,
+    "mp_name": "Shri Akhilesh Prasad Singh (2024-30)",
+    "state_name": "Bihar",
+    "const_name": "Bihar (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 218.33333333333334,
+    "is_anomaly": 1,
+    "total_works": 62,
     "composite_integrity_score": 98.39
   },
   {
@@ -3289,17 +3278,6 @@
     "composite_integrity_score": 98.38
   },
   {
-    "mp_id": 3045893,
-    "mp_name": "Bansuri Swaraj",
-    "state_name": "Delhi",
-    "const_name": "NORTH WEST DELHI(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 235.83333333333334,
-    "is_anomaly": 2,
-    "total_works": 122,
-    "composite_integrity_score": 98.36
-  },
-  {
     "mp_id": 3018394,
     "mp_name": "D Ravikumar ",
     "state_name": "Tamil Nadu",
@@ -3311,15 +3289,15 @@
     "composite_integrity_score": 98.36
   },
   {
-    "mp_id": 3017313,
-    "mp_name": "Shri Ravi Chandra Vaddiraju (2024-30)",
-    "state_name": "Telangana",
-    "const_name": "Telangana (Rajya Sabha Nodal District)",
+    "mp_id": 3045893,
+    "mp_name": "Bansuri Swaraj",
+    "state_name": "Delhi",
+    "const_name": "NORTH WEST DELHI(SC)",
     "utilization_rate": null,
-    "completion_delay_days": 50.0,
-    "is_anomaly": 5,
-    "total_works": 301,
-    "composite_integrity_score": 98.34
+    "completion_delay_days": 230.71428571428572,
+    "is_anomaly": 2,
+    "total_works": 122,
+    "composite_integrity_score": 98.36
   },
   {
     "mp_id": 3042390,
@@ -3328,6 +3306,17 @@
     "const_name": "BETUL(ST)",
     "utilization_rate": null,
     "completion_delay_days": 365.0,
+    "is_anomaly": 5,
+    "total_works": 301,
+    "composite_integrity_score": 98.34
+  },
+  {
+    "mp_id": 3017313,
+    "mp_name": "Shri Ravi Chandra Vaddiraju (2024-30)",
+    "state_name": "Telangana",
+    "const_name": "Telangana (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 50.0,
     "is_anomaly": 5,
     "total_works": 301,
     "composite_integrity_score": 98.34
@@ -3360,10 +3349,21 @@
     "state_name": "Karnataka",
     "const_name": "Karnataka (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 273.0,
+    "completion_delay_days": 275.2,
     "is_anomaly": 8,
     "total_works": 478,
     "composite_integrity_score": 98.33
+  },
+  {
+    "mp_id": 3025895,
+    "mp_name": "Shri Babubhai Jesangbhai Desai (2023-29)",
+    "state_name": "Gujarat",
+    "const_name": "Gujarat (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 247.0,
+    "is_anomaly": 5,
+    "total_works": 297,
+    "composite_integrity_score": 98.32
   },
   {
     "mp_id": 3019055,
@@ -3410,17 +3410,6 @@
     "composite_integrity_score": 98.27
   },
   {
-    "mp_id": 3045892,
-    "mp_name": "Harsh Malhotra",
-    "state_name": "Delhi",
-    "const_name": "NORTH WEST DELHI(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 305.2631578947368,
-    "is_anomaly": 2,
-    "total_works": 115,
-    "composite_integrity_score": 98.26
-  },
-  {
     "mp_id": 3042493,
     "mp_name": "ANAND KUMAR",
     "state_name": "Uttar Pradesh",
@@ -3443,15 +3432,15 @@
     "composite_integrity_score": 98.26
   },
   {
-    "mp_id": 3042409,
-    "mp_name": "GAIKWAD VARSHA EKNATH",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
+    "mp_id": 3045892,
+    "mp_name": "Harsh Malhotra",
+    "state_name": "Delhi",
+    "const_name": "NORTH WEST DELHI(SC)",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 57,
-    "composite_integrity_score": 98.25
+    "completion_delay_days": 305.2631578947368,
+    "is_anomaly": 2,
+    "total_works": 115,
+    "composite_integrity_score": 98.26
   },
   {
     "mp_id": 3042317,
@@ -3463,6 +3452,28 @@
     "is_anomaly": 3,
     "total_works": 171,
     "composite_integrity_score": 98.25
+  },
+  {
+    "mp_id": 3042409,
+    "mp_name": "GAIKWAD VARSHA EKNATH",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 57,
+    "composite_integrity_score": 98.25
+  },
+  {
+    "mp_id": 3042310,
+    "mp_name": "CHIRAG PASWAN",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": null,
+    "completion_delay_days": 257.25,
+    "is_anomaly": 2,
+    "total_works": 113,
+    "composite_integrity_score": 98.23
   },
   {
     "mp_id": 3018386,
@@ -3524,22 +3535,11 @@
     "mp_name": "Shri DV Sadananda Gowda (17th Lok Sabha)",
     "state_name": "Karnataka",
     "const_name": "BANGALORE RURAL",
-    "utilization_rate": 4.210593329907382e-08,
-    "completion_delay_days": 34.8423645320197,
+    "utilization_rate": 4.206745650056208e-08,
+    "completion_delay_days": 35.0,
     "is_anomaly": 4,
-    "total_works": 221,
-    "composite_integrity_score": 98.19
-  },
-  {
-    "mp_id": 3042541,
-    "mp_name": "SAYANI GHOSH",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 314.0,
-    "is_anomaly": 4,
-    "total_works": 215,
-    "composite_integrity_score": 98.14
+    "total_works": 220,
+    "composite_integrity_score": 98.18
   },
   {
     "mp_id": 3017310,
@@ -3553,15 +3553,15 @@
     "composite_integrity_score": 98.14
   },
   {
-    "mp_id": 3019152,
-    "mp_name": "Dhanush M Kumar(17th Lok Sabha)",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": 4.618451996454717e-08,
-    "completion_delay_days": 27.924170616113745,
+    "mp_id": 3042541,
+    "mp_name": "SAYANI GHOSH",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": null,
+    "completion_delay_days": 314.0,
     "is_anomaly": 4,
-    "total_works": 213,
-    "composite_integrity_score": 98.12
+    "total_works": 215,
+    "composite_integrity_score": 98.14
   },
   {
     "mp_id": 3042459,
@@ -3572,6 +3572,17 @@
     "completion_delay_days": null,
     "is_anomaly": 3,
     "total_works": 160,
+    "composite_integrity_score": 98.12
+  },
+  {
+    "mp_id": 3019152,
+    "mp_name": "Dhanush M Kumar(17th Lok Sabha)",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": 4.618451996454717e-08,
+    "completion_delay_days": 27.924170616113745,
+    "is_anomaly": 4,
+    "total_works": 213,
     "composite_integrity_score": 98.12
   },
   {
@@ -3619,12 +3630,12 @@
     "composite_integrity_score": 98.03
   },
   {
-    "mp_id": 3019161,
-    "mp_name": "S Gnanathiraviam(17th Lok Sabha)",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": 8.225253441695808e-08,
-    "completion_delay_days": 10.98876404494382,
+    "mp_id": 3017173,
+    "mp_name": "Santosh Kumar",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": 9.921518670059827e-08,
+    "completion_delay_days": 62.52,
     "is_anomaly": 2,
     "total_works": 100,
     "composite_integrity_score": 98.0
@@ -3641,26 +3652,15 @@
     "composite_integrity_score": 98.0
   },
   {
-    "mp_id": 3017173,
-    "mp_name": "Santosh Kumar",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
-    "utilization_rate": 9.921518670059827e-08,
-    "completion_delay_days": 62.52,
+    "mp_id": 3019161,
+    "mp_name": "S Gnanathiraviam(17th Lok Sabha)",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": 8.225253441695808e-08,
+    "completion_delay_days": 10.98876404494382,
     "is_anomaly": 2,
     "total_works": 100,
     "composite_integrity_score": 98.0
-  },
-  {
-    "mp_id": 3025895,
-    "mp_name": "Shri Babubhai Jesangbhai Desai (2023-29)",
-    "state_name": "Gujarat",
-    "const_name": "Gujarat (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 247.0,
-    "is_anomaly": 6,
-    "total_works": 297,
-    "composite_integrity_score": 97.98
   },
   {
     "mp_id": 3017469,
@@ -3685,17 +3685,6 @@
     "composite_integrity_score": 97.95
   },
   {
-    "mp_id": 3042349,
-    "mp_name": "AGA SYED RUHULLAH MEHDI",
-    "state_name": "Jammu And Kashmir",
-    "const_name": "ANANTNAG",
-    "utilization_rate": null,
-    "completion_delay_days": 100.0,
-    "is_anomaly": 8,
-    "total_works": 389,
-    "composite_integrity_score": 97.94
-  },
-  {
     "mp_id": 3019056,
     "mp_name": "Gajendra Singh Patel",
     "state_name": "Madhya Pradesh",
@@ -3705,17 +3694,6 @@
     "is_anomaly": 7,
     "total_works": 338,
     "composite_integrity_score": 97.93
-  },
-  {
-    "mp_id": 3042334,
-    "mp_name": "PARSHOTTAMBHAI RUPALA",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
-    "utilization_rate": null,
-    "completion_delay_days": 223.3846153846154,
-    "is_anomaly": 7,
-    "total_works": 332,
-    "composite_integrity_score": 97.89
   },
   {
     "mp_id": 3043227,
@@ -3751,17 +3729,6 @@
     "composite_integrity_score": 97.84
   },
   {
-    "mp_id": 3043324,
-    "mp_name": "Shri Haris Beeran (2024-30)",
-    "state_name": "Kerala",
-    "const_name": "Kerala (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 209.5,
-    "is_anomaly": 5,
-    "total_works": 228,
-    "composite_integrity_score": 97.81
-  },
-  {
     "mp_id": 3042460,
     "mp_name": "M.K. VISHNUPRASAD",
     "state_name": "Tamil Nadu",
@@ -3770,6 +3737,17 @@
     "completion_delay_days": null,
     "is_anomaly": 3,
     "total_works": 137,
+    "composite_integrity_score": 97.81
+  },
+  {
+    "mp_id": 3043324,
+    "mp_name": "Shri Haris Beeran (2024-30)",
+    "state_name": "Kerala",
+    "const_name": "Kerala (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 209.5,
+    "is_anomaly": 5,
+    "total_works": 228,
     "composite_integrity_score": 97.81
   },
   {
@@ -3784,6 +3762,17 @@
     "composite_integrity_score": 97.78
   },
   {
+    "mp_id": 3042490,
+    "mp_name": "DHARMENDRA YADAV",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 89,
+    "composite_integrity_score": 97.75
+  },
+  {
     "mp_id": 3042369,
     "mp_name": "M. MALLESH BABU",
     "state_name": "Karnataka",
@@ -3795,15 +3784,15 @@
     "composite_integrity_score": 97.75
   },
   {
-    "mp_id": 3042490,
-    "mp_name": "DHARMENDRA YADAV",
+    "mp_id": 3042513,
+    "mp_name": "RAMESH AWASTHI",
     "state_name": "Uttar Pradesh",
     "const_name": "ALIGARH",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 89,
-    "composite_integrity_score": 97.75
+    "completion_delay_days": 121.19642857142857,
+    "is_anomaly": 4,
+    "total_works": 177,
+    "composite_integrity_score": 97.74
   },
   {
     "mp_id": 3042400,
@@ -3828,14 +3817,14 @@
     "composite_integrity_score": 97.73
   },
   {
-    "mp_id": 3018366,
-    "mp_name": "Jyotsna Charandas Mahant ",
-    "state_name": "Chhattisgarh",
-    "const_name": "RAIGARH(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": 359.625,
-    "is_anomaly": 8,
-    "total_works": 349,
+    "mp_id": 3019154,
+    "mp_name": "Ganesan Selvam(17th Lok Sabha)",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": 3.919145481988427e-08,
+    "completion_delay_days": 40.189320388349515,
+    "is_anomaly": 5,
+    "total_works": 218,
     "composite_integrity_score": 97.71
   },
   {
@@ -3850,15 +3839,26 @@
     "composite_integrity_score": 97.71
   },
   {
-    "mp_id": 3019154,
-    "mp_name": "Ganesan Selvam(17th Lok Sabha)",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": 3.919145481988427e-08,
-    "completion_delay_days": 40.189320388349515,
-    "is_anomaly": 5,
-    "total_works": 218,
+    "mp_id": 3018366,
+    "mp_name": "Jyotsna Charandas Mahant ",
+    "state_name": "Chhattisgarh",
+    "const_name": "RAIGARH(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": 359.625,
+    "is_anomaly": 8,
+    "total_works": 349,
     "composite_integrity_score": 97.71
+  },
+  {
+    "mp_id": 3042349,
+    "mp_name": "AGA SYED RUHULLAH MEHDI",
+    "state_name": "Jammu And Kashmir",
+    "const_name": "ANANTNAG",
+    "utilization_rate": null,
+    "completion_delay_days": 349.5,
+    "is_anomaly": 9,
+    "total_works": 391,
+    "composite_integrity_score": 97.7
   },
   {
     "mp_id": 3042438,
@@ -3870,6 +3870,17 @@
     "is_anomaly": 13,
     "total_works": 560,
     "composite_integrity_score": 97.68
+  },
+  {
+    "mp_id": 3065298,
+    "mp_name": "Shri Constandine Ravindran (2026-32)",
+    "state_name": "Tamil Nadu",
+    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 43,
+    "composite_integrity_score": 97.67
   },
   {
     "mp_id": 3019301,
@@ -3916,15 +3927,15 @@
     "composite_integrity_score": 97.63
   },
   {
-    "mp_id": 3049783,
-    "mp_name": "Shri Sujeet Kumar (2026-32)",
-    "state_name": "Odisha",
-    "const_name": "Odisha (Rajya Sabha Nodal District)",
+    "mp_id": 3018418,
+    "mp_name": "Khalilur Rahaman ",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
     "utilization_rate": null,
-    "completion_delay_days": 8.0,
-    "is_anomaly": 1,
-    "total_works": 42,
-    "composite_integrity_score": 97.62
+    "completion_delay_days": 244.5,
+    "is_anomaly": 3,
+    "total_works": 125,
+    "composite_integrity_score": 97.6
   },
   {
     "mp_id": 3043719,
@@ -3938,15 +3949,15 @@
     "composite_integrity_score": 97.6
   },
   {
-    "mp_id": 3018418,
-    "mp_name": "Khalilur Rahaman ",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
+    "mp_id": 3042334,
+    "mp_name": "PARSHOTTAMBHAI RUPALA",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
     "utilization_rate": null,
-    "completion_delay_days": 220.0,
-    "is_anomaly": 3,
-    "total_works": 125,
-    "composite_integrity_score": 97.6
+    "completion_delay_days": 230.6969696969697,
+    "is_anomaly": 8,
+    "total_works": 332,
+    "composite_integrity_score": 97.59
   },
   {
     "mp_id": 3042526,
@@ -3968,17 +3979,6 @@
     "completion_delay_days": null,
     "is_anomaly": 6,
     "total_works": 247,
-    "composite_integrity_score": 97.57
-  },
-  {
-    "mp_id": 3042300,
-    "mp_name": "GAURAV GOGOI",
-    "state_name": "Assam",
-    "const_name": "BARPETA",
-    "utilization_rate": null,
-    "completion_delay_days": 575.0833333333334,
-    "is_anomaly": 12,
-    "total_works": 493,
     "composite_integrity_score": 97.57
   },
   {
@@ -4004,17 +4004,6 @@
     "composite_integrity_score": 97.56
   },
   {
-    "mp_id": 3042513,
-    "mp_name": "RAMESH AWASTHI",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 121.19642857142857,
-    "is_anomaly": 4,
-    "total_works": 164,
-    "composite_integrity_score": 97.56
-  },
-  {
     "mp_id": 3042505,
     "mp_name": "NARESH CHANDRA UTTAM PATEL",
     "state_name": "Uttar Pradesh",
@@ -4035,17 +4024,6 @@
     "is_anomaly": 7,
     "total_works": 282,
     "composite_integrity_score": 97.52
-  },
-  {
-    "mp_id": 3065298,
-    "mp_name": "Shri Constandine Ravindran (2026-32)",
-    "state_name": "Tamil Nadu",
-    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 40,
-    "composite_integrity_score": 97.5
   },
   {
     "mp_id": 3044395,
@@ -4103,6 +4081,17 @@
     "composite_integrity_score": 97.37
   },
   {
+    "mp_id": 3042300,
+    "mp_name": "GAURAV GOGOI",
+    "state_name": "Assam",
+    "const_name": "BARPETA",
+    "utilization_rate": null,
+    "completion_delay_days": 535.4,
+    "is_anomaly": 13,
+    "total_works": 493,
+    "composite_integrity_score": 97.36
+  },
+  {
     "mp_id": 3019196,
     "mp_name": "Devendra Alias Bhole Singh",
     "state_name": "Uttar Pradesh",
@@ -4125,17 +4114,6 @@
     "composite_integrity_score": 97.33
   },
   {
-    "mp_id": 3042433,
-    "mp_name": "BALABHADRA MAJHI",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": null,
-    "completion_delay_days": 359.07142857142856,
-    "is_anomaly": 6,
-    "total_works": 221,
-    "composite_integrity_score": 97.29
-  },
-  {
     "mp_id": 3042287,
     "mp_name": "BASTIPATI NAGARAJU PANCHALINGALA",
     "state_name": "Andhra Pradesh",
@@ -4144,17 +4122,6 @@
     "completion_delay_days": 467.0,
     "is_anomaly": 6,
     "total_works": 221,
-    "composite_integrity_score": 97.29
-  },
-  {
-    "mp_id": 3042432,
-    "mp_name": "NABA CHARAN MAJHI",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 7,
-    "total_works": 258,
     "composite_integrity_score": 97.29
   },
   {
@@ -4196,10 +4163,32 @@
     "state_name": "Kerala",
     "const_name": "KANNUR",
     "utilization_rate": null,
-    "completion_delay_days": 200.65,
+    "completion_delay_days": 211.17391304347825,
     "is_anomaly": 6,
     "total_works": 216,
     "composite_integrity_score": 97.22
+  },
+  {
+    "mp_id": 3042357,
+    "mp_name": "DR C N MANJUNATH",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": null,
+    "completion_delay_days": 412.3076923076923,
+    "is_anomaly": 8,
+    "total_works": 286,
+    "composite_integrity_score": 97.2
+  },
+  {
+    "mp_id": 3019100,
+    "mp_name": "Sudhakar Tukaram Shrangre(17th Lok Sabha)",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": 8.642956707269797e-08,
+    "completion_delay_days": 47.632075471698116,
+    "is_anomaly": 3,
+    "total_works": 107,
+    "composite_integrity_score": 97.2
   },
   {
     "mp_id": 3017500,
@@ -4221,28 +4210,6 @@
     "completion_delay_days": null,
     "is_anomaly": 3,
     "total_works": 107,
-    "composite_integrity_score": 97.2
-  },
-  {
-    "mp_id": 3019100,
-    "mp_name": "Sudhakar Tukaram Shrangre(17th Lok Sabha)",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": 8.642956707269797e-08,
-    "completion_delay_days": 47.632075471698116,
-    "is_anomaly": 3,
-    "total_works": 107,
-    "composite_integrity_score": 97.2
-  },
-  {
-    "mp_id": 3042357,
-    "mp_name": "DR C N MANJUNATH",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": 412.3076923076923,
-    "is_anomaly": 8,
-    "total_works": 286,
     "composite_integrity_score": 97.2
   },
   {
@@ -4279,6 +4246,17 @@
     "composite_integrity_score": 97.12
   },
   {
+    "mp_id": 3042501,
+    "mp_name": "ANAND BHADAURIYA",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 183.47368421052633,
+    "is_anomaly": 6,
+    "total_works": 205,
+    "composite_integrity_score": 97.07
+  },
+  {
     "mp_id": 3018960,
     "mp_name": "Sanjay Jaiswal",
     "state_name": "Bihar",
@@ -4301,17 +4279,6 @@
     "composite_integrity_score": 97.07
   },
   {
-    "mp_id": 3042501,
-    "mp_name": "ANAND BHADAURIYA",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 183.47368421052633,
-    "is_anomaly": 6,
-    "total_works": 205,
-    "composite_integrity_score": 97.07
-  },
-  {
     "mp_id": 3017332,
     "mp_name": "Shri Mithlesh Kumar (2022-28)",
     "state_name": "Uttar Pradesh",
@@ -4319,8 +4286,19 @@
     "utilization_rate": null,
     "completion_delay_days": 89.0,
     "is_anomaly": 6,
-    "total_works": 202,
-    "composite_integrity_score": 97.03
+    "total_works": 203,
+    "composite_integrity_score": 97.04
+  },
+  {
+    "mp_id": 3019127,
+    "mp_name": "Smt Harsimrat Kaur Badal",
+    "state_name": "Punjab",
+    "const_name": "BHATINDA",
+    "utilization_rate": null,
+    "completion_delay_days": 318.59375,
+    "is_anomaly": 15,
+    "total_works": 506,
+    "composite_integrity_score": 97.04
   },
   {
     "mp_id": 3042384,
@@ -4331,17 +4309,6 @@
     "completion_delay_days": 171.8125,
     "is_anomaly": 9,
     "total_works": 302,
-    "composite_integrity_score": 97.02
-  },
-  {
-    "mp_id": 3019127,
-    "mp_name": "Smt Harsimrat Kaur Badal",
-    "state_name": "Punjab",
-    "const_name": "BHATINDA",
-    "utilization_rate": null,
-    "completion_delay_days": 318.59375,
-    "is_anomaly": 15,
-    "total_works": 504,
     "composite_integrity_score": 97.02
   },
   {
@@ -4378,25 +4345,14 @@
     "composite_integrity_score": 96.98
   },
   {
-    "mp_id": 3019133,
-    "mp_name": "Dushyant Singh",
-    "state_name": "Rajasthan",
-    "const_name": "AJMER",
+    "mp_id": 3042276,
+    "mp_name": "BISHNU PADA RAY",
+    "state_name": "Andaman And Nicobar Islands",
+    "const_name": "ANDAMAN AND NICOBAR ISLANDS",
     "utilization_rate": null,
     "completion_delay_days": null,
-    "is_anomaly": 6,
-    "total_works": 198,
-    "composite_integrity_score": 96.97
-  },
-  {
-    "mp_id": 3042565,
-    "mp_name": "Smt. Sonia Gandhi (2024-30)",
-    "state_name": "Rajasthan",
-    "const_name": "Rajasthan (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 516.0,
-    "is_anomaly": 4,
-    "total_works": 132,
+    "is_anomaly": 1,
+    "total_works": 33,
     "composite_integrity_score": 96.97
   },
   {
@@ -4411,15 +4367,26 @@
     "composite_integrity_score": 96.97
   },
   {
-    "mp_id": 3042331,
-    "mp_name": "JASHUBHAI BHILUBHAI RATHVA",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
+    "mp_id": 3042565,
+    "mp_name": "Smt. Sonia Gandhi (2024-30)",
+    "state_name": "Rajasthan",
+    "const_name": "Rajasthan (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 258.0,
-    "is_anomaly": 14,
-    "total_works": 456,
-    "composite_integrity_score": 96.93
+    "completion_delay_days": 516.0,
+    "is_anomaly": 4,
+    "total_works": 132,
+    "composite_integrity_score": 96.97
+  },
+  {
+    "mp_id": 3019133,
+    "mp_name": "Dushyant Singh",
+    "state_name": "Rajasthan",
+    "const_name": "AJMER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 6,
+    "total_works": 198,
+    "composite_integrity_score": 96.97
   },
   {
     "mp_id": 3019139,
@@ -4429,7 +4396,18 @@
     "utilization_rate": null,
     "completion_delay_days": 482.0,
     "is_anomaly": 8,
-    "total_works": 261,
+    "total_works": 262,
+    "composite_integrity_score": 96.95
+  },
+  {
+    "mp_id": 3042331,
+    "mp_name": "JASHUBHAI BHILUBHAI RATHVA",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
+    "utilization_rate": null,
+    "completion_delay_days": 258.0,
+    "is_anomaly": 14,
+    "total_works": 456,
     "composite_integrity_score": 96.93
   },
   {
@@ -4442,6 +4420,17 @@
     "is_anomaly": 12,
     "total_works": 389,
     "composite_integrity_score": 96.92
+  },
+  {
+    "mp_id": 3042432,
+    "mp_name": "NABA CHARAN MAJHI",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 8,
+    "total_works": 258,
+    "composite_integrity_score": 96.9
   },
   {
     "mp_id": 3042302,
@@ -4532,28 +4521,6 @@
     "composite_integrity_score": 96.81
   },
   {
-    "mp_id": 3059498,
-    "mp_name": "Dr. M. Dhanapal (2025-31)",
-    "state_name": "Tamil Nadu",
-    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 62,
-    "composite_integrity_score": 96.77
-  },
-  {
-    "mp_id": 3019200,
-    "mp_name": "Jagdambika Pal(17th Lok Sabha)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": 0.0,
-    "completion_delay_days": null,
-    "is_anomaly": 3,
-    "total_works": 93,
-    "composite_integrity_score": 96.77
-  },
-  {
     "mp_id": 3018419,
     "mp_name": "Nisith Pramanik",
     "state_name": "West Bengal",
@@ -4573,6 +4540,28 @@
     "completion_delay_days": 319.0,
     "is_anomaly": 13,
     "total_works": 403,
+    "composite_integrity_score": 96.77
+  },
+  {
+    "mp_id": 3059498,
+    "mp_name": "Dr. M. Dhanapal (2025-31)",
+    "state_name": "Tamil Nadu",
+    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 62,
+    "composite_integrity_score": 96.77
+  },
+  {
+    "mp_id": 3019200,
+    "mp_name": "Jagdambika Pal(17th Lok Sabha)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": 0.0,
+    "completion_delay_days": null,
+    "is_anomaly": 3,
+    "total_works": 93,
     "composite_integrity_score": 96.77
   },
   {
@@ -4598,17 +4587,6 @@
     "composite_integrity_score": 96.73
   },
   {
-    "mp_id": 3045227,
-    "mp_name": "VAMSI KRISHNA GADDAM",
-    "state_name": "Telangana",
-    "const_name": "ADILABAD(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 6,
-    "total_works": 183,
-    "composite_integrity_score": 96.72
-  },
-  {
     "mp_id": 3018974,
     "mp_name": "Chandeshwar Prasad",
     "state_name": "Bihar",
@@ -4617,6 +4595,17 @@
     "completion_delay_days": 149.78099173553719,
     "is_anomaly": 8,
     "total_works": 244,
+    "composite_integrity_score": 96.72
+  },
+  {
+    "mp_id": 3045227,
+    "mp_name": "VAMSI KRISHNA GADDAM",
+    "state_name": "Telangana",
+    "const_name": "ADILABAD(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 6,
+    "total_works": 183,
     "composite_integrity_score": 96.72
   },
   {
@@ -4664,28 +4653,6 @@
     "composite_integrity_score": 96.64
   },
   {
-    "mp_id": 3042507,
-    "mp_name": "ATUL GARG",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 240.4,
-    "is_anomaly": 3,
-    "total_works": 89,
-    "composite_integrity_score": 96.63
-  },
-  {
-    "mp_id": 3042545,
-    "mp_name": "BAPI HALDAR",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 479.8333333333333,
-    "is_anomaly": 6,
-    "total_works": 178,
-    "composite_integrity_score": 96.63
-  },
-  {
     "mp_id": 3019181,
     "mp_name": "Sanjay Kumar Bandi",
     "state_name": "Telangana",
@@ -4694,6 +4661,17 @@
     "completion_delay_days": 293.3478260869565,
     "is_anomaly": 22,
     "total_works": 653,
+    "composite_integrity_score": 96.63
+  },
+  {
+    "mp_id": 3042507,
+    "mp_name": "ATUL GARG",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 240.4,
+    "is_anomaly": 3,
+    "total_works": 89,
     "composite_integrity_score": 96.63
   },
   {
@@ -4727,17 +4705,6 @@
     "completion_delay_days": null,
     "is_anomaly": 7,
     "total_works": 203,
-    "composite_integrity_score": 96.55
-  },
-  {
-    "mp_id": 3042276,
-    "mp_name": "BISHNU PADA RAY",
-    "state_name": "Andaman And Nicobar Islands",
-    "const_name": "ANDAMAN AND NICOBAR ISLANDS",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 29,
     "composite_integrity_score": 96.55
   },
   {
@@ -4785,17 +4752,6 @@
     "composite_integrity_score": 96.43
   },
   {
-    "mp_id": 3056873,
-    "mp_name": "Shri C. Sadanandan Master (2025-31)",
-    "state_name": "Kerala",
-    "const_name": "Kerala (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 3,
-    "total_works": 83,
-    "composite_integrity_score": 96.39
-  },
-  {
     "mp_id": 3019048,
     "mp_name": "Anto Antony(17th Lok Sabha)",
     "state_name": "Kerala",
@@ -4807,15 +4763,15 @@
     "composite_integrity_score": 96.39
   },
   {
-    "mp_id": 3042922,
-    "mp_name": "Shri Harsh Mahajan (2024-30)",
-    "state_name": "Himachal Pradesh",
-    "const_name": "Himachal Pradesh (Rajya Sabha Nodal District)",
+    "mp_id": 3056873,
+    "mp_name": "Shri C. Sadanandan Master (2025-31)",
+    "state_name": "Kerala",
+    "const_name": "Kerala (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 359.0,
-    "is_anomaly": 20,
-    "total_works": 547,
-    "composite_integrity_score": 96.34
+    "completion_delay_days": null,
+    "is_anomaly": 3,
+    "total_works": 83,
+    "composite_integrity_score": 96.39
   },
   {
     "mp_id": 3018338,
@@ -4829,15 +4785,15 @@
     "composite_integrity_score": 96.34
   },
   {
-    "mp_id": 3043284,
-    "mp_name": "DR.MALLU RAVI",
-    "state_name": "Telangana",
-    "const_name": "ADILABAD(ST)",
+    "mp_id": 3042922,
+    "mp_name": "Shri Harsh Mahajan (2024-30)",
+    "state_name": "Himachal Pradesh",
+    "const_name": "Himachal Pradesh (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 9,
-    "total_works": 245,
-    "composite_integrity_score": 96.33
+    "completion_delay_days": 335.3636363636364,
+    "is_anomaly": 20,
+    "total_works": 547,
+    "composite_integrity_score": 96.34
   },
   {
     "mp_id": 3017403,
@@ -4851,6 +4807,17 @@
     "composite_integrity_score": 96.33
   },
   {
+    "mp_id": 3043284,
+    "mp_name": "DR.MALLU RAVI",
+    "state_name": "Telangana",
+    "const_name": "ADILABAD(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 9,
+    "total_works": 245,
+    "composite_integrity_score": 96.33
+  },
+  {
     "mp_id": 3018991,
     "mp_name": "Bharatsinhji Shankarji Dabhi",
     "state_name": "Gujarat",
@@ -4858,8 +4825,8 @@
     "utilization_rate": 3.416056290192557e-08,
     "completion_delay_days": 146.93939393939394,
     "is_anomaly": 22,
-    "total_works": 588,
-    "composite_integrity_score": 96.26
+    "total_works": 594,
+    "composite_integrity_score": 96.3
   },
   {
     "mp_id": 3018371,
@@ -4906,12 +4873,34 @@
     "composite_integrity_score": 96.09
   },
   {
+    "mp_id": 3017331,
+    "mp_name": "Shri Kapil Sibal (2022-28)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 10,
+    "total_works": 255,
+    "composite_integrity_score": 96.08
+  },
+  {
+    "mp_id": 3042545,
+    "mp_name": "BAPI HALDAR",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": null,
+    "completion_delay_days": 474.46153846153845,
+    "is_anomaly": 7,
+    "total_works": 178,
+    "composite_integrity_score": 96.07
+  },
+  {
     "mp_id": 3018350,
     "mp_name": "Alok Kumar Suman",
     "state_name": "Bihar",
     "const_name": "ARARIA",
     "utilization_rate": 9.198121738081862e-08,
-    "completion_delay_days": 153.10576923076923,
+    "completion_delay_days": 152.47619047619048,
     "is_anomaly": 11,
     "total_works": 279,
     "composite_integrity_score": 96.06
@@ -4928,17 +4917,6 @@
     "composite_integrity_score": 96.04
   },
   {
-    "mp_id": 3042794,
-    "mp_name": "SALENG A SANGMA",
-    "state_name": "Meghalaya",
-    "const_name": "TURA",
-    "utilization_rate": null,
-    "completion_delay_days": 304.93333333333334,
-    "is_anomaly": 14,
-    "total_works": 353,
-    "composite_integrity_score": 96.03
-  },
-  {
     "mp_id": 3017171,
     "mp_name": "Shri Hardeep Singh Puri (2020-26)",
     "state_name": "Uttar Pradesh",
@@ -4947,6 +4925,17 @@
     "completion_delay_days": 383.80645161290323,
     "is_anomaly": 19,
     "total_works": 479,
+    "composite_integrity_score": 96.03
+  },
+  {
+    "mp_id": 3042794,
+    "mp_name": "SALENG A SANGMA",
+    "state_name": "Meghalaya",
+    "const_name": "TURA",
+    "utilization_rate": null,
+    "completion_delay_days": 304.93333333333334,
+    "is_anomaly": 14,
+    "total_works": 353,
     "composite_integrity_score": 96.03
   },
   {
@@ -4961,14 +4950,14 @@
     "composite_integrity_score": 96.03
   },
   {
-    "mp_id": 3060561,
-    "mp_name": "Shri Sat Paul Sharma (2025-31)",
-    "state_name": "Jammu And Kashmir",
-    "const_name": "Jammu And Kashmir (Rajya Sabha Nodal District)",
+    "mp_id": 3042426,
+    "mp_name": "RUDRA NARAYAN PANY",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 25,
+    "completion_delay_days": 199.33333333333334,
+    "is_anomaly": 4,
+    "total_works": 100,
     "composite_integrity_score": 96.0
   },
   {
@@ -4980,6 +4969,17 @@
     "completion_delay_days": null,
     "is_anomaly": 3,
     "total_works": 75,
+    "composite_integrity_score": 96.0
+  },
+  {
+    "mp_id": 3060561,
+    "mp_name": "Shri Sat Paul Sharma (2025-31)",
+    "state_name": "Jammu And Kashmir",
+    "const_name": "Jammu And Kashmir (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 25,
     "composite_integrity_score": 96.0
   },
   {
@@ -5016,15 +5016,15 @@
     "composite_integrity_score": 95.95
   },
   {
-    "mp_id": 3019044,
-    "mp_name": "V Srinivas Prasad(17th Lok Sabha)",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": 5.3965547045894415e-08,
-    "completion_delay_days": 99.27906976744185,
-    "is_anomaly": 5,
-    "total_works": 122,
-    "composite_integrity_score": 95.9
+    "mp_id": 3042433,
+    "mp_name": "BALABHADRA MAJHI",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
+    "utilization_rate": null,
+    "completion_delay_days": 359.07142857142856,
+    "is_anomaly": 9,
+    "total_works": 221,
+    "composite_integrity_score": 95.93
   },
   {
     "mp_id": 3018381,
@@ -5035,6 +5035,17 @@
     "completion_delay_days": 197.9468085106383,
     "is_anomaly": 11,
     "total_works": 268,
+    "composite_integrity_score": 95.9
+  },
+  {
+    "mp_id": 3019044,
+    "mp_name": "V Srinivas Prasad(17th Lok Sabha)",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": 5.3965547045894415e-08,
+    "completion_delay_days": 99.27906976744185,
+    "is_anomaly": 5,
+    "total_works": 122,
     "composite_integrity_score": 95.9
   },
   {
@@ -5071,17 +5082,6 @@
     "composite_integrity_score": 95.81
   },
   {
-    "mp_id": 3019999,
-    "mp_name": "Hans Raj Hans (17th Lok Sabha)",
-    "state_name": "Delhi",
-    "const_name": "NORTH WEST DELHI(SC)",
-    "utilization_rate": 5.830196076136965e-08,
-    "completion_delay_days": 42.875,
-    "is_anomaly": 4,
-    "total_works": 95,
-    "composite_integrity_score": 95.79
-  },
-  {
     "mp_id": 3042449,
     "mp_name": "KULDEEP INDORA",
     "state_name": "Rajasthan",
@@ -5102,6 +5102,28 @@
     "is_anomaly": 9,
     "total_works": 214,
     "composite_integrity_score": 95.79
+  },
+  {
+    "mp_id": 3019999,
+    "mp_name": "Hans Raj Hans (17th Lok Sabha)",
+    "state_name": "Delhi",
+    "const_name": "NORTH WEST DELHI(SC)",
+    "utilization_rate": 5.830196076136965e-08,
+    "completion_delay_days": 42.875,
+    "is_anomaly": 4,
+    "total_works": 95,
+    "composite_integrity_score": 95.79
+  },
+  {
+    "mp_id": 3017478,
+    "mp_name": "Smt Satabdi Roy (Banerjee)",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 5,
+    "total_works": 118,
+    "composite_integrity_score": 95.76
   },
   {
     "mp_id": 3042452,
@@ -5148,15 +5170,15 @@
     "composite_integrity_score": 95.71
   },
   {
-    "mp_id": 3017331,
-    "mp_name": "Shri Kapil Sibal (2022-28)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "mp_id": 3049850,
+    "mp_name": "Smt. Rekha Sharma (2024-28)",
+    "state_name": "Haryana",
+    "const_name": "Haryana (Rajya Sabha Nodal District)",
     "utilization_rate": null,
     "completion_delay_days": null,
-    "is_anomaly": 11,
-    "total_works": 255,
-    "composite_integrity_score": 95.69
+    "is_anomaly": 8,
+    "total_works": 185,
+    "composite_integrity_score": 95.68
   },
   {
     "mp_id": 3019112,
@@ -5167,17 +5189,6 @@
     "completion_delay_days": 276.15,
     "is_anomaly": 4,
     "total_works": 92,
-    "composite_integrity_score": 95.65
-  },
-  {
-    "mp_id": 3049850,
-    "mp_name": "Smt. Rekha Sharma (2024-28)",
-    "state_name": "Haryana",
-    "const_name": "Haryana (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 8,
-    "total_works": 184,
     "composite_integrity_score": 95.65
   },
   {
@@ -5219,7 +5230,7 @@
     "state_name": "Rajasthan",
     "const_name": "AJMER",
     "utilization_rate": null,
-    "completion_delay_days": 428.75,
+    "completion_delay_days": 396.4,
     "is_anomaly": 7,
     "total_works": 159,
     "composite_integrity_score": 95.6
@@ -5233,17 +5244,6 @@
     "completion_delay_days": 160.58447488584474,
     "is_anomaly": 36,
     "total_works": 819,
-    "composite_integrity_score": 95.6
-  },
-  {
-    "mp_id": 3042426,
-    "mp_name": "RUDRA NARAYAN PANY",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": null,
-    "completion_delay_days": 199.33333333333334,
-    "is_anomaly": 4,
-    "total_works": 91,
     "composite_integrity_score": 95.6
   },
   {
@@ -5267,17 +5267,6 @@
     "is_anomaly": 6,
     "total_works": 136,
     "composite_integrity_score": 95.59
-  },
-  {
-    "mp_id": 3017478,
-    "mp_name": "Smt Satabdi Roy (Banerjee)",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 5,
-    "total_works": 113,
-    "composite_integrity_score": 95.58
   },
   {
     "mp_id": 3017264,
@@ -5324,15 +5313,15 @@
     "composite_integrity_score": 95.45
   },
   {
-    "mp_id": 3043225,
-    "mp_name": "BHARATBHAI MANUBHAI SUTARIYA",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
+    "mp_id": 3017247,
+    "mp_name": "Shri Abdul Wahab (2021-27)",
+    "state_name": "Kerala",
+    "const_name": "Kerala (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 265.77777777777777,
-    "is_anomaly": 17,
-    "total_works": 372,
-    "composite_integrity_score": 95.43
+    "completion_delay_days": 237.41666666666666,
+    "is_anomaly": 18,
+    "total_works": 395,
+    "composite_integrity_score": 95.44
   },
   {
     "mp_id": 3042328,
@@ -5346,15 +5335,15 @@
     "composite_integrity_score": 95.43
   },
   {
-    "mp_id": 3017247,
-    "mp_name": "Shri Abdul Wahab (2021-27)",
-    "state_name": "Kerala",
-    "const_name": "Kerala (Rajya Sabha Nodal District)",
+    "mp_id": 3042327,
+    "mp_name": "BHOJRAJ NAG",
+    "state_name": "Chhattisgarh",
+    "const_name": "RAIGARH(ST)",
     "utilization_rate": null,
-    "completion_delay_days": 237.41666666666666,
-    "is_anomaly": 18,
-    "total_works": 393,
-    "composite_integrity_score": 95.42
+    "completion_delay_days": 453.5,
+    "is_anomaly": 5,
+    "total_works": 109,
+    "composite_integrity_score": 95.41
   },
   {
     "mp_id": 3042336,
@@ -5368,15 +5357,15 @@
     "composite_integrity_score": 95.41
   },
   {
-    "mp_id": 3042327,
-    "mp_name": "BHOJRAJ NAG",
-    "state_name": "Chhattisgarh",
-    "const_name": "RAIGARH(ST)",
+    "mp_id": 3042295,
+    "mp_name": "PHANI BHUSAN CHOUDHURY",
+    "state_name": "Assam",
+    "const_name": "BARPETA",
     "utilization_rate": null,
-    "completion_delay_days": 453.5,
-    "is_anomaly": 5,
-    "total_works": 109,
-    "composite_integrity_score": 95.41
+    "completion_delay_days": 242.0,
+    "is_anomaly": 4,
+    "total_works": 87,
+    "composite_integrity_score": 95.4
   },
   {
     "mp_id": 3019196,
@@ -5390,15 +5379,15 @@
     "composite_integrity_score": 95.4
   },
   {
-    "mp_id": 3042295,
-    "mp_name": "PHANI BHUSAN CHOUDHURY",
-    "state_name": "Assam",
-    "const_name": "BARPETA",
-    "utilization_rate": null,
-    "completion_delay_days": 242.0,
-    "is_anomaly": 4,
-    "total_works": 87,
-    "composite_integrity_score": 95.4
+    "mp_id": 3019122,
+    "mp_name": "Vaithilingam Ve(17th Lok Sabha)",
+    "state_name": "Puducherry",
+    "const_name": "Puducherry",
+    "utilization_rate": 1.0914059362865274e-07,
+    "completion_delay_days": 87.12765957446808,
+    "is_anomaly": 3,
+    "total_works": 65,
+    "composite_integrity_score": 95.38
   },
   {
     "mp_id": 3017329,
@@ -5409,17 +5398,6 @@
     "completion_delay_days": 89.0,
     "is_anomaly": 9,
     "total_works": 195,
-    "composite_integrity_score": 95.38
-  },
-  {
-    "mp_id": 3019122,
-    "mp_name": "Vaithilingam Ve(17th Lok Sabha)",
-    "state_name": "Puducherry",
-    "const_name": "Puducherry",
-    "utilization_rate": 1.0914059362865274e-07,
-    "completion_delay_days": 87.12765957446808,
-    "is_anomaly": 3,
-    "total_works": 65,
     "composite_integrity_score": 95.38
   },
   {
@@ -5434,17 +5412,6 @@
     "composite_integrity_score": 95.36
   },
   {
-    "mp_id": 3019093,
-    "mp_name": "Ramdas Chandrabhanji Tadas(17th Lok Sabha)",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": 4.0438641484922276e-08,
-    "completion_delay_days": 112.58974358974359,
-    "is_anomaly": 10,
-    "total_works": 215,
-    "composite_integrity_score": 95.35
-  },
-  {
     "mp_id": 3042389,
     "mp_name": "SHIVMANGAL SINGH TOMAR",
     "state_name": "Madhya Pradesh",
@@ -5453,6 +5420,17 @@
     "completion_delay_days": null,
     "is_anomaly": 4,
     "total_works": 86,
+    "composite_integrity_score": 95.35
+  },
+  {
+    "mp_id": 3019093,
+    "mp_name": "Ramdas Chandrabhanji Tadas(17th Lok Sabha)",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": 4.0438641484922276e-08,
+    "completion_delay_days": 112.58974358974359,
+    "is_anomaly": 10,
+    "total_works": 215,
     "composite_integrity_score": 95.35
   },
   {
@@ -5489,6 +5467,17 @@
     "composite_integrity_score": 95.28
   },
   {
+    "mp_id": 3049783,
+    "mp_name": "Shri Sujeet Kumar (2026-32)",
+    "state_name": "Odisha",
+    "const_name": "Odisha (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 8.0,
+    "is_anomaly": 2,
+    "total_works": 42,
+    "composite_integrity_score": 95.24
+  },
+  {
     "mp_id": 3018415,
     "mp_name": "Mala Rajya Laxmi Shah ",
     "state_name": "Uttarakhand",
@@ -5522,14 +5511,14 @@
     "composite_integrity_score": 95.16
   },
   {
-    "mp_id": 3017425,
-    "mp_name": "Shri Anil Firojiya",
-    "state_name": "Madhya Pradesh",
-    "const_name": "BETUL(ST)",
+    "mp_id": 3043225,
+    "mp_name": "BHARATBHAI MANUBHAI SUTARIYA",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
     "utilization_rate": null,
-    "completion_delay_days": 454.0,
-    "is_anomaly": 12,
-    "total_works": 248,
+    "completion_delay_days": 262.4310344827586,
+    "is_anomaly": 18,
+    "total_works": 372,
     "composite_integrity_score": 95.16
   },
   {
@@ -5577,17 +5566,6 @@
     "composite_integrity_score": 95.05
   },
   {
-    "mp_id": 3042324,
-    "mp_name": "MAHESH KASHYAP",
-    "state_name": "Chhattisgarh",
-    "const_name": "RAIGARH(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": 452.8,
-    "is_anomaly": 12,
-    "total_works": 240,
-    "composite_integrity_score": 95.0
-  },
-  {
     "mp_id": 3044811,
     "mp_name": "Smt. Mamata Thakur (2024-30)",
     "state_name": "West Bengal",
@@ -5596,6 +5574,17 @@
     "completion_delay_days": 321.0,
     "is_anomaly": 3,
     "total_works": 60,
+    "composite_integrity_score": 95.0
+  },
+  {
+    "mp_id": 3042324,
+    "mp_name": "MAHESH KASHYAP",
+    "state_name": "Chhattisgarh",
+    "const_name": "RAIGARH(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": 452.8,
+    "is_anomaly": 12,
+    "total_works": 240,
     "composite_integrity_score": 95.0
   },
   {
@@ -5615,7 +5604,7 @@
     "state_name": "Chhattisgarh",
     "const_name": "Chhattisgarh (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": null,
+    "completion_delay_days": 95.0,
     "is_anomaly": 1,
     "total_works": 20,
     "composite_integrity_score": 95.0
@@ -5643,6 +5632,17 @@
     "composite_integrity_score": 94.94
   },
   {
+    "mp_id": 3042323,
+    "mp_name": "MANISH TEWARI",
+    "state_name": "Chandigarh",
+    "const_name": "CHANDIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 276.44444444444446,
+    "is_anomaly": 6,
+    "total_works": 118,
+    "composite_integrity_score": 94.92
+  },
+  {
     "mp_id": 3042356,
     "mp_name": "JOBA MAJHI",
     "state_name": "Jharkhand",
@@ -5665,17 +5665,6 @@
     "composite_integrity_score": 94.87
   },
   {
-    "mp_id": 3042323,
-    "mp_name": "MANISH TEWARI",
-    "state_name": "Chandigarh",
-    "const_name": "CHANDIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 276.44444444444446,
-    "is_anomaly": 6,
-    "total_works": 117,
-    "composite_integrity_score": 94.87
-  },
-  {
     "mp_id": 3017289,
     "mp_name": "Shri Pramod Tiwari (2022-28)",
     "state_name": "Rajasthan",
@@ -5687,23 +5676,23 @@
     "composite_integrity_score": 94.85
   },
   {
-    "mp_id": 3020006,
-    "mp_name": "Shri Narain Dass Gupta (2024-30)",
-    "state_name": "Delhi",
-    "const_name": "Delhi (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 216.4,
-    "is_anomaly": 3,
-    "total_works": 58,
-    "composite_integrity_score": 94.83
-  },
-  {
     "mp_id": 3017479,
     "mp_name": "Shri Shantanu Thakur ",
     "state_name": "West Bengal",
     "const_name": "ARAMBAG(SC)",
     "utilization_rate": null,
     "completion_delay_days": null,
+    "is_anomaly": 3,
+    "total_works": 58,
+    "composite_integrity_score": 94.83
+  },
+  {
+    "mp_id": 3020006,
+    "mp_name": "Shri Narain Dass Gupta (2024-30)",
+    "state_name": "Delhi",
+    "const_name": "Delhi (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 216.4,
     "is_anomaly": 3,
     "total_works": 58,
     "composite_integrity_score": 94.83
@@ -5736,9 +5725,20 @@
     "state_name": "Uttar Pradesh",
     "const_name": "ALIGARH",
     "utilization_rate": null,
-    "completion_delay_days": 347.8,
+    "completion_delay_days": 343.125,
     "is_anomaly": 9,
     "total_works": 173,
+    "composite_integrity_score": 94.8
+  },
+  {
+    "mp_id": 3017425,
+    "mp_name": "Shri Anil Firojiya",
+    "state_name": "Madhya Pradesh",
+    "const_name": "BETUL(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": 454.0,
+    "is_anomaly": 13,
+    "total_works": 250,
     "composite_integrity_score": 94.8
   },
   {
@@ -5797,6 +5797,17 @@
     "composite_integrity_score": 94.67
   },
   {
+    "mp_id": 3017175,
+    "mp_name": "S. Jagathrakshakan",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": 8.176411213617682e-08,
+    "completion_delay_days": 124.74025974025975,
+    "is_anomaly": 14,
+    "total_works": 262,
+    "composite_integrity_score": 94.66
+  },
+  {
     "mp_id": 3019121,
     "mp_name": "Smt Sarmistha Sethi(17th Lok Sabha)",
     "state_name": "Odisha",
@@ -5806,17 +5817,6 @@
     "is_anomaly": 11,
     "total_works": 206,
     "composite_integrity_score": 94.66
-  },
-  {
-    "mp_id": 3017175,
-    "mp_name": "S. Jagathrakshakan",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": 8.176411213617682e-08,
-    "completion_delay_days": 124.74025974025975,
-    "is_anomaly": 14,
-    "total_works": 261,
-    "composite_integrity_score": 94.64
   },
   {
     "mp_id": 3042453,
@@ -5885,15 +5885,15 @@
     "composite_integrity_score": 94.53
   },
   {
-    "mp_id": 3043487,
-    "mp_name": "DR. MANSUKH MANDAVIYA",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
+    "mp_id": 3042359,
+    "mp_name": "E. TUKARAM",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
     "utilization_rate": null,
-    "completion_delay_days": 244.64285714285714,
-    "is_anomaly": 17,
-    "total_works": 310,
-    "composite_integrity_score": 94.52
+    "completion_delay_days": 73.0,
+    "is_anomaly": 5,
+    "total_works": 91,
+    "composite_integrity_score": 94.51
   },
   {
     "mp_id": 3019169,
@@ -5905,28 +5905,6 @@
     "is_anomaly": 10,
     "total_works": 182,
     "composite_integrity_score": 94.51
-  },
-  {
-    "mp_id": 3042359,
-    "mp_name": "E. TUKARAM",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": 87.0,
-    "is_anomaly": 5,
-    "total_works": 91,
-    "composite_integrity_score": 94.51
-  },
-  {
-    "mp_id": 3018402,
-    "mp_name": "Swami Sachchidanandhari Sakshi ji Maharaj ",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 545.0,
-    "is_anomaly": 5,
-    "total_works": 90,
-    "composite_integrity_score": 94.44
   },
   {
     "mp_id": 3017341,
@@ -5948,6 +5926,17 @@
     "completion_delay_days": 349.6842105263158,
     "is_anomaly": 12,
     "total_works": 216,
+    "composite_integrity_score": 94.44
+  },
+  {
+    "mp_id": 3018402,
+    "mp_name": "Swami Sachchidanandhari Sakshi ji Maharaj ",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 545.0,
+    "is_anomaly": 5,
+    "total_works": 90,
     "composite_integrity_score": 94.44
   },
   {
@@ -5984,15 +5973,15 @@
     "composite_integrity_score": 94.37
   },
   {
-    "mp_id": 3017365,
-    "mp_name": "Dr. Sasmit Patra (2022-28)",
-    "state_name": "Odisha",
-    "const_name": "Odisha (Rajya Sabha Nodal District)",
+    "mp_id": 3042458,
+    "mp_name": "THARANIVENTHAN M S",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
     "utilization_rate": null,
-    "completion_delay_days": 465.3333333333333,
-    "is_anomaly": 18,
-    "total_works": 315,
-    "composite_integrity_score": 94.29
+    "completion_delay_days": 410.4761904761905,
+    "is_anomaly": 19,
+    "total_works": 335,
+    "composite_integrity_score": 94.33
   },
   {
     "mp_id": 3019241,
@@ -6094,17 +6083,6 @@
     "composite_integrity_score": 94.1
   },
   {
-    "mp_id": 3042458,
-    "mp_name": "THARANIVENTHAN M S",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": null,
-    "completion_delay_days": 410.4761904761905,
-    "is_anomaly": 19,
-    "total_works": 321,
-    "composite_integrity_score": 94.08
-  },
-  {
     "mp_id": 3019156,
     "mp_name": "K Subbarayan",
     "state_name": "Tamil Nadu",
@@ -6127,17 +6105,6 @@
     "composite_integrity_score": 94.05
   },
   {
-    "mp_id": 3042404,
-    "mp_name": "AASHTIKAR PATIL NAGESH BAPURAO",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 7,
-    "total_works": 117,
-    "composite_integrity_score": 94.02
-  },
-  {
     "mp_id": 3019041,
     "mp_name": "Sanganna Amarappa Karadi(17th Lok Sabha)",
     "state_name": "Karnataka",
@@ -6146,6 +6113,17 @@
     "completion_delay_days": 227.02739726027397,
     "is_anomaly": 18,
     "total_works": 301,
+    "composite_integrity_score": 94.02
+  },
+  {
+    "mp_id": 3042404,
+    "mp_name": "AASHTIKAR PATIL NAGESH BAPURAO",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 7,
+    "total_works": 117,
     "composite_integrity_score": 94.02
   },
   {
@@ -6158,6 +6136,17 @@
     "is_anomaly": 23,
     "total_works": 380,
     "composite_integrity_score": 93.95
+  },
+  {
+    "mp_id": 3043487,
+    "mp_name": "DR. MANSUKH MANDAVIYA",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
+    "utilization_rate": null,
+    "completion_delay_days": 228.53333333333333,
+    "is_anomaly": 19,
+    "total_works": 312,
+    "composite_integrity_score": 93.91
   },
   {
     "mp_id": 3042797,
@@ -6215,17 +6204,6 @@
     "composite_integrity_score": 93.81
   },
   {
-    "mp_id": 3042791,
-    "mp_name": "MUHAMMED HAMDULLAH SAYEED",
-    "state_name": "Lakshadweep",
-    "const_name": "LAKSHADWEEP(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 32,
-    "composite_integrity_score": 93.75
-  },
-  {
     "mp_id": 3042454,
     "mp_name": "MAHIMA KUMARI MEWAR",
     "state_name": "Rajasthan",
@@ -6237,15 +6215,15 @@
     "composite_integrity_score": 93.75
   },
   {
-    "mp_id": 3017409,
-    "mp_name": "Shri M K Raghavan (17th Lok Sabha)",
-    "state_name": "Kerala",
-    "const_name": "KANNUR",
-    "utilization_rate": 3.225248221799452e-08,
-    "completion_delay_days": 99.77990430622009,
-    "is_anomaly": 14,
-    "total_works": 222,
-    "composite_integrity_score": 93.69
+    "mp_id": 3042791,
+    "mp_name": "MUHAMMED HAMDULLAH SAYEED",
+    "state_name": "Lakshadweep",
+    "const_name": "LAKSHADWEEP(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 32,
+    "composite_integrity_score": 93.75
   },
   {
     "mp_id": 3017412,
@@ -6256,6 +6234,17 @@
     "completion_delay_days": 397.22222222222223,
     "is_anomaly": 13,
     "total_works": 206,
+    "composite_integrity_score": 93.69
+  },
+  {
+    "mp_id": 3017409,
+    "mp_name": "Shri M K Raghavan (17th Lok Sabha)",
+    "state_name": "Kerala",
+    "const_name": "KANNUR",
+    "utilization_rate": 3.225248221799452e-08,
+    "completion_delay_days": 99.77990430622009,
+    "is_anomaly": 14,
+    "total_works": 222,
     "composite_integrity_score": 93.69
   },
   {
@@ -6281,26 +6270,26 @@
     "composite_integrity_score": 93.65
   },
   {
+    "mp_id": 3017365,
+    "mp_name": "Dr. Sasmit Patra (2022-28)",
+    "state_name": "Odisha",
+    "const_name": "Odisha (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 465.3333333333333,
+    "is_anomaly": 20,
+    "total_works": 315,
+    "composite_integrity_score": 93.65
+  },
+  {
     "mp_id": 3017413,
     "mp_name": "Shri Benny Behanan",
     "state_name": "Kerala",
     "const_name": "KANNUR",
     "utilization_rate": null,
-    "completion_delay_days": 263.9130434782609,
+    "completion_delay_days": 259.6,
     "is_anomaly": 11,
     "total_works": 173,
     "composite_integrity_score": 93.64
-  },
-  {
-    "mp_id": 3042309,
-    "mp_name": "JITAN RAM MANJHI",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
-    "utilization_rate": null,
-    "completion_delay_days": 296.8301886792453,
-    "is_anomaly": 18,
-    "total_works": 282,
-    "composite_integrity_score": 93.62
   },
   {
     "mp_id": 3019103,
@@ -6314,14 +6303,25 @@
     "composite_integrity_score": 93.58
   },
   {
-    "mp_id": 3044092,
-    "mp_name": "Shri Satnam Singh Sandhu (2024-30)",
-    "state_name": "Chandigarh",
-    "const_name": "Chandigarh (Rajya Sabha Nodal District)",
+    "mp_id": 3042483,
+    "mp_name": "PATEL UMESHBHAI BABUBHAI",
+    "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
+    "const_name": "DAMAN and DIU",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 31,
+    "completion_delay_days": 29.0,
+    "is_anomaly": 4,
+    "total_works": 62,
+    "composite_integrity_score": 93.55
+  },
+  {
+    "mp_id": 3017404,
+    "mp_name": "Shri Gangasandra Siddappa Basavaraj (17th Lok Sabha)",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": 3.1119435408527496e-08,
+    "completion_delay_days": 157.03896103896105,
+    "is_anomaly": 14,
+    "total_works": 217,
     "composite_integrity_score": 93.55
   },
   {
@@ -6347,25 +6347,25 @@
     "composite_integrity_score": 93.55
   },
   {
-    "mp_id": 3017404,
-    "mp_name": "Shri Gangasandra Siddappa Basavaraj (17th Lok Sabha)",
+    "mp_id": 3042374,
+    "mp_name": "V. SOMANNA",
     "state_name": "Karnataka",
     "const_name": "BANGALORE RURAL",
-    "utilization_rate": 3.1119435408527496e-08,
-    "completion_delay_days": 157.03896103896105,
-    "is_anomaly": 14,
-    "total_works": 217,
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 4,
+    "total_works": 62,
     "composite_integrity_score": 93.55
   },
   {
-    "mp_id": 3042483,
-    "mp_name": "PATEL UMESHBHAI BABUBHAI",
-    "state_name": "The Dadra And Nagar Haveli And Daman And Diu",
-    "const_name": "DAMAN and DIU",
+    "mp_id": 3044092,
+    "mp_name": "Shri Satnam Singh Sandhu (2024-30)",
+    "state_name": "Chandigarh",
+    "const_name": "Chandigarh (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 29.0,
-    "is_anomaly": 4,
-    "total_works": 62,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 31,
     "composite_integrity_score": 93.55
   },
   {
@@ -6378,17 +6378,6 @@
     "is_anomaly": 19,
     "total_works": 292,
     "composite_integrity_score": 93.49
-  },
-  {
-    "mp_id": 3042374,
-    "mp_name": "V. SOMANNA",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 4,
-    "total_works": 61,
-    "composite_integrity_score": 93.44
   },
   {
     "mp_id": 3061061,
@@ -6468,17 +6457,6 @@
     "composite_integrity_score": 93.18
   },
   {
-    "mp_id": 3042290,
-    "mp_name": "PRABHAKAR REDDY VEMIREDDY",
-    "state_name": "Andhra Pradesh",
-    "const_name": "ANAKAPALLE",
-    "utilization_rate": null,
-    "completion_delay_days": 353.85714285714283,
-    "is_anomaly": 14,
-    "total_works": 205,
-    "composite_integrity_score": 93.17
-  },
-  {
     "mp_id": 3042491,
     "mp_name": "ADITYA YADAV",
     "state_name": "Uttar Pradesh",
@@ -6490,15 +6468,15 @@
     "composite_integrity_score": 93.17
   },
   {
-    "mp_id": 3017176,
-    "mp_name": "Ajay Bhatt",
-    "state_name": "Uttarakhand",
-    "const_name": "NAINITAL UDHAM SINGH NAG.",
-    "utilization_rate": 1.60063879120384e-08,
-    "completion_delay_days": 311.574358974359,
-    "is_anomaly": 60,
-    "total_works": 865,
-    "composite_integrity_score": 93.06
+    "mp_id": 3042290,
+    "mp_name": "PRABHAKAR REDDY VEMIREDDY",
+    "state_name": "Andhra Pradesh",
+    "const_name": "ANAKAPALLE",
+    "utilization_rate": null,
+    "completion_delay_days": 353.85714285714283,
+    "is_anomaly": 14,
+    "total_works": 205,
+    "composite_integrity_score": 93.17
   },
   {
     "mp_id": 3042386,
@@ -6508,19 +6486,19 @@
     "utilization_rate": null,
     "completion_delay_days": 61.25,
     "is_anomaly": 12,
-    "total_works": 173,
-    "composite_integrity_score": 93.06
+    "total_works": 175,
+    "composite_integrity_score": 93.14
   },
   {
-    "mp_id": 3042435,
-    "mp_name": "DHARMENDRA PRADHAN",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 8,
-    "total_works": 115,
-    "composite_integrity_score": 93.04
+    "mp_id": 3017176,
+    "mp_name": "Ajay Bhatt",
+    "state_name": "Uttarakhand",
+    "const_name": "NAINITAL UDHAM SINGH NAG.",
+    "utilization_rate": 1.60063879120384e-08,
+    "completion_delay_days": 312.06598984771574,
+    "is_anomaly": 60,
+    "total_works": 865,
+    "composite_integrity_score": 93.06
   },
   {
     "mp_id": 3019643,
@@ -6545,15 +6523,15 @@
     "composite_integrity_score": 92.92
   },
   {
-    "mp_id": 3018353,
-    "mp_name": "Ashok Kumar Yadav",
+    "mp_id": 3042309,
+    "mp_name": "JITAN RAM MANJHI",
     "state_name": "Bihar",
     "const_name": "ARARIA",
-    "utilization_rate": 1.1477064765590832e-07,
-    "completion_delay_days": 137.20238095238096,
-    "is_anomaly": 6,
-    "total_works": 84,
-    "composite_integrity_score": 92.86
+    "utilization_rate": null,
+    "completion_delay_days": 305.4727272727273,
+    "is_anomaly": 20,
+    "total_works": 282,
+    "composite_integrity_score": 92.91
   },
   {
     "mp_id": 3019039,
@@ -6563,7 +6541,29 @@
     "utilization_rate": null,
     "completion_delay_days": 256.05479452054794,
     "is_anomaly": 35,
-    "total_works": 490,
+    "total_works": 491,
+    "composite_integrity_score": 92.87
+  },
+  {
+    "mp_id": 3056872,
+    "mp_name": "Smt. Rajathi (2025-31)",
+    "state_name": "Tamil Nadu",
+    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 5,
+    "total_works": 70,
+    "composite_integrity_score": 92.86
+  },
+  {
+    "mp_id": 3018353,
+    "mp_name": "Ashok Kumar Yadav",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": 1.1477064765590832e-07,
+    "completion_delay_days": 137.20238095238096,
+    "is_anomaly": 6,
+    "total_works": 84,
     "composite_integrity_score": 92.86
   },
   {
@@ -6587,17 +6587,6 @@
     "is_anomaly": 14,
     "total_works": 195,
     "composite_integrity_score": 92.82
-  },
-  {
-    "mp_id": 3042481,
-    "mp_name": "EATALA RAJENDER",
-    "state_name": "Telangana",
-    "const_name": "ADILABAD(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": 459.6666666666667,
-    "is_anomaly": 23,
-    "total_works": 320,
-    "composite_integrity_score": 92.81
   },
   {
     "mp_id": 3019170,
@@ -6644,6 +6633,17 @@
     "composite_integrity_score": 92.63
   },
   {
+    "mp_id": 3019069,
+    "mp_name": "Smt Himadri Singh",
+    "state_name": "Madhya Pradesh",
+    "const_name": "BETUL(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": 334.0,
+    "is_anomaly": 17,
+    "total_works": 230,
+    "composite_integrity_score": 92.61
+  },
+  {
     "mp_id": 3019078,
     "mp_name": "Ms Bhavana Gawali (Patil)(17th Lok Sabha)",
     "state_name": "Maharashtra",
@@ -6666,15 +6666,15 @@
     "composite_integrity_score": 92.57
   },
   {
-    "mp_id": 3019069,
-    "mp_name": "Smt Himadri Singh",
-    "state_name": "Madhya Pradesh",
-    "const_name": "BETUL(ST)",
+    "mp_id": 3042481,
+    "mp_name": "EATALA RAJENDER",
+    "state_name": "Telangana",
+    "const_name": "ADILABAD(ST)",
     "utilization_rate": null,
-    "completion_delay_days": 334.0,
-    "is_anomaly": 17,
-    "total_works": 227,
-    "composite_integrity_score": 92.51
+    "completion_delay_days": 459.6666666666667,
+    "is_anomaly": 24,
+    "total_works": 321,
+    "composite_integrity_score": 92.52
   },
   {
     "mp_id": 3017509,
@@ -6743,17 +6743,6 @@
     "composite_integrity_score": 92.42
   },
   {
-    "mp_id": 3017501,
-    "mp_name": "Smt. Ranjeet Ranjan (2022-28)",
-    "state_name": "Chhattisgarh",
-    "const_name": "Chhattisgarh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 157.8,
-    "is_anomaly": 22,
-    "total_works": 288,
-    "composite_integrity_score": 92.36
-  },
-  {
     "mp_id": 3042494,
     "mp_name": "SANATAN PANDEY",
     "state_name": "Uttar Pradesh",
@@ -6762,6 +6751,17 @@
     "completion_delay_days": 574.4716981132076,
     "is_anomaly": 53,
     "total_works": 694,
+    "composite_integrity_score": 92.36
+  },
+  {
+    "mp_id": 3017501,
+    "mp_name": "Smt. Ranjeet Ranjan (2022-28)",
+    "state_name": "Chhattisgarh",
+    "const_name": "Chhattisgarh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 157.8,
+    "is_anomaly": 22,
+    "total_works": 288,
     "composite_integrity_score": 92.36
   },
   {
@@ -6864,6 +6864,17 @@
     "composite_integrity_score": 91.84
   },
   {
+    "mp_id": 3019058,
+    "mp_name": "Gyaneshwar Patil(17th Lok Sabha)",
+    "state_name": "Madhya Pradesh",
+    "const_name": "BETUL(ST)",
+    "utilization_rate": 4.913511913212687e-08,
+    "completion_delay_days": 170.07142857142858,
+    "is_anomaly": 14,
+    "total_works": 170,
+    "composite_integrity_score": 91.76
+  },
+  {
     "mp_id": 3043966,
     "mp_name": "Shri Banshilal Gurjar (2024-30)",
     "state_name": "Madhya Pradesh",
@@ -6875,15 +6886,15 @@
     "composite_integrity_score": 91.76
   },
   {
-    "mp_id": 3019058,
-    "mp_name": "Gyaneshwar Patil(17th Lok Sabha)",
-    "state_name": "Madhya Pradesh",
-    "const_name": "BETUL(ST)",
-    "utilization_rate": 4.913511913212687e-08,
-    "completion_delay_days": 170.07142857142858,
-    "is_anomaly": 14,
-    "total_works": 170,
-    "composite_integrity_score": 91.76
+    "mp_id": 3017389,
+    "mp_name": "Shri Amit Shah",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 10,
+    "total_works": 121,
+    "composite_integrity_score": 91.74
   },
   {
     "mp_id": 3019234,
@@ -6906,17 +6917,6 @@
     "is_anomaly": 24,
     "total_works": 289,
     "composite_integrity_score": 91.7
-  },
-  {
-    "mp_id": 3017389,
-    "mp_name": "Shri Amit Shah",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 10,
-    "total_works": 120,
-    "composite_integrity_score": 91.67
   },
   {
     "mp_id": 3042281,
@@ -6952,6 +6952,17 @@
     "composite_integrity_score": 91.59
   },
   {
+    "mp_id": 3017290,
+    "mp_name": "Shri Randeep Singh Surjewala (2022-28)",
+    "state_name": "Rajasthan",
+    "const_name": "Rajasthan (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 359.2,
+    "is_anomaly": 14,
+    "total_works": 166,
+    "composite_integrity_score": 91.57
+  },
+  {
     "mp_id": 3042555,
     "mp_name": "Shri Chunnilal Garasiya (2024-30)",
     "state_name": "Rajasthan",
@@ -6972,17 +6983,6 @@
     "is_anomaly": 18,
     "total_works": 213,
     "composite_integrity_score": 91.55
-  },
-  {
-    "mp_id": 3017290,
-    "mp_name": "Shri Randeep Singh Surjewala (2022-28)",
-    "state_name": "Rajasthan",
-    "const_name": "Rajasthan (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 359.2,
-    "is_anomaly": 14,
-    "total_works": 165,
-    "composite_integrity_score": 91.52
   },
   {
     "mp_id": 3043716,
@@ -7007,17 +7007,6 @@
     "composite_integrity_score": 91.41
   },
   {
-    "mp_id": 3056872,
-    "mp_name": "Smt. Rajathi (2025-31)",
-    "state_name": "Tamil Nadu",
-    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 5,
-    "total_works": 58,
-    "composite_integrity_score": 91.38
-  },
-  {
     "mp_id": 3019248,
     "mp_name": "Shri Jairam Ramesh (2022-28)",
     "state_name": "Karnataka",
@@ -7038,6 +7027,17 @@
     "is_anomaly": 41,
     "total_works": 473,
     "composite_integrity_score": 91.33
+  },
+  {
+    "mp_id": 3042435,
+    "mp_name": "DHARMENDRA PRADHAN",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 10,
+    "total_works": 115,
+    "composite_integrity_score": 91.3
   },
   {
     "mp_id": 3018989,
@@ -7117,6 +7117,17 @@
     "composite_integrity_score": 90.99
   },
   {
+    "mp_id": 3019008,
+    "mp_name": "Ramesh Chander Kaushik",
+    "state_name": "Haryana",
+    "const_name": "SONEPAT",
+    "utilization_rate": 3.229381176178837e-08,
+    "completion_delay_days": 300.15942028985506,
+    "is_anomaly": 12,
+    "total_works": 133,
+    "composite_integrity_score": 90.98
+  },
+  {
     "mp_id": 3019178,
     "mp_name": "Manne Srinivas Reddy(17th Lok Sabha)",
     "state_name": "Telangana",
@@ -7128,15 +7139,15 @@
     "composite_integrity_score": 90.98
   },
   {
-    "mp_id": 3019008,
-    "mp_name": "Ramesh Chander Kaushik",
-    "state_name": "Haryana",
-    "const_name": "SONEPAT",
-    "utilization_rate": 3.229381176178837e-08,
-    "completion_delay_days": 300.15942028985506,
-    "is_anomaly": 12,
-    "total_works": 133,
-    "composite_integrity_score": 90.98
+    "mp_id": 3042279,
+    "mp_name": "AMBICA G LAKSHMINARAYANA VALMIKI",
+    "state_name": "Andhra Pradesh",
+    "const_name": "ANAKAPALLE",
+    "utilization_rate": null,
+    "completion_delay_days": 389.75,
+    "is_anomaly": 17,
+    "total_works": 187,
+    "composite_integrity_score": 90.91
   },
   {
     "mp_id": 3022960,
@@ -7161,28 +7172,6 @@
     "composite_integrity_score": 90.91
   },
   {
-    "mp_id": 3043409,
-    "mp_name": "Shri Devendra Pratap Singh (2024-30)",
-    "state_name": "Chhattisgarh",
-    "const_name": "Chhattisgarh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 22,
-    "composite_integrity_score": 90.91
-  },
-  {
-    "mp_id": 3042279,
-    "mp_name": "AMBICA G LAKSHMINARAYANA VALMIKI",
-    "state_name": "Andhra Pradesh",
-    "const_name": "ANAKAPALLE",
-    "utilization_rate": null,
-    "completion_delay_days": 389.75,
-    "is_anomaly": 17,
-    "total_works": 187,
-    "composite_integrity_score": 90.91
-  },
-  {
     "mp_id": 3063547,
     "mp_name": "Shri Chowdry Mohammad Ramzan (2025-31)",
     "state_name": "Jammu And Kashmir",
@@ -7191,6 +7180,17 @@
     "completion_delay_days": null,
     "is_anomaly": 3,
     "total_works": 33,
+    "composite_integrity_score": 90.91
+  },
+  {
+    "mp_id": 3043409,
+    "mp_name": "Shri Devendra Pratap Singh (2024-30)",
+    "state_name": "Chhattisgarh",
+    "const_name": "Chhattisgarh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 22,
     "composite_integrity_score": 90.91
   },
   {
@@ -7249,6 +7249,17 @@
     "composite_integrity_score": 90.7
   },
   {
+    "mp_id": 3017323,
+    "mp_name": "Dr. Laxmi Kant Bajpai (2022-28)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 330.0,
+    "is_anomaly": 8,
+    "total_works": 86,
+    "composite_integrity_score": 90.7
+  },
+  {
     "mp_id": 3018409,
     "mp_name": "Rajveer Raju Bhaiya Singh",
     "state_name": "Uttar Pradesh",
@@ -7279,17 +7290,6 @@
     "completion_delay_days": 70.75,
     "is_anomaly": 16,
     "total_works": 170,
-    "composite_integrity_score": 90.59
-  },
-  {
-    "mp_id": 3017323,
-    "mp_name": "Dr. Laxmi Kant Bajpai (2022-28)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 330.0,
-    "is_anomaly": 8,
-    "total_works": 85,
     "composite_integrity_score": 90.59
   },
   {
@@ -7326,14 +7326,14 @@
     "composite_integrity_score": 90.43
   },
   {
-    "mp_id": 3019027,
-    "mp_name": "Anantkumar Hegde",
+    "mp_id": 3017235,
+    "mp_name": "Shri Jaggesh (2022-28)",
     "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": 4.850136816736189e-08,
-    "completion_delay_days": 254.93103448275863,
-    "is_anomaly": 10,
-    "total_works": 104,
+    "const_name": "Karnataka (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 20,
+    "total_works": 208,
     "composite_integrity_score": 90.38
   },
   {
@@ -7348,14 +7348,14 @@
     "composite_integrity_score": 90.38
   },
   {
-    "mp_id": 3017235,
-    "mp_name": "Shri Jaggesh (2022-28)",
+    "mp_id": 3019027,
+    "mp_name": "Anantkumar Hegde",
     "state_name": "Karnataka",
-    "const_name": "Karnataka (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 20,
-    "total_works": 208,
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": 4.850136816736189e-08,
+    "completion_delay_days": 254.93103448275863,
+    "is_anomaly": 10,
+    "total_works": 104,
     "composite_integrity_score": 90.38
   },
   {
@@ -7414,17 +7414,6 @@
     "composite_integrity_score": 90.08
   },
   {
-    "mp_id": 3020002,
-    "mp_name": "Meenakshi Lekhi (17th Lok Sabha)",
-    "state_name": "Delhi",
-    "const_name": "NORTH WEST DELHI(SC)",
-    "utilization_rate": 1.390671591615649e-07,
-    "completion_delay_days": 29.761904761904763,
-    "is_anomaly": 3,
-    "total_works": 30,
-    "composite_integrity_score": 90.0
-  },
-  {
     "mp_id": 3042405,
     "mp_name": "SMITA UDAY WAGH",
     "state_name": "Maharashtra",
@@ -7433,6 +7422,17 @@
     "completion_delay_days": null,
     "is_anomaly": 1,
     "total_works": 10,
+    "composite_integrity_score": 90.0
+  },
+  {
+    "mp_id": 3020002,
+    "mp_name": "Meenakshi Lekhi (17th Lok Sabha)",
+    "state_name": "Delhi",
+    "const_name": "NORTH WEST DELHI(SC)",
+    "utilization_rate": 1.390671591615649e-07,
+    "completion_delay_days": 29.761904761904763,
+    "is_anomaly": 3,
+    "total_works": 30,
     "composite_integrity_score": 90.0
   },
   {
@@ -7447,17 +7447,6 @@
     "composite_integrity_score": 90.0
   },
   {
-    "mp_id": 3018416,
-    "mp_name": "Saumitra khan ",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 460.8181818181818,
-    "is_anomaly": 13,
-    "total_works": 129,
-    "composite_integrity_score": 89.92
-  },
-  {
     "mp_id": 3042552,
     "mp_name": "Shri Dorjee Tshering Lepcha (2024-30)",
     "state_name": "Sikkim",
@@ -7469,15 +7458,15 @@
     "composite_integrity_score": 89.92
   },
   {
-    "mp_id": 3017410,
-    "mp_name": "Shri NK Premachandran",
-    "state_name": "Kerala",
-    "const_name": "KANNUR",
+    "mp_id": 3018416,
+    "mp_name": "Saumitra khan ",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
     "utilization_rate": null,
-    "completion_delay_days": 324.375,
-    "is_anomaly": 20,
-    "total_works": 198,
-    "composite_integrity_score": 89.9
+    "completion_delay_days": 460.8181818181818,
+    "is_anomaly": 13,
+    "total_works": 129,
+    "composite_integrity_score": 89.92
   },
   {
     "mp_id": 3017174,
@@ -7498,19 +7487,8 @@
     "utilization_rate": null,
     "completion_delay_days": 592.0,
     "is_anomaly": 17,
-    "total_works": 167,
-    "composite_integrity_score": 89.82
-  },
-  {
-    "mp_id": 3042284,
-    "mp_name": "Dr Chandra Sekhar Pemmasani",
-    "state_name": "Andhra Pradesh",
-    "const_name": "ANAKAPALLE",
-    "utilization_rate": null,
-    "completion_delay_days": 372.0,
-    "is_anomaly": 10,
-    "total_works": 98,
-    "composite_integrity_score": 89.8
+    "total_works": 168,
+    "composite_integrity_score": 89.88
   },
   {
     "mp_id": 3017406,
@@ -7524,14 +7502,14 @@
     "composite_integrity_score": 89.8
   },
   {
-    "mp_id": 3019207,
-    "mp_name": "Pankaj Chowdhary",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
+    "mp_id": 3042284,
+    "mp_name": "Dr Chandra Sekhar Pemmasani",
+    "state_name": "Andhra Pradesh",
+    "const_name": "ANAKAPALLE",
     "utilization_rate": null,
-    "completion_delay_days": 401.42857142857144,
-    "is_anomaly": 5,
-    "total_works": 49,
+    "completion_delay_days": 372.0,
+    "is_anomaly": 10,
+    "total_works": 98,
     "composite_integrity_score": 89.8
   },
   {
@@ -7543,6 +7521,17 @@
     "completion_delay_days": 479.3720930232558,
     "is_anomaly": 36,
     "total_works": 353,
+    "composite_integrity_score": 89.8
+  },
+  {
+    "mp_id": 3019207,
+    "mp_name": "Pankaj Chowdhary",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 401.42857142857144,
+    "is_anomaly": 5,
+    "total_works": 49,
     "composite_integrity_score": 89.8
   },
   {
@@ -7568,17 +7557,6 @@
     "composite_integrity_score": 89.67
   },
   {
-    "mp_id": 3042466,
-    "mp_name": "GOPINATH K",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
-    "utilization_rate": null,
-    "completion_delay_days": 186.48387096774192,
-    "is_anomaly": 10,
-    "total_works": 96,
-    "composite_integrity_score": 89.58
-  },
-  {
     "mp_id": 3042348,
     "mp_name": "MIAN ALTAF AHMAD",
     "state_name": "Jammu And Kashmir",
@@ -7590,15 +7568,15 @@
     "composite_integrity_score": 89.58
   },
   {
-    "mp_id": 3019222,
-    "mp_name": "Bhola Singh(17th Lok Sabha)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": 2.8986647148909117e-08,
-    "completion_delay_days": 290.1044776119403,
-    "is_anomaly": 28,
-    "total_works": 268,
-    "composite_integrity_score": 89.55
+    "mp_id": 3042466,
+    "mp_name": "GOPINATH K",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": null,
+    "completion_delay_days": 186.48387096774192,
+    "is_anomaly": 10,
+    "total_works": 96,
+    "composite_integrity_score": 89.58
   },
   {
     "mp_id": 3043599,
@@ -7612,15 +7590,26 @@
     "composite_integrity_score": 89.55
   },
   {
-    "mp_id": 3042472,
-    "mp_name": "MURASOLI S",
-    "state_name": "Tamil Nadu",
-    "const_name": "TIRUNELVELI",
+    "mp_id": 3019222,
+    "mp_name": "Bhola Singh(17th Lok Sabha)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": 2.8986647148909117e-08,
+    "completion_delay_days": 290.1044776119403,
+    "is_anomaly": 28,
+    "total_works": 268,
+    "composite_integrity_score": 89.55
+  },
+  {
+    "mp_id": 3017410,
+    "mp_name": "Shri NK Premachandran",
+    "state_name": "Kerala",
+    "const_name": "KANNUR",
     "utilization_rate": null,
-    "completion_delay_days": 406.0,
-    "is_anomaly": 10,
-    "total_works": 95,
-    "composite_integrity_score": 89.47
+    "completion_delay_days": 331.6111111111111,
+    "is_anomaly": 21,
+    "total_works": 199,
+    "composite_integrity_score": 89.45
   },
   {
     "mp_id": 3045278,
@@ -7678,6 +7667,17 @@
     "composite_integrity_score": 89.13
   },
   {
+    "mp_id": 3017473,
+    "mp_name": "Prof SP Singh Baghel",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 12,
+    "total_works": 110,
+    "composite_integrity_score": 89.09
+  },
+  {
     "mp_id": 3019199,
     "mp_name": "Girish Chandra(17th Lok Sabha)",
     "state_name": "Uttar Pradesh",
@@ -7694,7 +7694,7 @@
     "state_name": "Uttar Pradesh",
     "const_name": "ALIGARH",
     "utilization_rate": null,
-    "completion_delay_days": 345.03389830508473,
+    "completion_delay_days": 342.95,
     "is_anomaly": 27,
     "total_works": 247,
     "composite_integrity_score": 89.07
@@ -7733,17 +7733,6 @@
     "composite_integrity_score": 88.89
   },
   {
-    "mp_id": 3017407,
-    "mp_name": "Shri Thomas Chazhikadan (17th Lok Sabha)",
-    "state_name": "Kerala",
-    "const_name": "KANNUR",
-    "utilization_rate": 3.946807218830958e-08,
-    "completion_delay_days": 155.79054054054055,
-    "is_anomaly": 22,
-    "total_works": 196,
-    "composite_integrity_score": 88.78
-  },
-  {
     "mp_id": 3019175,
     "mp_name": "Dayakar Pasunoori(17th Lok Sabha)",
     "state_name": "Telangana",
@@ -7752,6 +7741,17 @@
     "completion_delay_days": 186.31555555555556,
     "is_anomaly": 33,
     "total_works": 294,
+    "composite_integrity_score": 88.78
+  },
+  {
+    "mp_id": 3017407,
+    "mp_name": "Shri Thomas Chazhikadan (17th Lok Sabha)",
+    "state_name": "Kerala",
+    "const_name": "KANNUR",
+    "utilization_rate": 3.946807218830958e-08,
+    "completion_delay_days": 155.79054054054055,
+    "is_anomaly": 22,
+    "total_works": 196,
     "composite_integrity_score": 88.78
   },
   {
@@ -7764,17 +7764,6 @@
     "is_anomaly": 19,
     "total_works": 169,
     "composite_integrity_score": 88.76
-  },
-  {
-    "mp_id": 3043393,
-    "mp_name": "K RADHAKRISHNAN",
-    "state_name": "Kerala",
-    "const_name": "KANNUR",
-    "utilization_rate": null,
-    "completion_delay_days": 372.1333333333333,
-    "is_anomaly": 22,
-    "total_works": 195,
-    "composite_integrity_score": 88.72
   },
   {
     "mp_id": 3017378,
@@ -7898,17 +7887,6 @@
     "composite_integrity_score": 88.33
   },
   {
-    "mp_id": 3018998,
-    "mp_name": "Parbatbhai Savabhai Patel",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
-    "utilization_rate": 4.833996984179668e-08,
-    "completion_delay_days": 180.40650406504065,
-    "is_anomaly": 18,
-    "total_works": 153,
-    "composite_integrity_score": 88.24
-  },
-  {
     "mp_id": 3017429,
     "mp_name": "Shri Gopal Chinayya Shetty (17th Lok Sabha)",
     "state_name": "Maharashtra",
@@ -7920,15 +7898,15 @@
     "composite_integrity_score": 88.24
   },
   {
-    "mp_id": 3017473,
-    "mp_name": "Prof SP Singh Baghel",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 13,
-    "total_works": 110,
-    "composite_integrity_score": 88.18
+    "mp_id": 3018998,
+    "mp_name": "Parbatbhai Savabhai Patel",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
+    "utilization_rate": 4.833996984179668e-08,
+    "completion_delay_days": 180.40650406504065,
+    "is_anomaly": 18,
+    "total_works": 153,
+    "composite_integrity_score": 88.24
   },
   {
     "mp_id": 3018340,
@@ -8008,17 +7986,6 @@
     "composite_integrity_score": 87.8
   },
   {
-    "mp_id": 3049648,
-    "mp_name": "Priyanka Gandhi Vadra",
-    "state_name": "Kerala",
-    "const_name": "KANNUR",
-    "utilization_rate": null,
-    "completion_delay_days": 263.25,
-    "is_anomaly": 12,
-    "total_works": 98,
-    "composite_integrity_score": 87.76
-  },
-  {
     "mp_id": 3042792,
     "mp_name": "Piyush Vedprakash Goyal",
     "state_name": "Maharashtra",
@@ -8030,15 +7997,15 @@
     "composite_integrity_score": 87.76
   },
   {
-    "mp_id": 3017253,
-    "mp_name": "Smt. Jebi Mather Hisham (2022-28)",
+    "mp_id": 3049648,
+    "mp_name": "Priyanka Gandhi Vadra",
     "state_name": "Kerala",
-    "const_name": "Kerala (Rajya Sabha Nodal District)",
+    "const_name": "KANNUR",
     "utilization_rate": null,
-    "completion_delay_days": 359.6,
-    "is_anomaly": 15,
-    "total_works": 122,
-    "composite_integrity_score": 87.7
+    "completion_delay_days": 263.25,
+    "is_anomaly": 12,
+    "total_works": 98,
+    "composite_integrity_score": 87.76
   },
   {
     "mp_id": 3018361,
@@ -8052,17 +8019,6 @@
     "composite_integrity_score": 87.64
   },
   {
-    "mp_id": 3019145,
-    "mp_name": "Smt Ranjeeta Koli(17th Lok Sabha)",
-    "state_name": "Rajasthan",
-    "const_name": "AJMER",
-    "utilization_rate": 2.8178270216023636e-08,
-    "completion_delay_days": 205.25531914893617,
-    "is_anomaly": 26,
-    "total_works": 210,
-    "composite_integrity_score": 87.62
-  },
-  {
     "mp_id": 3019335,
     "mp_name": "Asit Kumar Mal ",
     "state_name": "West Bengal",
@@ -8074,15 +8030,15 @@
     "composite_integrity_score": 87.62
   },
   {
-    "mp_id": 3042539,
-    "mp_name": "SK NURUL ISLAM",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 687.6666666666666,
-    "is_anomaly": 4,
-    "total_works": 32,
-    "composite_integrity_score": 87.5
+    "mp_id": 3019145,
+    "mp_name": "Smt Ranjeeta Koli(17th Lok Sabha)",
+    "state_name": "Rajasthan",
+    "const_name": "AJMER",
+    "utilization_rate": 2.8178270216023636e-08,
+    "completion_delay_days": 205.25531914893617,
+    "is_anomaly": 26,
+    "total_works": 210,
+    "composite_integrity_score": 87.62
   },
   {
     "mp_id": 3042535,
@@ -8118,6 +8074,17 @@
     "composite_integrity_score": 87.5
   },
   {
+    "mp_id": 3042539,
+    "mp_name": "SK NURUL ISLAM",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": null,
+    "completion_delay_days": 687.6666666666666,
+    "is_anomaly": 4,
+    "total_works": 32,
+    "composite_integrity_score": 87.5
+  },
+  {
     "mp_id": 3042335,
     "mp_name": "MUKESHKUMAR CHANDRAKAANT DALAL",
     "state_name": "Gujarat",
@@ -8134,7 +8101,18 @@
     "state_name": "Kerala",
     "const_name": "Kerala (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 300.0,
+    "completion_delay_days": 260.25,
+    "is_anomaly": 12,
+    "total_works": 95,
+    "composite_integrity_score": 87.37
+  },
+  {
+    "mp_id": 3042472,
+    "mp_name": "MURASOLI S",
+    "state_name": "Tamil Nadu",
+    "const_name": "TIRUNELVELI",
+    "utilization_rate": null,
+    "completion_delay_days": 412.4,
     "is_anomaly": 12,
     "total_works": 95,
     "composite_integrity_score": 87.37
@@ -8178,7 +8156,7 @@
     "state_name": "Tamil Nadu",
     "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 291.0,
+    "completion_delay_days": 340.5,
     "is_anomaly": 13,
     "total_works": 102,
     "composite_integrity_score": 87.25
@@ -8193,6 +8171,17 @@
     "is_anomaly": 26,
     "total_works": 203,
     "composite_integrity_score": 87.19
+  },
+  {
+    "mp_id": 3043393,
+    "mp_name": "K RADHAKRISHNAN",
+    "state_name": "Kerala",
+    "const_name": "KANNUR",
+    "utilization_rate": null,
+    "completion_delay_days": 398.77777777777777,
+    "is_anomaly": 25,
+    "total_works": 195,
+    "composite_integrity_score": 87.18
   },
   {
     "mp_id": 3045216,
@@ -8228,28 +8217,6 @@
     "composite_integrity_score": 87.11
   },
   {
-    "mp_id": 3019529,
-    "mp_name": "P C Mohan",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 3,
-    "total_works": 23,
-    "composite_integrity_score": 86.96
-  },
-  {
-    "mp_id": 3042278,
-    "mp_name": "C.M.RAMESH",
-    "state_name": "Andhra Pradesh",
-    "const_name": "ANAKAPALLE",
-    "utilization_rate": null,
-    "completion_delay_days": 215.58333333333334,
-    "is_anomaly": 21,
-    "total_works": 161,
-    "composite_integrity_score": 86.96
-  },
-  {
     "mp_id": 3019183,
     "mp_name": "Smt Kavitha Malothu(17th Lok Sabha)",
     "state_name": "Telangana",
@@ -8272,15 +8239,15 @@
     "composite_integrity_score": 86.89
   },
   {
-    "mp_id": 3043536,
-    "mp_name": "Shri Pradip Kumar Varma (2024-30)",
-    "state_name": "Jharkhand",
-    "const_name": "Jharkhand (Rajya Sabha Nodal District)",
+    "mp_id": 3017253,
+    "mp_name": "Smt. Jebi Mather Hisham (2022-28)",
+    "state_name": "Kerala",
+    "const_name": "Kerala (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 35,
-    "total_works": 266,
-    "composite_integrity_score": 86.84
+    "completion_delay_days": 402.3333333333333,
+    "is_anomaly": 16,
+    "total_works": 122,
+    "composite_integrity_score": 86.89
   },
   {
     "mp_id": 3019014,
@@ -8291,6 +8258,17 @@
     "completion_delay_days": 560.4172185430464,
     "is_anomaly": 134,
     "total_works": 1018,
+    "composite_integrity_score": 86.84
+  },
+  {
+    "mp_id": 3043536,
+    "mp_name": "Shri Pradip Kumar Varma (2024-30)",
+    "state_name": "Jharkhand",
+    "const_name": "Jharkhand (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 35,
+    "total_works": 266,
     "composite_integrity_score": 86.84
   },
   {
@@ -8404,15 +8382,15 @@
     "composite_integrity_score": 86.38
   },
   {
-    "mp_id": 3019074,
-    "mp_name": "Pritam Gopinath Munde(17th Lok Sabha)",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": 3.0282207823729525e-08,
-    "completion_delay_days": 180.7283950617284,
-    "is_anomaly": 21,
-    "total_works": 153,
-    "composite_integrity_score": 86.27
+    "mp_id": 3042278,
+    "mp_name": "C.M.RAMESH",
+    "state_name": "Andhra Pradesh",
+    "const_name": "ANAKAPALLE",
+    "utilization_rate": null,
+    "completion_delay_days": 266.46666666666664,
+    "is_anomaly": 22,
+    "total_works": 161,
+    "composite_integrity_score": 86.34
   },
   {
     "mp_id": 3017287,
@@ -8423,6 +8401,17 @@
     "completion_delay_days": 194.57142857142858,
     "is_anomaly": 14,
     "total_works": 102,
+    "composite_integrity_score": 86.27
+  },
+  {
+    "mp_id": 3019074,
+    "mp_name": "Pritam Gopinath Munde(17th Lok Sabha)",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": 3.0282207823729525e-08,
+    "completion_delay_days": 180.7283950617284,
+    "is_anomaly": 21,
+    "total_works": 153,
     "composite_integrity_score": 86.27
   },
   {
@@ -8448,15 +8437,15 @@
     "composite_integrity_score": 86.18
   },
   {
-    "mp_id": 3042365,
-    "mp_name": "DR. PRABHA MALLIKARJUN",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
+    "mp_id": 3042338,
+    "mp_name": "VARUN CHAUDHRY",
+    "state_name": "Haryana",
+    "const_name": "SONEPAT",
     "utilization_rate": null,
-    "completion_delay_days": 422.95,
-    "is_anomaly": 15,
-    "total_works": 108,
-    "composite_integrity_score": 86.11
+    "completion_delay_days": 432.5,
+    "is_anomaly": 24,
+    "total_works": 172,
+    "composite_integrity_score": 86.05
   },
   {
     "mp_id": 3042511,
@@ -8508,7 +8497,7 @@
     "state_name": "Gujarat",
     "const_name": "BANASKANTHA",
     "utilization_rate": 2.5227544121313087e-08,
-    "completion_delay_days": 263.4750957854406,
+    "completion_delay_days": 261.86692015209127,
     "is_anomaly": 62,
     "total_works": 439,
     "composite_integrity_score": 85.88
@@ -8558,39 +8547,6 @@
     "composite_integrity_score": 85.76
   },
   {
-    "mp_id": 3017401,
-    "mp_name": "Shri Nalin Kumar Kateel (17th Lok Sabha)",
-    "state_name": "Karnataka",
-    "const_name": "BANGALORE RURAL",
-    "utilization_rate": 8.748245873710571e-08,
-    "completion_delay_days": 205.6701030927835,
-    "is_anomaly": 15,
-    "total_works": 105,
-    "composite_integrity_score": 85.71
-  },
-  {
-    "mp_id": 3044251,
-    "mp_name": "ALFRED KANNGAM S ARTHUR",
-    "state_name": "Manipur",
-    "const_name": "OUTER MANIPUR(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": 374.0,
-    "is_anomaly": 6,
-    "total_works": 42,
-    "composite_integrity_score": 85.71
-  },
-  {
-    "mp_id": 3042914,
-    "mp_name": "RAJ KUMAR ROAT",
-    "state_name": "Rajasthan",
-    "const_name": "AJMER",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 17,
-    "total_works": 119,
-    "composite_integrity_score": 85.71
-  },
-  {
     "mp_id": 3065277,
     "mp_name": "Shri Jogen Mohan (2026-32)",
     "state_name": "Assam",
@@ -8599,17 +8555,6 @@
     "completion_delay_days": null,
     "is_anomaly": 5,
     "total_works": 35,
-    "composite_integrity_score": 85.71
-  },
-  {
-    "mp_id": 3066551,
-    "mp_name": "Dr. Anbumani Ramadoss (2026-32)",
-    "state_name": "Tamil Nadu",
-    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 14,
     "composite_integrity_score": 85.71
   },
   {
@@ -8624,15 +8569,48 @@
     "composite_integrity_score": 85.71
   },
   {
-    "mp_id": 3042338,
-    "mp_name": "VARUN CHAUDHRY",
-    "state_name": "Haryana",
-    "const_name": "SONEPAT",
+    "mp_id": 3044251,
+    "mp_name": "ALFRED KANNGAM S ARTHUR",
+    "state_name": "Manipur",
+    "const_name": "OUTER MANIPUR(ST)",
     "utilization_rate": null,
-    "completion_delay_days": 432.5,
-    "is_anomaly": 23,
-    "total_works": 160,
-    "composite_integrity_score": 85.62
+    "completion_delay_days": 374.0,
+    "is_anomaly": 6,
+    "total_works": 42,
+    "composite_integrity_score": 85.71
+  },
+  {
+    "mp_id": 3017401,
+    "mp_name": "Shri Nalin Kumar Kateel (17th Lok Sabha)",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": 8.748245873710571e-08,
+    "completion_delay_days": 205.6701030927835,
+    "is_anomaly": 15,
+    "total_works": 105,
+    "composite_integrity_score": 85.71
+  },
+  {
+    "mp_id": 3042914,
+    "mp_name": "RAJ KUMAR ROAT",
+    "state_name": "Rajasthan",
+    "const_name": "AJMER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 17,
+    "total_works": 119,
+    "composite_integrity_score": 85.71
+  },
+  {
+    "mp_id": 3066551,
+    "mp_name": "Dr. Anbumani Ramadoss (2026-32)",
+    "state_name": "Tamil Nadu",
+    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 14,
+    "composite_integrity_score": 85.71
   },
   {
     "mp_id": 3043229,
@@ -8778,6 +8756,17 @@
     "composite_integrity_score": 85.11
   },
   {
+    "mp_id": 3017246,
+    "mp_name": "Shri A. A. Rahim (2022-28)",
+    "state_name": "Kerala",
+    "const_name": "Kerala (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 335.3125,
+    "is_anomaly": 13,
+    "total_works": 87,
+    "composite_integrity_score": 85.06
+  },
+  {
     "mp_id": 3043339,
     "mp_name": "Shri Mahendra Bhatt (2024-30)",
     "state_name": "Uttarakhand",
@@ -8787,17 +8776,6 @@
     "is_anomaly": 23,
     "total_works": 153,
     "composite_integrity_score": 84.97
-  },
-  {
-    "mp_id": 3042568,
-    "mp_name": "Shri Madan Rathore (2024-30)",
-    "state_name": "Rajasthan",
-    "const_name": "Rajasthan (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 361.9230769230769,
-    "is_anomaly": 20,
-    "total_works": 132,
-    "composite_integrity_score": 84.85
   },
   {
     "mp_id": 3043035,
@@ -8844,17 +8822,6 @@
     "composite_integrity_score": 84.54
   },
   {
-    "mp_id": 3017246,
-    "mp_name": "Shri A. A. Rahim (2022-28)",
-    "state_name": "Kerala",
-    "const_name": "Kerala (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 335.3125,
-    "is_anomaly": 12,
-    "total_works": 77,
-    "composite_integrity_score": 84.42
-  },
-  {
     "mp_id": 3017318,
     "mp_name": "Shri Rajeev Shukla (2022-28)",
     "state_name": "Chhattisgarh",
@@ -8864,6 +8831,17 @@
     "is_anomaly": 5,
     "total_works": 32,
     "composite_integrity_score": 84.38
+  },
+  {
+    "mp_id": 3019055,
+    "mp_name": "Faggan Singh Kulaste(17th Lok Sabha)",
+    "state_name": "Madhya Pradesh",
+    "const_name": "BETUL(ST)",
+    "utilization_rate": 1.7526778452362095e-08,
+    "completion_delay_days": 423.96363636363634,
+    "is_anomaly": 33,
+    "total_works": 210,
+    "composite_integrity_score": 84.29
   },
   {
     "mp_id": 3017413,
@@ -8877,15 +8855,15 @@
     "composite_integrity_score": 84.29
   },
   {
-    "mp_id": 3019055,
-    "mp_name": "Faggan Singh Kulaste(17th Lok Sabha)",
-    "state_name": "Madhya Pradesh",
-    "const_name": "BETUL(ST)",
-    "utilization_rate": 1.7526778452362095e-08,
-    "completion_delay_days": 423.96363636363634,
-    "is_anomaly": 33,
-    "total_works": 210,
-    "composite_integrity_score": 84.29
+    "mp_id": 3042365,
+    "mp_name": "DR. PRABHA MALLIKARJUN",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": null,
+    "completion_delay_days": 386.8,
+    "is_anomaly": 17,
+    "total_works": 108,
+    "composite_integrity_score": 84.26
   },
   {
     "mp_id": 3018422,
@@ -8908,6 +8886,28 @@
     "is_anomaly": 131,
     "total_works": 824,
     "composite_integrity_score": 84.1
+  },
+  {
+    "mp_id": 3042568,
+    "mp_name": "Shri Madan Rathore (2024-30)",
+    "state_name": "Rajasthan",
+    "const_name": "Rajasthan (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 383.2857142857143,
+    "is_anomaly": 21,
+    "total_works": 132,
+    "composite_integrity_score": 84.09
+  },
+  {
+    "mp_id": 3019529,
+    "mp_name": "P C Mohan",
+    "state_name": "Karnataka",
+    "const_name": "BANGALORE RURAL",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 4,
+    "total_works": 25,
+    "composite_integrity_score": 84.0
   },
   {
     "mp_id": 3019181,
@@ -9031,17 +9031,6 @@
     "composite_integrity_score": 83.22
   },
   {
-    "mp_id": 3017229,
-    "mp_name": "Dr. Sikander Kumar (2022-28)",
-    "state_name": "Himachal Pradesh",
-    "const_name": "Himachal Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 553.25,
-    "is_anomaly": 72,
-    "total_works": 427,
-    "composite_integrity_score": 83.14
-  },
-  {
     "mp_id": 3018362,
     "mp_name": "Guharam Ajgalley",
     "state_name": "Chhattisgarh",
@@ -9117,6 +9106,17 @@
     "is_anomaly": 82,
     "total_works": 474,
     "composite_integrity_score": 82.7
+  },
+  {
+    "mp_id": 3017229,
+    "mp_name": "Dr. Sikander Kumar (2022-28)",
+    "state_name": "Himachal Pradesh",
+    "const_name": "Himachal Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 572.9230769230769,
+    "is_anomaly": 74,
+    "total_works": 427,
+    "composite_integrity_score": 82.67
   },
   {
     "mp_id": 3019064,
@@ -9205,6 +9205,17 @@
     "is_anomaly": 15,
     "total_works": 84,
     "composite_integrity_score": 82.14
+  },
+  {
+    "mp_id": 3017338,
+    "mp_name": "Shri Brij Lal (2020-26)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 560.0,
+    "is_anomaly": 27,
+    "total_works": 151,
+    "composite_integrity_score": 82.12
   },
   {
     "mp_id": 3018950,
@@ -9311,7 +9322,7 @@
     "state_name": "Madhya Pradesh",
     "const_name": "BETUL(ST)",
     "utilization_rate": null,
-    "completion_delay_days": 215.28205128205127,
+    "completion_delay_days": 215.6734693877551,
     "is_anomaly": 34,
     "total_works": 184,
     "composite_integrity_score": 81.52
@@ -9326,17 +9337,6 @@
     "is_anomaly": 44,
     "total_works": 238,
     "composite_integrity_score": 81.51
-  },
-  {
-    "mp_id": 3017338,
-    "mp_name": "Shri Brij Lal (2020-26)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 560.0,
-    "is_anomaly": 28,
-    "total_works": 151,
-    "composite_integrity_score": 81.46
   },
   {
     "mp_id": 3018379,
@@ -9361,17 +9361,6 @@
     "composite_integrity_score": 81.4
   },
   {
-    "mp_id": 3047083,
-    "mp_name": "Dr. Abhishek Manu Singhvi (2026-32)",
-    "state_name": "Telangana",
-    "const_name": "Telangana (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 3,
-    "total_works": 16,
-    "composite_integrity_score": 81.25
-  },
-  {
     "mp_id": 3042537,
     "mp_name": "AZAD KIRTI JHA",
     "state_name": "West Bengal",
@@ -9380,6 +9369,17 @@
     "completion_delay_days": 583.7647058823529,
     "is_anomaly": 21,
     "total_works": 112,
+    "composite_integrity_score": 81.25
+  },
+  {
+    "mp_id": 3047083,
+    "mp_name": "Dr. Abhishek Manu Singhvi (2026-32)",
+    "state_name": "Telangana",
+    "const_name": "Telangana (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 3,
+    "total_works": 16,
     "composite_integrity_score": 81.25
   },
   {
@@ -9425,17 +9425,6 @@
     "is_anomaly": 4,
     "total_works": 21,
     "composite_integrity_score": 80.95
-  },
-  {
-    "mp_id": 3017434,
-    "mp_name": "Smt Rajashree Mallick (17th Lok Sabha)",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": 1.2983606968075619e-08,
-    "completion_delay_days": 330.1077844311377,
-    "is_anomaly": 63,
-    "total_works": 327,
-    "composite_integrity_score": 80.73
   },
   {
     "mp_id": 3042530,
@@ -9504,6 +9493,17 @@
     "composite_integrity_score": 80.44
   },
   {
+    "mp_id": 3017434,
+    "mp_name": "Smt Rajashree Mallick (17th Lok Sabha)",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
+    "utilization_rate": 1.2983606968075619e-08,
+    "completion_delay_days": 330.1077844311377,
+    "is_anomaly": 64,
+    "total_works": 327,
+    "composite_integrity_score": 80.43
+  },
+  {
     "mp_id": 3019132,
     "mp_name": "Devji Mansingram Patel(17th Lok Sabha)",
     "state_name": "Rajasthan",
@@ -9526,6 +9526,17 @@
     "composite_integrity_score": 80.14
   },
   {
+    "mp_id": 3017433,
+    "mp_name": "Shri  Tokheho (17th Lok Sabha)",
+    "state_name": "Nagaland",
+    "const_name": "NAGALAND",
+    "utilization_rate": 6.65533304196557e-07,
+    "completion_delay_days": 252.6,
+    "is_anomaly": 3,
+    "total_works": 15,
+    "composite_integrity_score": 80.0
+  },
+  {
     "mp_id": 3019065,
     "mp_name": "Shankar Lalwani(17th Lok Sabha)",
     "state_name": "Madhya Pradesh",
@@ -9534,17 +9545,6 @@
     "completion_delay_days": 231.30653266331657,
     "is_anomaly": 40,
     "total_works": 200,
-    "composite_integrity_score": 80.0
-  },
-  {
-    "mp_id": 3019231,
-    "mp_name": "Ms Mahua Moitra",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": null,
-    "completion_delay_days": 455.25,
-    "is_anomaly": 11,
-    "total_works": 55,
     "composite_integrity_score": 80.0
   },
   {
@@ -9559,14 +9559,14 @@
     "composite_integrity_score": 80.0
   },
   {
-    "mp_id": 3017433,
-    "mp_name": "Shri  Tokheho (17th Lok Sabha)",
-    "state_name": "Nagaland",
-    "const_name": "NAGALAND",
-    "utilization_rate": 6.65533304196557e-07,
-    "completion_delay_days": 252.6,
-    "is_anomaly": 3,
-    "total_works": 15,
+    "mp_id": 3019231,
+    "mp_name": "Ms Mahua Moitra",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": null,
+    "completion_delay_days": 455.25,
+    "is_anomaly": 11,
+    "total_works": 55,
     "composite_integrity_score": 80.0
   },
   {
@@ -9590,17 +9590,6 @@
     "is_anomaly": 21,
     "total_works": 104,
     "composite_integrity_score": 79.81
-  },
-  {
-    "mp_id": 3018351,
-    "mp_name": "Ajay Kumar Mandal",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
-    "utilization_rate": 9.98150406344381e-08,
-    "completion_delay_days": 230.85470085470087,
-    "is_anomaly": 34,
-    "total_works": 168,
-    "composite_integrity_score": 79.76
   },
   {
     "mp_id": 3018415,
@@ -9634,6 +9623,17 @@
     "is_anomaly": 7,
     "total_works": 34,
     "composite_integrity_score": 79.41
+  },
+  {
+    "mp_id": 3018351,
+    "mp_name": "Ajay Kumar Mandal",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": 9.98150406344381e-08,
+    "completion_delay_days": 232.65546218487395,
+    "is_anomaly": 35,
+    "total_works": 168,
+    "composite_integrity_score": 79.17
   },
   {
     "mp_id": 3019050,
@@ -9746,17 +9746,6 @@
     "composite_integrity_score": 77.87
   },
   {
-    "mp_id": 3017360,
-    "mp_name": "Ms. Dola Sen (2023-29)",
-    "state_name": "West Bengal",
-    "const_name": "West Bengal (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 512.0,
-    "is_anomaly": 6,
-    "total_works": 27,
-    "composite_integrity_score": 77.78
-  },
-  {
     "mp_id": 3017232,
     "mp_name": "Shri Aditya Prasad (2022-28)",
     "state_name": "Jharkhand",
@@ -9765,6 +9754,17 @@
     "completion_delay_days": null,
     "is_anomaly": 48,
     "total_works": 216,
+    "composite_integrity_score": 77.78
+  },
+  {
+    "mp_id": 3017360,
+    "mp_name": "Ms. Dola Sen (2023-29)",
+    "state_name": "West Bengal",
+    "const_name": "West Bengal (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": 512.0,
+    "is_anomaly": 6,
+    "total_works": 27,
     "composite_integrity_score": 77.78
   },
   {
@@ -9779,17 +9779,6 @@
     "composite_integrity_score": 77.36
   },
   {
-    "mp_id": 3017487,
-    "mp_name": "Shri Abhishek Banerjee (17th Lok Sabha)",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": 3.360696234632058e-08,
-    "completion_delay_days": 404.1066666666667,
-    "is_anomaly": 35,
-    "total_works": 154,
-    "composite_integrity_score": 77.27
-  },
-  {
     "mp_id": 3042286,
     "mp_name": "TANGELLA UDAY SRINIVAS",
     "state_name": "Andhra Pradesh",
@@ -9798,6 +9787,17 @@
     "completion_delay_days": null,
     "is_anomaly": 5,
     "total_works": 22,
+    "composite_integrity_score": 77.27
+  },
+  {
+    "mp_id": 3017487,
+    "mp_name": "Shri Abhishek Banerjee (17th Lok Sabha)",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": 3.360696234632058e-08,
+    "completion_delay_days": 404.1066666666667,
+    "is_anomaly": 35,
+    "total_works": 154,
     "composite_integrity_score": 77.27
   },
   {
@@ -10010,14 +10010,14 @@
     "composite_integrity_score": 75.31
   },
   {
-    "mp_id": 3017342,
-    "mp_name": "Smt. Jaya Amitabh Bachchan (2024-30)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "mp_id": 3065417,
+    "mp_name": "Shri Christopher Manickam (2026-32)",
+    "state_name": "Tamil Nadu",
+    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 417.0,
-    "is_anomaly": 6,
-    "total_works": 24,
+    "completion_delay_days": null,
+    "is_anomaly": 1,
+    "total_works": 4,
     "composite_integrity_score": 75.0
   },
   {
@@ -10032,14 +10032,14 @@
     "composite_integrity_score": 75.0
   },
   {
-    "mp_id": 3065417,
-    "mp_name": "Shri Christopher Manickam (2026-32)",
-    "state_name": "Tamil Nadu",
-    "const_name": "Tamil Nadu (Rajya Sabha Nodal District)",
+    "mp_id": 3017342,
+    "mp_name": "Smt. Jaya Amitabh Bachchan (2024-30)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 1,
-    "total_works": 4,
+    "completion_delay_days": 417.0,
+    "is_anomaly": 6,
+    "total_works": 24,
     "composite_integrity_score": 75.0
   },
   {
@@ -10186,17 +10186,6 @@
     "composite_integrity_score": 73.86
   },
   {
-    "mp_id": 3042510,
-    "mp_name": "NARAYAN DAS AHIRWAR",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 459.7979797979798,
-    "is_anomaly": 99,
-    "total_works": 378,
-    "composite_integrity_score": 73.81
-  },
-  {
     "mp_id": 3019120,
     "mp_name": "Smt Manjulata Mandal(17th Lok Sabha)",
     "state_name": "Odisha",
@@ -10205,6 +10194,17 @@
     "completion_delay_days": 285.1496062992126,
     "is_anomaly": 44,
     "total_works": 168,
+    "composite_integrity_score": 73.81
+  },
+  {
+    "mp_id": 3042510,
+    "mp_name": "NARAYAN DAS AHIRWAR",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 459.7979797979798,
+    "is_anomaly": 99,
+    "total_works": 378,
     "composite_integrity_score": 73.81
   },
   {
@@ -10367,7 +10367,7 @@
     "state_name": "Uttar Pradesh",
     "const_name": "ALIGARH",
     "utilization_rate": null,
-    "completion_delay_days": 155.0,
+    "completion_delay_days": 249.0,
     "is_anomaly": 9,
     "total_works": 33,
     "composite_integrity_score": 72.73
@@ -10395,17 +10395,6 @@
     "composite_integrity_score": 72.53
   },
   {
-    "mp_id": 3019201,
-    "mp_name": "Jai Prakash(17th Lok Sabha)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": 1.6387255108484438e-08,
-    "completion_delay_days": 184.0,
-    "is_anomaly": 8,
-    "total_works": 29,
-    "composite_integrity_score": 72.41
-  },
-  {
     "mp_id": 3045909,
     "mp_name": "Shri Subhash Barala (2024-30)",
     "state_name": "Haryana",
@@ -10414,6 +10403,17 @@
     "completion_delay_days": 338.0,
     "is_anomaly": 24,
     "total_works": 87,
+    "composite_integrity_score": 72.41
+  },
+  {
+    "mp_id": 3019201,
+    "mp_name": "Jai Prakash(17th Lok Sabha)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": 1.6387255108484438e-08,
+    "completion_delay_days": 184.0,
+    "is_anomaly": 8,
+    "total_works": 29,
     "composite_integrity_score": 72.41
   },
   {
@@ -10450,25 +10450,14 @@
     "composite_integrity_score": 72.25
   },
   {
-    "mp_id": 3019109,
-    "mp_name": "Vincent H Pala(17th Lok Sabha)",
-    "state_name": "Meghalaya",
-    "const_name": "TURA",
-    "utilization_rate": 2.877921844922913e-08,
-    "completion_delay_days": 286.1794871794872,
-    "is_anomaly": 56,
-    "total_works": 200,
-    "composite_integrity_score": 72.0
-  },
-  {
-    "mp_id": 3066097,
-    "mp_name": "Shri Pramod Boro (2026-32)",
+    "mp_id": 3017380,
+    "mp_name": "Shri Naba (Hira) Kumar Sarania (17th Lok Sabha)",
     "state_name": "Assam",
-    "const_name": "Assam (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 7,
-    "total_works": 25,
+    "const_name": "BARPETA",
+    "utilization_rate": 3.157161921861375e-08,
+    "completion_delay_days": 570.95,
+    "is_anomaly": 21,
+    "total_works": 75,
     "composite_integrity_score": 72.0
   },
   {
@@ -10483,14 +10472,25 @@
     "composite_integrity_score": 72.0
   },
   {
-    "mp_id": 3017380,
-    "mp_name": "Shri Naba (Hira) Kumar Sarania (17th Lok Sabha)",
+    "mp_id": 3066097,
+    "mp_name": "Shri Pramod Boro (2026-32)",
     "state_name": "Assam",
-    "const_name": "BARPETA",
-    "utilization_rate": 3.157161921861375e-08,
-    "completion_delay_days": 570.95,
-    "is_anomaly": 21,
-    "total_works": 75,
+    "const_name": "Assam (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 7,
+    "total_works": 25,
+    "composite_integrity_score": 72.0
+  },
+  {
+    "mp_id": 3019109,
+    "mp_name": "Vincent H Pala(17th Lok Sabha)",
+    "state_name": "Meghalaya",
+    "const_name": "TURA",
+    "utilization_rate": 2.877921844922913e-08,
+    "completion_delay_days": 286.1794871794872,
+    "is_anomaly": 56,
+    "total_works": 200,
     "composite_integrity_score": 72.0
   },
   {
@@ -10516,6 +10516,17 @@
     "composite_integrity_score": 71.68
   },
   {
+    "mp_id": 3018978,
+    "mp_name": "Raj Kumar Singh",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": 8.391172692528879e-08,
+    "completion_delay_days": 258.46153846153845,
+    "is_anomaly": 28,
+    "total_works": 98,
+    "composite_integrity_score": 71.43
+  },
+  {
     "mp_id": 3017451,
     "mp_name": "Shri Hanuman Beniwal (17th Lok Sabha)",
     "state_name": "Rajasthan",
@@ -10538,17 +10549,6 @@
     "composite_integrity_score": 71.43
   },
   {
-    "mp_id": 3018978,
-    "mp_name": "Raj Kumar Singh",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
-    "utilization_rate": 8.391172692528879e-08,
-    "completion_delay_days": 258.46153846153845,
-    "is_anomaly": 28,
-    "total_works": 98,
-    "composite_integrity_score": 71.43
-  },
-  {
     "mp_id": 3019116,
     "mp_name": "Pinaki Misra(17th Lok Sabha)",
     "state_name": "Odisha",
@@ -10560,23 +10560,23 @@
     "composite_integrity_score": 71.34
   },
   {
-    "mp_id": 3017478,
-    "mp_name": "Smt Satabdi Roy (Banerjee) (17th Lok Sabha)",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": 7.043733386252222e-08,
-    "completion_delay_days": 277.1023622047244,
-    "is_anomaly": 38,
-    "total_works": 130,
-    "composite_integrity_score": 70.77
-  },
-  {
     "mp_id": 3042561,
     "mp_name": "Shri Govindbhai Laljibhai Dholakia (2024-30)",
     "state_name": "Gujarat",
     "const_name": "Gujarat (Rajya Sabha Nodal District)",
     "utilization_rate": null,
     "completion_delay_days": 350.0,
+    "is_anomaly": 38,
+    "total_works": 130,
+    "composite_integrity_score": 70.77
+  },
+  {
+    "mp_id": 3017478,
+    "mp_name": "Smt Satabdi Roy (Banerjee) (17th Lok Sabha)",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": 7.043733386252222e-08,
+    "completion_delay_days": 277.1023622047244,
     "is_anomaly": 38,
     "total_works": 130,
     "composite_integrity_score": 70.77
@@ -10664,7 +10664,7 @@
     "state_name": "Kerala",
     "const_name": "Kerala (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": 289.6,
+    "completion_delay_days": 296.7142857142857,
     "is_anomaly": 28,
     "total_works": 93,
     "composite_integrity_score": 69.89
@@ -10813,17 +10813,6 @@
     "composite_integrity_score": 68.0
   },
   {
-    "mp_id": 3019007,
-    "mp_name": "Krishan Pal Gurjar",
-    "state_name": "Haryana",
-    "const_name": "SONEPAT",
-    "utilization_rate": 1.8504193712847665e-08,
-    "completion_delay_days": 642.2833333333333,
-    "is_anomaly": 78,
-    "total_works": 243,
-    "composite_integrity_score": 67.9
-  },
-  {
     "mp_id": 3018382,
     "mp_name": "Guman Singh Damor",
     "state_name": "Madhya Pradesh",
@@ -10833,6 +10822,17 @@
     "is_anomaly": 33,
     "total_works": 102,
     "composite_integrity_score": 67.65
+  },
+  {
+    "mp_id": 3019007,
+    "mp_name": "Krishan Pal Gurjar",
+    "state_name": "Haryana",
+    "const_name": "SONEPAT",
+    "utilization_rate": 1.8504193712847665e-08,
+    "completion_delay_days": 642.2833333333333,
+    "is_anomaly": 79,
+    "total_works": 244,
+    "composite_integrity_score": 67.62
   },
   {
     "mp_id": 3021488,
@@ -10912,17 +10912,6 @@
     "composite_integrity_score": 66.86
   },
   {
-    "mp_id": 3047110,
-    "mp_name": "TRIVENDRA SINGH RAWAT",
-    "state_name": "Uttarakhand",
-    "const_name": "NAINITAL UDHAM SINGH NAG.",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 18,
-    "total_works": 54,
-    "composite_integrity_score": 66.67
-  },
-  {
     "mp_id": 3066187,
     "mp_name": "Shri Neeraj Dangi (2026-32)",
     "state_name": "Rajasthan",
@@ -10931,17 +10920,6 @@
     "completion_delay_days": null,
     "is_anomaly": 4,
     "total_works": 12,
-    "composite_integrity_score": 66.67
-  },
-  {
-    "mp_id": 3042293,
-    "mp_name": "Sribharat MathuKumli",
-    "state_name": "Andhra Pradesh",
-    "const_name": "ANAKAPALLE",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 15,
-    "total_works": 45,
     "composite_integrity_score": 66.67
   },
   {
@@ -10964,6 +10942,28 @@
     "completion_delay_days": 353.9148936170213,
     "is_anomaly": 24,
     "total_works": 72,
+    "composite_integrity_score": 66.67
+  },
+  {
+    "mp_id": 3042293,
+    "mp_name": "Sribharat MathuKumli",
+    "state_name": "Andhra Pradesh",
+    "const_name": "ANAKAPALLE",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 15,
+    "total_works": 45,
+    "composite_integrity_score": 66.67
+  },
+  {
+    "mp_id": 3047110,
+    "mp_name": "TRIVENDRA SINGH RAWAT",
+    "state_name": "Uttarakhand",
+    "const_name": "NAINITAL UDHAM SINGH NAG.",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 18,
+    "total_works": 54,
     "composite_integrity_score": 66.67
   },
   {
@@ -11000,6 +11000,17 @@
     "composite_integrity_score": 65.64
   },
   {
+    "mp_id": 3017325,
+    "mp_name": "Prof. Ram Gopal Yadav (2020-26)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 31,
+    "total_works": 90,
+    "composite_integrity_score": 65.56
+  },
+  {
     "mp_id": 3017482,
     "mp_name": "Shri Dibyendu Adhikari (17th Lok Sabha)",
     "state_name": "West Bengal",
@@ -11020,17 +11031,6 @@
     "is_anomaly": 103,
     "total_works": 298,
     "composite_integrity_score": 65.44
-  },
-  {
-    "mp_id": 3017258,
-    "mp_name": "Smt. Sumitra Balmik (2022-28)",
-    "state_name": "Madhya Pradesh",
-    "const_name": "Madhya Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 72,
-    "total_works": 208,
-    "composite_integrity_score": 65.38
   },
   {
     "mp_id": 3017456,
@@ -11066,6 +11066,17 @@
     "composite_integrity_score": 65.22
   },
   {
+    "mp_id": 3017258,
+    "mp_name": "Smt. Sumitra Balmik (2022-28)",
+    "state_name": "Madhya Pradesh",
+    "const_name": "Madhya Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 73,
+    "total_works": 209,
+    "composite_integrity_score": 65.07
+  },
+  {
     "mp_id": 3017496,
     "mp_name": "Ms Mimi Chakraborty (17th Lok Sabha)",
     "state_name": "West Bengal",
@@ -11075,17 +11086,6 @@
     "is_anomaly": 90,
     "total_works": 257,
     "composite_integrity_score": 64.98
-  },
-  {
-    "mp_id": 3042430,
-    "mp_name": "BAIJAYANT PANDA",
-    "state_name": "Odisha",
-    "const_name": "CUTTACK",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 20,
-    "total_works": 57,
-    "composite_integrity_score": 64.91
   },
   {
     "mp_id": 3017387,
@@ -11119,17 +11119,6 @@
     "is_anomaly": 121,
     "total_works": 341,
     "composite_integrity_score": 64.52
-  },
-  {
-    "mp_id": 3017325,
-    "mp_name": "Prof. Ram Gopal Yadav (2020-26)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 32,
-    "total_works": 90,
-    "composite_integrity_score": 64.44
   },
   {
     "mp_id": 3018993,
@@ -11174,17 +11163,6 @@
     "is_anomaly": 77,
     "total_works": 214,
     "composite_integrity_score": 64.02
-  },
-  {
-    "mp_id": 3042450,
-    "mp_name": "MANJU SHARMA",
-    "state_name": "Rajasthan",
-    "const_name": "AJMER",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 27,
-    "total_works": 75,
-    "composite_integrity_score": 64.0
   },
   {
     "mp_id": 3019218,
@@ -11242,6 +11220,17 @@
     "composite_integrity_score": 63.41
   },
   {
+    "mp_id": 3042450,
+    "mp_name": "MANJU SHARMA",
+    "state_name": "Rajasthan",
+    "const_name": "AJMER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 28,
+    "total_works": 76,
+    "composite_integrity_score": 63.16
+  },
+  {
     "mp_id": 3017267,
     "mp_name": "Shri Sanjay Raut (2022-28)",
     "state_name": "Maharashtra",
@@ -11251,17 +11240,6 @@
     "is_anomaly": 30,
     "total_works": 81,
     "composite_integrity_score": 62.96
-  },
-  {
-    "mp_id": 3018997,
-    "mp_name": "Naranbhai Bhikhabhai Kachhadiya",
-    "state_name": "Gujarat",
-    "const_name": "BANASKANTHA",
-    "utilization_rate": 3.1780084708719876e-08,
-    "completion_delay_days": 310.2533936651584,
-    "is_anomaly": 96,
-    "total_works": 259,
-    "composite_integrity_score": 62.93
   },
   {
     "mp_id": 3019035,
@@ -11275,15 +11253,37 @@
     "composite_integrity_score": 62.93
   },
   {
+    "mp_id": 3018997,
+    "mp_name": "Naranbhai Bhikhabhai Kachhadiya",
+    "state_name": "Gujarat",
+    "const_name": "BANASKANTHA",
+    "utilization_rate": 3.1780084708719876e-08,
+    "completion_delay_days": 310.2533936651584,
+    "is_anomaly": 96,
+    "total_works": 259,
+    "composite_integrity_score": 62.93
+  },
+  {
     "mp_id": 3018369,
     "mp_name": "Anurag Singh Thakur",
     "state_name": "Himachal Pradesh",
     "const_name": "HAMIRPUR_HP",
     "utilization_rate": 8.308441915214253e-09,
-    "completion_delay_days": 559.0767123287671,
-    "is_anomaly": 331,
+    "completion_delay_days": 558.2942779291553,
+    "is_anomaly": 333,
     "total_works": 889,
-    "composite_integrity_score": 62.77
+    "composite_integrity_score": 62.54
+  },
+  {
+    "mp_id": 3042382,
+    "mp_name": "ALOK SHARMA",
+    "state_name": "Madhya Pradesh",
+    "const_name": "BETUL(ST)",
+    "utilization_rate": null,
+    "completion_delay_days": 51.5,
+    "is_anomaly": 36,
+    "total_works": 96,
+    "composite_integrity_score": 62.5
   },
   {
     "mp_id": 3019643,
@@ -11294,17 +11294,6 @@
     "completion_delay_days": 1.5625,
     "is_anomaly": 12,
     "total_works": 32,
-    "composite_integrity_score": 62.5
-  },
-  {
-    "mp_id": 3018343,
-    "mp_name": "Kuruva Gorantla Madhav",
-    "state_name": "Andhra Pradesh",
-    "const_name": "ANAKAPALLE",
-    "utilization_rate": 1.2484864363582974e-07,
-    "completion_delay_days": 273.4032258064516,
-    "is_anomaly": 24,
-    "total_works": 64,
     "composite_integrity_score": 62.5
   },
   {
@@ -11319,14 +11308,14 @@
     "composite_integrity_score": 62.5
   },
   {
-    "mp_id": 3042382,
-    "mp_name": "ALOK SHARMA",
-    "state_name": "Madhya Pradesh",
-    "const_name": "BETUL(ST)",
-    "utilization_rate": null,
-    "completion_delay_days": 51.5,
-    "is_anomaly": 36,
-    "total_works": 96,
+    "mp_id": 3018343,
+    "mp_name": "Kuruva Gorantla Madhav",
+    "state_name": "Andhra Pradesh",
+    "const_name": "ANAKAPALLE",
+    "utilization_rate": 1.2484864363582974e-07,
+    "completion_delay_days": 273.4032258064516,
+    "is_anomaly": 24,
+    "total_works": 64,
     "composite_integrity_score": 62.5
   },
   {
@@ -11495,17 +11484,6 @@
     "composite_integrity_score": 60.67
   },
   {
-    "mp_id": 3042496,
-    "mp_name": "TANUJ PUNIA",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": 179.33333333333334,
-    "is_anomaly": 13,
-    "total_works": 33,
-    "composite_integrity_score": 60.61
-  },
-  {
     "mp_id": 3019239,
     "mp_name": "Sunita Duggal(17TH Lok Sabha)",
     "state_name": "Haryana",
@@ -11514,6 +11492,17 @@
     "completion_delay_days": 423.51785714285717,
     "is_anomaly": 78,
     "total_works": 198,
+    "composite_integrity_score": 60.61
+  },
+  {
+    "mp_id": 3042496,
+    "mp_name": "TANUJ PUNIA",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": 179.33333333333334,
+    "is_anomaly": 13,
+    "total_works": 33,
     "composite_integrity_score": 60.61
   },
   {
@@ -11748,6 +11737,17 @@
     "composite_integrity_score": 58.06
   },
   {
+    "mp_id": 3017397,
+    "mp_name": "Shri Arjun Munda (17th Lok Sabha)",
+    "state_name": "Jharkhand",
+    "const_name": "HAZARIBAGH",
+    "utilization_rate": 3.0462508381707604e-08,
+    "completion_delay_days": 360.4266666666667,
+    "is_anomaly": 55,
+    "total_works": 131,
+    "composite_integrity_score": 58.02
+  },
+  {
     "mp_id": 3018938,
     "mp_name": "Chandra Sekhar Bellana",
     "state_name": "Andhra Pradesh",
@@ -11770,17 +11770,6 @@
     "composite_integrity_score": 57.92
   },
   {
-    "mp_id": 3042341,
-    "mp_name": "MANOHAR LAL",
-    "state_name": "Haryana",
-    "const_name": "SONEPAT",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 8,
-    "total_works": 19,
-    "composite_integrity_score": 57.89
-  },
-  {
     "mp_id": 3017428,
     "mp_name": "Shri Manoj Kotak Kishorbhai (17th Lok Sabha)",
     "state_name": "Maharashtra",
@@ -11789,6 +11778,17 @@
     "completion_delay_days": null,
     "is_anomaly": 16,
     "total_works": 38,
+    "composite_integrity_score": 57.89
+  },
+  {
+    "mp_id": 3042341,
+    "mp_name": "MANOHAR LAL",
+    "state_name": "Haryana",
+    "const_name": "SONEPAT",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 8,
+    "total_works": 19,
     "composite_integrity_score": 57.89
   },
   {
@@ -11801,17 +11801,6 @@
     "is_anomaly": 16,
     "total_works": 38,
     "composite_integrity_score": 57.89
-  },
-  {
-    "mp_id": 3017397,
-    "mp_name": "Shri Arjun Munda (17th Lok Sabha)",
-    "state_name": "Jharkhand",
-    "const_name": "HAZARIBAGH",
-    "utilization_rate": 3.095260521757138e-08,
-    "completion_delay_days": 363.5657894736842,
-    "is_anomaly": 56,
-    "total_works": 132,
-    "composite_integrity_score": 57.58
   },
   {
     "mp_id": 3018970,
@@ -11911,6 +11900,17 @@
     "is_anomaly": 38,
     "total_works": 87,
     "composite_integrity_score": 56.32
+  },
+  {
+    "mp_id": 3042430,
+    "mp_name": "BAIJAYANT PANDA",
+    "state_name": "Odisha",
+    "const_name": "CUTTACK",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 25,
+    "total_works": 57,
+    "composite_integrity_score": 56.14
   },
   {
     "mp_id": 3019533,
@@ -12056,17 +12056,6 @@
     "composite_integrity_score": 54.01
   },
   {
-    "mp_id": 3019105,
-    "mp_name": "Smt Raksha Nikhil Khadse",
-    "state_name": "Maharashtra",
-    "const_name": "RAVER",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 6,
-    "total_works": 13,
-    "composite_integrity_score": 53.85
-  },
-  {
     "mp_id": 3018956,
     "mp_name": "Horen Sing Bey",
     "state_name": "Assam",
@@ -12075,6 +12064,17 @@
     "completion_delay_days": 319.5,
     "is_anomaly": 18,
     "total_works": 39,
+    "composite_integrity_score": 53.85
+  },
+  {
+    "mp_id": 3019105,
+    "mp_name": "Smt Raksha Nikhil Khadse",
+    "state_name": "Maharashtra",
+    "const_name": "RAVER",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 6,
+    "total_works": 13,
     "composite_integrity_score": 53.85
   },
   {
@@ -12087,17 +12087,6 @@
     "is_anomaly": 37,
     "total_works": 80,
     "composite_integrity_score": 53.75
-  },
-  {
-    "mp_id": 3017330,
-    "mp_name": "Shri Jayant Chaudhary (2022-28)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 13,
-    "total_works": 28,
-    "composite_integrity_score": 53.57
   },
   {
     "mp_id": 3019040,
@@ -12155,6 +12144,17 @@
     "composite_integrity_score": 51.85
   },
   {
+    "mp_id": 3017330,
+    "mp_name": "Shri Jayant Chaudhary (2022-28)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "Uttar Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 14,
+    "total_works": 29,
+    "composite_integrity_score": 51.72
+  },
+  {
     "mp_id": 3017396,
     "mp_name": "Shri Jugal Kishore Sharma (17th Lok Sabha)",
     "state_name": "Jammu And Kashmir",
@@ -12210,14 +12210,14 @@
     "composite_integrity_score": 50.94
   },
   {
-    "mp_id": 3065971,
-    "mp_name": "Shri Rajneesh Kumar Agrawal (2026-32)",
-    "state_name": "Madhya Pradesh",
-    "const_name": "Madhya Pradesh (Rajya Sabha Nodal District)",
+    "mp_id": 3023812,
+    "mp_name": "Shri Nagendra Ray (2023-29)",
+    "state_name": "West Bengal",
+    "const_name": "West Bengal (Rajya Sabha Nodal District)",
     "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 4,
+    "completion_delay_days": 161.77777777777777,
+    "is_anomaly": 11,
+    "total_works": 22,
     "composite_integrity_score": 50.0
   },
   {
@@ -12232,47 +12232,25 @@
     "composite_integrity_score": 50.0
   },
   {
-    "mp_id": 3019208,
-    "mp_name": "Pradeep Kumar Chaudhary(17th Lok Sabha)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": 1.5773515545746405e-07,
-    "completion_delay_days": 360.13793103448273,
-    "is_anomaly": 30,
-    "total_works": 60,
+    "mp_id": 3017510,
+    "mp_name": "Shri Raghav Chadha (2022-28)",
+    "state_name": "Punjab",
+    "const_name": "Punjab (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 3,
+    "total_works": 6,
     "composite_integrity_score": 50.0
   },
   {
-    "mp_id": 3019244,
-    "mp_name": "Ashok Kumar Rawat(17TH Lok Sabha)",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": 3.45111927090385e-07,
-    "completion_delay_days": 450.0,
-    "is_anomaly": 7,
-    "total_works": 14,
-    "composite_integrity_score": 50.0
-  },
-  {
-    "mp_id": 3017486,
-    "mp_name": "Dr Jayanta Kumar Roy (17th Lok Sabha)",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": 6.86522551170299e-08,
-    "completion_delay_days": 357.42424242424244,
-    "is_anomaly": 25,
-    "total_works": 50,
-    "composite_integrity_score": 50.0
-  },
-  {
-    "mp_id": 3018964,
-    "mp_name": "Chhedi Paswan",
-    "state_name": "Bihar",
-    "const_name": "ARARIA",
-    "utilization_rate": 1.1251332520372598e-07,
-    "completion_delay_days": 330.4117647058824,
-    "is_anomaly": 43,
-    "total_works": 86,
+    "mp_id": 3065971,
+    "mp_name": "Shri Rajneesh Kumar Agrawal (2026-32)",
+    "state_name": "Madhya Pradesh",
+    "const_name": "Madhya Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 4,
     "composite_integrity_score": 50.0
   },
   {
@@ -12287,36 +12265,25 @@
     "composite_integrity_score": 50.0
   },
   {
-    "mp_id": 3023812,
-    "mp_name": "Shri Nagendra Ray (2023-29)",
+    "mp_id": 3017486,
+    "mp_name": "Dr Jayanta Kumar Roy (17th Lok Sabha)",
     "state_name": "West Bengal",
-    "const_name": "West Bengal (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": 161.77777777777777,
-    "is_anomaly": 11,
-    "total_works": 22,
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": 6.86522551170299e-08,
+    "completion_delay_days": 357.42424242424244,
+    "is_anomaly": 25,
+    "total_works": 50,
     "composite_integrity_score": 50.0
   },
   {
-    "mp_id": 3017510,
-    "mp_name": "Shri Raghav Chadha (2022-28)",
-    "state_name": "Punjab",
-    "const_name": "Punjab (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 3,
-    "total_works": 6,
-    "composite_integrity_score": 50.0
-  },
-  {
-    "mp_id": 3018370,
-    "mp_name": "Annpurna Devi",
-    "state_name": "Jharkhand",
-    "const_name": "HAZARIBAGH",
-    "utilization_rate": 2.1482100501064056e-08,
-    "completion_delay_days": 450.0558375634518,
-    "is_anomaly": 141,
-    "total_works": 282,
+    "mp_id": 3019244,
+    "mp_name": "Ashok Kumar Rawat(17TH Lok Sabha)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": 3.45111927090385e-07,
+    "completion_delay_days": 450.0,
+    "is_anomaly": 7,
+    "total_works": 14,
     "composite_integrity_score": 50.0
   },
   {
@@ -12331,6 +12298,39 @@
     "composite_integrity_score": 50.0
   },
   {
+    "mp_id": 3018964,
+    "mp_name": "Chhedi Paswan",
+    "state_name": "Bihar",
+    "const_name": "ARARIA",
+    "utilization_rate": 1.1251332520372598e-07,
+    "completion_delay_days": 330.4117647058824,
+    "is_anomaly": 43,
+    "total_works": 86,
+    "composite_integrity_score": 50.0
+  },
+  {
+    "mp_id": 3018370,
+    "mp_name": "Annpurna Devi",
+    "state_name": "Jharkhand",
+    "const_name": "HAZARIBAGH",
+    "utilization_rate": 2.1482100501064056e-08,
+    "completion_delay_days": 450.0558375634518,
+    "is_anomaly": 141,
+    "total_works": 282,
+    "composite_integrity_score": 50.0
+  },
+  {
+    "mp_id": 3019208,
+    "mp_name": "Pradeep Kumar Chaudhary(17th Lok Sabha)",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": 1.5773515545746405e-07,
+    "completion_delay_days": 360.13793103448273,
+    "is_anomaly": 30,
+    "total_works": 60,
+    "composite_integrity_score": 50.0
+  },
+  {
     "mp_id": 3019114,
     "mp_name": "Basanta Kumar Panda(17th Lok Sabha)",
     "state_name": "Odisha",
@@ -12342,17 +12342,6 @@
     "composite_integrity_score": 49.56
   },
   {
-    "mp_id": 3019144,
-    "mp_name": "Kailash Choudhary(17th Lok Sabha)",
-    "state_name": "Rajasthan",
-    "const_name": "AJMER",
-    "utilization_rate": 7.972083620029978e-08,
-    "completion_delay_days": 538.2692307692307,
-    "is_anomaly": 38,
-    "total_works": 74,
-    "composite_integrity_score": 48.65
-  },
-  {
     "mp_id": 3017421,
     "mp_name": "Shri Sudheer Gupta (17th Lok Sabha)",
     "state_name": "Madhya Pradesh",
@@ -12361,6 +12350,17 @@
     "completion_delay_days": 514.3518850987433,
     "is_anomaly": 380,
     "total_works": 740,
+    "composite_integrity_score": 48.65
+  },
+  {
+    "mp_id": 3019144,
+    "mp_name": "Kailash Choudhary(17th Lok Sabha)",
+    "state_name": "Rajasthan",
+    "const_name": "AJMER",
+    "utilization_rate": 7.972083620029978e-08,
+    "completion_delay_days": 538.2692307692307,
+    "is_anomaly": 38,
+    "total_works": 74,
     "composite_integrity_score": 48.65
   },
   {
@@ -12474,17 +12474,6 @@
     "composite_integrity_score": 45.5
   },
   {
-    "mp_id": 3019201,
-    "mp_name": "Jai Prakash",
-    "state_name": "Uttar Pradesh",
-    "const_name": "ALIGARH",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 18,
-    "total_works": 33,
-    "composite_integrity_score": 45.45
-  },
-  {
     "mp_id": 3019042,
     "mp_name": "Shivkumar Chanabasappa Udasi(17th Lok Sabha)",
     "state_name": "Karnataka",
@@ -12493,6 +12482,17 @@
     "completion_delay_days": 447.63448275862066,
     "is_anomaly": 108,
     "total_works": 198,
+    "composite_integrity_score": 45.45
+  },
+  {
+    "mp_id": 3019201,
+    "mp_name": "Jai Prakash",
+    "state_name": "Uttar Pradesh",
+    "const_name": "ALIGARH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 18,
+    "total_works": 33,
     "composite_integrity_score": 45.45
   },
   {
@@ -12540,17 +12540,6 @@
     "composite_integrity_score": 43.48
   },
   {
-    "mp_id": 3018982,
-    "mp_name": "Smt Kirron Kher",
-    "state_name": "Chandigarh",
-    "const_name": "CHANDIGARH",
-    "utilization_rate": 2.3778171167930196e-07,
-    "completion_delay_days": 371.88,
-    "is_anomaly": 16,
-    "total_works": 28,
-    "composite_integrity_score": 42.86
-  },
-  {
     "mp_id": 3017474,
     "mp_name": "Shri Harish Dwivedi (17th Lok Sabha)",
     "state_name": "Uttar Pradesh",
@@ -12559,6 +12548,17 @@
     "completion_delay_days": null,
     "is_anomaly": 4,
     "total_works": 7,
+    "composite_integrity_score": 42.86
+  },
+  {
+    "mp_id": 3018982,
+    "mp_name": "Smt Kirron Kher",
+    "state_name": "Chandigarh",
+    "const_name": "CHANDIGARH",
+    "utilization_rate": 2.3778171167930196e-07,
+    "completion_delay_days": 371.88,
+    "is_anomaly": 16,
+    "total_works": 28,
     "composite_integrity_score": 42.86
   },
   {
@@ -12603,17 +12603,6 @@
     "completion_delay_days": 427.1443298969072,
     "is_anomaly": 60,
     "total_works": 102,
-    "composite_integrity_score": 41.18
-  },
-  {
-    "mp_id": 3017368,
-    "mp_name": "Shri Ashwini Vaishnaw (2024-30)",
-    "state_name": "Odisha",
-    "const_name": "Odisha (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 10,
-    "total_works": 17,
     "composite_integrity_score": 41.18
   },
   {
@@ -12760,6 +12749,17 @@
     "composite_integrity_score": 35.89
   },
   {
+    "mp_id": 3017368,
+    "mp_name": "Shri Ashwini Vaishnaw (2024-30)",
+    "state_name": "Odisha",
+    "const_name": "Odisha (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 11,
+    "total_works": 17,
+    "composite_integrity_score": 35.29
+  },
+  {
     "mp_id": 3018973,
     "mp_name": "Sushil Kumar Singh",
     "state_name": "Bihar",
@@ -12815,17 +12815,6 @@
     "composite_integrity_score": 32.37
   },
   {
-    "mp_id": 3019531,
-    "mp_name": "Adhir Ranjan Chowdhury (17th Lok Sabha)",
-    "state_name": "West Bengal",
-    "const_name": "ARAMBAG(SC)",
-    "utilization_rate": 2.823952163997965e-08,
-    "completion_delay_days": 452.73821989528795,
-    "is_anomaly": 140,
-    "total_works": 205,
-    "composite_integrity_score": 31.71
-  },
-  {
     "mp_id": 3017479,
     "mp_name": "Shri Shantanu Thakur (17th Lok Sabha)",
     "state_name": "West Bengal",
@@ -12834,6 +12823,17 @@
     "completion_delay_days": 674.9411764705883,
     "is_anomaly": 28,
     "total_works": 41,
+    "composite_integrity_score": 31.71
+  },
+  {
+    "mp_id": 3019531,
+    "mp_name": "Adhir Ranjan Chowdhury (17th Lok Sabha)",
+    "state_name": "West Bengal",
+    "const_name": "ARAMBAG(SC)",
+    "utilization_rate": 2.823952163997965e-08,
+    "completion_delay_days": 452.73821989528795,
+    "is_anomaly": 140,
+    "total_works": 205,
     "composite_integrity_score": 31.71
   },
   {
@@ -13354,17 +13354,6 @@
     "composite_integrity_score": 2.27
   },
   {
-    "mp_id": 3019020,
-    "mp_name": "Nishikant Dubey",
-    "state_name": "Jharkhand",
-    "const_name": "HAZARIBAGH",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 3,
-    "total_works": 3,
-    "composite_integrity_score": 0.0
-  },
-  {
     "mp_id": 3017473,
     "mp_name": "Prof SP Singh Baghel (17th Lok Sabha)",
     "state_name": "Uttar Pradesh",
@@ -13373,6 +13362,28 @@
     "completion_delay_days": 813.0,
     "is_anomaly": 36,
     "total_works": 36,
+    "composite_integrity_score": 0.0
+  },
+  {
+    "mp_id": 3066214,
+    "mp_name": "Shri Bhashyam Rama Krishna (2026-32)",
+    "state_name": "Andhra Pradesh",
+    "const_name": "Andhra Pradesh (Rajya Sabha Nodal District)",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 2,
+    "total_works": 2,
+    "composite_integrity_score": 0.0
+  },
+  {
+    "mp_id": 3019020,
+    "mp_name": "Nishikant Dubey",
+    "state_name": "Jharkhand",
+    "const_name": "HAZARIBAGH",
+    "utilization_rate": null,
+    "completion_delay_days": null,
+    "is_anomaly": 3,
+    "total_works": 3,
     "composite_integrity_score": 0.0
   },
   {
@@ -13395,17 +13406,6 @@
     "completion_delay_days": null,
     "is_anomaly": 11,
     "total_works": 11,
-    "composite_integrity_score": 0.0
-  },
-  {
-    "mp_id": 3066214,
-    "mp_name": "Shri Bhashyam Rama Krishna (2026-32)",
-    "state_name": "Andhra Pradesh",
-    "const_name": "Andhra Pradesh (Rajya Sabha Nodal District)",
-    "utilization_rate": null,
-    "completion_delay_days": null,
-    "is_anomaly": 2,
-    "total_works": 2,
     "composite_integrity_score": 0.0
   }
 ]
