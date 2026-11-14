@@ -40,27 +40,33 @@ if ($Frontend -or $All) {
         Write-Error "Frontend build failed. Aborting deployment."
         exit 1
     }
-    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "mkdir -p ~/tmp_frontend"
-    scp -o StrictHostKeyChecking=no -i $SSH_KEY -r "$LOCAL_FRONTEND_DIST\*" "${REMOTE_TARGET}:~/tmp_frontend/"
-    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "sudo cp -r ~/tmp_frontend/* $REMOTE_DIR/frontend/ ; rm -rf ~/tmp_frontend ; sudo nginx -t ; sudo systemctl reload nginx"
+    $tmpTar = Join-Path $env:TEMP "frontend_dist.tar.gz"
+    tar --exclude="data" -czf "$tmpTar" -C "$LOCAL_FRONTEND_DIST" .
+    scp -o StrictHostKeyChecking=no -i $SSH_KEY "$tmpTar" "${REMOTE_TARGET}:~/frontend_dist.tar.gz"
+    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "sudo mkdir -p $REMOTE_DIR/frontend ; sudo tar -xzf ~/frontend_dist.tar.gz -C $REMOTE_DIR/frontend/ ; rm -f ~/frontend_dist.tar.gz ; sudo nginx -t ; sudo systemctl reload nginx"
+    Remove-Item -Force "$tmpTar" -ErrorAction SilentlyContinue
     Write-Host "  [OK] Frontend deployed and Nginx reloaded." -ForegroundColor Green
 }
 
 # -- 2. DATA FEEDS DEPLOYMENT --
 if ($Data -or $All) {
     Write-Host "[2/4] Deploying Data feeds to server directories..." -ForegroundColor Yellow
-    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "mkdir -p ~/tmp_data ; sudo mkdir -p $REMOTE_DIR/frontend/data $REMOTE_DIR/frontend/public/data $REMOTE_DIR/data/live_exports $REMOTE_DIR/data"
-    scp -o StrictHostKeyChecking=no -i $SSH_KEY -r "$LOCAL_FRONTEND_DATA\*" "${REMOTE_TARGET}:~/tmp_data/"
-    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "sudo cp -r ~/tmp_data/* $REMOTE_DIR/frontend/data/ ; sudo cp -r ~/tmp_data/* $REMOTE_DIR/frontend/public/data/ ; sudo cp -r ~/tmp_data/* $REMOTE_DIR/data/live_exports/ ; sudo cp -r ~/tmp_data/* $REMOTE_DIR/data/ ; rm -rf ~/tmp_data"
+    $tmpTar = Join-Path $env:TEMP "data_feeds.tar.gz"
+    tar -czf "$tmpTar" -C "$LOCAL_FRONTEND_DATA" .
+    scp -o StrictHostKeyChecking=no -i $SSH_KEY "$tmpTar" "${REMOTE_TARGET}:~/data_feeds.tar.gz"
+    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "sudo mkdir -p $REMOTE_DIR/frontend/data $REMOTE_DIR/frontend/public/data $REMOTE_DIR/data/live_exports $REMOTE_DIR/data ; sudo tar -xzf ~/data_feeds.tar.gz -C $REMOTE_DIR/frontend/data/ ; sudo tar -xzf ~/data_feeds.tar.gz -C $REMOTE_DIR/frontend/public/data/ ; sudo tar -xzf ~/data_feeds.tar.gz -C $REMOTE_DIR/data/live_exports/ ; sudo tar -xzf ~/data_feeds.tar.gz -C $REMOTE_DIR/data/ ; rm -f ~/data_feeds.tar.gz"
+    Remove-Item -Force "$tmpTar" -ErrorAction SilentlyContinue
     Write-Host "  [OK] Data feeds synchronized." -ForegroundColor Green
 }
 
 # -- 3. BACKEND DEPLOYMENT --
 if ($Backend -or $All) {
     Write-Host "[3/4] Deploying Backend updates and restarting service..." -ForegroundColor Yellow
-    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "mkdir -p ~/tmp_backend"
-    scp -o StrictHostKeyChecking=no -i $SSH_KEY -r "$LOCAL_BACKEND\*" "${REMOTE_TARGET}:~/tmp_backend/"
-    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "sudo cp -r ~/tmp_backend/* $REMOTE_DIR/backend/ ; rm -rf ~/tmp_backend ; sudo systemctl restart nirikshak-backend.service"
+    $tmpTar = Join-Path $env:TEMP "backend.tar.gz"
+    tar --exclude="__pycache__" --exclude="*.pyc" -czf "$tmpTar" -C "$LOCAL_BACKEND" .
+    scp -o StrictHostKeyChecking=no -i $SSH_KEY "$tmpTar" "${REMOTE_TARGET}:~/backend.tar.gz"
+    ssh -o StrictHostKeyChecking=no -i $SSH_KEY $REMOTE_TARGET "sudo mkdir -p $REMOTE_DIR/backend ; sudo tar -xzf ~/backend.tar.gz -C $REMOTE_DIR/backend/ ; rm -f ~/backend.tar.gz ; sudo systemctl restart nirikshak-backend.service"
+    Remove-Item -Force "$tmpTar" -ErrorAction SilentlyContinue
     Write-Host "  [OK] Backend deployed and nirikshak-backend.service restarted." -ForegroundColor Green
 }
 
