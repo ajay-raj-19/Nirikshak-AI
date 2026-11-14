@@ -204,7 +204,12 @@ def run_pipeline():
         else:
             logger.error(f"FAILURE: {stage['name']} failed in {elapsed:.2f} seconds.")
             results[stage["name"]] = f"Failed ({elapsed:.2f}s)"
-            # Stop pipeline if a critical stage fails
+            # If Stage 1 sync fails due to MoSPI portal downtime, degrade gracefully and continue
+            if key == "sync":
+                logger.warning("Stage 1: Incremental Ingestion could not reach the MoSPI MPLADS portal (server may be offline/rate-limiting).")
+                logger.warning("Continuing pipeline execution using current database records...")
+                continue
+            # Stop pipeline if any other core stage fails
             if key not in ["export_perf", "export_projects"]:
                 logger.error("Stopping pipeline execution due to critical stage failure.")
                 break
