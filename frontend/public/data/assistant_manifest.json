@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-07T16:12:29.477195+00:00",
+  "generated_at": "2026-11-14T15:25:22.036616+00:00",
   "index_version": "1.0.0",
   "source_artifact_hashes": {
-    "constituency_hhi.json": "8d2ac4c63ac4460e30915368476812ec414143fe8d142de5e13c9bce2a0a6d79",
-    "constituency_risk_heatmap.json": "e2962ece36a80d7f3241e270cb303d19767e3a578ed7fbe541d390fe20e829df",
-    "cost_and_delay_anomalies.json": "55a85dcac5b920635544e12cebfb976f36c82a2f37308c5382e74513d3966876",
-    "duplicate_project_alerts.json": "afb2cfead713fba362361b8776b194bcdd39150977f8ad486b4d226bd4020707",
-    "finguard_anomalies.json": "ee5501d76287e16f708cd392ce043915c6da6b4038f2bbc92062ed71979e839e",
-    "geointel_heatmap.geojson": "8ed53fe4db753d1a13f2bd1c87de77b88b7698e39badbb64618ec82b3c6e8e32",
-    "mp_scorecard_summary.json": "37701e2958b53661178ea9c8674c336f8637ab9c879aa557af92872270a2777e",
+    "constituency_hhi.json": "69da271fdae8737b135a96b3d56e3e9acd4522b146748b73dc786dc6a3c1dfef",
+    "constituency_risk_heatmap.json": "624daa36538ee91bca07b1b27635a0a8405b63fd67c4cb86c8f0213a21d4a0f9",
+    "cost_and_delay_anomalies.json": "629f5fc224661f19d6a35eced8a501b8c8e52bc4b2143c9c467fb475b73b790a",
+    "duplicate_project_alerts.json": "ff81710e3ad1bf15f26b3fd61b2817d4f3f7454b8c8687ce464932bed84e8708",
+    "finguard_anomalies.json": "df68a27435d8229a2191aca7722494278e211c6118d3b48d05c76fe9c2e9701a",
+    "geointel_heatmap.geojson": "51168c26bf5f883a5a495e92039f72759c953d37fc9c4d0d41e210467a2980e7",
+    "mp_scorecard_summary.json": "a02c5e596f995b9558c57250aead54fb8a59ee79b0296d86431a2924c7836df5",
     "real_projects.json": "90da286d43b03aaa9b48bed3e616cd73fac66151f167ae4d3b6a0db8fdf7cd72",
-    "unified_project_evaluations.json": "0200444b78bf6bd79d0d0efa614bb733234a4135adc52c3a8a3ea6606319a06a",
-    "vendor_risk_network.json": "327167c5876bd5f5225be4b1a13d17df76a7511fed83242f96f9d5577689e842"
+    "unified_project_evaluations.json": "d107e21e7646fb34f99a43677667d8d803577d2ab283e1de43936eed86f9f9ee",
+    "vendor_risk_network.json": "1b8e5b325b6cbc0a9a200b07aa7d2cb0d716a63415f5ebd6d589bd174277c806"
   },
   "source_record_counts": {
     "constituency_hhi.json": 66,
@@ -27,5 +27,5 @@
   },
   "total_mps_indexed": 1066,
   "total_records_analyzed": 34401,
-  "total_works_indexed": 29863
+  "total_works_indexed": 29861
 }
