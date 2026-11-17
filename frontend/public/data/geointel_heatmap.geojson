@@ -18,7 +18,7 @@
         "high_risk_projects": 16,
         "total_sanctioned": 181812962.0,
         "spatial_risk_score": 0.2133,
-        "cluster_id": 6
+        "cluster_id": 7
       }
     },
     {
@@ -36,9 +36,9 @@
         "state_name": "Andhra Pradesh",
         "total_projects": 7808,
         "high_risk_projects": 1320,
-        "total_sanctioned": 5043150102.22,
+        "total_sanctioned": 5043073616.22,
         "spatial_risk_score": 0.1691,
-        "cluster_id": 1
+        "cluster_id": 0
       }
     },
     {
@@ -58,7 +58,7 @@
         "high_risk_projects": 97,
         "total_sanctioned": 465239692.0,
         "spatial_risk_score": 0.1372,
-        "cluster_id": 3
+        "cluster_id": 5
       }
     },
     {
@@ -74,11 +74,11 @@
         "constituency_id": 30,
         "const_name": "BARPETA",
         "state_name": "Assam",
-        "total_projects": 4184,
+        "total_projects": 4193,
         "high_risk_projects": 728,
-        "total_sanctioned": 2529711595.08,
-        "spatial_risk_score": 0.174,
-        "cluster_id": 3
+        "total_sanctioned": 2533061595.08,
+        "spatial_risk_score": 0.1736,
+        "cluster_id": 5
       }
     },
     {
@@ -98,7 +98,7 @@
         "high_risk_projects": 1417,
         "total_sanctioned": 8109596473.0,
         "spatial_risk_score": 0.1196,
-        "cluster_id": 3
+        "cluster_id": 5
       }
     },
     {
@@ -118,7 +118,7 @@
         "high_risk_projects": 22,
         "total_sanctioned": 133216483.82,
         "spatial_risk_score": 0.1507,
-        "cluster_id": 4
+        "cluster_id": 1
       }
     },
     {
@@ -134,11 +134,11 @@
         "constituency_id": 85,
         "const_name": "RAIGARH(ST)",
         "state_name": "Chhattisgarh",
-        "total_projects": 4145,
+        "total_projects": 4148,
         "high_risk_projects": 799,
-        "total_sanctioned": 2016672169.23,
-        "spatial_risk_score": 0.1928,
-        "cluster_id": 1
+        "total_sanctioned": 2018872169.23,
+        "spatial_risk_score": 0.1926,
+        "cluster_id": 0
       }
     },
     {
@@ -158,7 +158,7 @@
         "high_risk_projects": 42,
         "total_sanctioned": 482113778.31,
         "spatial_risk_score": 0.1088,
-        "cluster_id": 5
+        "cluster_id": 2
       }
     },
     {
@@ -175,10 +175,10 @@
         "const_name": "BANASKANTHA",
         "state_name": "Gujarat",
         "total_projects": 15962,
-        "high_risk_projects": 2052,
-        "total_sanctioned": 5190815968.88,
+        "high_risk_projects": 2053,
+        "total_sanctioned": 5190814778.88,
         "spatial_risk_score": 0.1286,
-        "cluster_id": 7
+        "cluster_id": 3
       }
     },
     {
@@ -194,11 +194,11 @@
         "constituency_id": 133,
         "const_name": "SONEPAT",
         "state_name": "Haryana",
-        "total_projects": 3676,
+        "total_projects": 3683,
         "high_risk_projects": 588,
-        "total_sanctioned": 1885769710.38,
-        "spatial_risk_score": 0.16,
-        "cluster_id": 4
+        "total_sanctioned": 1892554710.38,
+        "spatial_risk_score": 0.1597,
+        "cluster_id": 1
       }
     },
     {
@@ -215,10 +215,10 @@
         "const_name": "HAMIRPUR_HP",
         "state_name": "Himachal Pradesh",
         "total_projects": 3691,
-        "high_risk_projects": 755,
-        "total_sanctioned": 789137092.0,
-        "spatial_risk_score": 0.2046,
-        "cluster_id": 0
+        "high_risk_projects": 759,
+        "total_sanctioned": 789123114.0,
+        "spatial_risk_score": 0.2056,
+        "cluster_id": 8
       }
     },
     {
@@ -234,11 +234,11 @@
         "constituency_id": 147,
         "const_name": "ANANTNAG",
         "state_name": "Jammu And Kashmir",
-        "total_projects": 2226,
+        "total_projects": 2227,
         "high_risk_projects": 402,
-        "total_sanctioned": 891740030.0,
-        "spatial_risk_score": 0.1806,
-        "cluster_id": 4
+        "total_sanctioned": 892425030.0,
+        "spatial_risk_score": 0.1805,
+        "cluster_id": 1
       }
     },
     {
@@ -258,7 +258,7 @@
         "high_risk_projects": 910,
         "total_sanctioned": 2654146128.0,
         "spatial_risk_score": 0.1204,
-        "cluster_id": 3
+        "cluster_id": 0
       }
     },
     {
@@ -275,10 +275,10 @@
         "const_name": "BANGALORE RURAL",
         "state_name": "Karnataka",
         "total_projects": 10299,
-        "high_risk_projects": 1003,
+        "high_risk_projects": 1007,
         "total_sanctioned": 5656075118.0,
-        "spatial_risk_score": 0.0974,
-        "cluster_id": 5
+        "spatial_risk_score": 0.0978,
+        "cluster_id": 2
       }
     },
     {
@@ -295,10 +295,10 @@
         "const_name": "KANNUR",
         "state_name": "Kerala",
         "total_projects": 7961,
-        "high_risk_projects": 517,
-        "total_sanctioned": 4395067116.75,
-        "spatial_risk_score": 0.0649,
-        "cluster_id": 5
+        "high_risk_projects": 525,
+        "total_sanctioned": 4394673415.75,
+        "spatial_risk_score": 0.0659,
+        "cluster_id": 2
       }
     },
     {
@@ -318,7 +318,7 @@
         "high_risk_projects": 23,
         "total_sanctioned": 146470152.0,
         "spatial_risk_score": 0.1022,
-        "cluster_id": 4
+        "cluster_id": 1
       }
     },
     {
@@ -334,11 +334,11 @@
         "constituency_id": 216,
         "const_name": "BETUL(ST)",
         "state_name": "Madhya Pradesh",
-        "total_projects": 16103,
-        "high_risk_projects": 2036,
-        "total_sanctioned": 5655289709.38,
+        "total_projects": 16125,
+        "high_risk_projects": 2038,
+        "total_sanctioned": 5672814321.38,
         "spatial_risk_score": 0.1264,
-        "cluster_id": 7
+        "cluster_id": 3
       }
     },
     {
@@ -354,11 +354,11 @@
         "constituency_id": 245,
         "const_name": "RAVER",
         "state_name": "Maharashtra",
-        "total_projects": 10795,
-        "high_risk_projects": 341,
-        "total_sanctioned": 9119626175.02,
-        "spatial_risk_score": 0.0316,
-        "cluster_id": 2
+        "total_projects": 10797,
+        "high_risk_projects": 342,
+        "total_sanctioned": 9120471175.02,
+        "spatial_risk_score": 0.0317,
+        "cluster_id": 6
       }
     },
     {
@@ -378,7 +378,7 @@
         "high_risk_projects": 130,
         "total_sanctioned": 403855000.0,
         "spatial_risk_score": 0.1148,
-        "cluster_id": 3
+        "cluster_id": 5
       }
     },
     {
@@ -398,7 +398,7 @@
         "high_risk_projects": 9,
         "total_sanctioned": 196000000.0,
         "spatial_risk_score": 0.1268,
-        "cluster_id": 3
+        "cluster_id": 5
       }
     },
     {
@@ -414,11 +414,11 @@
         "constituency_id": 299,
         "const_name": "CUTTACK",
         "state_name": "Odisha",
-        "total_projects": 12421,
-        "high_risk_projects": 1681,
-        "total_sanctioned": 4107262085.0,
+        "total_projects": 12431,
+        "high_risk_projects": 1682,
+        "total_sanctioned": 4115259653.0,
         "spatial_risk_score": 0.1353,
-        "cluster_id": 1
+        "cluster_id": 0
       }
     },
     {
@@ -434,9 +434,9 @@
         "constituency_id": 321,
         "const_name": "BHATINDA",
         "state_name": "Punjab",
-        "total_projects": 5270,
+        "total_projects": 5271,
         "high_risk_projects": 105,
-        "total_sanctioned": 1617307588.0,
+        "total_sanctioned": 1618307588.0,
         "spatial_risk_score": 0.0199,
         "cluster_id": 9
       }
@@ -458,7 +458,7 @@
         "high_risk_projects": 1821,
         "total_sanctioned": 4252006643.01,
         "spatial_risk_score": 0.2372,
-        "cluster_id": 0
+        "cluster_id": 8
       }
     },
     {
@@ -478,7 +478,7 @@
         "high_risk_projects": 19,
         "total_sanctioned": 247097080.0,
         "spatial_risk_score": 0.1011,
-        "cluster_id": 3
+        "cluster_id": 5
       }
     },
     {
@@ -494,11 +494,11 @@
         "constituency_id": 360,
         "const_name": "TIRUNELVELI",
         "state_name": "Tamil Nadu",
-        "total_projects": 10748,
+        "total_projects": 10776,
         "high_risk_projects": 875,
-        "total_sanctioned": 8673603927.5,
-        "spatial_risk_score": 0.0814,
-        "cluster_id": 5
+        "total_sanctioned": 8692552827.5,
+        "spatial_risk_score": 0.0812,
+        "cluster_id": 2
       }
     },
     {
@@ -514,11 +514,11 @@
         "constituency_id": 399,
         "const_name": "ADILABAD(ST)",
         "state_name": "Telangana",
-        "total_projects": 10147,
-        "high_risk_projects": 623,
-        "total_sanctioned": 3855167894.1,
+        "total_projects": 10170,
+        "high_risk_projects": 624,
+        "total_sanctioned": 3869337894.1,
         "spatial_risk_score": 0.0614,
-        "cluster_id": 2
+        "cluster_id": 6
       }
     },
     {
@@ -535,10 +535,10 @@
         "const_name": "TRIPURA WEST",
         "state_name": "Tripura",
         "total_projects": 296,
-        "high_risk_projects": 80,
+        "high_risk_projects": 79,
         "total_sanctioned": 428601528.0,
-        "spatial_risk_score": 0.2703,
-        "cluster_id": 8
+        "spatial_risk_score": 0.2669,
+        "cluster_id": 4
       }
     },
     {
@@ -554,11 +554,11 @@
         "constituency_id": 418,
         "const_name": "ALIGARH",
         "state_name": "Uttar Pradesh",
-        "total_projects": 37104,
-        "high_risk_projects": 7664,
-        "total_sanctioned": 16092339429.31,
-        "spatial_risk_score": 0.2066,
-        "cluster_id": 0
+        "total_projects": 37109,
+        "high_risk_projects": 7679,
+        "total_sanctioned": 16095934753.31,
+        "spatial_risk_score": 0.2069,
+        "cluster_id": 8
       }
     },
     {
@@ -574,11 +574,11 @@
         "constituency_id": 547,
         "const_name": "Puducherry",
         "state_name": "Puducherry",
-        "total_projects": 147,
-        "high_risk_projects": 5,
-        "total_sanctioned": 235908666.0,
-        "spatial_risk_score": 0.034,
-        "cluster_id": 5
+        "total_projects": 148,
+        "high_risk_projects": 6,
+        "total_sanctioned": 242657666.0,
+        "spatial_risk_score": 0.0405,
+        "cluster_id": 2
       }
     }
   ]
